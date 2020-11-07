@@ -79,29 +79,7 @@
       "location": "Seoul",
       "country": "KR",
       "country_name": "Korea, Republic of",
-      "alerts": [
-        {
-          "id": "c25a1dee-82fd-4ff8-9d96-48c2824100eb",
-          "subject": "Seoul Network Outage",
-          "status": "resolved",
-          "start_date": "2020-11-05T16:35:00+00:00",
-          "updated_at": "2020-11-05T18:06:00+00:00",
-          "entries": [
-            {
-              "updated_at": "2020-11-05T18:06:00+00:00",
-              "message": "Full connectivity and redundancy has been restored."
-            },
-            {
-              "updated_at": "2020-11-05T17:56:00+00:00",
-              "message": "Network Connectivity has been partially restored."
-            },
-            {
-              "updated_at": "2020-11-05T16:35:00+00:00",
-              "message": "We are currently experiencing a partial outage in our Seoul location. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "nrt": {
       "location": "Tokyo",
