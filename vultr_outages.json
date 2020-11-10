@@ -9,7 +9,7 @@
         {
           "id": "00000000-0000-0000-0000-000000000000",
           "subject": "Atlanta Scheduled Maintenance - 2020-11-10",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2020-11-02T16:07:00+00:00",
           "updated_at": "",
           "entries": [
