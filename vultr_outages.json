@@ -129,7 +129,21 @@
       "location": "Sydney",
       "country": "AU",
       "country_name": "Australia",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "fc5b4157-4af9-45e5-bfc4-eb5374e0d14d",
+          "subject": "Sydney Scheduled Maintenance - 2020-11-18",
+          "status": "ongoing",
+          "start_date": "2020-11-11T15:02:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2020-11-11T15:02:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Sydney location during the following scheduled maintenance window. \r\n\r\nStart Time: 2020-11-18 16:00:00 UTC\r\nEnd Time: 2020-11-18 20:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Sydney instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        }
+      ]
     }
   }
 }
