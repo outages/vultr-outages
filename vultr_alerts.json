@@ -27,20 +27,6 @@
           "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the London location during the following scheduled maintenance window. \r\n\r\nStart Time: 2020-11-19 02:00:00 UTC\r\nEnd Time: 2020-11-19 06:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, London instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
         }
       ]
-    },
-    {
-      "id": "00000000-0000-0000-0000-000000000000",
-      "region": "atl",
-      "subject": "Atlanta Scheduled Maintenance - 2020-11-10",
-      "start_date": "2020-11-02T16:07:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2020-11-02T16:07:00+00:00",
-          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Atlanta location during the following scheduled maintenance window. \r\n\r\nStart Time: 2020-11-10 11:00:00 UTC\r\nEnd Time: 2020-11-10 15:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Atlanta instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-        }
-      ]
     }
   ]
 }
