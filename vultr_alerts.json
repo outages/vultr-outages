@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "8656dbdd-5f0c-415b-a792-22484c37d964",
+      "region": "icn",
+      "subject": "Seoul Scheduled Maintenance - 2020-11-30",
+      "start_date": "2020-11-20T13:43:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2020-11-20T13:43:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Seoul location during the following scheduled maintenance window. \r\n\r\nStart Time: 2020-11-30 18:00:00 UTC\r\nEnd Time: 2020-11-30 22:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Seoul instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
       "id": "000be658-a7de-4d67-b160-d22de8993ab0",
       "region": "lhr",
       "subject": "London Scheduled Maintenance - 2020-11-24",
