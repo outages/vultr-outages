@@ -29,24 +29,6 @@
       ]
     },
     {
-      "id": "fc5b4157-4af9-45e5-bfc4-eb5374e0d14d",
-      "region": "syd",
-      "subject": "Sydney Scheduled Maintenance - 2020-11-18",
-      "start_date": "2020-11-11T15:02:00+00:00",
-      "updated_at": "2020-11-18T16:38:00+00:00",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2020-11-18T16:38:00+00:00",
-          "message": "Line card installed successfully\r\nFPC 2            REV 53   750-051357   BCBP8246          ULC-30Q28\r\n CPU                     BUILTIN      BUILTIN           FPC CPU\r\n PIC 0                   BUILTIN      BUILTIN           30X100G"
-        },
-        {
-          "updated_at": "2020-11-11T15:02:00+00:00",
-          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Sydney location during the following scheduled maintenance window. \r\n\r\nStart Time: 2020-11-18 16:00:00 UTC\r\nEnd Time: 2020-11-18 20:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Sydney instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-        }
-      ]
-    },
-    {
       "id": "ea06e781-1f21-4b02-b4a7-48cccc6d170e",
       "region": "lhr",
       "subject": "London Scheduled Maintenance - 2020-11-19",
