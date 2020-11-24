@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": null,
+      "region": "sgp",
+      "subject": "Partial Outage",
+      "start_date": "2020-11-24T13:44:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2020-11-24T13:44:00+00:00",
+          "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
+        }
+      ]
+    },
+    {
       "id": "8656dbdd-5f0c-415b-a792-22484c37d964",
       "region": "icn",
       "subject": "Seoul Scheduled Maintenance - 2020-11-30",
