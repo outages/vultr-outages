@@ -29,7 +29,21 @@
       "location": "Miami",
       "country": "US",
       "country_name": "United States",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "d192601d-cefc-4288-be78-4739fb18a636",
+          "subject": "Miami Scheduled Maintenance - 2020-12-03",
+          "status": "ongoing",
+          "start_date": "2020-11-25T16:55:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2020-11-25T16:55:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Miami location during the following scheduled maintenance window. \r\n\r\nStart Time: 2020-12-03 07:00:00 UTC\r\nEnd Time: 2020-12-03 11:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Miami instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        }
+      ]
     },
     "ewr": {
       "location": "New Jersey",
@@ -58,11 +72,11 @@
           "id": null,
           "subject": "Partial Outage",
           "status": "ongoing",
-          "start_date": "2020-11-25T16:41:00+00:00",
+          "start_date": "2020-11-25T16:58:00+00:00",
           "updated_at": "",
           "entries": [
             {
-              "updated_at": "2020-11-25T16:41:00+00:00",
+              "updated_at": "2020-11-25T16:58:00+00:00",
               "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
             }
           ]
