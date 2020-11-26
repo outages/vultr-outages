@@ -72,11 +72,11 @@
           "id": null,
           "subject": "Partial Outage",
           "status": "ongoing",
-          "start_date": "2020-11-26T04:25:00+00:00",
+          "start_date": "2020-11-26T04:35:00+00:00",
           "updated_at": "",
           "entries": [
             {
-              "updated_at": "2020-11-26T04:25:00+00:00",
+              "updated_at": "2020-11-26T04:35:00+00:00",
               "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
             }
           ]
@@ -133,25 +133,7 @@
       "location": "London",
       "country": "GB",
       "country_name": "United Kingdom",
-      "alerts": [
-        {
-          "id": "000be658-a7de-4d67-b160-d22de8993ab0",
-          "subject": "London Scheduled Maintenance - 2020-11-24",
-          "status": "resolved",
-          "start_date": "2020-11-19T03:50:00+00:00",
-          "updated_at": "2020-11-24T04:27:00+00:00",
-          "entries": [
-            {
-              "updated_at": "2020-11-24T04:27:00+00:00",
-              "message": "switches rebooted and enabled jumbo frames."
-            },
-            {
-              "updated_at": "2020-11-19T03:50:00+00:00",
-              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the London location during the following scheduled maintenance window. \r\n\r\nStart Time: 2020-11-24 03:00:00 UTC\r\nEnd Time: 2020-11-24 07:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, London instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "cdg": {
       "location": "Paris",
