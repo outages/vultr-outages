@@ -69,14 +69,14 @@
       "country_name": "Singapore",
       "alerts": [
         {
-          "id": null,
+          "id": "",
           "subject": "Partial Outage",
           "status": "ongoing",
-          "start_date": "2020-12-01T17:46:00+00:00",
+          "start_date": "2020-12-01T18:05:00+00:00",
           "updated_at": "",
           "entries": [
             {
-              "updated_at": "2020-12-01T17:46:00+00:00",
+              "updated_at": "2020-12-01T18:05:00+00:00",
               "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
             }
           ]
