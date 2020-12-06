@@ -4,12 +4,12 @@
       "id": "85fa548d-53b1-4829-97bf-54f2ba754ac2",
       "region": "sgp",
       "subject": "Partial Outage",
-      "start_date": "2020-12-06T22:06:00+00:00",
+      "start_date": "2020-12-06T22:28:00+00:00",
       "updated_at": "",
       "status": "ongoing",
       "entries": [
         {
-          "updated_at": "2020-12-06T22:06:00+00:00",
+          "updated_at": "2020-12-06T22:28:00+00:00",
           "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
         }
       ]
