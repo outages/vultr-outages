@@ -72,11 +72,11 @@
           "id": "85fa548d-53b1-4829-97bf-54f2ba754ac2",
           "subject": "Partial Outage",
           "status": "ongoing",
-          "start_date": "2020-12-08T06:07:00+00:00",
+          "start_date": "2020-12-08T06:33:00+00:00",
           "updated_at": "",
           "entries": [
             {
-              "updated_at": "2020-12-08T06:07:00+00:00",
+              "updated_at": "2020-12-08T06:33:00+00:00",
               "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
             }
           ]
@@ -91,7 +91,7 @@
         {
           "id": "c3484743-6092-48d2-bb28-34305cf63086",
           "subject": "Amsterdam Scheduled Maintenance - 2020-12-08",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2020-12-03T15:48:00+00:00",
           "updated_at": "",
           "entries": [
