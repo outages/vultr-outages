@@ -29,20 +29,6 @@
       ]
     },
     {
-      "id": "c3484743-6092-48d2-bb28-34305cf63086",
-      "region": "ams",
-      "subject": "Amsterdam Scheduled Maintenance - 2020-12-08",
-      "start_date": "2020-12-03T15:48:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2020-12-03T15:48:00+00:00",
-          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Amsterdam location during the following scheduled maintenance window. \r\n\r\nStart Time: 2020-12-08 02:00:00 UTC\r\nEnd Time: 2020-12-08 06:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Amsterdam instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-        }
-      ]
-    },
-    {
       "id": "b3a4f88a-b7c5-418f-ae46-5936db581bf4",
       "region": "mia",
       "subject": "Miami Scheduled Maintenance - 2020-12-10",
