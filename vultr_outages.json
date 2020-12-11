@@ -113,7 +113,7 @@
         {
           "id": "148ad45b-ea7e-416c-9f83-0002b07994bf",
           "subject": "London Scheduled Maintenance - 2020-12-11",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2020-12-04T22:18:00+00:00",
           "updated_at": "",
           "entries": [
