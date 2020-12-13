@@ -49,7 +49,21 @@
       "location": "New Jersey",
       "country": "US",
       "country_name": "United States",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "7def1cea-50ed-460a-af57-8ba81f1d0bc5",
+          "subject": "New Jersey Degraded Network Performance",
+          "status": "ongoing",
+          "start_date": "2020-12-13T18:58:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2020-12-13T18:58:00+00:00",
+              "message": "We are currently experiencing degraded network performance in our New Jersey location. Our network engineers are actively working to resolve the issue as quickly as possible."
+            }
+          ]
+        }
+      ]
     },
     "sea": {
       "location": "Seattle",
