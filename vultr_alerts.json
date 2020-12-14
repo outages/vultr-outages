@@ -15,24 +15,6 @@
       ]
     },
     {
-      "id": "9235add9-0e1b-42ff-bb64-08626f604a21",
-      "region": "lhr",
-      "subject": "London Network Outage",
-      "start_date": "2020-12-12T17:43:00+00:00",
-      "updated_at": "2020-12-12T19:26:00+00:00",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2020-12-12T19:26:00+00:00",
-          "message": "I'm closing the service alert. We still have no clue what's triggering RPD to be restarted."
-        },
-        {
-          "updated_at": "2020-12-12T17:43:00+00:00",
-          "message": "We are currently experiencing a partial outage in our London location. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible."
-        }
-      ]
-    },
-    {
       "id": "006ab0f0-c0bb-469c-9a31-392940792dff",
       "region": "atl",
       "subject": "Atlanta Scheduled Maintenance - 2021-01-05",
