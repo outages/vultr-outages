@@ -49,7 +49,21 @@
       "location": "New Jersey",
       "country": "US",
       "country_name": "United States",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "352619b5-1355-4d43-8718-744f200dfed6",
+          "subject": "New Jersey Network Outage",
+          "status": "ongoing",
+          "start_date": "2020-12-21T03:40:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2020-12-21T03:40:00+00:00",
+              "message": "We are currently experiencing a partial outage in our New Jersey location. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible."
+            }
+          ]
+        }
+      ]
     },
     "sea": {
       "location": "Seattle",
