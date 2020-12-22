@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "e5ea5120-dcf0-4a9a-921e-0191e931c799",
+      "region": "sgp",
+      "subject": "Partial Outage",
+      "start_date": "2020-12-22T13:31:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2020-12-22T13:31:00+00:00",
+          "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
+        }
+      ]
+    },
+    {
       "id": "ddbd873c-50fc-4439-9e43-9df6df370f4f",
       "region": "ewr",
       "subject": "New Jersey Servers Partial Power Outage",
