@@ -9,7 +9,7 @@
         {
           "id": "e2a0e01d-7830-4742-afe5-d9ab20166619",
           "subject": "Instance Deployment and Closure Delays",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2020-12-22T19:54:00+00:00",
           "updated_at": "",
           "entries": [
@@ -73,7 +73,7 @@
         {
           "id": "83fa3833-f103-4fec-a2db-6143a223552b",
           "subject": "New Jersey Degraded Network Performance",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2020-12-22T19:58:00+00:00",
           "updated_at": "",
           "entries": [
