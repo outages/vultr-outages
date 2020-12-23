@@ -101,7 +101,7 @@
         {
           "id": "d99053e3-9f8e-452b-92bd-ea31033ed697",
           "subject": "New Jersey Partial Private Network Outage",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2020-12-23T18:01:00+00:00",
           "updated_at": "",
           "entries": [
