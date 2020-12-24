@@ -57,34 +57,6 @@
       ]
     },
     {
-      "id": "83fa3833-f103-4fec-a2db-6143a223552b",
-      "region": "ewr",
-      "subject": "New Jersey Degraded Network Performance",
-      "start_date": "2020-12-22T19:58:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2020-12-22T19:58:00+00:00",
-          "message": "We are currently experiencing packet loss affecting some servers and routes for our New Jersey location. Our network engineers are actively working to resolve the issue as quickly as possible."
-        }
-      ]
-    },
-    {
-      "id": "e2a0e01d-7830-4742-afe5-d9ab20166619",
-      "region": "global",
-      "subject": "Instance Deployment and Closure Delays",
-      "start_date": "2020-12-22T19:54:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2020-12-22T19:54:00+00:00",
-          "message": "Some customers are currently experiencing slower than normal instance deployment, reinstall, and closure times for VPS instances at all locations.   This affects both the Vultr control panel and the Vultr API.   Our engineering team is aware of this issue and is working diligently to resolve this as quickly as possible."
-        }
-      ]
-    },
-    {
       "id": "006ab0f0-c0bb-469c-9a31-392940792dff",
       "region": "atl",
       "subject": "Atlanta Scheduled Maintenance - 2021-01-05",
