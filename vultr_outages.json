@@ -77,21 +77,7 @@
       "location": "New Jersey",
       "country": "US",
       "country_name": "United States",
-      "alerts": [
-        {
-          "id": "d99053e3-9f8e-452b-92bd-ea31033ed697",
-          "subject": "New Jersey Partial Private Network Outage",
-          "status": "resolved",
-          "start_date": "2020-12-23T18:01:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2020-12-23T18:01:00+00:00",
-              "message": "We are currently experiencing a partial outage of the private network at our New Jersey location.  Our network engineers are actively working to restore connectivity as quickly as possible."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "sea": {
       "location": "Seattle",
