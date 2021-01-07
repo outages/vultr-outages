@@ -1,6 +1,34 @@
 {
   "service_alerts": [
     {
+      "id": "f450a382-8606-426c-8740-760cbd414793",
+      "region": "nrt",
+      "subject": "Tokyo Scheduled Maintenance - 2021-01-19",
+      "start_date": "2021-01-07T21:12:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2021-01-07T21:12:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Tokyo location during the following scheduled maintenance window. \r\n\r\nStart Time: 2021-01-19 18:00:00 UTC\r\nEnd Time: 2021-01-19 22:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Tokyo instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
+      "id": "600299ae-8139-4413-b856-dc233364ce13",
+      "region": "sgp",
+      "subject": "Singapore Scheduled Maintenance - 2021-01-14",
+      "start_date": "2021-01-07T21:09:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2021-01-07T21:09:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Singapore location during the following scheduled maintenance window. \r\n\r\nStart Time: 2021-01-14 19:00:00 UTC\r\nEnd Time: 2021-01-14 23:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Singapore instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
       "id": "4b3c4d16-be11-49ee-85c8-a844caad9819",
       "region": "ord",
       "subject": "Chicago Scheduled Maintenance - 2021-01-14",
