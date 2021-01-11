@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "de8bf01c-d3b3-4fa7-9386-68afbe9d5128",
+      "region": "nrt",
+      "subject": "Tokyo Network Outage",
+      "start_date": "2021-01-11T15:52:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2021-01-11T15:52:00+00:00",
+          "message": "We are currently experiencing a network outage at our Tokyo location.  Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible."
+        }
+      ]
+    },
+    {
       "id": "55c50e3f-02af-42be-a858-aa6e552f9f6f",
       "region": "ord",
       "subject": "Chicago Scheduled Maintenance - 2021-01-22",
