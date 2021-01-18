@@ -137,21 +137,7 @@
       "location": "Toronto",
       "country": "CA",
       "country_name": "Canada",
-      "alerts": [
-        {
-          "id": "e2a1f036-7154-424a-a271-fc35c1268a75",
-          "subject": "Partial Outage",
-          "status": "ongoing",
-          "start_date": "2021-01-17T19:51:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2021-01-17T19:51:00+00:00",
-              "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "syd": {
       "location": "Sydney",
