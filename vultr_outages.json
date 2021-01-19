@@ -117,10 +117,14 @@
         {
           "id": "f450a382-8606-426c-8740-760cbd414793",
           "subject": "Tokyo Scheduled Maintenance - 2021-01-19",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2021-01-07T21:12:00+00:00",
-          "updated_at": "",
+          "updated_at": "2021-01-19T21:53:00+00:00",
           "entries": [
+            {
+              "updated_at": "2021-01-19T21:53:00+00:00",
+              "message": "upgraded all 5 devices to 19.4.  link down between er2 and ds2, RH ticket opened.  Non service affecting."
+            },
             {
               "updated_at": "2021-01-07T21:12:00+00:00",
               "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Tokyo location during the following scheduled maintenance window. \r\n\r\nStart Time: 2021-01-19 18:00:00 UTC\r\nEnd Time: 2021-01-19 22:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Tokyo instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
