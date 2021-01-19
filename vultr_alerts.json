@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "e9a52b8e-a3f4-4f8a-a846-6a09fe39325c",
+      "region": "yto",
+      "subject": "Toronto Scheduled Maintenance - 2021-01-27",
+      "start_date": "2021-01-19T14:38:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2021-01-19T14:38:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Toronto location during the following scheduled maintenance window. \r\n\r\nStart Time: 2021-01-27 08:00:00 UTC\r\nEnd Time: 2021-01-27 12:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Toronto instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
       "id": "55c50e3f-02af-42be-a858-aa6e552f9f6f",
       "region": "ord",
       "subject": "Chicago Scheduled Maintenance - 2021-01-22",
