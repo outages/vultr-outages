@@ -41,10 +41,14 @@
         {
           "id": "0167e7ba-741e-43df-a825-c3e90525ee3d",
           "subject": "Los Angeles Scheduled Maintenance - 2021-01-20",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2021-01-08T19:48:00+00:00",
-          "updated_at": "",
+          "updated_at": "2021-01-20T12:57:00+00:00",
           "entries": [
+            {
+              "updated_at": "2021-01-20T12:57:00+00:00",
+              "message": "upgrade complete to 19.4 non-flex"
+            },
             {
               "updated_at": "2021-01-08T19:48:00+00:00",
               "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Los Angeles location during the following scheduled maintenance window. \r\n\r\nStart Time: 2021-01-20 11:00:00 UTC\r\nEnd Time: 2021-01-20 15:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Los Angeles instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
