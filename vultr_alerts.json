@@ -59,24 +59,6 @@
           "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Los Angeles location during the following scheduled maintenance window. \r\n\r\nStart Time: 2021-01-20 11:00:00 UTC\r\nEnd Time: 2021-01-20 15:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Los Angeles instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
         }
       ]
-    },
-    {
-      "id": "f450a382-8606-426c-8740-760cbd414793",
-      "region": "nrt",
-      "subject": "Tokyo Scheduled Maintenance - 2021-01-19",
-      "start_date": "2021-01-07T21:12:00+00:00",
-      "updated_at": "2021-01-19T21:53:00+00:00",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2021-01-19T21:53:00+00:00",
-          "message": "upgraded all 5 devices to 19.4.  link down between er2 and ds2, RH ticket opened.  Non service affecting."
-        },
-        {
-          "updated_at": "2021-01-07T21:12:00+00:00",
-          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Tokyo location during the following scheduled maintenance window. \r\n\r\nStart Time: 2021-01-19 18:00:00 UTC\r\nEnd Time: 2021-01-19 22:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Tokyo instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-        }
-      ]
     }
   ]
 }
