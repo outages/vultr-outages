@@ -15,10 +15,14 @@
         {
           "id": "55c50e3f-02af-42be-a858-aa6e552f9f6f",
           "subject": "Chicago Scheduled Maintenance - 2021-01-22",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2021-01-08T19:50:00+00:00",
-          "updated_at": "",
+          "updated_at": "2021-01-22T11:10:00+00:00",
           "entries": [
+            {
+              "updated_at": "2021-01-22T11:10:00+00:00",
+              "message": "upgraded junos on er1 and er2.  enabled jumbo on all brocade b2s and rebooted."
+            },
             {
               "updated_at": "2021-01-08T19:50:00+00:00",
               "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Chicago location during the following scheduled maintenance window. \r\n\r\nStart Time: 2021-01-22 09:00:00 UTC\r\nEnd Time: 2021-01-22 13:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Chicago instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
