@@ -13,6 +13,19 @@
       "country_name": "United States",
       "alerts": [
         {
+          "id": "da5f9ecc-420c-45b2-a364-fc76ce7809a8",
+          "subject": "Chicago Network Outage",
+          "status": "ongoing",
+          "start_date": "2021-01-23T15:22:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2021-01-23T15:22:00+00:00",
+              "message": "We are currently experiencing a partial outage in our Chicago location. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible."
+            }
+          ]
+        },
+        {
           "id": "55c50e3f-02af-42be-a858-aa6e552f9f6f",
           "subject": "Chicago Scheduled Maintenance - 2021-01-22",
           "status": "resolved",
