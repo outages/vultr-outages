@@ -141,10 +141,14 @@
         {
           "id": "e9a52b8e-a3f4-4f8a-a846-6a09fe39325c",
           "subject": "Toronto Scheduled Maintenance - 2021-01-27",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2021-01-19T14:38:00+00:00",
-          "updated_at": "",
+          "updated_at": "2021-01-27T10:08:00+00:00",
           "entries": [
+            {
+              "updated_at": "2021-01-27T10:08:00+00:00",
+              "message": "was able to only upgrade er1-q2.tor1 and ds1-q8.tor1 due to er2 and ds2 do not have grid connect"
+            },
             {
               "updated_at": "2021-01-19T14:38:00+00:00",
               "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Toronto location during the following scheduled maintenance window. \r\n\r\nStart Time: 2021-01-27 08:00:00 UTC\r\nEnd Time: 2021-01-27 12:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Toronto instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
