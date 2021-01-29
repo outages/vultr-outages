@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "1edae096-271f-4739-8072-2c668fe1d1b1",
+      "region": "lax",
+      "subject": "Partial Outage",
+      "start_date": "2021-01-29T16:19:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2021-01-29T16:19:00+00:00",
+          "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
+        }
+      ]
+    },
+    {
       "id": "d49cbb32-f670-4dbf-8739-1486b64a3650",
       "region": "dfw",
       "subject": "Dallas Scheduled Maintenance - 2021-02-03",
