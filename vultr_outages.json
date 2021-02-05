@@ -25,21 +25,7 @@
       "location": "Chicago",
       "country": "US",
       "country_name": "United States",
-      "alerts": [
-        {
-          "id": "bd0e9ec2-3219-4404-b81b-8beb7f3f92c4",
-          "subject": "Chicago Degraded Network Performance",
-          "status": "resolved",
-          "start_date": "2021-02-03T14:30:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2021-02-03T14:30:00+00:00",
-              "message": "We are currently experiencing degraded network performance with intermittent packet loss in our Chicago location.  Our network engineers are actively working to resolve the issue as quickly as possible."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "dfw": {
       "location": "Dallas",
