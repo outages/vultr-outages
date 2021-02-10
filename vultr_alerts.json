@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "1c15a012-3afc-4162-a673-0a9e758fe603",
+      "region": "ewr",
+      "subject": "New Jersey Scheduled Maintenance - 2021-02-18",
+      "start_date": "2021-02-10T21:10:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2021-02-10T21:10:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the New Jersey location during the following scheduled maintenance window. \r\n\r\nStart Time: 2021-02-18 09:00:00 UTC\r\nEnd Time: 2021-02-18 13:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, New Jersey instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
       "id": "56f30d9f-10bb-4bee-aa17-ae8bc9fa1550",
       "region": "atl",
       "subject": "Atlanta Scheduled Maintenance - 2021-03-10",
