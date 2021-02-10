@@ -155,7 +155,7 @@
         {
           "id": "fd0fe1a1-6d2d-4808-858c-b50ee39b6833",
           "subject": "Toronto Scheduled Maintenance - 2021-02-10",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2021-02-02T15:45:00+00:00",
           "updated_at": "",
           "entries": [
