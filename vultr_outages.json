@@ -25,7 +25,21 @@
       "location": "Chicago",
       "country": "US",
       "country_name": "United States",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "dc9ccb05-a63c-4377-ae07-4f37ca4051e8",
+          "subject": "Chicago Scheduled Maintenance - 2021-02-18",
+          "status": "ongoing",
+          "start_date": "2021-02-11T18:26:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2021-02-11T18:26:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Chicago location during the following scheduled maintenance window. \r\n\r\nStart Time: 2021-02-18 09:00:00 UTC\r\nEnd Time: 2021-02-18 13:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Chicago instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        }
+      ]
     },
     "dfw": {
       "location": "Dallas",
