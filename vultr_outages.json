@@ -61,7 +61,7 @@
         {
           "id": "31e2f636-f312-4542-bac1-199d2e66c782",
           "subject": "Miami Network Outage",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2021-02-17T18:38:00+00:00",
           "updated_at": "",
           "entries": [
