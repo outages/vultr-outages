@@ -20,7 +20,7 @@
       "subject": "Chicago Scheduled Maintenance - 2021-02-18",
       "start_date": "2021-02-11T18:26:00+00:00",
       "updated_at": "",
-      "status": "ongoing",
+      "status": "resolved",
       "entries": [
         {
           "updated_at": "2021-02-11T18:26:00+00:00",
@@ -34,7 +34,7 @@
       "subject": "New Jersey Scheduled Maintenance - 2021-02-18",
       "start_date": "2021-02-10T21:10:00+00:00",
       "updated_at": "",
-      "status": "ongoing",
+      "status": "resolved",
       "entries": [
         {
           "updated_at": "2021-02-10T21:10:00+00:00",

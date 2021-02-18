@@ -29,7 +29,7 @@
         {
           "id": "dc9ccb05-a63c-4377-ae07-4f37ca4051e8",
           "subject": "Chicago Scheduled Maintenance - 2021-02-18",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2021-02-11T18:26:00+00:00",
           "updated_at": "",
           "entries": [
@@ -81,7 +81,7 @@
         {
           "id": "1c15a012-3afc-4162-a673-0a9e758fe603",
           "subject": "New Jersey Scheduled Maintenance - 2021-02-18",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2021-02-10T21:10:00+00:00",
           "updated_at": "",
           "entries": [
