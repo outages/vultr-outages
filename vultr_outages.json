@@ -57,21 +57,7 @@
       "location": "Miami",
       "country": "US",
       "country_name": "United States",
-      "alerts": [
-        {
-          "id": "31e2f636-f312-4542-bac1-199d2e66c782",
-          "subject": "Miami Network Outage",
-          "status": "resolved",
-          "start_date": "2021-02-17T18:38:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2021-02-17T18:38:00+00:00",
-              "message": "We are currently experiencing a partial outage in our Miami location. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "ewr": {
       "location": "New Jersey",
