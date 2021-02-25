@@ -101,7 +101,7 @@
         {
           "id": "5978c4b1-45aa-4568-aa02-8f736de8e23e",
           "subject": "Paris Scheduled Maintenance - 2021-02-25",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2021-02-02T16:21:00+00:00",
           "updated_at": "",
           "entries": [
