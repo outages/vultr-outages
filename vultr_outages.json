@@ -135,7 +135,7 @@
         {
           "id": "0d1152f3-cc87-4eda-99d1-f968adae2509",
           "subject": "Frankfurt Scheduled Maintenance - 2021-03-04",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2021-02-02T16:24:00+00:00",
           "updated_at": "",
           "entries": [
