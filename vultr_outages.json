@@ -35,21 +35,7 @@
       "location": "New Jersey",
       "country": "US",
       "country_name": "United States",
-      "alerts": [
-        {
-          "id": "cd61f6d7-8c8b-4644-ac62-6c76dc662434",
-          "subject": "New Jersey Scheduled Maintenance - 2021-03-11",
-          "status": "resolved",
-          "start_date": "2021-03-01T15:39:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2021-03-01T15:39:00+00:00",
-              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the New Jersey location during the following scheduled maintenance window. \r\n\r\nStart Time: 2021-03-11 08:00:00 UTC\r\nEnd Time: 2021-03-11 12:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, New Jersey instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "sea": {
       "location": "Seattle",
