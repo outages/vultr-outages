@@ -124,21 +124,7 @@
       "location": "Paris",
       "country": "FR",
       "country_name": "France",
-      "alerts": [
-        {
-          "id": "510b6488-2236-42f7-bc26-fe00a84bcfba",
-          "subject": "Paris Scheduled Maintenance - 2021-03-18",
-          "status": "resolved",
-          "start_date": "2021-03-15T19:59:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2021-03-15T19:59:00+00:00",
-              "message": "Event Type: Hardware Redundancy Maintenance\r\n\r\nWe are performing system changes to ensure quality of service in the Paris location during the following scheduled maintenance window:\r\n\r\nStart Time: 2021-03-18 22:00:00 UTC\r\nEnd Time: 2021-03-19 05:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Paris instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "fra": {
       "location": "Frankfurt",
