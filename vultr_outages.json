@@ -35,25 +35,7 @@
       "location": "New Jersey",
       "country": "US",
       "country_name": "United States",
-      "alerts": [
-        {
-          "id": "967aa6f9-cb17-4cfc-a5fa-9dcc6da9d7de",
-          "subject": "New Jersey Scheduled Maintenance - 2021-04-01",
-          "status": "resolved",
-          "start_date": "2021-03-18T18:18:00+00:00",
-          "updated_at": "2021-04-01T08:44:00+00:00",
-          "entries": [
-            {
-              "updated_at": "2021-04-01T08:44:00+00:00",
-              "message": "MNT will be reschedule to a  later date. Due to when traffic was moved away from Transit Providers lost connectivity to puppet.ca2 IP:64.237.46.82. once traffic was put back on the transit providers connectivity to puppet.ca2 IP:64.237.46.82 was restored."
-            },
-            {
-              "updated_at": "2021-03-18T18:18:00+00:00",
-              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the New Jersey location during the following scheduled maintenance window. \r\n\r\nStart Time: 2021-04-01 07:00:00 UTC\r\nEnd Time: 2021-04-01 11:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, New Jersey instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "sea": {
       "location": "Seattle",
