@@ -35,7 +35,21 @@
       "location": "New Jersey",
       "country": "US",
       "country_name": "United States",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "8788ac35-f73b-486f-a199-f27d37585410",
+          "subject": "Partial Outage",
+          "status": "ongoing",
+          "start_date": "2021-04-23T15:12:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2021-04-23T15:12:00+00:00",
+              "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
+            }
+          ]
+        }
+      ]
     },
     "sea": {
       "location": "Seattle",
