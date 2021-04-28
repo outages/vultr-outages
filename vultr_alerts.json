@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "3c9661bf-ad06-4717-963c-44df8d0392bf",
+      "region": "mia",
+      "subject": "Miami Emergency Maintenance - 2021-04-29",
+      "start_date": "2021-04-28T16:30:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2021-04-28T16:30:00+00:00",
+          "message": "Event Type: Network Emergency\r\n\r\nWe are performing system changes in the Miami location during the following emergency maintenance window. \r\n\r\nStart Time: 2021-04-29 07:00:00 UTC\r\nEnd Time: 2021-04-29 11:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Miami instances may be unreachable for some, or all, of the emergency maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
       "id": "fb663eb6-0612-4729-9441-3891718803d6",
       "region": "sjc",
       "subject": "Silicon Valley Scheduled Maintenance - 2021-04-27",
