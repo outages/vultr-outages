@@ -71,7 +71,21 @@
       "location": "Singapore",
       "country": "SG",
       "country_name": "Singapore",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "64678996-4673-45bb-997d-46154c33617e",
+          "subject": "Singapore Emergency Maintenance - 2021-04-30",
+          "status": "ongoing",
+          "start_date": "2021-04-30T19:07:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2021-04-30T19:07:00+00:00",
+              "message": "Event Type: Network Emergency\r\n\r\nWe are performing system changes in the Singapore location during the following emergency maintenance window. \r\n\r\nStart Time: 2021-04-30 19:05:00 UTC\r\nEnd Time: 2021-04-30 23:05:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Singapore instances may be unreachable for some, or all, of the emergency maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        }
+      ]
     },
     "ams": {
       "location": "Amsterdam",
