@@ -17,13 +17,41 @@
       "location": "Dallas",
       "country": "US",
       "country_name": "United States",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "61284f01-b1c9-456d-974a-b8bb7905ca06",
+          "subject": "Dallas Emergency Maintenance - 2021-05-06",
+          "status": "ongoing",
+          "start_date": "2021-05-03T13:35:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2021-05-03T13:35:00+00:00",
+              "message": "Event Type: Network Emergency\r\n\r\nWe are performing system changes in the Dallas location during the following emergency maintenance window. \r\n\r\nStart Time: 2021-05-06 08:00:00 UTC\r\nEnd Time: 2021-05-06 12:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Dallas instances may be unreachable for some, or all, of the emergency maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        }
+      ]
     },
     "lax": {
       "location": "Los Angeles",
       "country": "US",
       "country_name": "United States",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "c48570ff-9e82-4540-9b07-dad89441424f",
+          "subject": "Los Angeles Emergency Maintenance - 2021-05-04",
+          "status": "ongoing",
+          "start_date": "2021-05-03T13:32:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2021-05-03T13:32:00+00:00",
+              "message": "Event Type: Network Emergency\r\n\r\nWe are performing system changes in the Los Angeles location during the following emergency maintenance window. \r\n\r\nStart Time: 2021-05-04 10:00:00 UTC\r\nEnd Time: 2021-05-04 14:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Los Angeles instances may be unreachable for some, or all, of the emergency maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        }
+      ]
     },
     "mia": {
       "location": "Miami",
@@ -41,7 +69,21 @@
       "location": "Seattle",
       "country": "US",
       "country_name": "United States",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "70a4010e-f97a-49c9-a42c-0e5bc531fdfa",
+          "subject": "Seattle Emergency Maintenance - 2021-05-05",
+          "status": "ongoing",
+          "start_date": "2021-05-03T13:31:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2021-05-03T13:31:00+00:00",
+              "message": "Event Type: Network Emergency\r\n\r\nWe are performing system changes in the Seattle location during the following emergency maintenance window. \r\n\r\nStart Time: 2021-05-05 10:00:00 UTC\r\nEnd Time: 2021-05-05 14:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Seattle instances may be unreachable for some, or all, of the emergency maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        }
+      ]
     },
     "sjc": {
       "location": "Silicon Valley",
@@ -65,7 +107,21 @@
       "location": "Seoul",
       "country": "KR",
       "country_name": "Korea, Republic of",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "8d51d4e5-19a6-456f-80d0-321f86bc9a28",
+          "subject": "Seoul Emergency Maintenance - 2021-05-03",
+          "status": "ongoing",
+          "start_date": "2021-05-03T13:40:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2021-05-03T13:40:00+00:00",
+              "message": "Event Type: Network Emergency\r\n\r\nWe are performing system changes in the Seoul location during the following emergency maintenance window. \r\n\r\nStart Time: 2021-05-03 18:00:00 UTC\r\nEnd Time: 2021-05-03 22:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Seoul instances may be unreachable for some, or all, of the emergency maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        }
+      ]
     },
     "nrt": {
       "location": "Tokyo",
