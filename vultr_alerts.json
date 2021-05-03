@@ -1,6 +1,90 @@
 {
   "service_alerts": [
     {
+      "id": "43280820-9c79-4684-a59f-e29eef787f91",
+      "region": "cdg",
+      "subject": "Paris Priority Network Maintenance - 2021-05-12",
+      "start_date": "2021-05-03T15:19:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2021-05-03T15:19:00+00:00",
+          "message": "Event Type: Priority Network Maintenance\r\n\r\nWe are performing system changes in the Paris location during the following priority maintenance window. \r\n\r\nStart Time: 2021-05-12 01:00:00 UTC\r\nEnd Time: 2021-05-12 05:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Paris instances may be unreachable for some, or all, of the priority maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
+      "id": "04cb198e-614a-4e85-ac88-c8175039ba3b",
+      "region": "mia",
+      "subject": "Miami Priority Network Maintenance - 2021-05-14",
+      "start_date": "2021-05-03T15:16:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2021-05-03T15:16:00+00:00",
+          "message": "Event Type: Priority Network Maintenance\r\n\r\nWe are performing system changes in the Miami location during the following priority maintenance window. \r\n \r\n\r\nStart Time: 2021-05-14 07:00:00 UTC\r\nEnd Time: 2021-05-14 11:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Miami instances may be unreachable for some, or all, of the priority maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
+      "id": "976d7deb-481e-40e5-8241-0db5b18eb4f9",
+      "region": "ord",
+      "subject": "Chicago Priority Network Maintenance - 2021-05-11",
+      "start_date": "2021-05-03T15:10:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2021-05-03T15:10:00+00:00",
+          "message": "Event Type: Priority Network Maintenance\r\n\r\nWe are performing system changes in the Chicago location during the following priority maintenance window. \r\n \r\n\r\nStart Time: 2021-05-11 08:00:00 UTC\r\nEnd Time: 2021-05-11 12:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Chicago instances may be unreachable for some, or all, of the priority maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
+      "id": "794aebb3-72e5-44b7-8e83-6db0fe202467",
+      "region": "atl",
+      "subject": "Atlanta Priority Network Maintenance - 2021-05-12",
+      "start_date": "2021-05-03T15:09:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2021-05-03T15:09:00+00:00",
+          "message": "Event Type: Priority Network Maintenance\r\n\r\nWe are performing system changes in the Atlanta location during the following priority maintenance window. \r\n\r\n\r\nStart Time: 2021-05-12 07:00:00 UTC\r\nEnd Time: 2021-05-12 11:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Atlanta instances may be unreachable for some, or all, of the priority maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
+      "id": "10a5cf2b-ace7-4d88-9c52-548870fabd95",
+      "region": "ams",
+      "subject": "Amsterdam Priority Network Maintenance - 2021-05-13",
+      "start_date": "2021-05-03T14:59:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2021-05-03T14:59:00+00:00",
+          "message": "Event Type: Priority Network Maintenance\r\n\r\nWe are performing system changes in the Amsterdam location during the following priority maintenance window. \r\n\r\n\r\nStart Time: 2021-05-13 01:00:00 UTC\r\nEnd Time: 2021-05-13 05:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Amsterdam instances may be unreachable for some, or all, of the priority maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
+      "id": "35bc75b2-8036-49ac-bd95-5bf3a86b35a1",
+      "region": "sjc",
+      "subject": "Silicon Valley Priority Network Maintenance - 2021-05-06",
+      "start_date": "2021-05-03T14:58:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2021-05-03T14:58:00+00:00",
+          "message": "Event Type: Priority Network Maintenance\r\n\r\nWe are performing system changes in the Silicon Valley location during the following priority maintenance window. \r\n\r\nStart Time: 2021-05-06 10:00:00 UTC\r\nEnd Time: 2021-05-06 14:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Silicon Valley instances may be unreachable for some, or all, of the priority maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
       "id": "17d1f6ee-cde0-4805-ae64-99064c8dfc14",
       "region": "yto",
       "subject": "Toronto Emergency Maintenance - 2021-05-04",
