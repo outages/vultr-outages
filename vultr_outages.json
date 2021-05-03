@@ -95,7 +95,21 @@
       "location": "Singapore",
       "country": "SG",
       "country_name": "Singapore",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "0a72cfec-22e0-4cce-a319-7665674a1d5f",
+          "subject": "Singapore Emergency Maintenance - 2021-05-06",
+          "status": "ongoing",
+          "start_date": "2021-05-03T13:47:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2021-05-03T13:47:00+00:00",
+              "message": "Event Type: Network Emergency\r\n\r\nWe are performing system changes in the Singapore location during the following emergency maintenance window. \r\n\r\nStart Time: 2021-05-06 19:00:00 UTC\r\nEnd Time: 2021-05-06 23:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Singapore instances may be unreachable for some, or all, of the emergency maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        }
+      ]
     },
     "ams": {
       "location": "Amsterdam",
@@ -127,7 +141,34 @@
       "location": "Tokyo",
       "country": "JP",
       "country_name": "Japan",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "34a62ce5-e65a-49e0-ad37-48ddcb29321f",
+          "subject": "Tokyo Emergency Maintenance - 2021-05-12",
+          "status": "ongoing",
+          "start_date": "2021-05-03T13:45:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2021-05-03T13:45:00+00:00",
+              "message": "Event Type: Network Emergency\r\n\r\nWe are performing system changes in the Tokyo location during the following emergency maintenance window. \r\n\r\nStart Time: 2021-05-12 18:00:00 UTC\r\nEnd Time: 2021-05-12 22:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Tokyo instances may be unreachable for some, or all, of the emergency maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        },
+        {
+          "id": "7bdba7f5-6702-4e8f-b7a5-3ba900b3e41c",
+          "subject": "Tokyo Emergency Maintenance - 2021-05-05",
+          "status": "ongoing",
+          "start_date": "2021-05-03T13:45:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2021-05-03T13:45:00+00:00",
+              "message": "Event Type: Network Emergency\r\n\r\nWe are performing system changes in the Tokyo location during the following emergency maintenance window. \r\n\r\nStart Time: 2021-05-05 18:00:00 UTC\r\nEnd Time: 2021-05-05 22:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Tokyo instances may be unreachable for some, or all, of the emergency maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        }
+      ]
     },
     "lhr": {
       "location": "London",
