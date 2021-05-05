@@ -200,6 +200,19 @@
       "country_name": "Netherlands",
       "alerts": [
         {
+          "id": "cd451cdb-f6d2-47fa-a59c-f8a35769c321",
+          "subject": "Amsterdam Network Outage",
+          "status": "resolved",
+          "start_date": "2021-05-05T04:10:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2021-05-05T04:10:00+00:00",
+              "message": "We are currently experiencing a partial outage in our Amsterdam location. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible."
+            }
+          ]
+        },
+        {
           "id": "10a5cf2b-ace7-4d88-9c52-548870fabd95",
           "subject": "Amsterdam Priority Network Maintenance - 2021-05-13",
           "status": "ongoing",
