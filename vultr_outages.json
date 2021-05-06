@@ -186,6 +186,19 @@
       "country_name": "Netherlands",
       "alerts": [
         {
+          "id": "4d6b9661-96d3-43a9-b94f-152c01368390",
+          "subject": "Amsterdam Priority Network Maintenance - 2021-05-07",
+          "status": "ongoing",
+          "start_date": "2021-05-06T14:55:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2021-05-06T14:55:00+00:00",
+              "message": "Event Type: Priority Network Maintenance\r\n\r\nWe are performing system changes in the Amsterdam location during the following priority network maintenance window. \r\n\r\nStart Time: 2021-05-07 01:00:00 UTC\r\nEnd Time: 2021-05-07 05:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Amsterdam instances may be unreachable for some, or all, of the priority network maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        },
+        {
           "id": "cd451cdb-f6d2-47fa-a59c-f8a35769c321",
           "subject": "Amsterdam Network Outage",
           "status": "resolved",
@@ -290,10 +303,14 @@
         {
           "id": "9baba1d9-9934-4be7-902e-aede13a44147",
           "subject": "Frankfurt Priority Network Maintenance - 2021-05-07",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2021-05-03T15:13:00+00:00",
-          "updated_at": "",
+          "updated_at": "2021-05-06T14:56:00+00:00",
           "entries": [
+            {
+              "updated_at": "2021-05-06T14:56:00+00:00",
+              "message": "cancelled and moved to new time"
+            },
             {
               "updated_at": "2021-05-03T15:13:00+00:00",
               "message": "Event Type: Priority Network Maintenance\r\n\r\nWe are performing system changes in the Frankfurt location during the following priority maintenance window. \r\n \r\n\r\nStart Time: 2021-05-07 01:00:00 UTC\r\nEnd Time: 2021-05-07 05:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Frankfurt instances may be unreachable for some, or all, of the priority maintenance window as we perform network, firmware, or host upgrades."
