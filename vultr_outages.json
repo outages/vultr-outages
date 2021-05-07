@@ -206,23 +206,6 @@
       "country_name": "Japan",
       "alerts": [
         {
-          "id": "7bdba7f5-6702-4e8f-b7a5-3ba900b3e41c",
-          "subject": "Tokyo Emergency Maintenance - 2021-05-05",
-          "status": "resolved",
-          "start_date": "2021-05-03T13:45:00+00:00",
-          "updated_at": "2021-05-05T21:52:00+00:00",
-          "entries": [
-            {
-              "updated_at": "2021-05-05T21:52:00+00:00",
-              "message": "er1-q2.tyo2, er2-q2.tyo1, ds2-q8.tyo2 upgraded."
-            },
-            {
-              "updated_at": "2021-05-03T13:45:00+00:00",
-              "message": "Event Type: Network Emergency\r\n\r\nWe are performing system changes in the Tokyo location during the following emergency maintenance window. \r\n\r\nStart Time: 2021-05-05 18:00:00 UTC\r\nEnd Time: 2021-05-05 22:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Tokyo instances may be unreachable for some, or all, of the emergency maintenance window as we perform network, firmware, or host upgrades."
-            }
-          ]
-        },
-        {
           "id": "34a62ce5-e65a-49e0-ad37-48ddcb29321f",
           "subject": "Tokyo Emergency Maintenance - 2021-05-12",
           "status": "ongoing",
