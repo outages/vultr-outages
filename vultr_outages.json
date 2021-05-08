@@ -45,21 +45,7 @@
       "location": "Dallas",
       "country": "US",
       "country_name": "United States",
-      "alerts": [
-        {
-          "id": "61284f01-b1c9-456d-974a-b8bb7905ca06",
-          "subject": "Dallas Emergency Maintenance - 2021-05-06",
-          "status": "resolved",
-          "start_date": "2021-05-03T13:35:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2021-05-03T13:35:00+00:00",
-              "message": "Event Type: Network Emergency\r\n\r\nWe are performing system changes in the Dallas location during the following emergency maintenance window. \r\n\r\nStart Time: 2021-05-06 08:00:00 UTC\r\nEnd Time: 2021-05-06 12:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Dallas instances may be unreachable for some, or all, of the emergency maintenance window as we perform network, firmware, or host upgrades."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "lax": {
       "location": "Los Angeles",
