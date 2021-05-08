@@ -117,24 +117,6 @@
       ]
     },
     {
-      "id": "0a72cfec-22e0-4cce-a319-7665674a1d5f",
-      "region": "sgp",
-      "subject": "Singapore Emergency Maintenance - 2021-05-06",
-      "start_date": "2021-05-03T13:47:00+00:00",
-      "updated_at": "2021-05-06T20:27:00+00:00",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2021-05-06T20:27:00+00:00",
-          "message": "routers updated"
-        },
-        {
-          "updated_at": "2021-05-03T13:47:00+00:00",
-          "message": "Event Type: Network Emergency\r\n\r\nWe are performing system changes in the Singapore location during the following emergency maintenance window. \r\n\r\nStart Time: 2021-05-06 19:00:00 UTC\r\nEnd Time: 2021-05-06 23:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Singapore instances may be unreachable for some, or all, of the emergency maintenance window as we perform network, firmware, or host upgrades."
-        }
-      ]
-    },
-    {
       "id": "34a62ce5-e65a-49e0-ad37-48ddcb29321f",
       "region": "nrt",
       "subject": "Tokyo Emergency Maintenance - 2021-05-12",
