@@ -193,25 +193,7 @@
       "location": "Toronto",
       "country": "CA",
       "country_name": "Canada",
-      "alerts": [
-        {
-          "id": "4b159a0a-a4c1-4223-889a-1d4eafc2b5ce",
-          "subject": "Toronto Priority Network Maintenance - 2021-05-07",
-          "status": "resolved",
-          "start_date": "2021-05-06T13:43:00+00:00",
-          "updated_at": "2021-05-07T07:18:00+00:00",
-          "entries": [
-            {
-              "updated_at": "2021-05-07T07:18:00+00:00",
-              "message": "was already completed"
-            },
-            {
-              "updated_at": "2021-05-06T13:43:00+00:00",
-              "message": "Event Type: Priority Network Maintenance\r\n\r\nWe are performing system changes in the Toronto location during the following priority network maintenance window. \r\n\r\nStart Time: 2021-05-07 07:00:00 UTC\r\nEnd Time: 2021-05-07 11:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Toronto instances may be unreachable for some, or all, of the priority network maintenance window as we perform network, firmware, or host upgrades."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "syd": {
       "location": "Sydney",
