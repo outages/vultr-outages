@@ -57,20 +57,6 @@
       ]
     },
     {
-      "id": "976d7deb-481e-40e5-8241-0db5b18eb4f9",
-      "region": "ord",
-      "subject": "Chicago Priority Network Maintenance - 2021-05-11",
-      "start_date": "2021-05-03T15:10:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2021-05-03T15:10:00+00:00",
-          "message": "Event Type: Priority Network Maintenance\r\n\r\nWe are performing system changes in the Chicago location during the following priority maintenance window. \r\n \r\n\r\nStart Time: 2021-05-11 08:00:00 UTC\r\nEnd Time: 2021-05-11 12:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Chicago instances may be unreachable for some, or all, of the priority maintenance window as we perform network, firmware, or host upgrades."
-        }
-      ]
-    },
-    {
       "id": "794aebb3-72e5-44b7-8e83-6db0fe202467",
       "region": "atl",
       "subject": "Atlanta Priority Network Maintenance - 2021-05-12",
