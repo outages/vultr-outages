@@ -25,21 +25,7 @@
       "location": "Chicago",
       "country": "US",
       "country_name": "United States",
-      "alerts": [
-        {
-          "id": "6a0eb86b-79d3-4da7-8968-b63781adb5b7",
-          "subject": "Chicago Degraded Network Performance",
-          "status": "resolved",
-          "start_date": "2021-05-11T14:02:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2021-05-11T14:02:00+00:00",
-              "message": "We are currently experiencing degraded network performance in our Chicago location. Our network engineers are actively working with our upstream providers to resolve the issue as quickly as possible."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "dfw": {
       "location": "Dallas",
