@@ -133,27 +133,27 @@
       "location": "London",
       "country": "GB",
       "country_name": "United Kingdom",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "e2d5d268-acab-4718-954a-9cef82ecf4e2",
+          "subject": "London Scheduled Maintenance - 2021-05-19",
+          "status": "ongoing",
+          "start_date": "2021-05-14T02:16:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2021-05-14T02:16:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the London location during the following scheduled maintenance window. \r\n\r\nStart Time: 2021-05-19 02:00:00 UTC\r\nEnd Time: 2021-05-19 05:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, London instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        }
+      ]
     },
     "cdg": {
       "location": "Paris",
       "country": "FR",
       "country_name": "France",
-      "alerts": [
-        {
-          "id": "43280820-9c79-4684-a59f-e29eef787f91",
-          "subject": "Paris Priority Network Maintenance - 2021-05-12",
-          "status": "resolved",
-          "start_date": "2021-05-03T15:19:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2021-05-03T15:19:00+00:00",
-              "message": "Event Type: Priority Network Maintenance\r\n\r\nWe are performing system changes in the Paris location during the following priority maintenance window. \r\n\r\nStart Time: 2021-05-12 01:00:00 UTC\r\nEnd Time: 2021-05-12 05:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Paris instances may be unreachable for some, or all, of the priority maintenance window as we perform network, firmware, or host upgrades."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "fra": {
       "location": "Frankfurt",

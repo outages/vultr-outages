@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "e2d5d268-acab-4718-954a-9cef82ecf4e2",
+      "region": "lhr",
+      "subject": "London Scheduled Maintenance - 2021-05-19",
+      "start_date": "2021-05-14T02:16:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2021-05-14T02:16:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the London location during the following scheduled maintenance window. \r\n\r\nStart Time: 2021-05-19 02:00:00 UTC\r\nEnd Time: 2021-05-19 05:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, London instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
       "id": "7a2a4728-7b46-4c82-a462-7f8ee1ec472e",
       "region": "fra",
       "subject": "Frankfurt Priority Network Maintenance - 2021-05-13",
@@ -11,20 +25,6 @@
         {
           "updated_at": "2021-05-06T15:12:00+00:00",
           "message": "Event Type: Network Priority Maintenance\r\n\r\nWe are performing system changes in the Frankfurt location during the following priority network maintenance window. \r\n\r\nStart Time: 2021-05-13 01:00:00 UTC\r\nEnd Time: 2021-05-13 05:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Frankfurt instances may be unreachable for some, or all, of the priority network maintenance window as we perform network, firmware, or host upgrades."
-        }
-      ]
-    },
-    {
-      "id": "43280820-9c79-4684-a59f-e29eef787f91",
-      "region": "cdg",
-      "subject": "Paris Priority Network Maintenance - 2021-05-12",
-      "start_date": "2021-05-03T15:19:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2021-05-03T15:19:00+00:00",
-          "message": "Event Type: Priority Network Maintenance\r\n\r\nWe are performing system changes in the Paris location during the following priority maintenance window. \r\n\r\nStart Time: 2021-05-12 01:00:00 UTC\r\nEnd Time: 2021-05-12 05:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Paris instances may be unreachable for some, or all, of the priority maintenance window as we perform network, firmware, or host upgrades."
         }
       ]
     },
