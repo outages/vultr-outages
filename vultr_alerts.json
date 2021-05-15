@@ -15,20 +15,6 @@
       ]
     },
     {
-      "id": "7a2a4728-7b46-4c82-a462-7f8ee1ec472e",
-      "region": "fra",
-      "subject": "Frankfurt Priority Network Maintenance - 2021-05-13",
-      "start_date": "2021-05-06T15:12:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2021-05-06T15:12:00+00:00",
-          "message": "Event Type: Network Priority Maintenance\r\n\r\nWe are performing system changes in the Frankfurt location during the following priority network maintenance window. \r\n\r\nStart Time: 2021-05-13 01:00:00 UTC\r\nEnd Time: 2021-05-13 05:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Frankfurt instances may be unreachable for some, or all, of the priority network maintenance window as we perform network, firmware, or host upgrades."
-        }
-      ]
-    },
-    {
       "id": "04cb198e-614a-4e85-ac88-c8175039ba3b",
       "region": "mia",
       "subject": "Miami Priority Network Maintenance - 2021-05-14",
