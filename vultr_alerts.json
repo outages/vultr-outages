@@ -13,20 +13,6 @@
           "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the London location during the following scheduled maintenance window. \r\n\r\nStart Time: 2021-05-19 02:00:00 UTC\r\nEnd Time: 2021-05-19 05:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, London instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
         }
       ]
-    },
-    {
-      "id": "04cb198e-614a-4e85-ac88-c8175039ba3b",
-      "region": "mia",
-      "subject": "Miami Priority Network Maintenance - 2021-05-14",
-      "start_date": "2021-05-03T15:16:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2021-05-03T15:16:00+00:00",
-          "message": "Event Type: Priority Network Maintenance\r\n\r\nWe are performing system changes in the Miami location during the following priority maintenance window. \r\n \r\n\r\nStart Time: 2021-05-14 07:00:00 UTC\r\nEnd Time: 2021-05-14 11:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Miami instances may be unreachable for some, or all, of the priority maintenance window as we perform network, firmware, or host upgrades."
-        }
-      ]
     }
   ]
 }
