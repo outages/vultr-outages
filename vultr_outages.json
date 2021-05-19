@@ -81,7 +81,7 @@
         {
           "id": "e2d5d268-acab-4718-954a-9cef82ecf4e2",
           "subject": "London Scheduled Maintenance - 2021-05-19",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2021-05-14T02:16:00+00:00",
           "updated_at": "",
           "entries": [
