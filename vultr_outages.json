@@ -5,21 +5,7 @@
       "location": "Atlanta",
       "country": "US",
       "country_name": "United States",
-      "alerts": [
-        {
-          "id": "447ff2bb-0fa4-47d4-b5f4-8db5be82bc5a",
-          "subject": "Atlanta Degraded Network Performance",
-          "status": "resolved",
-          "start_date": "2021-05-28T23:28:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2021-05-28T23:28:00+00:00",
-              "message": "We are currently experiencing degraded network performance in our Atlanta location. Our network engineers are actively working with our upstream providers to resolve the issue as quickly as possible."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "ord": {
       "location": "Chicago",
