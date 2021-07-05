@@ -1,18 +1,3 @@
 {
-  "service_alerts": [
-    {
-      "id": "c2e449c6-e7c9-4f62-9369-0c1ddcbe08bb",
-      "region": "fra",
-      "subject": "Partial Outage",
-      "start_date": "2021-07-05T16:24:00+00:00",
-      "updated_at": "",
-      "status": "ongoing",
-      "entries": [
-        {
-          "updated_at": "2021-07-05T16:24:00+00:00",
-          "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
-        }
-      ]
-    }
-  ]
+  "service_alerts": []
 }

@@ -89,21 +89,7 @@
       "location": "Frankfurt",
       "country": "DE",
       "country_name": "Germany",
-      "alerts": [
-        {
-          "id": "c2e449c6-e7c9-4f62-9369-0c1ddcbe08bb",
-          "subject": "Partial Outage",
-          "status": "ongoing",
-          "start_date": "2021-07-05T16:24:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2021-07-05T16:24:00+00:00",
-              "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "yto": {
       "location": "Toronto",
