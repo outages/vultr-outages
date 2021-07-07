@@ -1,20 +1,6 @@
 {
   "service_alerts": [
     {
-      "id": "b86e4b45-cbb6-4438-a317-1d8fc7709be2",
-      "region": "fra",
-      "subject": "Partial Outage",
-      "start_date": "2021-07-07T06:19:00+00:00",
-      "updated_at": "",
-      "status": "ongoing",
-      "entries": [
-        {
-          "updated_at": "2021-07-07T06:19:00+00:00",
-          "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
-        }
-      ]
-    },
-    {
       "id": "6ee6eea0-2786-40e7-b57c-6a7182e85f8b",
       "region": "ewr",
       "subject": "New Jersey Scheduled Maintenance - 2021-07-13",
