@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "3b3fbbf1-08ac-49b3-ba02-65d19e32c4fc",
+      "region": "mia",
+      "subject": "Partial Outage",
+      "start_date": "2021-07-15T16:40:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2021-07-15T16:40:00+00:00",
+          "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
+        }
+      ]
+    },
+    {
       "id": "9c939fef-4081-4399-9a8c-57c9261003c2",
       "region": "sjc",
       "subject": "Silicon Valley Intermittent Network Issues",
