@@ -13,20 +13,6 @@
           "message": "Event Type: Network Emergency\r\n\r\nWe are performing system changes in the Silicon Valley location during the following emergency maintenance window. \r\n\r\nStart Time: 2021-07-16 10:00:00 UTC\r\nEnd Time: 2021-07-16 12:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Silicon Valley instances may be unreachable for some, or all, of the emergency maintenance window as we perform network, firmware, or host upgrades."
         }
       ]
-    },
-    {
-      "id": "9c939fef-4081-4399-9a8c-57c9261003c2",
-      "region": "sjc",
-      "subject": "Silicon Valley Intermittent Network Issues",
-      "start_date": "2021-07-14T04:57:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2021-07-14T04:57:00+00:00",
-          "message": "Our network engineers and upstream providers have stabilized the Silicon Valley network at the moment. Network connectivity in the region has returned, however our network engineers and upstream providers are still working together to ensure a permanent fix is being put into place to prevent further outages."
-        }
-      ]
     }
   ]
 }
