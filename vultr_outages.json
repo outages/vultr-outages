@@ -73,19 +73,6 @@
               "message": "Our network engineers and upstream providers have stabilized the Silicon Valley network at the moment. Network connectivity in the region has returned, however our network engineers and upstream providers are still working together to ensure a permanent fix is being put into place to prevent further outages."
             }
           ]
-        },
-        {
-          "id": "198c504f-0272-477f-a9ad-ee1bd00508fe",
-          "subject": "Silicon Valley Network Outage",
-          "status": "resolved",
-          "start_date": "2021-07-13T17:39:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2021-07-13T17:39:00+00:00",
-              "message": "We are currently experiencing a partial outage in our Silicon Valley location. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible."
-            }
-          ]
         }
       ]
     },
