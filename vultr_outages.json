@@ -47,21 +47,7 @@
       "location": "Silicon Valley",
       "country": "US",
       "country_name": "United States",
-      "alerts": [
-        {
-          "id": "fa06c261-b183-479a-977c-0a11bf3121c7",
-          "subject": "Partial Outage",
-          "status": "ongoing",
-          "start_date": "2021-07-31T12:36:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2021-07-31T12:36:00+00:00",
-              "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "sgp": {
       "location": "Singapore",
