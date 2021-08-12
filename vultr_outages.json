@@ -53,7 +53,21 @@
       "location": "Singapore",
       "country": "SG",
       "country_name": "Singapore",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "163e3c0c-54ab-43e0-a901-18429a61cfb2",
+          "subject": "Singapore Scheduled Maintenance - 2021-08-17",
+          "status": "ongoing",
+          "start_date": "2021-08-12T14:15:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2021-08-12T14:15:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Singapore location during the following scheduled maintenance window. \r\n\r\nStart Time: 2021-08-17 20:00:00 UTC\r\nEnd Time: 2021-08-18 24:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Singapore instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        }
+      ]
     },
     "ams": {
       "location": "Amsterdam",
