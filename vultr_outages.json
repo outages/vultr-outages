@@ -35,25 +35,7 @@
       "location": "Dallas",
       "country": "US",
       "country_name": "United States",
-      "alerts": [
-        {
-          "id": "b9ccb5dc-c05c-4abb-a1e6-56be2b9f25d5",
-          "subject": "Dallas Scheduled Maintenance - 2021-09-01",
-          "status": "resolved",
-          "start_date": "2021-08-30T20:48:00+00:00",
-          "updated_at": "2021-09-01T11:59:00+00:00",
-          "entries": [
-            {
-              "updated_at": "2021-09-01T11:59:00+00:00",
-              "message": "MNT completed new line card inserted in er2-q8.dal4  the line card for er1 did not come up will RMA DOA"
-            },
-            {
-              "updated_at": "2021-08-30T20:48:00+00:00",
-              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Dallas location during the following scheduled maintenance window. \r\n\r\nStart Time: 2021-09-01 10:00:00 UTC\r\nEnd Time: 2021-09-01 12:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Dallas instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "lax": {
       "location": "Los Angeles",
