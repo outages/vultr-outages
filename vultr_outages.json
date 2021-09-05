@@ -11,25 +11,7 @@
       "location": "Chicago",
       "country": "US",
       "country_name": "United States",
-      "alerts": [
-        {
-          "id": "4d21d711-5108-41da-a189-48b7b84880b3",
-          "subject": "Chicago Scheduled Maintenance - 2021-09-03",
-          "status": "resolved",
-          "start_date": "2021-09-02T19:06:00+00:00",
-          "updated_at": "2021-09-03T11:25:00+00:00",
-          "entries": [
-            {
-              "updated_at": "2021-09-03T11:25:00+00:00",
-              "message": "MNT completed new line card  QFX10000-30C installed in er1/er2-q8.chi2"
-            },
-            {
-              "updated_at": "2021-09-02T19:06:00+00:00",
-              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Chicago location during the following scheduled maintenance window. \r\n\r\nStart Time: 2021-09-03 10:05:00 UTC\r\nEnd Time: 2021-09-03 12:05:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Chicago instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "dfw": {
       "location": "Dallas",
