@@ -23,7 +23,21 @@
       "location": "Los Angeles",
       "country": "US",
       "country_name": "United States",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "1a307287-5345-4fa4-a9f8-73e84578f5d6",
+          "subject": "Partial Outage",
+          "status": "ongoing",
+          "start_date": "2021-09-12T16:37:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2021-09-12T16:37:00+00:00",
+              "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
+            }
+          ]
+        }
+      ]
     },
     "mia": {
       "location": "Miami",
