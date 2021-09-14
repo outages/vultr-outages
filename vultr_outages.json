@@ -90,6 +90,12 @@
       "country_name": "Singapore",
       "alerts": []
     },
+    "arn": {
+      "location": "Stockholm",
+      "country": "SE",
+      "country_name": "Sweden",
+      "alerts": []
+    },
     "ams": {
       "location": "Amsterdam",
       "country": "NL",
