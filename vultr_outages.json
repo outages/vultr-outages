@@ -47,7 +47,21 @@
       "location": "Silicon Valley",
       "country": "US",
       "country_name": "United States",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "545eae0d-9638-4710-90b1-98636c572904",
+          "subject": "Silicon Valley1Scheduled Maintenance - 2021-09-21",
+          "status": "ongoing",
+          "start_date": "2021-09-16T21:29:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2021-09-16T21:29:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Silicon Valley1 location during the following scheduled maintenance window. \r\n\r\nStart Time: 2021-09-21 11:00:00 UTC\r\nEnd Time: 2021-09-21 15:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Silicon Valley instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        }
+      ]
     },
     "sgp": {
       "location": "Singapore",
