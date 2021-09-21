@@ -17,24 +17,6 @@
           "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Silicon Valley1 location during the following scheduled maintenance window. \r\n\r\nStart Time: 2021-09-21 11:00:00 UTC\r\nEnd Time: 2021-09-21 15:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Silicon Valley instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
         }
       ]
-    },
-    {
-      "id": "7c30dfbd-3739-47a8-8d4d-bd12bed64318",
-      "region": "nrt",
-      "subject": "Tokyo Scheduled Maintenance - 2021-09-19",
-      "start_date": "2021-09-16T19:54:00+00:00",
-      "updated_at": "2021-09-19T20:28:00+00:00",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2021-09-19T20:28:00+00:00",
-          "message": "MNT completed successful new FPC line card inserted in ds1/ds2-q8.tyo2"
-        },
-        {
-          "updated_at": "2021-09-16T19:54:00+00:00",
-          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Tokyo location during the following scheduled maintenance window. \r\n\r\nStart Time: 2021-09-19 20:00:00 UTC\r\nEnd Time: 2021-09-19 22:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Tokyo instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-        }
-      ]
     }
   ]
 }
