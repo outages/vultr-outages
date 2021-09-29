@@ -1,24 +1,6 @@
 {
   "service_alerts": [
     {
-      "id": "faa83f10-ee28-42c0-8bf2-7a27bf7191a5",
-      "region": "sea",
-      "subject": "Seattle Scheduled Maintenance - 2021-09-27",
-      "start_date": "2021-09-24T20:24:00+00:00",
-      "updated_at": "2021-09-27T12:27:00+00:00",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2021-09-27T12:27:00+00:00",
-          "message": "new fpc line card added in slot 2 successfully in er1-q8.sea2"
-        },
-        {
-          "updated_at": "2021-09-24T20:24:00+00:00",
-          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Seattle location during the following scheduled maintenance window. \r\n\r\nStart Time: 2021-09-27 12:00:00 UTC\r\nEnd Time: 2021-09-27 14:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Seattle instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-        }
-      ]
-    },
-    {
       "id": "c7c63918-29b2-4ce0-a737-3784f01f6cba",
       "region": "ewr",
       "subject": "New Jersey Scheduled Maintenance - 2021-09-30",
