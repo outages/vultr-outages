@@ -164,6 +164,12 @@
       "country": "AU",
       "country_name": "Australia",
       "alerts": []
+    },
+    "global": {
+      "location": "Mexico City",
+      "country": "",
+      "country_name": "",
+      "alerts": []
     }
   }
 }
