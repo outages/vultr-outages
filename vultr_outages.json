@@ -109,6 +109,12 @@
       "country_name": "Netherlands",
       "alerts": []
     },
+    "mex": {
+      "location": "Mexico City",
+      "country": "MX",
+      "country_name": "Mexico",
+      "alerts": []
+    },
     "icn": {
       "location": "Seoul",
       "country": "KR",
@@ -167,12 +173,6 @@
       "location": "Sydney",
       "country": "AU",
       "country_name": "Australia",
-      "alerts": []
-    },
-    "mex": {
-      "location": "Mexico City",
-      "country": "",
-      "country_name": "",
       "alerts": []
     }
   }
