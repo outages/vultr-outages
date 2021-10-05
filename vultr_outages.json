@@ -5,7 +5,21 @@
       "location": "Atlanta",
       "country": "US",
       "country_name": "United States",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "c017d0e4-666a-4f0a-aad9-f778e5ed6207",
+          "subject": "Atlanta Scheduled Maintenance - 2021-10-14",
+          "status": "ongoing",
+          "start_date": "2021-10-05T21:49:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2021-10-05T21:49:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Atlanta location during the following scheduled maintenance window. \r\n\r\nStart Time: 2021-10-14 04:00:00 UTC\r\nEnd Time: 2021-10-14 08:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Atlanta instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        }
+      ]
     },
     "ord": {
       "location": "Chicago",
@@ -57,7 +71,21 @@
       "location": "Miami",
       "country": "US",
       "country_name": "United States",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "fa9fac54-389b-4254-a335-9d16bc2395f7",
+          "subject": "Miami Scheduled Maintenance - 2021-10-14",
+          "status": "ongoing",
+          "start_date": "2021-10-05T21:47:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2021-10-05T21:47:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Miami location during the following scheduled maintenance window. \r\n\r\nStart Time: 2021-10-14 04:00:00 UTC\r\nEnd Time: 2021-10-14 08:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Miami instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        }
+      ]
     },
     "ewr": {
       "location": "New Jersey",
