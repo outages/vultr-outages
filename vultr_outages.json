@@ -1,6 +1,26 @@
 {
   "service_alerts": [],
   "regions": {
+    "global": {
+      "location": "All Locations",
+      "country": "ALL",
+      "country_name": "Global",
+      "alerts": [
+        {
+          "id": "d8a7e8f6-495e-47f2-9063-12012bee0222",
+          "subject": "Vultr Network Outage",
+          "status": "ongoing",
+          "start_date": "2021-10-06T19:29:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2021-10-06T19:29:00+00:00",
+              "message": "We are currently experiencing an outage affecting the Vultr network. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible."
+            }
+          ]
+        }
+      ]
+    },
     "atl": {
       "location": "Atlanta",
       "country": "US",
