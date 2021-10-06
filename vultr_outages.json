@@ -11,11 +11,11 @@
           "subject": "Vultr Network Outage",
           "status": "resolved",
           "start_date": "2021-10-06T19:29:00+00:00",
-          "updated_at": "2021-10-06T22:03:00+00:00",
+          "updated_at": "2021-10-06T20:11:00+00:00",
           "entries": [
             {
-              "updated_at": "2021-10-06T22:03:00+00:00",
-              "message": "Software update rolled back"
+              "updated_at": "2021-10-06T20:11:00+00:00",
+              "message": "Issue fully resolved - RFO pending."
             },
             {
               "updated_at": "2021-10-06T19:29:00+00:00",
