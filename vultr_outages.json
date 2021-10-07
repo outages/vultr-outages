@@ -63,7 +63,7 @@
         {
           "id": "c4c0be57-59d1-4ceb-9887-2ee9d985886b",
           "subject": "Dallas Scheduled Maintenance - 2021-10-07",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2021-09-30T17:31:00+00:00",
           "updated_at": "",
           "entries": [
