@@ -5,9 +5,13 @@
       "region": "global",
       "subject": "Vultr Network Outage",
       "start_date": "2021-10-06T19:29:00+00:00",
-      "updated_at": "2021-10-06T20:11:00+00:00",
+      "updated_at": "2021-10-06T23:59:00+00:00",
       "status": "resolved",
       "entries": [
+        {
+          "updated_at": "2021-10-06T23:59:00+00:00",
+          "message": "Post Outage Recap:\r\n\r\nScope: Partial\r\nStart: 19:22 UTC\r\nInitial Restoration - Public Networking: 19:36 UTC (14 Minutes)\r\nFull Restoration - Private Networking: 20:11 UTC (49 Minutes)\r\n\r\nAt 19:22 UTC, an update was propagated in the hypervisor environment which created an unexpected error scenario for a portion of Vultr compute instances. As a result, affected compute instances experienced public and/or private network connectivity loss. \r\n\r\nOnce this error was detected and diagnosed, a rollback was issued, and public network connectivity was fully restored by 19:36 UTC. During this event, our operations team continued to actively monitor customer environment health, and declared the event fully resolved at 20:11 UTC.\r\n\r\nOur operations team is continuing to monitor the network status to ensure optimal health, and is performing an in-depth root cause analysis to ensure appropriate safeguards are added to prevent this scenario from ever recurring."
+        },
         {
           "updated_at": "2021-10-06T20:11:00+00:00",
           "message": "Issue fully resolved - RFO pending."
