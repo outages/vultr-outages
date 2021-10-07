@@ -83,7 +83,7 @@
         {
           "id": "b9cf4e54-05d6-4706-a668-14839e17c467",
           "subject": "Los Angeles Scheduled Maintenance - 2021-10-07",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2021-09-30T17:32:00+00:00",
           "updated_at": "",
           "entries": [
