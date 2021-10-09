@@ -31,41 +31,13 @@
       "location": "Dallas",
       "country": "US",
       "country_name": "United States",
-      "alerts": [
-        {
-          "id": "c4c0be57-59d1-4ceb-9887-2ee9d985886b",
-          "subject": "Dallas Scheduled Maintenance - 2021-10-07",
-          "status": "resolved",
-          "start_date": "2021-09-30T17:31:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2021-09-30T17:31:00+00:00",
-              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Dallas location during the following scheduled maintenance window. \r\n\r\nStart Time: 2021-10-07 06:00:00 UTC\r\nEnd Time: 2021-10-07 10:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Dallas instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "lax": {
       "location": "Los Angeles",
       "country": "US",
       "country_name": "United States",
-      "alerts": [
-        {
-          "id": "b9cf4e54-05d6-4706-a668-14839e17c467",
-          "subject": "Los Angeles Scheduled Maintenance - 2021-10-07",
-          "status": "resolved",
-          "start_date": "2021-09-30T17:32:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2021-09-30T17:32:00+00:00",
-              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Los Angeles location during the following scheduled maintenance window. \r\n\r\nStart Time: 2021-10-07 07:00:00 UTC\r\nEnd Time: 2021-10-07 11:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Los Angeles instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "mia": {
       "location": "Miami",
