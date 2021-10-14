@@ -9,7 +9,7 @@
         {
           "id": "c017d0e4-666a-4f0a-aad9-f778e5ed6207",
           "subject": "Atlanta Scheduled Maintenance - 2021-10-14",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2021-10-05T21:49:00+00:00",
           "updated_at": "",
           "entries": [
@@ -47,7 +47,7 @@
         {
           "id": "fa9fac54-389b-4254-a335-9d16bc2395f7",
           "subject": "Miami Scheduled Maintenance - 2021-10-14",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2021-10-05T21:47:00+00:00",
           "updated_at": "",
           "entries": [
