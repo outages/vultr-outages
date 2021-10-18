@@ -9,7 +9,7 @@
         {
           "id": "03e7602d-9d11-43cb-88de-267fb6855bbb",
           "subject": "Object Storage Outage",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2021-10-18T14:29:00+00:00",
           "updated_at": "",
           "entries": [
