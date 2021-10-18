@@ -1,6 +1,26 @@
 {
   "service_alerts": [],
   "regions": {
+    "global": {
+      "location": "All Locations",
+      "country": "ALL",
+      "country_name": "Global",
+      "alerts": [
+        {
+          "id": "03e7602d-9d11-43cb-88de-267fb6855bbb",
+          "subject": "Object Storage Outage",
+          "status": "ongoing",
+          "start_date": "2021-10-18T14:29:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2021-10-18T14:29:00+00:00",
+              "message": "We are currently experiencing a partial outage affecting connectivity with Object Storage. Our engineers are actively working to resolve this issue as quickly as possible."
+            }
+          ]
+        }
+      ]
+    },
     "atl": {
       "location": "Atlanta",
       "country": "US",

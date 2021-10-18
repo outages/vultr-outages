@@ -1,3 +1,18 @@
 {
-  "service_alerts": []
+  "service_alerts": [
+    {
+      "id": "03e7602d-9d11-43cb-88de-267fb6855bbb",
+      "region": "global",
+      "subject": "Object Storage Outage",
+      "start_date": "2021-10-18T14:29:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2021-10-18T14:29:00+00:00",
+          "message": "We are currently experiencing a partial outage affecting connectivity with Object Storage. Our engineers are actively working to resolve this issue as quickly as possible."
+        }
+      ]
+    }
+  ]
 }
