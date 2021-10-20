@@ -17,20 +17,6 @@
           "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Paris location during the following scheduled maintenance window. \r\n\r\nStart Time: 2021-10-19 02:00:00 UTC\r\nEnd Time: 2021-10-19 06:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Paris instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
         }
       ]
-    },
-    {
-      "id": "03e7602d-9d11-43cb-88de-267fb6855bbb",
-      "region": "global",
-      "subject": "Object Storage Outage",
-      "start_date": "2021-10-18T14:29:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2021-10-18T14:29:00+00:00",
-          "message": "We are currently experiencing a partial outage affecting connectivity with Object Storage. Our engineers are actively working to resolve this issue as quickly as possible."
-        }
-      ]
     }
   ]
 }
