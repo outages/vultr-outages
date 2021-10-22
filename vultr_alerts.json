@@ -5,9 +5,13 @@
       "region": "cdg",
       "subject": "Paris Scheduled Maintenance - 2021-10-22",
       "start_date": "2021-10-21T17:46:00+00:00",
-      "updated_at": "",
-      "status": "ongoing",
+      "updated_at": "2021-10-22T12:15:00+00:00",
+      "status": "resolved",
       "entries": [
+        {
+          "updated_at": "2021-10-22T12:15:00+00:00",
+          "message": "PSU was replace with a new one successfully all 6 PEMs are with power."
+        },
         {
           "updated_at": "2021-10-21T17:46:00+00:00",
           "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Paris location during the following scheduled maintenance window. \r\n\r\nStart Time: 2021-10-22 12:00:00 UTC\r\nEnd Time: 2021-10-22 13:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Paris instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
