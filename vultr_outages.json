@@ -77,7 +77,21 @@
       "location": "Seoul",
       "country": "KR",
       "country_name": "Korea, Republic of",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "a0e8f50b-9b77-49ec-a67d-c5ac74c5cf75",
+          "subject": "Seoul Emergency Maintenance - 2021-10-27",
+          "status": "ongoing",
+          "start_date": "2021-10-27T15:55:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2021-10-27T15:55:00+00:00",
+              "message": "Event Type: Network Emergency\r\n\r\nWe are performing system changes in the Seoul location during the following emergency maintenance window. \r\n\r\nStart Time: 2021-10-27 20:00:00 UTC\r\nEnd Time: 2021-10-27 23:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Seoul instances may be unreachable for some, or all, of the emergency maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        }
+      ]
     },
     "nrt": {
       "location": "Tokyo",
