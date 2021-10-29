@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "4a59f46a-72d0-46de-9c49-36a2a3c37ec2",
+      "region": "lax",
+      "subject": "Los Angeles Network Outage",
+      "start_date": "2021-10-29T10:23:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2021-10-29T10:23:00+00:00",
+          "message": "We are currently experiencing a partial outage in our Los Angeles location. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible."
+        }
+      ]
+    },
+    {
       "id": "a0e8f50b-9b77-49ec-a67d-c5ac74c5cf75",
       "region": "icn",
       "subject": "Seoul Emergency Maintenance - 2021-10-27",
