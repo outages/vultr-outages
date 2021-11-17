@@ -23,7 +23,21 @@
       "location": "Los Angeles",
       "country": "US",
       "country_name": "United States",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "b28c9e55-d015-4532-a27e-b47d00713307",
+          "subject": "Los Angeles Degraded Network Performance",
+          "status": "ongoing",
+          "start_date": "2021-11-17T14:51:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2021-11-17T14:51:00+00:00",
+              "message": "We are currently experiencing degraded network performance in our Los Angeles location. Our network engineers are actively working with our upstream providers to resolve the issue as quickly as possible."
+            }
+          ]
+        }
+      ]
     },
     "mia": {
       "location": "Miami",
