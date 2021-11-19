@@ -88,7 +88,21 @@
       "location": "Amsterdam",
       "country": "NL",
       "country_name": "Netherlands",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "931305e3-dae4-4b5a-a54f-aa3d8d526b22",
+          "subject": "Amsterdam Scheduled Maintenance - 2021-11-23",
+          "status": "ongoing",
+          "start_date": "2021-11-18T23:42:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2021-11-18T23:42:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Amsterdam location during the following scheduled maintenance window. \r\n\r\nStart Time: 2021-11-23 23:00:00 UTC\r\nEnd Time: 2021-11-24 02:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Amsterdam instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        }
+      ]
     },
     "mex": {
       "location": "Mexico City",
