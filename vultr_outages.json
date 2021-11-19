@@ -23,16 +23,7 @@
       "location": "Los Angeles",
       "country": "US",
       "country_name": "United States",
-      "alerts": [
-        {
-          "id": "b28c9e55-d015-4532-a27e-b47d00713307",
-          "subject": "Los Angeles Degraded Network Performance",
-          "status": "resolved",
-          "start_date": "2021-11-17T14:51:00+00:00",
-          "updated_at": "",
-          "entries": null
-        }
-      ]
+      "alerts": []
     },
     "mia": {
       "location": "Miami",

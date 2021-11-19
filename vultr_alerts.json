@@ -27,15 +27,6 @@
           "message": "Event Type: Network Upgrade\r\n\r\nWe are performing a line card reboot in the New Jersey location during the following scheduled maintenance window. \r\n\r\nStart Time: 2021-11-24 07:00:00 UTC\r\nEnd Time: 2021-11-24 11:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, New Jersey instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
         }
       ]
-    },
-    {
-      "id": "b28c9e55-d015-4532-a27e-b47d00713307",
-      "region": "lax",
-      "subject": "Los Angeles Degraded Network Performance",
-      "start_date": "2021-11-17T14:51:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": null
     }
   ]
 }
