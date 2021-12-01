@@ -109,6 +109,12 @@
       "country_name": "Canada",
       "alerts": []
     },
+    "sao": {
+      "location": "Sao Paulo",
+      "country": "BR",
+      "country_name": "Brazil",
+      "alerts": []
+    },
     "syd": {
       "location": "Sydney",
       "country": "AU",
