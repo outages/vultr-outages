@@ -119,7 +119,21 @@
       "location": "Sydney",
       "country": "AU",
       "country_name": "Australia",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "c2756a40-5ed1-442a-9a22-760820098003",
+          "subject": "Partial Outage",
+          "status": "ongoing",
+          "start_date": "2021-12-20T18:03:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2021-12-20T18:03:00+00:00",
+              "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
+            }
+          ]
+        }
+      ]
     }
   }
 }
