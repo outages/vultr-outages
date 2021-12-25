@@ -57,7 +57,7 @@
         {
           "id": "8a319231-543b-4686-bd1c-066bfa684b10",
           "subject": "Singapore Instance Management Outage",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2021-12-25T15:24:00+00:00",
           "updated_at": "",
           "entries": [
