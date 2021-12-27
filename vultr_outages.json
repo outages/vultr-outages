@@ -53,21 +53,7 @@
       "location": "Singapore",
       "country": "SG",
       "country_name": "Singapore",
-      "alerts": [
-        {
-          "id": "8a319231-543b-4686-bd1c-066bfa684b10",
-          "subject": "Singapore Instance Management Outage",
-          "status": "resolved",
-          "start_date": "2021-12-25T15:24:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2021-12-25T15:24:00+00:00",
-              "message": "We are currently experiencing a partial outage effecting the management interface in my.vultr.com in our Singapore location. \r\nOur network engineers are actively working to restore connectivity as quickly as possible.\r\nServers are up and reachable only my.vultr.com management and api functions are being effected."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "sto": {
       "location": "Stockholm",
