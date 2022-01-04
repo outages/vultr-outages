@@ -120,6 +120,12 @@
       "country": "CA",
       "country_name": "Canada",
       "alerts": []
+    },
+    "waw": {
+      "location": "Warsaw Poland",
+      "country": "PL",
+      "country_name": "Poland",
+      "alerts": []
     }
   }
 }
