@@ -1,40 +1,6 @@
 {
   "service_alerts": [
     {
-      "id": "4e7ba8bd-14a6-4829-aa2a-b5076c582b3f",
-      "region": "lhr",
-      "subject": "London Outage",
-      "start_date": "2022-01-10T18:05:00+00:00",
-      "updated_at": "2022-01-11T01:36:00+00:00",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2022-01-11T01:36:00+00:00",
-          "message": "At this time we have confirmed that all of our infrastructure is back online and operational. If you have any additional issues please open a Support Ticket with our staff and we will look into it further, however we do not foresee any further issues at this time.\r\n\r\nThank you again for your patience and understanding."
-        },
-        {
-          "updated_at": "2022-01-10T22:58:00+00:00",
-          "message": "At this time the datacenter has restored power and our engineers are now working to bring our infrastructure back online. It could take a little while longer to completely resolve the issue. Thank you again for your continued patience."
-        },
-        {
-          "updated_at": "2022-01-10T21:24:00+00:00",
-          "message": "Our datacenter partner is continuing to work on restoring power to the site. While we do not yet have a confirmed estimate of when power will be restored, the provider has restored some building systems and is continuing to restore power to the rest of the facility."
-        },
-        {
-          "updated_at": "2022-01-10T19:05:00+00:00",
-          "message": "Our datacenter partner has informed us of a complete power loss in our London location. We are in communication with them at this time, and will provide additional updates as soon as they're available."
-        },
-        {
-          "updated_at": "2022-01-10T18:36:00+00:00",
-          "message": "We are currently experiencing a complete outage in our London location. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible."
-        },
-        {
-          "updated_at": "2022-01-10T18:05:00+00:00",
-          "message": "We are currently experiencing a partial outage in our London location. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible."
-        }
-      ]
-    },
-    {
       "id": "156aaad1-bb51-4370-9401-9b876715dd85",
       "region": "ams",
       "subject": "Amsterdam Scheduled Maintenance - 2022-01-12",
