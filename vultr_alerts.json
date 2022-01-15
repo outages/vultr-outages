@@ -1,3 +1,18 @@
 {
-  "service_alerts": []
+  "service_alerts": [
+    {
+      "id": "44d9e6e9-d7f7-4d40-adaf-965d0c626bf7",
+      "region": "waw",
+      "subject": "Partial Outage",
+      "start_date": "2022-01-15T21:19:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2022-01-15T21:19:00+00:00",
+          "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
+        }
+      ]
+    }
+  ]
 }
