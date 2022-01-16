@@ -125,21 +125,7 @@
       "location": "Warsaw",
       "country": "PL",
       "country_name": "Poland",
-      "alerts": [
-        {
-          "id": "44d9e6e9-d7f7-4d40-adaf-965d0c626bf7",
-          "subject": "Partial Outage",
-          "status": "ongoing",
-          "start_date": "2022-01-15T21:19:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2022-01-15T21:19:00+00:00",
-              "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     }
   }
 }
