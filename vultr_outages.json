@@ -43,10 +43,10 @@
       "country_name": "United States",
       "alerts": []
     },
-    "global": {
+    "mad": {
       "location": "Madrid",
-      "country": "SP",
-      "country_name": "SP",
+      "country": "ES",
+      "country_name": "Spain",
       "alerts": []
     },
     "mex": {
