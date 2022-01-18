@@ -43,6 +43,12 @@
       "country_name": "United States",
       "alerts": []
     },
+    "global": {
+      "location": "Madrid",
+      "country": "SP",
+      "country_name": "SP",
+      "alerts": []
+    },
     "mex": {
       "location": "Mexico City",
       "country": "MX",
