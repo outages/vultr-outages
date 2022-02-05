@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "52eae6ac-b08f-470f-a13a-a9049f7ccda8",
+      "region": "global",
+      "subject": " Private Network Outage",
+      "start_date": "2022-02-05T02:20:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2022-02-05T02:20:00+00:00",
+          "message": "We are currently experiencing a partial outage of the private network in some of our locations. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible."
+        }
+      ]
+    },
+    {
       "id": "1c1cf957-1628-4ba1-8e69-a2284b6b4cb5",
       "region": "ams",
       "subject": "Amsterdam Scheduled Maintenance - 2022-02-09",
