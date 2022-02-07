@@ -1,26 +1,6 @@
 {
   "service_alerts": [],
   "regions": {
-    "global": {
-      "location": "All Locations",
-      "country": "ALL",
-      "country_name": "Global",
-      "alerts": [
-        {
-          "id": "52eae6ac-b08f-470f-a13a-a9049f7ccda8",
-          "subject": " Private Network Outage",
-          "status": "resolved",
-          "start_date": "2022-02-05T02:20:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2022-02-05T02:20:00+00:00",
-              "message": "We are currently experiencing a partial outage of the private network in some of our locations. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible."
-            }
-          ]
-        }
-      ]
-    },
     "ams": {
       "location": "Amsterdam",
       "country": "NL",
