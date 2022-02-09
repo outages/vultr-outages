@@ -123,25 +123,7 @@
       "location": "Singapore",
       "country": "SG",
       "country_name": "Singapore",
-      "alerts": [
-        {
-          "id": "072c220e-7b42-48a2-afaa-c455d5be015f",
-          "subject": "Singapore Scheduled Maintenance - 2022-02-07",
-          "status": "resolved",
-          "start_date": "2022-02-07T18:00:00+00:00",
-          "updated_at": "2022-02-07T19:32:00+00:00",
-          "entries": [
-            {
-              "updated_at": "2022-02-07T19:32:00+00:00",
-              "message": "Mnt completed both line card installed in each DS in Singapore"
-            },
-            {
-              "updated_at": "2022-02-07T18:00:00+00:00",
-              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Singapore location during the following scheduled maintenance window. \r\n\r\nStart Time: 2022-02-07 19:00:00 UTC\r\nEnd Time: 2022-02-07 21:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Singapore instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "sto": {
       "location": "Stockholm",
