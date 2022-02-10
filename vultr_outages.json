@@ -71,6 +71,12 @@
       "country_name": "Spain",
       "alerts": []
     },
+    "mel": {
+      "location": "Melbourne",
+      "country": "AU",
+      "country_name": "Australia",
+      "alerts": []
+    },
     "mex": {
       "location": "Mexico City",
       "country": "MX",
