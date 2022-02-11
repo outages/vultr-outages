@@ -13,15 +13,6 @@
           "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Amsterdam location during the following scheduled maintenance window. \r\n\r\nStart Time: 2022-02-16 23:00:00 UTC\r\nEnd Time: 2022-02-17 04:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Amsterdam instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
         }
       ]
-    },
-    {
-      "id": "1c1cf957-1628-4ba1-8e69-a2284b6b4cb5",
-      "region": "ams",
-      "subject": "Amsterdam Scheduled Maintenance - 2022-02-09",
-      "start_date": "2022-02-01T15:55:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": null
     }
   ]
 }
