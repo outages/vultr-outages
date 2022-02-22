@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "65e5e343-8ca2-4361-8f76-9c46751e391e",
+      "region": "sjc",
+      "subject": "Partial Outage",
+      "start_date": "2022-02-22T17:33:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2022-02-22T17:33:00+00:00",
+          "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
+        }
+      ]
+    },
+    {
       "id": "d73b2260-709f-4e70-a7e1-51e81f22fd73",
       "region": "lhr",
       "subject": "Partial Outage",
