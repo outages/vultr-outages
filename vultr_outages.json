@@ -121,8 +121,12 @@
           "subject": "Silicon Valley Service Outage",
           "status": "ongoing",
           "start_date": "2022-02-22T18:27:00+00:00",
-          "updated_at": "",
+          "updated_at": "2022-02-22T20:29:00+00:00",
           "entries": [
+            {
+              "updated_at": "2022-02-22T20:29:00+00:00",
+              "message": "Thank you for your continued patience while we work through this issue. Our engineers and the onsite technicians are both working diligently to determine the cause and restore service as soon as possible.\r\n\r\nThank you again for your understanding, we will provide another update as soon as more information becomes available."
+            },
             {
               "updated_at": "2022-02-22T18:27:00+00:00",
               "message": "We are currently experiencing a outage in our Silicon Valley location. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible."
