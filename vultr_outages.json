@@ -117,15 +117,15 @@
       "country_name": "United States",
       "alerts": [
         {
-          "id": "65e5e343-8ca2-4361-8f76-9c46751e391e",
-          "subject": "Partial Outage",
+          "id": "09b30d85-60b9-489d-8b78-f5231749dc85",
+          "subject": "Silicon Valley Service Outage",
           "status": "ongoing",
-          "start_date": "2022-02-22T17:33:00+00:00",
+          "start_date": "2022-02-22T18:27:00+00:00",
           "updated_at": "",
           "entries": [
             {
-              "updated_at": "2022-02-22T17:33:00+00:00",
-              "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
+              "updated_at": "2022-02-22T18:27:00+00:00",
+              "message": "We are currently experiencing a outage in our Silicon Valley location. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible."
             }
           ]
         }
