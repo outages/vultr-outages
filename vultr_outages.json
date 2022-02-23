@@ -105,7 +105,7 @@
         {
           "id": "09b30d85-60b9-489d-8b78-f5231749dc85",
           "subject": "Silicon Valley Service Outage",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2022-02-22T18:27:00+00:00",
           "updated_at": "2022-02-22T20:29:00+00:00",
           "entries": [
