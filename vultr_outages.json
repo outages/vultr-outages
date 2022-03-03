@@ -95,7 +95,21 @@
       "location": "Seoul",
       "country": "KR",
       "country_name": "Korea, Republic of",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "41585125-8f93-407f-a3af-02fd5709ead4",
+          "subject": "Seoul Degraded Network Performance",
+          "status": "ongoing",
+          "start_date": "2022-03-03T12:54:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2022-03-03T12:54:00+00:00",
+              "message": "We are currently experiencing degraded network performance in our Seoul location. Our network engineers are actively working with our upstream providers to resolve the issue as quickly as possible."
+            }
+          ]
+        }
+      ]
     },
     "sjc": {
       "location": "Silicon Valley",
