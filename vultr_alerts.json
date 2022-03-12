@@ -1,18 +1,3 @@
 {
-  "service_alerts": [
-    {
-      "id": "ac8fcf26-bd2e-46bf-b5cc-39c6793e374a",
-      "region": "sjc",
-      "subject": "Silicon Valley Degraded Network Performance",
-      "start_date": "2022-03-10T17:45:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2022-03-10T17:45:00+00:00",
-          "message": "We are currently experiencing degraded network performance in our Silicon Valley location. Our network engineers are actively working with our upstream providers to resolve the issue as quickly as possible."
-        }
-      ]
-    }
-  ]
+  "service_alerts": []
 }
