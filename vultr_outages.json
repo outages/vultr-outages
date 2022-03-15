@@ -65,7 +65,7 @@
         {
           "id": "ccb19ec1-2900-40f8-b647-31aeaa45d5df",
           "subject": "Madrid New Deployment Outage",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2022-03-15T14:15:00+00:00",
           "updated_at": "",
           "entries": [
