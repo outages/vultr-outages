@@ -5,21 +5,7 @@
       "location": "Amsterdam",
       "country": "NL",
       "country_name": "Netherlands",
-      "alerts": [
-        {
-          "id": "bddbc9ed-2150-41f1-82c7-2a148124ebc0",
-          "subject": "Amsterdam Emergency Maintenance - 2022-03-14",
-          "status": "resolved",
-          "start_date": "2022-03-14T15:08:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2022-03-14T15:08:00+00:00",
-              "message": "Event Type: Network Emergency\r\n\r\nWe are performing system changes in the Amsterdam location during the following emergency maintenance window. \r\n\r\nStart Time: 2022-03-14 15:05:00 UTC\r\nEnd Time: 2022-03-14 19:05:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Amsterdam instances may be unreachable for some, or all, of the emergency maintenance window as we perform network, firmware, or host upgrades."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "atl": {
       "location": "Atlanta",
