@@ -23,34 +23,7 @@
       "location": "Dallas",
       "country": "US",
       "country_name": "United States",
-      "alerts": [
-        {
-          "id": "2a86495b-084e-4514-a87a-3cfffe62e769",
-          "subject": "Partial Outage",
-          "status": "ongoing",
-          "start_date": "2022-03-16T22:08:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2022-03-16T22:08:00+00:00",
-              "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
-            }
-          ]
-        },
-        {
-          "id": "9eefb316-eecc-4436-bf45-c0ab2e8bcab6",
-          "subject": "Partial Outage",
-          "status": "ongoing",
-          "start_date": "2022-03-16T21:25:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2022-03-16T21:25:00+00:00",
-              "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "fra": {
       "location": "Frankfurt",
