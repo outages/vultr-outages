@@ -125,21 +125,7 @@
       "location": "Tokyo",
       "country": "JP",
       "country_name": "Japan",
-      "alerts": [
-        {
-          "id": "35dd24f7-501a-4ba4-8771-8eb5abec0948",
-          "subject": "Partial Outage",
-          "status": "ongoing",
-          "start_date": "2022-03-23T07:26:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2022-03-23T07:26:00+00:00",
-              "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "yto": {
       "location": "Toronto",
