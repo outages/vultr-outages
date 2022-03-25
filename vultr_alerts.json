@@ -1,22 +1,3 @@
 {
-  "service_alerts": [
-    {
-      "id": "ccf7de33-bdac-48db-965f-09b0fb7721c8",
-      "region": "global",
-      "subject": "Platform Deploy Errors",
-      "start_date": "2022-03-23T16:58:00+00:00",
-      "updated_at": "2022-03-23T17:14:00+00:00",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2022-03-23T17:14:00+00:00",
-          "message": "This issue has now been resolved. Please contact our support team if you continue to experience issues."
-        },
-        {
-          "updated_at": "2022-03-23T16:58:00+00:00",
-          "message": "Some customers are currently experiencing slower than normal instance deployment times in all locations. Our engineering team is aware of this issue and is working diligently to resolve this as quickly as possible."
-        }
-      ]
-    }
-  ]
+  "service_alerts": []
 }
