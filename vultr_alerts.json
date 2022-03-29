@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "9451fdb8-6b25-42c4-b154-648d5bf73c7f",
+      "region": "syd",
+      "subject": "Sydney Scheduled Maintenance - 2022-04-06",
+      "start_date": "2022-03-29T18:22:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2022-03-29T18:22:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Sydney location during the following scheduled maintenance window. \r\n\r\nStart Time: 2022-04-06 15:00:00 UTC\r\nEnd Time: 2022-04-06 19:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Sydney instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
       "id": "6f4c50bc-75ca-4e82-8d2d-a0ff0214b4da",
       "region": "ams",
       "subject": "Amsterdam Bare Metal Deploys Disabled",

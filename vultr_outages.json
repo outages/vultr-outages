@@ -143,7 +143,21 @@
       "location": "Sydney",
       "country": "AU",
       "country_name": "Australia",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "9451fdb8-6b25-42c4-b154-648d5bf73c7f",
+          "subject": "Sydney Scheduled Maintenance - 2022-04-06",
+          "status": "ongoing",
+          "start_date": "2022-03-29T18:22:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2022-03-29T18:22:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Sydney location during the following scheduled maintenance window. \r\n\r\nStart Time: 2022-04-06 15:00:00 UTC\r\nEnd Time: 2022-04-06 19:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Sydney instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        }
+      ]
     },
     "nrt": {
       "location": "Tokyo",
