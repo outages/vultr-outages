@@ -168,7 +168,21 @@
       "location": "Toronto",
       "country": "CA",
       "country_name": "Canada",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "58f2ba0d-09eb-418f-b965-0142deb70b86",
+          "subject": "Toronto Infrastructure Upgrades - 2022-04-13",
+          "status": "ongoing",
+          "start_date": "2022-04-06T18:00:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2022-04-06T18:00:00+00:00",
+              "message": "Our engineering team will be performing upgrades to our Toronto deployment infrastructure starting at 2022-04-13 21:00:00 UTC. During this maintenance window, new deployments and snapshot functionality may be temporarily unavailable. \r\n\r\nPreviously deployed servers in Toronto will remain online without interruption and will not be impacted by this event."
+            }
+          ]
+        }
+      ]
     },
     "waw": {
       "location": "Warsaw",

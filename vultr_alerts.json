@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "58f2ba0d-09eb-418f-b965-0142deb70b86",
+      "region": "yto",
+      "subject": "Toronto Infrastructure Upgrades - 2022-04-13",
+      "start_date": "2022-04-06T18:00:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2022-04-06T18:00:00+00:00",
+          "message": "Our engineering team will be performing upgrades to our Toronto deployment infrastructure starting at 2022-04-13 21:00:00 UTC. During this maintenance window, new deployments and snapshot functionality may be temporarily unavailable. \r\n\r\nPreviously deployed servers in Toronto will remain online without interruption and will not be impacted by this event."
+        }
+      ]
+    },
+    {
       "id": "b061e7df-904d-4550-b2e8-8e4a1fd91824",
       "region": "syd",
       "subject": "Sydney Scheduled Maintenance - 2022-04-12",
