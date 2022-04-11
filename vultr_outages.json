@@ -93,6 +93,12 @@
       "country_name": "United States",
       "alerts": []
     },
+    "bom": {
+      "location": "Mumbai",
+      "country": "IN",
+      "country_name": "India",
+      "alerts": []
+    },
     "ewr": {
       "location": "New Jersey",
       "country": "US",
