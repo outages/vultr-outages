@@ -1,20 +1,6 @@
 {
   "service_alerts": [
     {
-      "id": "aac2bfef-f779-492b-8e34-054089c80777",
-      "region": "global",
-      "subject": "Global VKE Infrastructure Maintenance",
-      "start_date": "2022-04-06T19:43:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2022-04-06T19:43:00+00:00",
-          "message": "Event Type: VKE Maintenance\r\n\r\nWe are performing Vultr Kubernetes Engine(VKE) system changes in the ALL regions during the following scheduled maintenance window. \r\n\r\nStart Time: 2022-04-11 23:00:00 UTC\r\nEnd Time: 2022-04-12 01:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, new VKE clusters will be unable to be created. Existing VKE clusters will be unable to be destroyed. Existing VKE cluster Node Pools will be unable to be created, destroyed, scaled up, or scaled down for the duration of the maintenance. \r\n\r\nExisting VKE clusters will remain otherwise functional."
-        }
-      ]
-    },
-    {
       "id": "58f2ba0d-09eb-418f-b965-0142deb70b86",
       "region": "yto",
       "subject": "Toronto Infrastructure Upgrades - 2022-04-13",
