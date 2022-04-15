@@ -15,6 +15,20 @@
       ]
     },
     {
+      "id": "633b8bc5-99a9-45e1-9073-630b89578a34",
+      "region": "sea",
+      "subject": "Seattle Infrastructure Upgrades - 2022-04-20",
+      "start_date": "2022-04-15T17:24:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2022-04-15T17:24:00+00:00",
+          "message": "Our engineering team will be performing upgrades to infrastructure in our Seattle location. During this maintenance window, the following functions will not be available:\r\n\r\n• VPS instance consoles from the Vultr dashboard\r\n• Bare Metal deployment and power control\r\n\r\nPreviously deployed servers in Seattle will remain online without interruption and will not be impacted by this event."
+        }
+      ]
+    },
+    {
       "id": "58f2ba0d-09eb-418f-b965-0142deb70b86",
       "region": "yto",
       "subject": "Toronto Infrastructure Upgrades - 2022-04-13",
