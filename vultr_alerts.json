@@ -5,9 +5,13 @@
       "region": "syd",
       "subject": "Sydney Infrastructure Upgrades - 2022-04-20",
       "start_date": "2022-04-15T17:25:00+00:00",
-      "updated_at": "",
+      "updated_at": "2022-04-19T00:12:00+00:00",
       "status": "ongoing",
       "entries": [
+        {
+          "updated_at": "2022-04-19T00:12:00+00:00",
+          "message": "**Correction**\r\nPreviously deployed servers in Sydney will remain online without interruption and will not be impacted by this event."
+        },
         {
           "updated_at": "2022-04-15T17:25:00+00:00",
           "message": "Our engineering team will be performing upgrades to infrastructure in our Sydney location. During this maintenance window, the following functions will not be available:\r\n\r\n• VPS instance consoles from the Vultr dashboard\r\n• Bare Metal deployment and power control\r\n\r\nPreviously deployed servers in Seattle will remain online without interruption and will not be impacted by this event."
