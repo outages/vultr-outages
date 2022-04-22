@@ -121,7 +121,21 @@
       "location": "Seattle",
       "country": "US",
       "country_name": "United States",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "db289de9-8faa-4891-bf6e-6f03021fb842",
+          "subject": "Seattle Scheduled Maintenance - 2022-04-27",
+          "status": "ongoing",
+          "start_date": "2022-04-22T15:43:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2022-04-22T15:43:00+00:00",
+              "message": "Our engineering team will be performing upgrades to infrastructure in our Seattle locationsss. During this maintenance window, the following functions will not be available:\r\n\r\n• VPS instance consoles from the Vultr dashboard\r\n• Bare Metal deployment and power control\r\n\r\nPreviously deployed servers in Seattle will remain online without interruption and will not be impacted by this event."
+            }
+          ]
+        }
+      ]
     },
     "icn": {
       "location": "Seoul",
