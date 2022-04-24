@@ -13,20 +13,6 @@
           "message": "Our engineering team will be performing upgrades to infrastructure in our Seattle locationsss. During this maintenance window, the following functions will not be available:\r\n\r\n• VPS instance consoles from the Vultr dashboard\r\n• Bare Metal deployment and power control\r\n\r\nPreviously deployed servers in Seattle will remain online without interruption and will not be impacted by this event."
         }
       ]
-    },
-    {
-      "id": "54142269-06e6-45df-aac4-83cc110a122f",
-      "region": "global",
-      "subject": "Bitpay outage - Crypto cannot be paid",
-      "start_date": "2022-04-21T22:19:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2022-04-21T22:19:00+00:00",
-          "message": "We are seeing an elevated number of denied crypto transactions via Bitpay. Our teams have reached out to Bitpay to resolve the processing outage for crypto and anticipate this will be resolved in 1-2 days.\r\n\r\nIf you need to pay before this is resolved, please use a different method of payment. You can choose from any of our convenient payment methods:\r\n\r\nhttps://www.vultr.com/resources/faq/#billingpayments"
-        }
-      ]
     }
   ]
 }
