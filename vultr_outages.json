@@ -151,7 +151,7 @@
         {
           "id": "a712a6f6-d79f-420d-a022-171a395e89a5",
           "subject": "Singapore Network Outage",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2022-04-27T14:02:00+00:00",
           "updated_at": "2022-04-27T15:06:00+00:00",
           "entries": [
