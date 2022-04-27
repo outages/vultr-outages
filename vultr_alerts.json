@@ -5,9 +5,13 @@
       "region": "sgp",
       "subject": "Singapore Network Outage",
       "start_date": "2022-04-27T14:02:00+00:00",
-      "updated_at": "",
+      "updated_at": "2022-04-27T15:06:00+00:00",
       "status": "ongoing",
       "entries": [
+        {
+          "updated_at": "2022-04-27T15:06:00+00:00",
+          "message": "Our Network Engineers have identified an inbound attack that required manual intervention in order to mitigate.  We are still investigating this issue further but have taken steps to restore connectivity at this time and access to your Vultr services should be normalizing."
+        },
         {
           "updated_at": "2022-04-27T14:02:00+00:00",
           "message": "We are currently experiencing a partial outage in our Singapore location. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible."
