@@ -119,7 +119,7 @@
         {
           "id": "db289de9-8faa-4891-bf6e-6f03021fb842",
           "subject": "Seattle Scheduled Maintenance - 2022-04-27",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2022-04-22T15:43:00+00:00",
           "updated_at": "",
           "entries": [
@@ -151,7 +151,7 @@
         {
           "id": "c69a8ea4-98ef-42f6-a6ff-e38e0cf9a233",
           "subject": "Singapore Network Outage",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2022-04-27T20:13:00+00:00",
           "updated_at": "",
           "entries": [
