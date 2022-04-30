@@ -115,21 +115,7 @@
       "location": "Seattle",
       "country": "US",
       "country_name": "United States",
-      "alerts": [
-        {
-          "id": "db289de9-8faa-4891-bf6e-6f03021fb842",
-          "subject": "Seattle Scheduled Maintenance - 2022-04-27",
-          "status": "resolved",
-          "start_date": "2022-04-22T15:43:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2022-04-22T15:43:00+00:00",
-              "message": "Our engineering team will be performing upgrades to infrastructure in our Seattle locationsss. During this maintenance window, the following functions will not be available:\r\n\r\n• VPS instance consoles from the Vultr dashboard\r\n• Bare Metal deployment and power control\r\n\r\nPreviously deployed servers in Seattle will remain online without interruption and will not be impacted by this event."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "icn": {
       "location": "Seoul",
@@ -147,21 +133,7 @@
       "location": "Singapore",
       "country": "SG",
       "country_name": "Singapore",
-      "alerts": [
-        {
-          "id": "c69a8ea4-98ef-42f6-a6ff-e38e0cf9a233",
-          "subject": "Singapore Network Outage",
-          "status": "resolved",
-          "start_date": "2022-04-27T20:13:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2022-04-27T20:13:00+00:00",
-              "message": "We are currently experiencing a partial outage in our Singapore locations. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "sto": {
       "location": "Stockholm",
