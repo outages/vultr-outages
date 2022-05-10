@@ -10,7 +10,7 @@
       "entries": [
         {
           "updated_at": "2022-05-10T15:17:00+00:00",
-          "message": "Event Type: Infrastructure Upgrade\r\n\r\nWe will be performing infrastructure upgrades in our Dallas location as part of an ongoing effort to maintain an ideal hosting environment.\r\n\r\nStart Time: 2022-05-19 15:00:00 UTC\r\nEnd Time: 2022-05-19 19:00:00 UTC\r\n\r\nDuring this time, the following will be affected:\r\n\r\n• Bare Metal deploys will be disabled while maintenance is ongoing.\r\n• Server power actions and VNC console access may be affected.\r\n\r\nPreviously deployed servers in Dallas will remain online without interruption and will not be impacted by this event."
+          "message": "Event Type: Infrastructure Upgrade\r\n\r\nWe will be performing infrastructure upgrades in our Sydney location as part of an ongoing effort to maintain an ideal hosting environment.\r\n\r\nStart Time: 2022-05-19 15:00:00 UTC\r\nEnd Time: 2022-05-19 19:00:00 UTC\r\n\r\nDuring this time, the following will be affected:\r\n\r\n• Bare Metal deploys will be disabled while maintenance is ongoing.\r\n• Server power actions and VNC console access may be affected.\r\n\r\nPreviously deployed servers in Sydney will remain online without interruption and will not be impacted by this event."
         }
       ]
     },
