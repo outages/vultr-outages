@@ -1,3 +1,18 @@
 {
-  "service_alerts": []
+  "service_alerts": [
+    {
+      "id": "adffd4df-993a-4c8d-bdb7-0abec0cc25a8",
+      "region": "fra",
+      "subject": "Frankfurt Emergency Maintenance - 2022-05-10",
+      "start_date": "2022-05-10T14:58:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2022-05-10T14:58:00+00:00",
+          "message": "Event Type: Infrastructure\r\n\r\nWe are performing system changes in the Frankfurt location at this time that affect our internal infrastructure and Bare Metal deploy systems.\r\n\r\nDuring this outage, the following will be affected:\r\n\r\n• Bare Metal deploys will be disabled while maintenance is ongong.\r\n• Server power actions and VNC console access may be affected.\r\n\r\nPreviously deployed servers in Frankfurt will remain online without interruption and will not be impacted by this event."
+        }
+      ]
+    }
+  ]
 }
