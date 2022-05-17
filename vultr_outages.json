@@ -11,13 +11,49 @@
       "location": "Atlanta",
       "country": "US",
       "country_name": "United States",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "e017f407-4619-4884-9caf-126047b6dd32",
+          "subject": "Atlanta, Chicago, Miami, Silicon Valley, Singapore, Sydney, Tokyo Network Outage",
+          "status": "resolved",
+          "start_date": "2022-05-17T02:13:00+00:00",
+          "updated_at": "2022-05-17T02:35:00+00:00",
+          "entries": [
+            {
+              "updated_at": "2022-05-17T02:35:00+00:00",
+              "message": "The issue has been resolved and all services are expected to be fully operational at this time."
+            },
+            {
+              "updated_at": "2022-05-17T02:13:00+00:00",
+              "message": "We are currently experiencing a partial outage in our Atlanta, Chicago, Miami, Silicon Valley, Singapore, Sydney, Tokyo locations. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible."
+            }
+          ]
+        }
+      ]
     },
     "ord": {
       "location": "Chicago",
       "country": "US",
       "country_name": "United States",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "e017f407-4619-4884-9caf-126047b6dd32",
+          "subject": "Atlanta, Chicago, Miami, Silicon Valley, Singapore, Sydney, Tokyo Network Outage",
+          "status": "resolved",
+          "start_date": "2022-05-17T02:13:00+00:00",
+          "updated_at": "2022-05-17T02:35:00+00:00",
+          "entries": [
+            {
+              "updated_at": "2022-05-17T02:35:00+00:00",
+              "message": "The issue has been resolved and all services are expected to be fully operational at this time."
+            },
+            {
+              "updated_at": "2022-05-17T02:13:00+00:00",
+              "message": "We are currently experiencing a partial outage in our Atlanta, Chicago, Miami, Silicon Valley, Singapore, Sydney, Tokyo locations. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible."
+            }
+          ]
+        }
+      ]
     },
     "dfw": {
       "location": "Dallas",
@@ -85,7 +121,25 @@
       "location": "Miami",
       "country": "US",
       "country_name": "United States",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "e017f407-4619-4884-9caf-126047b6dd32",
+          "subject": "Atlanta, Chicago, Miami, Silicon Valley, Singapore, Sydney, Tokyo Network Outage",
+          "status": "resolved",
+          "start_date": "2022-05-17T02:13:00+00:00",
+          "updated_at": "2022-05-17T02:35:00+00:00",
+          "entries": [
+            {
+              "updated_at": "2022-05-17T02:35:00+00:00",
+              "message": "The issue has been resolved and all services are expected to be fully operational at this time."
+            },
+            {
+              "updated_at": "2022-05-17T02:13:00+00:00",
+              "message": "We are currently experiencing a partial outage in our Atlanta, Chicago, Miami, Silicon Valley, Singapore, Sydney, Tokyo locations. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible."
+            }
+          ]
+        }
+      ]
     },
     "bom": {
       "location": "Mumbai",
@@ -127,13 +181,49 @@
       "location": "Silicon Valley",
       "country": "US",
       "country_name": "United States",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "e017f407-4619-4884-9caf-126047b6dd32",
+          "subject": "Atlanta, Chicago, Miami, Silicon Valley, Singapore, Sydney, Tokyo Network Outage",
+          "status": "resolved",
+          "start_date": "2022-05-17T02:13:00+00:00",
+          "updated_at": "2022-05-17T02:35:00+00:00",
+          "entries": [
+            {
+              "updated_at": "2022-05-17T02:35:00+00:00",
+              "message": "The issue has been resolved and all services are expected to be fully operational at this time."
+            },
+            {
+              "updated_at": "2022-05-17T02:13:00+00:00",
+              "message": "We are currently experiencing a partial outage in our Atlanta, Chicago, Miami, Silicon Valley, Singapore, Sydney, Tokyo locations. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible."
+            }
+          ]
+        }
+      ]
     },
     "sgp": {
       "location": "Singapore",
       "country": "SG",
       "country_name": "Singapore",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "e017f407-4619-4884-9caf-126047b6dd32",
+          "subject": "Atlanta, Chicago, Miami, Silicon Valley, Singapore, Sydney, Tokyo Network Outage",
+          "status": "resolved",
+          "start_date": "2022-05-17T02:13:00+00:00",
+          "updated_at": "2022-05-17T02:35:00+00:00",
+          "entries": [
+            {
+              "updated_at": "2022-05-17T02:35:00+00:00",
+              "message": "The issue has been resolved and all services are expected to be fully operational at this time."
+            },
+            {
+              "updated_at": "2022-05-17T02:13:00+00:00",
+              "message": "We are currently experiencing a partial outage in our Atlanta, Chicago, Miami, Silicon Valley, Singapore, Sydney, Tokyo locations. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible."
+            }
+          ]
+        }
+      ]
     },
     "sto": {
       "location": "Stockholm",
@@ -146,6 +236,23 @@
       "country": "AU",
       "country_name": "Australia",
       "alerts": [
+        {
+          "id": "e017f407-4619-4884-9caf-126047b6dd32",
+          "subject": "Atlanta, Chicago, Miami, Silicon Valley, Singapore, Sydney, Tokyo Network Outage",
+          "status": "resolved",
+          "start_date": "2022-05-17T02:13:00+00:00",
+          "updated_at": "2022-05-17T02:35:00+00:00",
+          "entries": [
+            {
+              "updated_at": "2022-05-17T02:35:00+00:00",
+              "message": "The issue has been resolved and all services are expected to be fully operational at this time."
+            },
+            {
+              "updated_at": "2022-05-17T02:13:00+00:00",
+              "message": "We are currently experiencing a partial outage in our Atlanta, Chicago, Miami, Silicon Valley, Singapore, Sydney, Tokyo locations. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible."
+            }
+          ]
+        },
         {
           "id": "43849348-26f5-428d-ae6d-bf33d84a54dd",
           "subject": "Sydney Scheduled Maintenance - 2022-05-19",
@@ -165,7 +272,25 @@
       "location": "Tokyo",
       "country": "JP",
       "country_name": "Japan",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "e017f407-4619-4884-9caf-126047b6dd32",
+          "subject": "Atlanta, Chicago, Miami, Silicon Valley, Singapore, Sydney, Tokyo Network Outage",
+          "status": "resolved",
+          "start_date": "2022-05-17T02:13:00+00:00",
+          "updated_at": "2022-05-17T02:35:00+00:00",
+          "entries": [
+            {
+              "updated_at": "2022-05-17T02:35:00+00:00",
+              "message": "The issue has been resolved and all services are expected to be fully operational at this time."
+            },
+            {
+              "updated_at": "2022-05-17T02:13:00+00:00",
+              "message": "We are currently experiencing a partial outage in our Atlanta, Chicago, Miami, Silicon Valley, Singapore, Sydney, Tokyo locations. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible."
+            }
+          ]
+        }
+      ]
     },
     "yto": {
       "location": "Toronto",
