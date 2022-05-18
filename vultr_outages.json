@@ -153,7 +153,7 @@
         {
           "id": "5a3a0e04-09d9-4da3-8e9c-a5817d1e7504",
           "subject": "Mumbai Network Outage",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2022-05-18T21:20:00+00:00",
           "updated_at": "",
           "entries": [
