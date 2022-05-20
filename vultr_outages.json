@@ -89,7 +89,21 @@
       "location": "Paris",
       "country": "FR",
       "country_name": "France",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "4711f8d7-1400-4552-9dda-b56a0c17624a",
+          "subject": "Paris Scheduled Maintenance - 2022-05-25",
+          "status": "ongoing",
+          "start_date": "2022-05-20T21:55:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2022-05-20T21:55:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Paris locationsssssss during the following scheduled maintenance window. \r\n\r\nStart Time: 2022-05-25 15:00:00 UTC\r\nEnd Time: 2022-05-25 19:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Paris instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        }
+      ]
     },
     "sao": {
       "location": "São Paulo",
