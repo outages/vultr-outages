@@ -119,7 +119,7 @@
         {
           "id": "fe77ccac-6d0e-4a53-aec0-f27de88947d8",
           "subject": "Seattle Network Outage",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2022-05-24T01:40:00+00:00",
           "updated_at": "",
           "entries": [
