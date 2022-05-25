@@ -106,7 +106,7 @@
         {
           "id": "4711f8d7-1400-4552-9dda-b56a0c17624a",
           "subject": "Paris Scheduled Maintenance - 2022-05-25",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2022-05-20T21:55:00+00:00",
           "updated_at": "",
           "entries": [
