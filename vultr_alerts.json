@@ -1,16 +1,16 @@
 {
   "service_alerts": [
     {
-      "id": "271d058f-2141-4c3f-8b16-dab6ad6380ed",
+      "id": "c60aa9f2-7a05-481e-a6e0-56cbda8d951d",
       "region": "atl",
-      "subject": "Partial Outage",
-      "start_date": "2022-05-26T17:26:00+00:00",
+      "subject": "Atlanta Deployment Delays",
+      "start_date": "2022-05-26T17:47:00+00:00",
       "updated_at": "",
       "status": "ongoing",
       "entries": [
         {
-          "updated_at": "2022-05-26T17:26:00+00:00",
-          "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
+          "updated_at": "2022-05-26T17:47:00+00:00",
+          "message": "Some customers are currently experiencing slower than normal instance deployment times in our Atlanta locations. Our engineering team is aware of this issue and is working diligently to resolve this as quickly as possible."
         }
       ]
     },
