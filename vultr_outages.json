@@ -71,7 +71,21 @@
       "location": "Miami",
       "country": "US",
       "country_name": "United States",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "0634d500-0ff3-4aaa-8f78-6b453d59406a",
+          "subject": "Miami Scheduled Maintenance - 2022-06-06",
+          "status": "ongoing",
+          "start_date": "2022-06-01T18:52:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2022-06-01T18:52:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Miami locationss during the following scheduled maintenance window. \r\n\r\nStart Time: 2022-06-06 14:30:00 UTC\r\nEnd Time: 2022-06-06 16:30:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Miami  instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        }
+      ]
     },
     "bom": {
       "location": "Mumbai",
