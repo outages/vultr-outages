@@ -1,4 +1,197 @@
 {
   "service_alerts": [],
-  "regions": []
+  "regions": {
+    "ams": {
+      "location": "Amsterdam",
+      "country": "NL",
+      "country_name": "Netherlands",
+      "alerts": []
+    },
+    "atl": {
+      "location": "Atlanta",
+      "country": "US",
+      "country_name": "United States",
+      "alerts": []
+    },
+    "ord": {
+      "location": "Chicago",
+      "country": "US",
+      "country_name": "United States",
+      "alerts": [
+        {
+          "id": "7e7bc139-dc2e-4247-8fff-0acae31e6e31",
+          "subject": "Chicago Scheduled Maintenance - 2022-06-11",
+          "status": "ongoing",
+          "start_date": "2022-06-03T20:37:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2022-06-03T20:37:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Chicago locationssssss during the following scheduled maintenance window. \r\n\r\nStart Time: 2022-06-11 04:05:00 UTC\r\nEnd Time: 2022-06-11 09:05:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Chicago instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        }
+      ]
+    },
+    "dfw": {
+      "location": "Dallas",
+      "country": "US",
+      "country_name": "United States",
+      "alerts": []
+    },
+    "fra": {
+      "location": "Frankfurt",
+      "country": "DE",
+      "country_name": "Germany",
+      "alerts": []
+    },
+    "hnl": {
+      "location": "Honolulu",
+      "country": "US",
+      "country_name": "United States",
+      "alerts": []
+    },
+    "lhr": {
+      "location": "London",
+      "country": "GB",
+      "country_name": "United Kingdom",
+      "alerts": []
+    },
+    "lax": {
+      "location": "Los Angeles",
+      "country": "US",
+      "country_name": "United States",
+      "alerts": []
+    },
+    "mad": {
+      "location": "Madrid",
+      "country": "ES",
+      "country_name": "Spain",
+      "alerts": []
+    },
+    "mel": {
+      "location": "Melbourne",
+      "country": "AU",
+      "country_name": "Australia",
+      "alerts": []
+    },
+    "mex": {
+      "location": "Mexico City",
+      "country": "MX",
+      "country_name": "Mexico",
+      "alerts": []
+    },
+    "mia": {
+      "location": "Miami",
+      "country": "US",
+      "country_name": "United States",
+      "alerts": [
+        {
+          "id": "0634d500-0ff3-4aaa-8f78-6b453d59406a",
+          "subject": "Miami Scheduled Maintenance - 2022-06-06",
+          "status": "ongoing",
+          "start_date": "2022-06-01T18:52:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2022-06-01T18:52:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Miami locationss during the following scheduled maintenance window. \r\n\r\nStart Time: 2022-06-06 14:30:00 UTC\r\nEnd Time: 2022-06-06 16:30:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Miami  instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        }
+      ]
+    },
+    "bom": {
+      "location": "Mumbai",
+      "country": "IN",
+      "country_name": "India",
+      "alerts": []
+    },
+    "ewr": {
+      "location": "New Jersey",
+      "country": "US",
+      "country_name": "United States",
+      "alerts": []
+    },
+    "cdg": {
+      "location": "Paris",
+      "country": "FR",
+      "country_name": "France",
+      "alerts": []
+    },
+    "sao": {
+      "location": "São Paulo",
+      "country": "BR",
+      "country_name": "Brazil",
+      "alerts": []
+    },
+    "sea": {
+      "location": "Seattle",
+      "country": "US",
+      "country_name": "United States",
+      "alerts": []
+    },
+    "icn": {
+      "location": "Seoul",
+      "country": "KR",
+      "country_name": "Korea, Republic of",
+      "alerts": []
+    },
+    "sjc": {
+      "location": "Silicon Valley",
+      "country": "US",
+      "country_name": "United States",
+      "alerts": []
+    },
+    "sgp": {
+      "location": "Singapore",
+      "country": "SG",
+      "country_name": "Singapore",
+      "alerts": [
+        {
+          "id": "774cb11a-f145-4c2e-827b-0bdba8516b65",
+          "subject": "Singapore Scheduled Maintenance - 2022-06-09",
+          "status": "ongoing",
+          "start_date": "2022-06-03T20:17:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2022-06-03T20:17:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Singapore locationsssss during the following scheduled maintenance window. \r\n\r\nStart Time: 2022-06-09 16:00:00 UTC\r\nEnd Time: 2022-06-09 20:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Singapore instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        }
+      ]
+    },
+    "sto": {
+      "location": "Stockholm",
+      "country": "SE",
+      "country_name": "Sweden",
+      "alerts": []
+    },
+    "syd": {
+      "location": "Sydney",
+      "country": "AU",
+      "country_name": "Australia",
+      "alerts": []
+    },
+    "nrt": {
+      "location": "Tokyo",
+      "country": "JP",
+      "country_name": "Japan",
+      "alerts": []
+    },
+    "yto": {
+      "location": "Toronto",
+      "country": "CA",
+      "country_name": "Canada",
+      "alerts": []
+    },
+    "waw": {
+      "location": "Warsaw",
+      "country": "PL",
+      "country_name": "Poland",
+      "alerts": []
+    }
+  }
 }
