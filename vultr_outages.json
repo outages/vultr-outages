@@ -89,7 +89,7 @@
         {
           "id": "0634d500-0ff3-4aaa-8f78-6b453d59406a",
           "subject": "Miami Scheduled Maintenance - 2022-06-06",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2022-06-01T18:52:00+00:00",
           "updated_at": "",
           "entries": [
