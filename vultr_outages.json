@@ -1,26 +1,6 @@
 {
   "service_alerts": [],
   "regions": {
-    "global": {
-      "location": "All Locations",
-      "country": "ALL",
-      "country_name": "Global",
-      "alerts": [
-        {
-          "id": "f742d134-e13f-43c3-bf45-e6f7162fddcd",
-          "subject": "Degrade control panel function",
-          "status": "resolved",
-          "start_date": "2022-06-04T15:38:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2022-06-04T15:38:00+00:00",
-              "message": "Some customers are currently experiencing slower than normal instance deployment - loss of control panel functions and API availability. Our engineering team is aware of this issue and is working diligently to resolve this as quickly as possible."
-            }
-          ]
-        }
-      ]
-    },
     "ams": {
       "location": "Amsterdam",
       "country": "NL",
