@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "c058296c-8e62-4d0d-b78d-2d112a958352",
+      "region": "ams",
+      "subject": "Amsterdam Outage",
+      "start_date": "2022-06-08T01:39:00+00:00",
+      "updated_at": "",
+      "status": "resolved",
+      "entries": [
+        {
+          "updated_at": "2022-06-08T01:39:00+00:00",
+          "message": "We are currently experiencing a partial outage in our Amsterdam locations. Our System Administrators are actively working with our onsite technicians to restore service as quickly as possible."
+        }
+      ]
+    },
+    {
       "id": "bb6bbe80-0a06-4ffb-b946-62364584409c",
       "region": "ams",
       "subject": "Amsterdam Scheduled Maintenance - 2022-06-14",

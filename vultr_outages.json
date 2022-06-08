@@ -7,6 +7,19 @@
       "country_name": "Netherlands",
       "alerts": [
         {
+          "id": "c058296c-8e62-4d0d-b78d-2d112a958352",
+          "subject": "Amsterdam Outage",
+          "status": "resolved",
+          "start_date": "2022-06-08T01:39:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2022-06-08T01:39:00+00:00",
+              "message": "We are currently experiencing a partial outage in our Amsterdam locations. Our System Administrators are actively working with our onsite technicians to restore service as quickly as possible."
+            }
+          ]
+        },
+        {
           "id": "bb6bbe80-0a06-4ffb-b946-62364584409c",
           "subject": "Amsterdam Scheduled Maintenance - 2022-06-14",
           "status": "ongoing",
