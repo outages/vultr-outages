@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "df67cc1a-a9a7-45d3-a868-f47349e4ff5e",
+      "region": "sgp",
+      "subject": "Singapore Scheduled Maintenance - 2022-06-16",
+      "start_date": "2022-06-10T16:31:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2022-06-10T16:31:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Singapore locationssssssss during the following scheduled maintenance window. \r\n\r\nStart Time: 2022-06-16 16:00:00 UTC\r\nEnd Time: 2022-06-16 20:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Singapore instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
       "id": "bb6bbe80-0a06-4ffb-b946-62364584409c",
       "region": "ams",
       "subject": "Amsterdam Scheduled Maintenance - 2022-06-14",
