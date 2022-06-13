@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "0fe9da8b-b316-4bc2-9767-26455b05effb",
+      "region": "fra",
+      "subject": "Partial Outage",
+      "start_date": "2022-06-13T14:34:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2022-06-13T14:34:00+00:00",
+          "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
+        }
+      ]
+    },
+    {
       "id": "ff8c4366-49f2-4fdd-b927-d45afadcbc70",
       "region": "ord",
       "subject": "Chicago Scheduled Maintenance - 2022-06-18",
