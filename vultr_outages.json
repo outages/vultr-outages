@@ -1,0 +1,169 @@
+{
+  "service_alerts": [],
+  "regions": {
+    "ams": {
+      "location": "Amsterdam",
+      "country": "NL",
+      "country_name": "Netherlands",
+      "alerts": []
+    },
+    "atl": {
+      "location": "Atlanta",
+      "country": "US",
+      "country_name": "United States",
+      "alerts": []
+    },
+    "ord": {
+      "location": "Chicago",
+      "country": "US",
+      "country_name": "United States",
+      "alerts": [
+        {
+          "id": "d47d5d50-6a76-46bd-beb1-65524e2aa80b",
+          "subject": "Partial Outage",
+          "status": "ongoing",
+          "start_date": "2022-06-20T22:58:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2022-06-20T22:58:00+00:00",
+              "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
+            }
+          ]
+        }
+      ]
+    },
+    "dfw": {
+      "location": "Dallas",
+      "country": "US",
+      "country_name": "United States",
+      "alerts": []
+    },
+    "fra": {
+      "location": "Frankfurt",
+      "country": "DE",
+      "country_name": "Germany",
+      "alerts": []
+    },
+    "hnl": {
+      "location": "Honolulu",
+      "country": "US",
+      "country_name": "United States",
+      "alerts": []
+    },
+    "lhr": {
+      "location": "London",
+      "country": "GB",
+      "country_name": "United Kingdom",
+      "alerts": []
+    },
+    "lax": {
+      "location": "Los Angeles",
+      "country": "US",
+      "country_name": "United States",
+      "alerts": []
+    },
+    "mad": {
+      "location": "Madrid",
+      "country": "ES",
+      "country_name": "Spain",
+      "alerts": []
+    },
+    "mel": {
+      "location": "Melbourne",
+      "country": "AU",
+      "country_name": "Australia",
+      "alerts": []
+    },
+    "mex": {
+      "location": "Mexico City",
+      "country": "MX",
+      "country_name": "Mexico",
+      "alerts": []
+    },
+    "mia": {
+      "location": "Miami",
+      "country": "US",
+      "country_name": "United States",
+      "alerts": []
+    },
+    "bom": {
+      "location": "Mumbai",
+      "country": "IN",
+      "country_name": "India",
+      "alerts": []
+    },
+    "ewr": {
+      "location": "New Jersey",
+      "country": "US",
+      "country_name": "United States",
+      "alerts": []
+    },
+    "cdg": {
+      "location": "Paris",
+      "country": "FR",
+      "country_name": "France",
+      "alerts": []
+    },
+    "sao": {
+      "location": "São Paulo",
+      "country": "BR",
+      "country_name": "Brazil",
+      "alerts": []
+    },
+    "sea": {
+      "location": "Seattle",
+      "country": "US",
+      "country_name": "United States",
+      "alerts": []
+    },
+    "icn": {
+      "location": "Seoul",
+      "country": "KR",
+      "country_name": "Korea, Republic of",
+      "alerts": []
+    },
+    "sjc": {
+      "location": "Silicon Valley",
+      "country": "US",
+      "country_name": "United States",
+      "alerts": []
+    },
+    "sgp": {
+      "location": "Singapore",
+      "country": "SG",
+      "country_name": "Singapore",
+      "alerts": []
+    },
+    "sto": {
+      "location": "Stockholm",
+      "country": "SE",
+      "country_name": "Sweden",
+      "alerts": []
+    },
+    "syd": {
+      "location": "Sydney",
+      "country": "AU",
+      "country_name": "Australia",
+      "alerts": []
+    },
+    "nrt": {
+      "location": "Tokyo",
+      "country": "JP",
+      "country_name": "Japan",
+      "alerts": []
+    },
+    "yto": {
+      "location": "Toronto",
+      "country": "CA",
+      "country_name": "Canada",
+      "alerts": []
+    },
+    "waw": {
+      "location": "Warsaw",
+      "country": "PL",
+      "country_name": "Poland",
+      "alerts": []
+    }
+  }
+}
