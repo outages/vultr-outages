@@ -21,7 +21,7 @@
         {
           "id": "f01dc173-66db-4f3e-9865-8ad5d1322412",
           "subject": "Datacenter Transit Provider Emergency Maintenance - 2022-06-24",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2022-06-24T20:35:00+00:00",
           "updated_at": "",
           "entries": [
