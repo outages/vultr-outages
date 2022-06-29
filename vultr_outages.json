@@ -93,7 +93,7 @@
         {
           "id": "9c1180fa-a1cd-4212-b1fc-21db1cf77319",
           "subject": "Los Angeles Scheduled Maintenance - 2022-06-29",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2022-06-21T17:40:00+00:00",
           "updated_at": "",
           "entries": [
