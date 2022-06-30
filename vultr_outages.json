@@ -61,7 +61,7 @@
         {
           "id": "ca19aa71-2bbe-439a-a3d4-63deb6da1f7c",
           "subject": "Frankfurt Scheduled Maintenance - 2022-06-30",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2022-06-24T20:43:00+00:00",
           "updated_at": "",
           "entries": [
