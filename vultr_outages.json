@@ -89,21 +89,7 @@
       "location": "Los Angeles",
       "country": "US",
       "country_name": "United States",
-      "alerts": [
-        {
-          "id": "9c1180fa-a1cd-4212-b1fc-21db1cf77319",
-          "subject": "Los Angeles Scheduled Maintenance - 2022-06-29",
-          "status": "resolved",
-          "start_date": "2022-06-21T17:40:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2022-06-21T17:40:00+00:00",
-              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Los Angeles location during the following scheduled maintenance window. \r\n\r\nStart Time: 2022-06-29 07:00:00 UTC\r\nEnd Time: 2022-06-29 11:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Los Angeles instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades. Due to network redundancy, we expect to see little to no impact."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "mad": {
       "location": "Madrid",
