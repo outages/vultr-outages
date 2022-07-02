@@ -83,19 +83,6 @@
               "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Frankfurt location during the following scheduled maintenance window. \r\n\r\nStart Time: 2022-07-13 14:00:00 UTC\r\nEnd Time: 2022-07-13 20:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Frankfurt instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
             }
           ]
-        },
-        {
-          "id": "ca19aa71-2bbe-439a-a3d4-63deb6da1f7c",
-          "subject": "Frankfurt Scheduled Maintenance - 2022-06-30",
-          "status": "resolved",
-          "start_date": "2022-06-24T20:43:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2022-06-24T20:43:00+00:00",
-              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Frankfurt location during the following scheduled maintenance window. \r\n\r\nStart Time: 2022-06-30 15:00:00 UTC\r\nEnd Time: 2022-06-30 19:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Frankfurt instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
-            }
-          ]
         }
       ]
     },
