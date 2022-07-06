@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "881d6817-3997-49d1-9402-d896a350cb39",
+      "region": "ams",
+      "subject": "Amsterdam BareMetal Platform Issue",
+      "start_date": "2022-07-06T21:24:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2022-07-06T21:24:00+00:00",
+          "message": "Event Type: BareMetal Platform Issue\r\n\r\nWe are currently experiencing issues with our Bare Metal platform in our Amsterdam location.\r\n\r\nExisting subscriptions and their corresponding servers will remain powered on and there will be no interruption to Public or VPC network connectivity, however system controls will be affected.  However, currently the platform is unable to issue Power On/Off/Cycle commands, access the VNC Console, deploy new servers, or reinstall existing subscriptions.\r\n\r\nOur engineers are working as quickly as possible to solve the underlying issue.  We apologize for the inconvenience, but appreciate your understanding while we work to solve this issue."
+        }
+      ]
+    },
+    {
       "id": "acb45000-9bf5-48a3-a263-0abd890adacc",
       "region": "syd",
       "subject": "Sydney BareMetal Platform Emergency Maintenance ",
