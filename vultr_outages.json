@@ -199,7 +199,21 @@
       "location": "Sydney",
       "country": "AU",
       "country_name": "Australia",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "acb45000-9bf5-48a3-a263-0abd890adacc",
+          "subject": "Sydney BareMetal Platform Emergency Maintenance ",
+          "status": "ongoing",
+          "start_date": "2022-07-06T21:11:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2022-07-06T21:11:00+00:00",
+              "message": "Event Type: BareMetal Platform Emergency Maintenance\r\n\r\nWe are performing system changes in the Sydney location during the following emergency maintenance window. \r\n\r\nStart Time: 2022-07-06 21:10:00 UTC\r\nEnd Time: 2022-07-06 01:10:00 UTC\r\n\r\nWe are currently performing Emergency Maintenance on our Bare Metal platform in our Sydney location.\r\n\r\nServers will remain powered on and there will be no interruption to Public or VPC network connectivity, however system controls will be affected.  During this Maintenance Window you will be unable to issue Power On/Off/Cycle commands, access the VNC Console, deploy new servers, or reinstall existing subscriptions.\r\n\r\nWe apologize for the inconvenience, but appreciate your understanding while we work to solve this issue."
+            }
+          ]
+        }
+      ]
     },
     "nrt": {
       "location": "Tokyo",
