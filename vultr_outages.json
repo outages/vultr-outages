@@ -41,7 +41,7 @@
         {
           "id": "8ea3177b-b318-4bf4-987f-ef2d48927ad8",
           "subject": "Dallas Scheduled Maintenance - 2022-07-06",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2022-07-01T10:54:00+00:00",
           "updated_at": "",
           "entries": [
