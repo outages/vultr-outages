@@ -127,7 +127,21 @@
       "location": "London",
       "country": "GB",
       "country_name": "United Kingdom",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "ec75bdc4-7add-4209-9311-6157db7a3293",
+          "subject": "London Outage",
+          "status": "ongoing",
+          "start_date": "2022-07-07T06:33:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2022-07-07T06:33:00+00:00",
+              "message": "We are currently experiencing a partial outage in our London location. Our System Administrators are actively working with our onsite technicians to restore service as quickly as possible."
+            }
+          ]
+        }
+      ]
     },
     "lax": {
       "location": "Los Angeles",
