@@ -249,7 +249,7 @@
         {
           "id": "acb45000-9bf5-48a3-a263-0abd890adacc",
           "subject": "Sydney BareMetal Platform Emergency Maintenance ",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2022-07-06T21:11:00+00:00",
           "updated_at": "",
           "entries": [
