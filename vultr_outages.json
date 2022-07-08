@@ -50,23 +50,6 @@
       "country_name": "United States",
       "alerts": [
         {
-          "id": "66e28402-66e5-405f-a0a0-f38a95990cc0",
-          "subject": "Chicago BareMetal Platform Emergency Maintenance ",
-          "status": "resolved",
-          "start_date": "2022-07-06T17:13:00+00:00",
-          "updated_at": "2022-07-06T21:34:00+00:00",
-          "entries": [
-            {
-              "updated_at": "2022-07-06T21:34:00+00:00",
-              "message": "Service has been restored and normal functions returned at this time"
-            },
-            {
-              "updated_at": "2022-07-06T17:13:00+00:00",
-              "message": "Event Type: BareMetal Platform Emergency Maintenance\r\n\r\nWe are performing system changes in the Chicago location during the following emergency maintenance window. \r\n\r\nStart Time: 2022-07-06 16:40:00 UTC\r\nEnd Time: 2022-07-06 20:40:00 UTC\r\n\r\nWe are currently performing Emergency Maintenance on our Bare Metal platform in our Chicago location.\r\n\r\nServers will remain powered on and there will be no interruption to Public or VPC network connectivity, however system controls will be affected.  During this Maintenance Window you will be unable to issue Power On/Off/Cycle commands, access the VNC Console, deploy new servers, or reinstall existing subscriptions.\r\n\r\nWe apologize for the inconvenience, but appreciate your understanding while we work to solve this issue."
-            }
-          ]
-        },
-        {
           "id": "26564ebf-23cf-48f1-abac-2e2585bd8b55",
           "subject": "Chicago Scheduled Maintenance - 2022-07-09",
           "status": "ongoing",
