@@ -42,7 +42,7 @@
       "subject": "Seoul Emergency Maintenance - 2022-07-07",
       "start_date": "2022-07-07T12:38:00+00:00",
       "updated_at": "2022-07-08T10:39:00+00:00",
-      "status": "ongoing",
+      "status": "resolved",
       "entries": [
         {
           "updated_at": "2022-07-08T10:39:00+00:00",
@@ -60,7 +60,7 @@
       "subject": "London Outage",
       "start_date": "2022-07-07T06:33:00+00:00",
       "updated_at": "",
-      "status": "ongoing",
+      "status": "resolved",
       "entries": [
         {
           "updated_at": "2022-07-07T06:33:00+00:00",
