@@ -5,9 +5,13 @@
       "region": "fra",
       "subject": "Frankfurt Scheduled Maintenance - 2022-07-11",
       "start_date": "2022-07-06T15:35:00+00:00",
-      "updated_at": "",
+      "updated_at": "2022-07-11T15:51:00+00:00",
       "status": "ongoing",
       "entries": [
+        {
+          "updated_at": "2022-07-11T15:51:00+00:00",
+          "message": "This maintenance window is being closed at this time. No actions were taken and all services remain up and available"
+        },
         {
           "updated_at": "2022-07-06T15:35:00+00:00",
           "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Frankfurt location during the following scheduled maintenance window. \r\n\r\nStart Time: 2022-07-11 15:00:00 UTC\r\nEnd Time: 2022-07-11 20:00:00 UTC\r\n\r\n\r\nWe will be performing infrastructure upgrades in our Frankfurt location as part of an ongoing effort to maintain an ideal hosting environment.\r\n\r\nDuring this time, the following will be affected:\r\n\r\n• Bare Metal deploys will be disabled while maintenance is ongoing.\r\n• Server power actions and VNC console access may be affected.\r\n\r\nPreviously deployed servers in Frankfurt will remain online without interruption and will not be impacted by this event."
