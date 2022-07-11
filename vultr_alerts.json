@@ -1,24 +1,6 @@
 {
   "service_alerts": [
     {
-      "id": "c1e2ca4d-5852-4aca-9746-cda332516724",
-      "region": "icn",
-      "subject": "Seoul Emergency Maintenance - 2022-07-07",
-      "start_date": "2022-07-07T12:38:00+00:00",
-      "updated_at": "2022-07-08T10:39:00+00:00",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2022-07-08T10:39:00+00:00",
-          "message": "Thank you for your patience. All functionality is being returned at this time."
-        },
-        {
-          "updated_at": "2022-07-07T12:38:00+00:00",
-          "message": "Event Type: Network Emergency\r\n\r\nWe are performing system changes in the Seoul location during the following emergency maintenance window. \r\n\r\nStart Time: 2022-07-07 12:30:00 UTC\r\nEnd Time: 2022-07-07 17:30:00 UTC\r\n\r\nServers will remain powered on and there will be no interruption to Public or VPC network connectivity, however system controls will be affected.  During this Maintenance Window you will be unable to issue Power On/Off/Cycle commands, access the VNC Console, deploy new servers, or reinstall existing subscriptions.\r\n\r\nWe apologize for the inconvenience, but appreciate your understanding while we work to solve this issue."
-        }
-      ]
-    },
-    {
       "id": "ec75bdc4-7add-4209-9311-6157db7a3293",
       "region": "lhr",
       "subject": "London Outage",
