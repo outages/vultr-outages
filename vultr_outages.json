@@ -86,7 +86,21 @@
       "location": "London",
       "country": "GB",
       "country_name": "United Kingdom",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "3d48c054-b304-4337-a07e-fae7a9de4b34",
+          "subject": "London Scheduled Maintenance - 2022-07-19",
+          "status": "ongoing",
+          "start_date": "2022-07-11T18:35:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2022-07-11T18:35:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the London location during the following scheduled maintenance window. \r\n\r\nStart Time: 2022-07-19 22:00:00 UTC\r\nEnd Time: 2022-07-20 02:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, London instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        }
+      ]
     },
     "lax": {
       "location": "Los Angeles",

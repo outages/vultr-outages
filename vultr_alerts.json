@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "3d48c054-b304-4337-a07e-fae7a9de4b34",
+      "region": "lhr",
+      "subject": "London Scheduled Maintenance - 2022-07-19",
+      "start_date": "2022-07-11T18:35:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2022-07-11T18:35:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the London location during the following scheduled maintenance window. \r\n\r\nStart Time: 2022-07-19 22:00:00 UTC\r\nEnd Time: 2022-07-20 02:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, London instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
       "id": "f798d5d5-63f2-4f31-b465-79614af86ea6",
       "region": "fra",
       "subject": "Frankfurt Scheduled Maintenance - 2022-07-11",
