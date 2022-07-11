@@ -1,20 +1,6 @@
 {
   "service_alerts": [
     {
-      "id": "ec75bdc4-7add-4209-9311-6157db7a3293",
-      "region": "lhr",
-      "subject": "London Outage",
-      "start_date": "2022-07-07T06:33:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2022-07-07T06:33:00+00:00",
-          "message": "We are currently experiencing a partial outage in our London location. Our System Administrators are actively working with our onsite technicians to restore service as quickly as possible."
-        }
-      ]
-    },
-    {
       "id": "f798d5d5-63f2-4f31-b465-79614af86ea6",
       "region": "fra",
       "subject": "Frankfurt Scheduled Maintenance - 2022-07-11",
