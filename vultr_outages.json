@@ -47,7 +47,7 @@
         {
           "id": "f798d5d5-63f2-4f31-b465-79614af86ea6",
           "subject": "Frankfurt Scheduled Maintenance - 2022-07-11",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2022-07-06T15:35:00+00:00",
           "updated_at": "2022-07-11T15:51:00+00:00",
           "entries": [
