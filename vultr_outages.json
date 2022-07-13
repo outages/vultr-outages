@@ -188,7 +188,21 @@
       "location": "Toronto",
       "country": "CA",
       "country_name": "Canada",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "b957d6f3-c164-4efa-9bc7-e296a001f2e6",
+          "subject": "Toronto Emergency Maintenance - 2022-07-13",
+          "status": "ongoing",
+          "start_date": "2022-07-13T12:39:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2022-07-13T12:39:00+00:00",
+              "message": "Event Type: Network Emergency\r\n\r\nWe are performing BareMetal system changes in the Toronto location during the following emergency maintenance window.\r\n\r\nStart Time: 2022-07-13 12:25:00 UTC\r\nEnd Time: 2022-07-13 17:25:00 UTC\r\n\r\nServers will remain powered on and there will be no interruption to Public or VPC network connectivity, however system controls will be affected.  During this Maintenance Window you will be unable to issue Power On/Off/Cycle commands, access the VNC Console, deploy new servers, or reinstall existing subscriptions.\r\n\r\nWe apologize for the inconvenience, but appreciate your understanding while we work to solve this issue."
+            }
+          ]
+        }
+      ]
     },
     "waw": {
       "location": "Warsaw",
