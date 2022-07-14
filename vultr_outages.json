@@ -155,7 +155,21 @@
       "location": "Silicon Valley",
       "country": "US",
       "country_name": "United States",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "34f89535-358c-42a4-a546-e0135df79cd6",
+          "subject": "Silicon Valley Emergency Maintenance - 2022-07-14",
+          "status": "ongoing",
+          "start_date": "2022-07-14T12:35:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2022-07-14T12:35:00+00:00",
+              "message": "Event Type: Network Emergency\r\n\r\nWe are performing system changes in the Silicon Valley location during the following emergency maintenance window. \r\n\r\n\r\nStart Time: 2022-07-14 12:30:00 UTC\r\nEnd Time: 2022-07-14 17:30:00 UTC\r\n\r\n\r\nServers will remain powered on and there will be no interruption to Public or VPC network connectivity, however system controls will be affected.  During this Maintenance Window you will be unable to issue Power On/Off/Cycle commands, access the VNC Console, deploy new servers, or reinstall existing subscriptions.\r\n\r\nWe apologize for the inconvenience, but appreciate your understanding while we work to solve this issue."
+            }
+          ]
+        }
+      ]
     },
     "sgp": {
       "location": "Singapore",
