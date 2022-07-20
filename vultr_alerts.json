@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "80a1cd5f-ea5e-4111-8323-c255006ebc7f",
+      "region": "lhr",
+      "subject": "Partial Outage",
+      "start_date": "2022-07-20T12:11:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2022-07-20T12:11:00+00:00",
+          "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
+        }
+      ]
+    },
+    {
       "id": "7eb51fa6-660a-41e4-bff2-4132dd444b30",
       "region": "sea",
       "subject": "Seattle Scheduled Maintenance - 2022-07-20",
