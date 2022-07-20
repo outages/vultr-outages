@@ -13,12 +13,29 @@
       "country_name": "United States",
       "alerts": [
         {
-          "id": "19c0110e-b074-40ce-896f-c41d1ba11e47",
-          "subject": "Atlanta Baremetal Scheduled Maintenance - 2022-07-25",
+          "id": "568ee3cc-deca-4771-b1c2-9c50af55b671",
+          "subject": "Atlanta Scheduled Maintenance - 2022-07-25",
           "status": "ongoing",
-          "start_date": "2022-07-20T15:29:00+00:00",
+          "start_date": "2022-07-20T18:18:00+00:00",
           "updated_at": "",
           "entries": [
+            {
+              "updated_at": "2022-07-20T18:18:00+00:00",
+              "message": "Updated*** Event Type: Network Upgrade\r\n\r\nWe are performing Bare metal system changes in the Atlanta location during the following scheduled maintenance window. \r\n\r\nStart Time: 2022-07-25 18:00:00 UTC\r\nEnd Time: 2022-07-25 22:00:00 UTC\r\n\r\n\r\nServers will remain powered on and there will be no interruption to Public or VPC network connectivity, however system controls will be affected.  During this Maintenance Window you will be unable to issue Power On/Off/Cycle commands, access the VNC Console, deploy new servers, or reinstall existing subscriptions."
+            }
+          ]
+        },
+        {
+          "id": "19c0110e-b074-40ce-896f-c41d1ba11e47",
+          "subject": "Atlanta Baremetal Scheduled Maintenance - 2022-07-25",
+          "status": "resolved",
+          "start_date": "2022-07-20T15:29:00+00:00",
+          "updated_at": "2022-07-20T18:11:00+00:00",
+          "entries": [
+            {
+              "updated_at": "2022-07-20T18:11:00+00:00",
+              "message": "This alert specified an incorrect date for this upcoming maintenance window. We apologize for this and will be creating a new alert with the corrected date of 7/25/2022."
+            },
             {
               "updated_at": "2022-07-20T15:29:00+00:00",
               "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Atlanta location during the following scheduled maintenance window. \r\n\r\nStart Time: 2022-07-25 19:00:00 UTC\r\nEnd Time: 2022-07-25 23:00:00 UTC\r\n\r\nServers will remain powered on and there will be no interruption to Public or VPC network connectivity, however system controls will be affected.  During this Maintenance Window you will be unable to issue Power On/Off/Cycle commands, access the VNC Console, deploy new servers, or reinstall existing subscriptions."
@@ -56,19 +73,6 @@
       "country": "GB",
       "country_name": "United Kingdom",
       "alerts": [
-        {
-          "id": "80a1cd5f-ea5e-4111-8323-c255006ebc7f",
-          "subject": "Partial Outage",
-          "status": "ongoing",
-          "start_date": "2022-07-20T12:11:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2022-07-20T12:11:00+00:00",
-              "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
-            }
-          ]
-        },
         {
           "id": "3d48c054-b304-4337-a07e-fae7a9de4b34",
           "subject": "London Scheduled Maintenance - 2022-07-19",
