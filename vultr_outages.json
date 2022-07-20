@@ -11,7 +11,21 @@
       "location": "Atlanta",
       "country": "US",
       "country_name": "United States",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "19c0110e-b074-40ce-896f-c41d1ba11e47",
+          "subject": "Atlanta Baremetal Scheduled Maintenance - 2022-12-25",
+          "status": "ongoing",
+          "start_date": "2022-07-20T15:29:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2022-07-20T15:29:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Atlanta location during the following scheduled maintenance window. \r\n\r\nStart Time: 2022-12-25 19:00:00 UTC\r\nEnd Time: 2022-12-25 23:00:00 UTC\r\n\r\nServers will remain powered on and there will be no interruption to Public or VPC network connectivity, however system controls will be affected.  During this Maintenance Window you will be unable to issue Power On/Off/Cycle commands, access the VNC Console, deploy new servers, or reinstall existing subscriptions."
+            }
+          ]
+        }
+      ]
     },
     "ord": {
       "location": "Chicago",
@@ -178,7 +192,21 @@
       "location": "Tokyo",
       "country": "JP",
       "country_name": "Japan",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "ab7fd27d-217e-4949-8994-fde7339d681f",
+          "subject": "Tokyo Baremetal Scheduled Maintenance - 2022-07-25",
+          "status": "ongoing",
+          "start_date": "2022-07-20T15:25:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2022-07-20T15:25:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing Baremetal system changes in the Tokyo location during the following scheduled maintenance window. \r\n\r\nStart Time: 2022-07-25 16:00:00 UTC\r\nEnd Time: 2022-07-25 20:00:00 UTC\r\n\r\n\r\nBaremetal servers will remain powered on and there will be no interruption to Public or VPC network connectivity, however system controls will be affected.  During this Maintenance Window you will be unable to issue Power On/Off/Cycle commands, access the VNC Console, deploy new servers, or reinstall existing subscriptions.\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Tokyo instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        }
+      ]
     },
     "yto": {
       "location": "Toronto",
