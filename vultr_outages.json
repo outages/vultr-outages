@@ -150,7 +150,7 @@
         {
           "id": "7eb51fa6-660a-41e4-bff2-4132dd444b30",
           "subject": "Seattle Scheduled Maintenance - 2022-07-20",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2022-07-13T18:26:00+00:00",
           "updated_at": "",
           "entries": [
