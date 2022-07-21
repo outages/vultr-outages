@@ -25,7 +25,21 @@
       "location": "Amsterdam",
       "country": "NL",
       "country_name": "Netherlands",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "3ea4c532-eff5-4788-8d94-e26c3f9bdfe0",
+          "subject": "Amsterdam Partial Deployment and Platform Outage",
+          "status": "ongoing",
+          "start_date": "2022-07-21T20:14:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2022-07-21T20:14:00+00:00",
+              "message": "Some customers are currently experiencing platform issues in our Amsterdam location.  New deployments and platform-related actions may be unavailable.  Our engineering team is aware of this issue and is working diligently to resolve this as quickly as possible."
+            }
+          ]
+        }
+      ]
     },
     "atl": {
       "location": "Atlanta",
