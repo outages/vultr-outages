@@ -1,6 +1,26 @@
 {
   "service_alerts": [],
   "regions": {
+    "global": {
+      "location": "All Locations",
+      "country": "ALL",
+      "country_name": "Global",
+      "alerts": [
+        {
+          "id": "8ceea9f8-8043-4285-92f8-0dd7f3a79473",
+          "subject": "Global Deployment Delays",
+          "status": "ongoing",
+          "start_date": "2022-07-21T18:51:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2022-07-21T18:51:00+00:00",
+              "message": "Some customers are currently unable to deploy in all locations. Our engineering team is aware of this issue and is working diligently to resolve this as quickly as possible."
+            }
+          ]
+        }
+      ]
+    },
     "ams": {
       "location": "Amsterdam",
       "country": "NL",
@@ -128,7 +148,21 @@
       "location": "New Jersey",
       "country": "US",
       "country_name": "United States",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "3b3b0bb6-0ced-4470-aa58-b1b35febb961",
+          "subject": "Partial Outage",
+          "status": "ongoing",
+          "start_date": "2022-07-21T18:46:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2022-07-21T18:46:00+00:00",
+              "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
+            }
+          ]
+        }
+      ]
     },
     "cdg": {
       "location": "Paris",

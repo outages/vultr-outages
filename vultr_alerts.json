@@ -1,6 +1,34 @@
 {
   "service_alerts": [
     {
+      "id": "8ceea9f8-8043-4285-92f8-0dd7f3a79473",
+      "region": "global",
+      "subject": "Global Deployment Delays",
+      "start_date": "2022-07-21T18:51:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2022-07-21T18:51:00+00:00",
+          "message": "Some customers are currently unable to deploy in all locations. Our engineering team is aware of this issue and is working diligently to resolve this as quickly as possible."
+        }
+      ]
+    },
+    {
+      "id": "3b3b0bb6-0ced-4470-aa58-b1b35febb961",
+      "region": "ewr",
+      "subject": "Partial Outage",
+      "start_date": "2022-07-21T18:46:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2022-07-21T18:46:00+00:00",
+          "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
+        }
+      ]
+    },
+    {
       "id": "4329d89a-e12b-4d29-8bfe-76a548674fe2",
       "region": "sjc",
       "subject": "Silicon Valley Emergency Maintenance - 2022-07-21",
