@@ -61,24 +61,6 @@
       ]
     },
     {
-      "id": "19c0110e-b074-40ce-896f-c41d1ba11e47",
-      "region": "atl",
-      "subject": "Atlanta Baremetal Scheduled Maintenance - 2022-07-25",
-      "start_date": "2022-07-20T15:29:00+00:00",
-      "updated_at": "2022-07-20T18:11:00+00:00",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2022-07-20T18:11:00+00:00",
-          "message": "This alert specified an incorrect date for this upcoming maintenance window. We apologize for this and will be creating a new alert with the corrected date of 7/25/2022."
-        },
-        {
-          "updated_at": "2022-07-20T15:29:00+00:00",
-          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Atlanta location during the following scheduled maintenance window. \r\n\r\nStart Time: 2022-07-25 19:00:00 UTC\r\nEnd Time: 2022-07-25 23:00:00 UTC\r\n\r\nServers will remain powered on and there will be no interruption to Public or VPC network connectivity, however system controls will be affected.  During this Maintenance Window you will be unable to issue Power On/Off/Cycle commands, access the VNC Console, deploy new servers, or reinstall existing subscriptions."
-        }
-      ]
-    },
-    {
       "id": "ab7fd27d-217e-4949-8994-fde7339d681f",
       "region": "nrt",
       "subject": "Tokyo Baremetal Scheduled Maintenance - 2022-07-25",
