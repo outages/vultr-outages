@@ -148,21 +148,7 @@
       "location": "New Jersey",
       "country": "US",
       "country_name": "United States",
-      "alerts": [
-        {
-          "id": "3b3b0bb6-0ced-4470-aa58-b1b35febb961",
-          "subject": "Partial Outage",
-          "status": "ongoing",
-          "start_date": "2022-07-21T18:46:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2022-07-21T18:46:00+00:00",
-              "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "cdg": {
       "location": "Paris",
