@@ -29,24 +29,6 @@
       ]
     },
     {
-      "id": "4329d89a-e12b-4d29-8bfe-76a548674fe2",
-      "region": "sjc",
-      "subject": "Silicon Valley Emergency Maintenance - 2022-07-21",
-      "start_date": "2022-07-21T15:53:00+00:00",
-      "updated_at": "2022-07-21T18:03:00+00:00",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2022-07-21T18:03:00+00:00",
-          "message": "Thank you for your patience all functions are returned at this time"
-        },
-        {
-          "updated_at": "2022-07-21T15:53:00+00:00",
-          "message": "Event Type: Network Emergency\r\n\r\nWe are performing Baremetal system changes in the Silicon Valley location during the following emergency maintenance window. \r\n\r\nStart Time: 2022-07-21 16:00:00 UTC\r\nEnd Time: 2022-07-21 21:00:00 UTC\r\n\r\nServers will remain powered on and there will be no interruption to Public or VPC network connectivity, however system controls will be affected.  During this Maintenance Window you will be unable to issue Power On/Off/Cycle commands, access the VNC Console, deploy new servers, or reinstall existing subscriptions."
-        }
-      ]
-    },
-    {
       "id": "568ee3cc-deca-4771-b1c2-9c50af55b671",
       "region": "atl",
       "subject": "Atlanta Scheduled Maintenance - 2022-07-25",
