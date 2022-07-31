@@ -85,7 +85,21 @@
       "location": "Miami",
       "country": "US",
       "country_name": "United States",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "8de635ed-769d-4f8c-9d29-1965bd404b38",
+          "subject": "Partial Outage",
+          "status": "ongoing",
+          "start_date": "2022-07-31T19:09:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2022-07-31T19:09:00+00:00",
+              "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
+            }
+          ]
+        }
+      ]
     },
     "bom": {
       "location": "Mumbai",
