@@ -1,22 +1,3 @@
 {
-  "service_alerts": [
-    {
-      "id": "246f7195-5c5d-4655-97c2-3437719e4500",
-      "region": "mia",
-      "subject": "Miami Degraded Network Performance",
-      "start_date": "2022-08-08T04:06:00+00:00",
-      "updated_at": "2022-08-08T04:07:00+00:00",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2022-08-08T04:07:00+00:00",
-          "message": "closing"
-        },
-        {
-          "updated_at": "2022-08-08T04:06:00+00:00",
-          "message": "Switch back in service"
-        }
-      ]
-    }
-  ]
+  "service_alerts": []
 }
