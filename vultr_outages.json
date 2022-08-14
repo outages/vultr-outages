@@ -17,7 +17,21 @@
       "location": "Chicago",
       "country": "US",
       "country_name": "United States",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "026ec16a-888e-48fb-b690-ac0cd6a71115",
+          "subject": "Chicago Outage",
+          "status": "ongoing",
+          "start_date": "2022-08-14T23:43:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2022-08-14T23:43:00+00:00",
+              "message": "We are currently experiencing a partial outage in our Chicago location. \r\nThis is mainly affecting new server deployments and snapshot restorations. \r\n\r\nOur System Administrators are actively working with our onsite technicians to restore service as quickly as possible."
+            }
+          ]
+        }
+      ]
     },
     "dfw": {
       "location": "Dallas",
