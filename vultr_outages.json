@@ -21,7 +21,7 @@
         {
           "id": "026ec16a-888e-48fb-b690-ac0cd6a71115",
           "subject": "Chicago Outage",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2022-08-14T23:43:00+00:00",
           "updated_at": "",
           "entries": [
