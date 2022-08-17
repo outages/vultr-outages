@@ -47,9 +47,13 @@
       "region": "mia",
       "subject": "Miami Scheduled Maintenance - 2022-08-17",
       "start_date": "2022-08-11T16:04:00+00:00",
-      "updated_at": "",
-      "status": "ongoing",
+      "updated_at": "2022-08-17T18:17:00+00:00",
+      "status": "resolved",
       "entries": [
+        {
+          "updated_at": "2022-08-17T18:17:00+00:00",
+          "message": "Thank you for your patience. At this time all functionality has been restored and Bare Metal controls enabled"
+        },
         {
           "updated_at": "2022-08-11T16:04:00+00:00",
           "message": "Event Type: Network Maintenance\r\n\r\nWe are performing BareMetal system changes in the Miami location during the following maintenance window. \r\n\r\nStart Time: 2022-08-17 16:00:00 UTC\r\nEnd Time: 2022-08-17 22:00:00 UTC\r\n\r\n\r\nServers will remain powered on and there will be no interruption to Public or VPC network connectivity, however system controls will be affected.  During this Maintenance Window you will be unable to issue Power On/Off/Cycle commands, access the VNC Console, deploy new servers, or reinstall existing subscriptions."
