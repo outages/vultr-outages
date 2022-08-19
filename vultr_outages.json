@@ -41,21 +41,7 @@
       "location": "London",
       "country": "GB",
       "country_name": "United Kingdom",
-      "alerts": [
-        {
-          "id": "9868cfd9-dcd0-4b44-be8d-67cb913afcec",
-          "subject": "London Scheduled Maintenance - 2022-08-16",
-          "status": "resolved",
-          "start_date": "2022-08-11T18:45:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2022-08-11T18:45:00+00:00",
-              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the London location during the following scheduled maintenance window. \r\n\r\nStart Time: 2022-08-16 23:00:00 UTC\r\nEnd Time: 2022-08-17 01:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to London instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "lax": {
       "location": "Los Angeles",
