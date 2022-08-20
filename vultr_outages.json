@@ -127,25 +127,7 @@
       "location": "Silicon Valley",
       "country": "US",
       "country_name": "United States",
-      "alerts": [
-        {
-          "id": "ccd17c5c-afee-42d1-9d63-1fc72f925511",
-          "subject": "Silicon Valley Scheduled Maintenance - 2022-08-18",
-          "status": "resolved",
-          "start_date": "2022-08-11T16:09:00+00:00",
-          "updated_at": "2022-08-18T20:50:00+00:00",
-          "entries": [
-            {
-              "updated_at": "2022-08-18T20:50:00+00:00",
-              "message": "This will need to be re-scheduled. services should be restored"
-            },
-            {
-              "updated_at": "2022-08-11T16:09:00+00:00",
-              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing Bare Metal system changes in the Silicon Valley location during the following scheduled maintenance window. \r\n\r\nStart Time: 2022-08-18 16:00:00 UTC\r\nEnd Time: 2022-08-18 22:00:00 UTC\r\n\r\nServers will remain powered on and there will be no interruption to Public or VPC network connectivity, however system controls will be affected.  During this Maintenance Window you will be unable to issue Power On/Off/Cycle commands, access the VNC Console, deploy new servers, or reinstall existing subscriptions."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "sgp": {
       "location": "Singapore",
