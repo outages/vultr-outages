@@ -13,6 +13,12 @@
       "country_name": "United States",
       "alerts": []
     },
+    "blr": {
+      "location": "Bangalore",
+      "country": "IN",
+      "country_name": "India",
+      "alerts": []
+    },
     "ord": {
       "location": "Chicago",
       "country": "US",
