@@ -139,7 +139,21 @@
       "location": "Singapore",
       "country": "SG",
       "country_name": "Singapore",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "8572b426-e6c1-407e-b4b3-e9067d9b2f8e",
+          "subject": "Singapore Scheduled Maintenance - 2022-09-07",
+          "status": "ongoing",
+          "start_date": "2022-09-01T15:11:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2022-09-01T15:11:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Singapore location during the following scheduled maintenance window. \r\n\r\nStart Time: 2022-09-07 16:00:00 UTC\r\nEnd Time: 2022-09-07 20:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Singapore instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+            }
+          ]
+        }
+      ]
     },
     "sto": {
       "location": "Stockholm",
@@ -151,7 +165,21 @@
       "location": "Sydney",
       "country": "AU",
       "country_name": "Australia",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "2c05b0d6-2d19-47f0-87f3-a1aed559fe38",
+          "subject": "Sydney Scheduled Maintenance - 2022-09-06",
+          "status": "ongoing",
+          "start_date": "2022-09-01T15:07:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2022-09-01T15:07:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Sydney location during the following scheduled maintenance window. \r\n\r\nStart Time: 2022-09-06 15:00:00 UTC\r\nEnd Time: 2022-09-06 19:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Sydney instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+            }
+          ]
+        }
+      ]
     },
     "nrt": {
       "location": "Tokyo",
