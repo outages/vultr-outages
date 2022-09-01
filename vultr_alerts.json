@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "7c787cf1-ccab-4c08-a978-7168ffd5de70",
+      "region": "lhr",
+      "subject": "London Scheduled Maintenance - 2022-09-12",
+      "start_date": "2022-09-01T16:34:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2022-09-01T16:34:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the London location during the following scheduled maintenance window. \r\n\r\nStart Time: 2022-09-12 23:00:00 UTC\r\nEnd Time: 2022-09-13 03:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to London instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+        }
+      ]
+    },
+    {
       "id": "bf493334-77b4-4106-a3b1-ee61b42208c3",
       "region": "ord",
       "subject": "Chicago Scheduled Maintenance - 2022-09-08",
