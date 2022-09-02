@@ -49,21 +49,7 @@
       "location": "Frankfurt",
       "country": "DE",
       "country_name": "Germany",
-      "alerts": [
-        {
-          "id": "15c66230-2bbb-4075-bf48-0fb16ff73cc6",
-          "subject": "Frankfurt Scheduled Maintenance - 2022-08-30",
-          "status": "resolved",
-          "start_date": "2022-08-22T16:24:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2022-08-22T16:24:00+00:00",
-              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Frankfurt location during the following scheduled maintenance window. \r\n\r\nStart Time: 2022-08-30 22:00:00 UTC\r\nEnd Time: 2022-08-31 02:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Frankfurt instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "hnl": {
       "location": "Honolulu",
