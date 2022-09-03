@@ -155,6 +155,19 @@
       "country_name": "Singapore",
       "alerts": [
         {
+          "id": "c4490995-18ac-4b61-8c77-e459bf9b1fdd",
+          "subject": "Partial Outage",
+          "status": "ongoing",
+          "start_date": "2022-09-03T14:46:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2022-09-03T14:46:00+00:00",
+              "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
+            }
+          ]
+        },
+        {
           "id": "8572b426-e6c1-407e-b4b3-e9067d9b2f8e",
           "subject": "Singapore Scheduled Maintenance - 2022-09-07",
           "status": "ongoing",
