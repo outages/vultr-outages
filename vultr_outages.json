@@ -192,7 +192,7 @@
         {
           "id": "2c05b0d6-2d19-47f0-87f3-a1aed559fe38",
           "subject": "Sydney Scheduled Maintenance - 2022-09-06",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2022-09-01T15:07:00+00:00",
           "updated_at": "",
           "entries": [
