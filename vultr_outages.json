@@ -5,16 +5,7 @@
       "location": "Amsterdam",
       "country": "NL",
       "country_name": "Netherlands",
-      "alerts": [
-        {
-          "id": "3eb6a3bc-f662-454c-878a-eb93348286ec",
-          "subject": "Amsterdam Outage",
-          "status": "resolved",
-          "start_date": "2022-09-05T20:45:00+00:00",
-          "updated_at": "",
-          "entries": []
-        }
-      ]
+      "alerts": []
     },
     "atl": {
       "location": "Atlanta",

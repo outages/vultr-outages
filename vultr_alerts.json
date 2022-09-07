@@ -43,15 +43,6 @@
       ]
     },
     {
-      "id": "3eb6a3bc-f662-454c-878a-eb93348286ec",
-      "region": "ams",
-      "subject": "Amsterdam Outage",
-      "start_date": "2022-09-05T20:45:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": []
-    },
-    {
       "id": "7c787cf1-ccab-4c08-a978-7168ffd5de70",
       "region": "lhr",
       "subject": "London Scheduled Maintenance - 2022-09-12",
