@@ -59,6 +59,12 @@
         }
       ]
     },
+    "del": {
+      "location": "Delhi NCR",
+      "country": "IN",
+      "country_name": "India",
+      "alerts": []
+    },
     "fra": {
       "location": "Frankfurt",
       "country": "DE",
