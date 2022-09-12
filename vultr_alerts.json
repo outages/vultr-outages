@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "ac52c6b5-47b2-4706-ae0d-3eebd3d00b9e",
+      "region": "del",
+      "subject": "Delhi NCR Scheduled Maintenance - 2022-09-22",
+      "start_date": "2022-09-12T20:14:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2022-09-12T20:14:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Delhi NCR location during the following scheduled maintenance window. \r\n\r\nStart Time: 2022-09-22 20:00:00 UTC\r\nEnd Time: 2022-09-23 24:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Delhi NCR instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
       "id": "3f03187a-fb60-46a5-9166-863c781be7b3",
       "region": "blr",
       "subject": "Bangalore Scheduled Maintenance - 2022-09-19",
