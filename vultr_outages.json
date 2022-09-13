@@ -113,7 +113,7 @@
         {
           "id": "7c787cf1-ccab-4c08-a978-7168ffd5de70",
           "subject": "London Scheduled Maintenance - 2022-09-12",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2022-09-01T16:34:00+00:00",
           "updated_at": "",
           "entries": [
