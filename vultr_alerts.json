@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "391fb3bf-c2e2-44cc-b65f-0f906b6330b5",
+      "region": "ams",
+      "subject": "Amsterdam Scheduled Maintenance - 2022-09-21",
+      "start_date": "2022-09-16T15:21:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2022-09-16T15:21:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Amsterdam location during the following scheduled maintenance window. \r\n\r\nStart Time: 2022-09-21 22:00:00 UTC\r\nEnd Time: 2022-09-22 02:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Amsterdam instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+        }
+      ]
+    },
+    {
       "id": "758d9735-a5c2-4305-8e82-dee0e298eb61",
       "region": "ord",
       "subject": "Chicago Scheduled Maintenance - 2022-09-21",
@@ -53,20 +67,6 @@
         {
           "updated_at": "2022-09-12T18:14:00+00:00",
           "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Stockholm location during the following scheduled maintenance window. \r\n\r\nStart Time: 2022-09-19 23:00:00 UTC\r\nEnd Time: 2022-09-20 03:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Stockholm instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
-        }
-      ]
-    },
-    {
-      "id": "f92ddd9f-dc30-4386-ab27-38d0984ff91b",
-      "region": "mel",
-      "subject": "Melbourne Scheduled Maintenance - 2022-09-14",
-      "start_date": "2022-09-07T14:42:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2022-09-07T14:42:00+00:00",
-          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Melbourne location during the following scheduled maintenance window. \r\n\r\nStart Time: 2022-09-14 15:00:00 UTC\r\nEnd Time: 2022-09-14 19:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Melbourne instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
         }
       ]
     }
