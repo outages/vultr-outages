@@ -47,9 +47,13 @@
       "region": "blr",
       "subject": "Bangalore Scheduled Maintenance - 2022-09-19",
       "start_date": "2022-09-12T18:56:00+00:00",
-      "updated_at": "",
-      "status": "ongoing",
+      "updated_at": "2022-09-20T01:34:00+00:00",
+      "status": "resolved",
       "entries": [
+        {
+          "updated_at": "2022-09-20T01:34:00+00:00",
+          "message": "Maintenance in Bangalore completed was able to upgrade ER1 and DS1.  Verified and all services are running ok.\r\nER2 and DS2  OS Upgrade will be schedule for next week."
+        },
         {
           "updated_at": "2022-09-12T18:56:00+00:00",
           "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Bangalore location during the following scheduled maintenance window. \r\n\r\nStart Time: 2022-09-19 22:00:00 UTC\r\nEnd Time: 2022-09-20 02:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Bangalore instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
