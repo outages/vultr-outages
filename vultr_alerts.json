@@ -1,16 +1,16 @@
 {
   "service_alerts": [
     {
-      "id": "4043f21b-081b-4332-835b-b1391402f28e",
-      "region": "global",
-      "subject": "New Bare Metal Server Deployment Delays",
-      "start_date": "2022-09-20T08:43:00+00:00",
+      "id": "b93cef65-e66e-4b7d-a827-393f8f0becfc",
+      "region": "icn",
+      "subject": "Seoul Scheduled Maintenance - 2022-09-27",
+      "start_date": "2022-09-22T17:30:00+00:00",
       "updated_at": "",
-      "status": "resolved",
+      "status": "ongoing",
       "entries": [
         {
-          "updated_at": "2022-09-20T08:43:00+00:00",
-          "message": "We have received reports from customers regarding delays when creating new Bare Metal server deployments.\r\n\r\nOur developers are aware of the issue and are working diligently to resolve this as quickly as possible.\r\n\r\nThis issue only impacts the creation of new Bare Metal deployments. Current deployments are unaffected."
+          "updated_at": "2022-09-22T17:30:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Seoul location during the following scheduled maintenance window. \r\n\r\nStart Time: 2022-09-27 15:00:00 UTC\r\nEnd Time: 2022-09-27 19:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Seoul instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
         }
       ]
     },
