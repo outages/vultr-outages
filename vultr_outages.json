@@ -7,9 +7,22 @@
       "country_name": "Global",
       "alerts": [
         {
+          "id": "6bc5d493-49ab-4e9d-8157-2b14cb2ebea4",
+          "subject": "Investigating VKE Configuration Download issue",
+          "status": "ongoing",
+          "start_date": "2022-10-06T02:19:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2022-10-06T02:19:00+00:00",
+              "message": "We are currently aware of issues regarding the configuration download for newly created VKE instances. Access to said instances may be blocked until this issue is resolved. Older, already existing instances should not be affected."
+            }
+          ]
+        },
+        {
           "id": "f344f17b-542d-4ca3-af7c-cce6986b686b",
           "subject": "New Jersey Object Storage Cluster Maintenance",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2022-09-29T18:29:00+00:00",
           "updated_at": "",
           "entries": [
@@ -119,7 +132,7 @@
         {
           "id": "f344f17b-542d-4ca3-af7c-cce6986b686b",
           "subject": "New Jersey Object Storage Cluster Maintenance",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2022-09-29T18:29:00+00:00",
           "updated_at": "",
           "entries": [
