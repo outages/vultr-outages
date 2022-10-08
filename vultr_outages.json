@@ -18,19 +18,6 @@
               "message": "We are currently aware of issues regarding the configuration download for newly created VKE instances. Access to said instances may be blocked until this issue is resolved. Older, already existing instances should not be affected."
             }
           ]
-        },
-        {
-          "id": "f344f17b-542d-4ca3-af7c-cce6986b686b",
-          "subject": "New Jersey Object Storage Cluster Maintenance",
-          "status": "resolved",
-          "start_date": "2022-09-29T18:29:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2022-09-29T18:29:00+00:00",
-              "message": "Event Type: System Upgrade\r\nStart Time: 2022-10-06  1:30:00 AM UTC\r\nEnd Time:   2022-10-06  5:30:00 AM UTC\r\n\r\nDear Customer,\r\n\r\nThis is to notify you that the New Jersey Object Storage Cluster will be undergoing system maintenance. During the maintenance window object storage data (ewr1.vultrobjects.com endpoint) will be inaccessible and new VKE/VLB deployments will not work. Existing VKE/VLB deployments should be unaffected.\r\n\r\nIf you have any questions at all, please feel free to open a support ticket and we will be happy to work with you!\r\n\r\n \r\n\r\nThank you!\r\n\r\nVultr Storage Team"
-            }
-          ]
         }
       ]
     },
@@ -142,21 +129,7 @@
       "location": "New Jersey",
       "country": "US",
       "country_name": "United States",
-      "alerts": [
-        {
-          "id": "f344f17b-542d-4ca3-af7c-cce6986b686b",
-          "subject": "New Jersey Object Storage Cluster Maintenance",
-          "status": "resolved",
-          "start_date": "2022-09-29T18:29:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2022-09-29T18:29:00+00:00",
-              "message": "Event Type: System Upgrade\r\nStart Time: 2022-10-06  1:30:00 AM UTC\r\nEnd Time:   2022-10-06  5:30:00 AM UTC\r\n\r\nDear Customer,\r\n\r\nThis is to notify you that the New Jersey Object Storage Cluster will be undergoing system maintenance. During the maintenance window object storage data (ewr1.vultrobjects.com endpoint) will be inaccessible and new VKE/VLB deployments will not work. Existing VKE/VLB deployments should be unaffected.\r\n\r\nIf you have any questions at all, please feel free to open a support ticket and we will be happy to work with you!\r\n\r\n \r\n\r\nThank you!\r\n\r\nVultr Storage Team"
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "cdg": {
       "location": "Paris",
