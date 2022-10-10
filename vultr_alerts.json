@@ -1,20 +1,6 @@
 {
   "service_alerts": [
     {
-      "id": "6bc5d493-49ab-4e9d-8157-2b14cb2ebea4",
-      "region": "global",
-      "subject": "Investigating VKE Configuration Download issue",
-      "start_date": "2022-10-06T02:19:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2022-10-06T02:19:00+00:00",
-          "message": "We are currently aware of issues regarding the configuration download for newly created VKE instances. Access to said instances may be blocked until this issue is resolved. Older, already existing instances should not be affected."
-        }
-      ]
-    },
-    {
       "id": "5ce80c8c-393d-416a-94b7-8ddfe0efa2db",
       "region": "sjc",
       "subject": "Silicon Valley Scheduled Maintenance - 2022-10-11",
