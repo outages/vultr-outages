@@ -45,7 +45,7 @@
         {
           "id": "2d86152a-8fba-4653-9b68-c96215f2f845",
           "subject": "Frankfurt Scheduled Maintenance - 2022-10-18",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2022-10-12T18:48:00+00:00",
           "updated_at": "",
           "entries": [
