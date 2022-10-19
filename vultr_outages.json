@@ -145,7 +145,21 @@
       "location": "Singapore",
       "country": "SG",
       "country_name": "Singapore",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "705c24f6-e220-432c-9cbc-dbfd68df2d7f",
+          "subject": "Singapore Degraded Network Performance",
+          "status": "ongoing",
+          "start_date": "2022-10-19T11:35:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2022-10-19T11:35:00+00:00",
+              "message": "We are currently experiencing degraded network performance in our Singapore location. Our network engineers are actively working with our upstream providers to resolve the issue as quickly as possible."
+            }
+          ]
+        }
+      ]
     },
     "sto": {
       "location": "Stockholm",
