@@ -53,7 +53,21 @@
       "location": "London",
       "country": "GB",
       "country_name": "United Kingdom",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "66e5a682-ab97-4cf3-903c-c1452270627f",
+          "subject": "London Scheduled Maintenance - 2022-11-10",
+          "status": "ongoing",
+          "start_date": "2022-11-04T17:04:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2022-11-04T17:04:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the London location during the following scheduled maintenance window. \r\n\r\nStart Time: 2022-11-10 02:00:00 UTC\r\nEnd Time: 2022-11-10 05:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, London instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        }
+      ]
     },
     "lax": {
       "location": "Los Angeles",
