@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "3d57f9ce-c4bb-4524-940f-009cb7a6a26e",
+      "region": "cdg",
+      "subject": "Paris Emergency Maintenance - 2022-11-10",
+      "start_date": "2022-11-10T17:25:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2022-11-10T17:25:00+00:00",
+          "message": "Event Type: Network Emergency\r\n\r\nWe are performing system changes in the Paris location during the following emergency maintenance window. \r\n\r\nStart Time: 2022-11-10 17:10:00 UTC\r\nEnd Time: 2022-11-10 21:10:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Paris instances may be unreachable for some, or all, of the emergency maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
       "id": "421316f2-6519-4fb8-a27c-2c908613cd17",
       "region": "ams",
       "subject": "Amsterdam Scheduled Maintenance - 2022-11-14",
