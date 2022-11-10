@@ -147,7 +147,7 @@
         {
           "id": "b47caca6-7a5f-4cec-9168-fe16e0c75f0e",
           "subject": "Paris Scheduled Maintenance - 2022-11-09",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2022-11-04T17:06:00+00:00",
           "updated_at": "",
           "entries": [
