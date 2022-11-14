@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "263a5367-004d-4efc-b1fe-35eddc3dfe06",
+      "region": "icn",
+      "subject": "Seoul Scheduled Maintenance - 2022-11-21",
+      "start_date": "2022-11-14T16:15:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2022-11-14T16:15:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Seoul location during the following scheduled maintenance window. \r\n\r\nStart Time: 2022-11-21 16:00:00 UTC\r\nEnd Time: 2022-11-21 17:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Seoul instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+        }
+      ]
+    },
+    {
       "id": "12d7ddc3-73c9-4564-b8f1-c07f460a2b74",
       "region": "lhr",
       "subject": "London Scheduled Maintenance - 2022-11-18",
