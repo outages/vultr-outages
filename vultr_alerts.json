@@ -6,25 +6,11 @@
       "subject": "Amsterdam Partial Network Outage",
       "start_date": "2022-11-17T06:32:00+00:00",
       "updated_at": "",
-      "status": "ongoing",
+      "status": "resolved",
       "entries": [
         {
           "updated_at": "2022-11-17T06:32:00+00:00",
           "message": "We are currently experiencing a partial outage in our Amsterdam location. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible."
-        }
-      ]
-    },
-    {
-      "id": "4de9061f-0150-431d-ac24-1d6265cef2fe",
-      "region": "ams",
-      "subject": "Partial Outage",
-      "start_date": "2022-11-17T06:32:00+00:00",
-      "updated_at": "",
-      "status": "ongoing",
-      "entries": [
-        {
-          "updated_at": "2022-11-17T06:32:00+00:00",
-          "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
         }
       ]
     },
