@@ -18,19 +18,6 @@
               "message": "We are currently experiencing a partial outage in our Amsterdam location. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible."
             }
           ]
-        },
-        {
-          "id": "8231c9a0-df62-448c-a567-306e01b7f487",
-          "subject": "Amsterdam Scheduled Maintenance - 2022-11-16",
-          "status": "resolved",
-          "start_date": "2022-11-11T14:36:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2022-11-11T14:36:00+00:00",
-              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Amsterdam location during the following scheduled maintenance window. \r\n\r\nStart Time: 2022-11-16 23:00:00 UTC\r\nEnd Time: 2022-11-17 04:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Amsterdam instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
-            }
-          ]
         }
       ]
     },
