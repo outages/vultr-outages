@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "8c643403-5304-4b10-b0d3-9b8eadcb1129",
+      "region": "fra",
+      "subject": "Frankfurt Scheduled Maintenance - 2022-11-30",
+      "start_date": "2022-11-23T15:31:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2022-11-23T15:31:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Frankfurt location during the following scheduled maintenance window. \r\n\r\nStart Time: 2022-11-30 23:00:00 UTC\r\nEnd Time: 2022-12-01 03:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Frankfurt instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+        }
+      ]
+    },
+    {
       "id": "263a5367-004d-4efc-b1fe-35eddc3dfe06",
       "region": "icn",
       "subject": "Seoul Scheduled Maintenance - 2022-11-21",
