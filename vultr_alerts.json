@@ -1,20 +1,6 @@
 {
   "service_alerts": [
     {
-      "id": "db819d58-853e-43b2-9e1a-1ef04275e4ab",
-      "region": "dfw",
-      "subject": "Dallas Partial Network Outage",
-      "start_date": "2022-11-24T03:39:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2022-11-24T03:39:00+00:00",
-          "message": "We are currently experiencing a partial outage in our Dallas location. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible."
-        }
-      ]
-    },
-    {
       "id": "8c643403-5304-4b10-b0d3-9b8eadcb1129",
       "region": "fra",
       "subject": "Frankfurt Scheduled Maintenance - 2022-11-30",
