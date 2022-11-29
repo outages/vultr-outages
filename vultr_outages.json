@@ -1,6 +1,26 @@
 {
   "service_alerts": [],
   "regions": {
+    "global": {
+      "location": "All Locations",
+      "country": "ALL",
+      "country_name": "Global",
+      "alerts": [
+        {
+          "id": "b915242c-a471-4987-a719-906edc154e6c",
+          "subject": "Object Storage Connectivity Issues",
+          "status": "ongoing",
+          "start_date": "2022-11-29T15:27:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2022-11-29T15:27:00+00:00",
+              "message": "We are currently experiencing a partial outage of our Object Storage service. Our engineers are working with high priority to restore connectivity as quickly as possible."
+            }
+          ]
+        }
+      ]
+    },
     "ams": {
       "location": "Amsterdam",
       "country": "NL",
