@@ -29,24 +29,6 @@
       ]
     },
     {
-      "id": "b915242c-a471-4987-a719-906edc154e6c",
-      "region": "global",
-      "subject": "Object Storage Connectivity Issues",
-      "start_date": "2022-11-29T15:27:00+00:00",
-      "updated_at": "2022-11-29T18:07:00+00:00",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2022-11-29T18:07:00+00:00",
-          "message": "Issues have been resolved."
-        },
-        {
-          "updated_at": "2022-11-29T15:27:00+00:00",
-          "message": "We are currently experiencing a partial outage of our Object Storage service. Our engineers are working with high priority to restore connectivity as quickly as possible."
-        }
-      ]
-    },
-    {
       "id": "8c643403-5304-4b10-b0d3-9b8eadcb1129",
       "region": "fra",
       "subject": "Frankfurt Scheduled Maintenance - 2022-11-30",
