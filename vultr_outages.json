@@ -63,6 +63,12 @@
       "country_name": "United States",
       "alerts": []
     },
+    "jnb": {
+      "location": "Johannesburg",
+      "country": "ZA",
+      "country_name": "South Africa",
+      "alerts": []
+    },
     "lhr": {
       "location": "London",
       "country": "GB",
