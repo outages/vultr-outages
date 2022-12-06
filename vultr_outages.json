@@ -201,7 +201,7 @@
         {
           "id": "5b893cb1-adb3-42d8-bedc-c7108311cb2b",
           "subject": "Tokyo Scheduled Maintenance - 2022-12-06",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2022-11-29T17:08:00+00:00",
           "updated_at": "",
           "entries": [
