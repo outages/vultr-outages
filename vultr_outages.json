@@ -197,7 +197,21 @@
       "location": "Tokyo",
       "country": "JP",
       "country_name": "Japan",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "100a4e45-2567-45d3-b5d7-6eaad329bbee",
+          "subject": "Tokyo Scheduled Maintenance - 2022-12-16",
+          "status": "ongoing",
+          "start_date": "2022-12-09T15:41:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2022-12-09T15:41:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Tokyo location during the following scheduled maintenance window. \r\n\r\nStart Time: 2022-12-16 15:00:00 UTC\r\nEnd Time: 2022-12-16 20:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Tokyo instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        }
+      ]
     },
     "yto": {
       "location": "Toronto",
