@@ -123,7 +123,7 @@
         {
           "id": "7472e463-fc00-47c0-8ed8-1dfc51b0c068",
           "subject": "Seattle Scheduled Maintenance - 2022-12-13",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2022-12-01T18:30:00+00:00",
           "updated_at": "",
           "entries": [
