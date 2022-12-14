@@ -161,7 +161,7 @@
         {
           "id": "6f4e71d9-23dd-4bf7-95a2-0151251e2563",
           "subject": "Stockholm Scheduled Maintenance - 2022-12-13",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2022-12-06T19:02:00+00:00",
           "updated_at": "",
           "entries": [
