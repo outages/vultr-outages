@@ -1,3 +1,32 @@
 {
-  "service_alerts": []
+  "service_alerts": [
+    {
+      "id": "fd90e57b-b4d7-4daf-b9e6-8bde1ee32892",
+      "region": "mel",
+      "subject": "Melbourne, Sydney Scheduled Maintenance - 2023-01-24",
+      "start_date": "2022-12-22T19:52:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2022-12-22T19:52:00+00:00",
+          "message": "Event Type: network reconfiguration\r\n\r\nWe are performing network changes in the Melbourne & Sydney locations during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-01-24 02:00 local time, 15:00:00 UTC\r\nEnd Time: 2023-01-24 04:00 local time, 17:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Melbourne, Sydney instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
+      "id": "fd90e57b-b4d7-4daf-b9e6-8bde1ee32892",
+      "region": "syd",
+      "subject": "Melbourne, Sydney Scheduled Maintenance - 2023-01-24",
+      "start_date": "2022-12-22T19:52:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2022-12-22T19:52:00+00:00",
+          "message": "Event Type: network reconfiguration\r\n\r\nWe are performing network changes in the Melbourne & Sydney locations during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-01-24 02:00 local time, 15:00:00 UTC\r\nEnd Time: 2023-01-24 04:00 local time, 17:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Melbourne, Sydney instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    }
+  ]
 }
