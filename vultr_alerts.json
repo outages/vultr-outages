@@ -15,20 +15,6 @@
       ]
     },
     {
-      "id": "44f2b78b-eb6d-4c51-9bfb-1abfe78f2113",
-      "region": "global",
-      "subject": "Deployment and Snapshot Delays",
-      "start_date": "2023-01-04T20:17:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2023-01-04T20:17:00+00:00",
-          "message": "Some customers are currently experiencing slower than normal instance deployment and snapshot times in multiple locations. Our engineering team is aware of this issue and is working diligently to resolve this as quickly as possible."
-        }
-      ]
-    },
-    {
       "id": "72bc2f48-c893-4df1-8866-c964eb321cd1",
       "region": "ord",
       "subject": "Chicago Scheduled Maintenance - 2023-01-13",
