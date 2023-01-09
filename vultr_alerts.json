@@ -1,0 +1,60 @@
+{
+  "service_alerts": [
+    {
+      "id": "0f27dac5-2304-484e-bc48-d7b0fd4c4d41",
+      "region": "lhr",
+      "subject": "London Scheduled Maintenance - 2023-01-17",
+      "start_date": "2023-01-06T16:24:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2023-01-06T16:24:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the London location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-01-17 24:15:00 UTC\r\nEnd Time: 2023-01-17 04:15:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, London instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
+      "id": "72bc2f48-c893-4df1-8866-c964eb321cd1",
+      "region": "ord",
+      "subject": "Chicago Scheduled Maintenance - 2023-01-13",
+      "start_date": "2023-01-03T16:52:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2023-01-03T16:52:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Chicago location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-01-13 11:00:00 UTC\r\nEnd Time: 2023-01-13 13:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Chicago instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+        }
+      ]
+    },
+    {
+      "id": "fd90e57b-b4d7-4daf-b9e6-8bde1ee32892",
+      "region": "mel",
+      "subject": "Melbourne, Sydney Scheduled Maintenance - 2023-01-24",
+      "start_date": "2022-12-22T19:52:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2022-12-22T19:52:00+00:00",
+          "message": "Event Type: network reconfiguration\r\n\r\nWe are performing network changes in the Melbourne & Sydney locations during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-01-24 02:00 local time, 15:00:00 UTC\r\nEnd Time: 2023-01-24 04:00 local time, 17:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Melbourne, Sydney instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
+      "id": "fd90e57b-b4d7-4daf-b9e6-8bde1ee32892",
+      "region": "syd",
+      "subject": "Melbourne, Sydney Scheduled Maintenance - 2023-01-24",
+      "start_date": "2022-12-22T19:52:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2022-12-22T19:52:00+00:00",
+          "message": "Event Type: network reconfiguration\r\n\r\nWe are performing network changes in the Melbourne & Sydney locations during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-01-24 02:00 local time, 15:00:00 UTC\r\nEnd Time: 2023-01-24 04:00 local time, 17:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Melbourne, Sydney instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    }
+  ]
+}
