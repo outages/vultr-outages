@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "b5273fe2-f9b3-4585-ac0b-12dd6e8909a0",
+      "region": "syd",
+      "subject": "Sydney Scheduled Maintenance - 2023-01-25",
+      "start_date": "2023-01-12T19:05:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2023-01-12T19:05:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Sydney location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-01-25 16:00:00 UTC\r\nEnd Time: 2023-01-25 20:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Sydney instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
       "id": "94c07ef4-2f78-4ea0-9715-60f609b48652",
       "region": "fra",
       "subject": "Frankfurt Scheduled Maintenance - 2023-01-18",
