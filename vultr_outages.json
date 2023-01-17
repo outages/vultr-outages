@@ -151,6 +151,12 @@
       "country_name": "France",
       "alerts": []
     },
+    "scl": {
+      "location": "Santiago",
+      "country": "CL",
+      "country_name": "Chile",
+      "alerts": []
+    },
     "sao": {
       "location": "São Paulo",
       "country": "BR",
