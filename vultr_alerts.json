@@ -43,20 +43,6 @@
       ]
     },
     {
-      "id": "e6873148-aa94-47c8-9505-8792c228a5df",
-      "region": "sjc",
-      "subject": "Silicon Valley Scheduled Maintenance - 2023-01-16",
-      "start_date": "2023-01-11T22:38:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2023-01-11T22:38:00+00:00",
-          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Silicon Valley location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-01-16 11:00:00 UTC\r\nEnd Time: 2023-01-16 14:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Silicon Valley instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
-        }
-      ]
-    },
-    {
       "id": "0f27dac5-2304-484e-bc48-d7b0fd4c4d41",
       "region": "lhr",
       "subject": "London Scheduled Maintenance - 2023-01-17",
