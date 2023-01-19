@@ -45,7 +45,7 @@
         {
           "id": "94c07ef4-2f78-4ea0-9715-60f609b48652",
           "subject": "Frankfurt Scheduled Maintenance - 2023-01-18",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-01-12T15:55:00+00:00",
           "updated_at": "",
           "entries": [
