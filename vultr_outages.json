@@ -95,7 +95,7 @@
         {
           "id": "bd20bea1-3761-49fc-8b0a-86fa1267c505",
           "subject": "Melbourne Outage",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-01-20T19:01:00+00:00",
           "updated_at": "",
           "entries": [
