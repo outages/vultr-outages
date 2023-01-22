@@ -17,7 +17,21 @@
       "location": "Bangalore",
       "country": "IN",
       "country_name": "India",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "0cf00c6c-24ae-4828-aedd-4afb626ebfee",
+          "subject": "Bangalore, Mumbai Deployment Delays",
+          "status": "ongoing",
+          "start_date": "2023-01-22T14:56:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-01-22T14:56:00+00:00",
+              "message": "Some customers are currently experiencing slower than normal instance deployment times in our Bangalore and Mumbai locations. Some dashboard actions may not function at this time. These issues should not affect connectivity to currently active and running instances. Our engineering team is aware of these issue and is working diligently to resolve this as quickly as possible."
+            }
+          ]
+        }
+      ]
     },
     "ord": {
       "location": "Chicago",
@@ -122,7 +136,21 @@
       "location": "Mumbai",
       "country": "IN",
       "country_name": "India",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "0cf00c6c-24ae-4828-aedd-4afb626ebfee",
+          "subject": "Bangalore, Mumbai Deployment Delays",
+          "status": "ongoing",
+          "start_date": "2023-01-22T14:56:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-01-22T14:56:00+00:00",
+              "message": "Some customers are currently experiencing slower than normal instance deployment times in our Bangalore and Mumbai locations. Some dashboard actions may not function at this time. These issues should not affect connectivity to currently active and running instances. Our engineering team is aware of these issue and is working diligently to resolve this as quickly as possible."
+            }
+          ]
+        }
+      ]
     },
     "ewr": {
       "location": "New Jersey",

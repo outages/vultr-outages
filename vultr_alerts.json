@@ -1,6 +1,34 @@
 {
   "service_alerts": [
     {
+      "id": "0cf00c6c-24ae-4828-aedd-4afb626ebfee",
+      "region": "blr",
+      "subject": "Bangalore, Mumbai Deployment Delays",
+      "start_date": "2023-01-22T14:56:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2023-01-22T14:56:00+00:00",
+          "message": "Some customers are currently experiencing slower than normal instance deployment times in our Bangalore and Mumbai locations. Some dashboard actions may not function at this time. These issues should not affect connectivity to currently active and running instances. Our engineering team is aware of these issue and is working diligently to resolve this as quickly as possible."
+        }
+      ]
+    },
+    {
+      "id": "0cf00c6c-24ae-4828-aedd-4afb626ebfee",
+      "region": "bom",
+      "subject": "Bangalore, Mumbai Deployment Delays",
+      "start_date": "2023-01-22T14:56:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2023-01-22T14:56:00+00:00",
+          "message": "Some customers are currently experiencing slower than normal instance deployment times in our Bangalore and Mumbai locations. Some dashboard actions may not function at this time. These issues should not affect connectivity to currently active and running instances. Our engineering team is aware of these issue and is working diligently to resolve this as quickly as possible."
+        }
+      ]
+    },
+    {
       "id": "bd20bea1-3761-49fc-8b0a-86fa1267c505",
       "region": "mel",
       "subject": "Melbourne Outage",
