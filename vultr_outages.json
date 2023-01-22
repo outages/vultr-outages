@@ -21,7 +21,7 @@
         {
           "id": "0cf00c6c-24ae-4828-aedd-4afb626ebfee",
           "subject": "Bangalore, Mumbai Deployment Delays",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-01-22T14:56:00+00:00",
           "updated_at": "",
           "entries": [
@@ -53,7 +53,7 @@
         {
           "id": "1cad98d8-04f7-4504-8cd3-12fc174a8990",
           "subject": "Delhi , Mumbi, Bangalore Deployment delays",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-01-22T16:05:00+00:00",
           "updated_at": "",
           "entries": [
@@ -141,7 +141,7 @@
         {
           "id": "0cf00c6c-24ae-4828-aedd-4afb626ebfee",
           "subject": "Bangalore, Mumbai Deployment Delays",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-01-22T14:56:00+00:00",
           "updated_at": "",
           "entries": [
