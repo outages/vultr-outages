@@ -15,48 +15,6 @@
       ]
     },
     {
-      "id": "1cad98d8-04f7-4504-8cd3-12fc174a8990",
-      "region": "del",
-      "subject": "Delhi , Mumbi, Bangalore Deployment delays",
-      "start_date": "2023-01-22T16:05:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2023-01-22T16:05:00+00:00",
-          "message": "https://administer.vultr.com/tickets/service_alerts.php?ALERTID=3203\r\n\r\nIssues with connecting to dci and NTT due to maintenance ."
-        }
-      ]
-    },
-    {
-      "id": "0cf00c6c-24ae-4828-aedd-4afb626ebfee",
-      "region": "blr",
-      "subject": "Bangalore, Mumbai Deployment Delays",
-      "start_date": "2023-01-22T14:56:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2023-01-22T14:56:00+00:00",
-          "message": "Some customers are currently experiencing slower than normal instance deployment times in our Bangalore and Mumbai locations. Some dashboard actions may not function at this time. These issues should not affect connectivity to currently active and running instances. Our engineering team is aware of these issue and is working diligently to resolve this as quickly as possible."
-        }
-      ]
-    },
-    {
-      "id": "0cf00c6c-24ae-4828-aedd-4afb626ebfee",
-      "region": "bom",
-      "subject": "Bangalore, Mumbai Deployment Delays",
-      "start_date": "2023-01-22T14:56:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2023-01-22T14:56:00+00:00",
-          "message": "Some customers are currently experiencing slower than normal instance deployment times in our Bangalore and Mumbai locations. Some dashboard actions may not function at this time. These issues should not affect connectivity to currently active and running instances. Our engineering team is aware of these issue and is working diligently to resolve this as quickly as possible."
-        }
-      ]
-    },
-    {
       "id": "46101c33-5d5f-4ee1-a813-fb60e875b83f",
       "region": "ewr",
       "subject": "New Jersey Scheduled Maintenance - 2023-01-26",
