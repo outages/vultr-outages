@@ -132,19 +132,6 @@
               "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the New Jersey location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-02-03 05:00:00 UTC\r\nEnd Time: 2023-02-03 09:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to New Jersey instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
             }
           ]
-        },
-        {
-          "id": "46101c33-5d5f-4ee1-a813-fb60e875b83f",
-          "subject": "New Jersey Scheduled Maintenance - 2023-01-26",
-          "status": "resolved",
-          "start_date": "2023-01-20T16:41:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2023-01-20T16:41:00+00:00",
-              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the New Jersey location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-01-26 09:00:00 UTC\r\nEnd Time: 2023-01-26 13:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to New Jersey instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
-            }
-          ]
         }
       ]
     },
