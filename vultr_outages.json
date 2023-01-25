@@ -148,6 +148,12 @@
         }
       ]
     },
+    "itm": {
+      "location": "Osaka",
+      "country": "JP",
+      "country_name": "Japan",
+      "alerts": []
+    },
     "cdg": {
       "location": "Paris",
       "country": "FR",
