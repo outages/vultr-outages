@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "453467a5-2b0d-4dfc-b445-cc6653acb9cd",
+      "region": "bom",
+      "subject": "Mumbai Emergency Maintenance - 2023-02-01",
+      "start_date": "2023-02-01T19:48:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2023-02-01T19:48:00+00:00",
+          "message": "Event Type: Network Emergency\r\n\r\nWe are performing system changes in the Mumbai location during the following emergency maintenance window. \r\n\r\nStart Time: 2023-02-01 19:45:00 UTC\r\nEnd Time: 2023-02-01 23:45:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Mumbai instances may be unreachable for some, or all, of the emergency maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
       "id": "453a5846-8ec3-4ec3-8800-c31c13b8e0b1",
       "region": "ewr",
       "subject": "New Jersey Scheduled Maintenance - 2023-02-03",

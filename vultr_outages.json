@@ -95,7 +95,21 @@
       "location": "Mumbai",
       "country": "IN",
       "country_name": "India",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "453467a5-2b0d-4dfc-b445-cc6653acb9cd",
+          "subject": "Mumbai Emergency Maintenance - 2023-02-01",
+          "status": "ongoing",
+          "start_date": "2023-02-01T19:48:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-02-01T19:48:00+00:00",
+              "message": "Event Type: Network Emergency\r\n\r\nWe are performing system changes in the Mumbai location during the following emergency maintenance window. \r\n\r\nStart Time: 2023-02-01 19:45:00 UTC\r\nEnd Time: 2023-02-01 23:45:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Mumbai instances may be unreachable for some, or all, of the emergency maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        }
+      ]
     },
     "ewr": {
       "location": "New Jersey",
