@@ -217,7 +217,7 @@
         {
           "id": "f1d13f6f-7b33-4c8c-9565-e4766d025c1a",
           "subject": "Seoul Network Outage",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-02-03T12:34:00+00:00",
           "updated_at": "",
           "entries": [
