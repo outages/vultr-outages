@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "d9c35d02-0938-4f81-b62a-6044de1f0632",
+      "region": "mel",
+      "subject": "Melbourne Scheduled Maintenance - 2023-02-08",
+      "start_date": "2023-02-03T22:53:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2023-02-03T22:53:00+00:00",
+          "message": "Event Type: Transit Provider Network Maintenance\r\n\r\nOur of our Internet transit providers for Melbourne has scheduled work during this maintenance window, with an expected duration of 90 minutes. Our other connectivity should keep the Melbourne data center on the net, but disruption is possible.\r\n\r\nStart Time: 2023-02-08 16:00:00 UTC  (03:00 Melbourne)\r\nEnd Time: 2023-02-08 20:00:00 UTC  (07:00 Melbourne)\r\n\r\nNetwork reachability to Melbourne instances may be affected for some, or all, of the scheduled maintenance window as this work is performed. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact due to this work."
+        }
+      ]
+    },
+    {
       "id": "827a0fd5-3d59-4929-94dc-bb1838b415ce",
       "region": "icn",
       "subject": "Seoul Degraded Network Performance",
