@@ -95,7 +95,7 @@
         {
           "id": "d9c35d02-0938-4f81-b62a-6044de1f0632",
           "subject": "Melbourne Scheduled Maintenance - 2023-02-08",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-02-03T22:53:00+00:00",
           "updated_at": "",
           "entries": [
@@ -241,7 +241,7 @@
         {
           "id": "4d358124-fd0a-4531-9af7-049415da49c8",
           "subject": "Tokyo Scheduled Maintenance - 2023-02-09",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-02-02T17:08:00+00:00",
           "updated_at": "",
           "entries": [
