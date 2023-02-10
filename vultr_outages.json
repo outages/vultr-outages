@@ -91,21 +91,7 @@
       "location": "Melbourne",
       "country": "AU",
       "country_name": "Australia",
-      "alerts": [
-        {
-          "id": "d9c35d02-0938-4f81-b62a-6044de1f0632",
-          "subject": "Melbourne Scheduled Maintenance - 2023-02-08",
-          "status": "resolved",
-          "start_date": "2023-02-03T22:53:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2023-02-03T22:53:00+00:00",
-              "message": "Event Type: Transit Provider Network Maintenance\r\n\r\nOur of our Internet transit providers for Melbourne has scheduled work during this maintenance window, with an expected duration of 90 minutes. Our other connectivity should keep the Melbourne data center on the net, but disruption is possible.\r\n\r\nStart Time: 2023-02-08 16:00:00 UTC  (03:00 Melbourne)\r\nEnd Time: 2023-02-08 20:00:00 UTC  (07:00 Melbourne)\r\n\r\nNetwork reachability to Melbourne instances may be affected for some, or all, of the scheduled maintenance window as this work is performed. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact due to this work."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "mex": {
       "location": "Mexico City",
@@ -237,21 +223,7 @@
       "location": "Tokyo",
       "country": "JP",
       "country_name": "Japan",
-      "alerts": [
-        {
-          "id": "4d358124-fd0a-4531-9af7-049415da49c8",
-          "subject": "Tokyo Scheduled Maintenance - 2023-02-09",
-          "status": "resolved",
-          "start_date": "2023-02-02T17:08:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2023-02-02T17:08:00+00:00",
-              "message": "Event Type: Network Reconfiguration\r\n\r\nWe are performing system changes in the Tokyo location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-02-08 19:00:00 UTC  (2023-02-09 04:00 Tokyo)\r\nEnd Time: 2023-02-08 21:00:00 UTC  (2023-02-09 06:00 Tokyo)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Tokyo instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "yto": {
       "location": "Toronto",
