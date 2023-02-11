@@ -41,20 +41,6 @@
           "message": "Event Type: Network Reconfiguration\r\n\r\nWe are performing system changes in the Silicon Valley location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-02-09 08:00:00 UTC  (00:00 San Jose)\r\nEnd Time: 2023-02-09 10:00:00 UTC  (02:00 San Jose)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Silicon Valley instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
         }
       ]
-    },
-    {
-      "id": "dc6d48b1-de76-4e35-b8ca-25553e59363d",
-      "region": "cdg",
-      "subject": "Paris Scheduled Maintenance - 2023-02-09",
-      "start_date": "2023-02-02T17:08:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2023-02-02T17:08:00+00:00",
-          "message": "Event Type: Network Reconfiguration\r\n\r\nWe are performing system changes in the Paris location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-02-09 03:00:00 UTC  (04:00 Paris)\r\nEnd Time: 2023-02-09 05:00:00 UTC  (06:00 Paris)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Paris instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-        }
-      ]
     }
   ]
 }
