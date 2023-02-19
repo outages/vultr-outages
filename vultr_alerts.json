@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "2b4b88df-4a67-453e-9b9b-9f245c2c2e90",
+      "region": "ewr",
+      "subject": "New Jersey Image Storage Outage - 2023-02-19",
+      "start_date": "2023-02-19T10:30:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2023-02-19T10:30:00+00:00",
+          "message": "Event Type: Service Degraded Performance and Availability\r\n\r\nOur Cloud Storage team is investigating a partial outage scenario with our Image and HDD Block Storage infrastructure. The following services may be impacted by this event:\r\n\r\n- VPS and Bare Metal deploys\r\n- Snapshots\r\n- Auto-backups\r\n- Custom ISOs\r\n- HDD Block Storage\r\n\r\nWe are working quickly to restore service to its optimal state."
+        }
+      ]
+    },
+    {
       "id": "0d7d2dd5-a59b-43f6-89f4-87cf81b28cfc",
       "region": "ewr",
       "subject": "New Jersey Image Storage Outage - 2023-02-20",
