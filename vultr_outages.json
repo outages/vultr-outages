@@ -193,7 +193,7 @@
         {
           "id": "d4b68558-1f01-42ef-bbf8-2fd60e9a58d5",
           "subject": "Sydney Scheduled Maintenance - 2023-02-21",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-02-13T22:49:00+00:00",
           "updated_at": "",
           "entries": [
