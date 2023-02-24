@@ -15,24 +15,6 @@
       ]
     },
     {
-      "id": "3d047c7e-d6b3-4883-be8d-ed63d9f6778c",
-      "region": "ewr",
-      "subject": "Legacy New Jersey Block Storage Substantially Degraded Performance",
-      "start_date": "2023-02-21T14:15:00+00:00",
-      "updated_at": "2023-02-21T20:54:00+00:00",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2023-02-21T20:54:00+00:00",
-          "message": "Legacy cluster performance and stability is gradually improving.  We expect these legacy block subscriptions to return to normal performance levels within the next two to three hours using projections of the current statistical monitors.\r\n\r\nWe would like to use this opportunity to remind all customers with these legacy subscriptions that the contained data will be need to be migrated to our newer cluster hardware in New Jersey that was deployed last year.  There has been an on-going data migration project since last year to that effect.  For those who haven't already, please read our legacy block migration FAQ at https://www.vultr.com/docs/legacy-block-storage-migration-faq .\r\n\r\nThank you for your patience and understanding during this event."
-        },
-        {
-          "updated_at": "2023-02-21T14:15:00+00:00",
-          "message": "This notice is only for customers with *LEGACY* block storage subscriptions in New Jersey.   These are marked as type NVME Legacy and location New Jersey in the customer portal.   Customers with only newer block storage products may ignore this alert.\r\n\r\nThe legacy block storage product is experiencing substantially degraded performance due to a hardware related issue which is under active troubleshooting.  Some specific volumes may be very slow or producing I/O errors at the moment.\r\n\r\nWe're working to resolve this as soon as possible.  While in-flight I/O operations are affected, no impact is expected on previously stored data.\r\n\r\nFurthermore, this is a good opportunity for a reminder that the older block storage cluster is a legacy product which we have been encouraging and executing migrations on, to reduce or eliminate the possibility of these issues.  All relevant customers have been contacted at least twice about the migration process (some three times or more) .\r\n\r\nThank you for understanding."
-        }
-      ]
-    },
-    {
       "id": "4c99400f-8e74-4767-a5ff-a9996de0bd58",
       "region": "icn",
       "subject": "Seoul Scheduled Maintenance - 2023-02-27",
