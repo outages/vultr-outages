@@ -15,20 +15,6 @@
       ]
     },
     {
-      "id": "a0b43908-87d8-4751-9b5d-5d08dd9f7940",
-      "region": "global",
-      "subject": "Bare Metal Deployment Delays",
-      "start_date": "2023-02-23T00:45:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2023-02-23T00:45:00+00:00",
-          "message": "Some customers are currently experiencing slower than normal Bare Metal Instance deployment times. Our engineering team is aware of this issue and is working diligently to resolve this as quickly as possible."
-        }
-      ]
-    },
-    {
       "id": "4c99400f-8e74-4767-a5ff-a9996de0bd58",
       "region": "icn",
       "subject": "Seoul Scheduled Maintenance - 2023-02-27",
