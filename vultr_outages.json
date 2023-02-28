@@ -155,10 +155,14 @@
         {
           "id": "4c99400f-8e74-4767-a5ff-a9996de0bd58",
           "subject": "Seoul Scheduled Maintenance - 2023-02-27",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-02-16T16:55:00+00:00",
-          "updated_at": "",
+          "updated_at": "2023-02-28T11:56:00+00:00",
           "entries": [
+            {
+              "updated_at": "2023-02-28T11:56:00+00:00",
+              "message": "The Port is UP, traffic is flowing."
+            },
             {
               "updated_at": "2023-02-16T16:55:00+00:00",
               "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Seoul location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-02-27 19:00:00 UTC\r\nEnd Time: 2023-02-27 23:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Seoul instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
