@@ -1,6 +1,26 @@
 {
   "service_alerts": [],
   "regions": {
+    "global": {
+      "location": "All Locations",
+      "country": "ALL",
+      "country_name": "Global",
+      "alerts": [
+        {
+          "id": "f2bfb76c-e279-4294-bd76-ae79b6fa2212",
+          "subject": "Bare Metal Infrastructure Maintenance",
+          "status": "ongoing",
+          "start_date": "2023-03-14T18:21:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-03-14T18:21:00+00:00",
+              "message": "We will be performing maintenance on the deployment infrastructure supporting our Bare Metal products on Thursday, March 16, 2023 at 14:00 UTC.\r\n\r\nDuring this time re-installation, deployments, and metadata services will not be available.\r\n\r\nUpon conclusion of the maintenance, all Bare Metal functionality will return to normal."
+            }
+          ]
+        }
+      ]
+    },
     "ams": {
       "location": "Amsterdam",
       "country": "NL",
