@@ -1,20 +1,6 @@
 {
   "service_alerts": [
     {
-      "id": "f659de3c-1ea9-48c7-b266-169a32b7a211",
-      "region": "lhr",
-      "subject": "Scheduled Maintenance - 2023-03-22",
-      "start_date": "2023-03-15T09:28:00+00:00",
-      "updated_at": "",
-      "status": "ongoing",
-      "entries": [
-        {
-          "updated_at": "2023-03-15T09:28:00+00:00",
-          "message": "Event Type: Software Upgrade\r\nStart Time: 2023-03-22 02:00:00 UTC\r\nEnd Time: 2023-03-22 6:00:00 UTC\r\n\r\nWe will be performing software upgrades in this location as part of an ongoing effort to maintain an ideal hosting environment. During the course of this maintenance window, your instance will be rebooted, and will be unavailable for several minutes. Please be aware that as we do not have access to your filesystem, this reboot will not be as clean as if it were done from within your OS, so preparing your software/filesystem with a graceful shutdown of services and the VPS itself would be advised."
-        }
-      ]
-    },
-    {
       "id": "f2bfb76c-e279-4294-bd76-ae79b6fa2212",
       "region": "global",
       "subject": "Bare Metal Infrastructure Maintenance",
