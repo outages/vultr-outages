@@ -92,7 +92,21 @@
       "location": "London",
       "country": "GB",
       "country_name": "United Kingdom",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "ad8a4990-c45c-450c-8774-68e332eb7063",
+          "subject": "Partial Outage",
+          "status": "ongoing",
+          "start_date": "2023-03-16T12:28:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-03-16T12:28:00+00:00",
+              "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
+            }
+          ]
+        }
+      ]
     },
     "lax": {
       "location": "Los Angeles",
