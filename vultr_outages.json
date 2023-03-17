@@ -147,19 +147,6 @@
               "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
             }
           ]
-        },
-        {
-          "id": "92454cba-bea2-4a0c-8a13-f339b7c19501",
-          "subject": "New Jersey Scheduled Maintenance - 2023-03-15",
-          "status": "resolved",
-          "start_date": "2023-03-07T18:25:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2023-03-07T18:25:00+00:00",
-              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the New Jersey location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-03-15 04:00:00 UTC\r\nEnd Time: 2023-03-15 08:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to New Jersey instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
-            }
-          ]
         }
       ]
     },
