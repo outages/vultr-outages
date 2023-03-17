@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "2e4d43ff-1f83-4888-a089-183d737c771f",
+      "region": "global",
+      "subject": "Bare Metal Infrastructure Maintenance",
+      "start_date": "2023-03-17T14:36:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2023-03-17T14:36:00+00:00",
+          "message": "We will be performing maintenance on the deployment infrastructure supporting our Bare Metal products on Thursday, March 21, 2023 at 14:00 UTC.\r\n\r\nDuring this time re-installation, deployments, and metadata services will not be available.\r\n\r\nUpon conclusion of the maintenance, all Bare Metal functionality will return to normal."
+        }
+      ]
+    },
+    {
       "id": "1880d4d2-ba9a-4bb8-9760-7069c33fe834",
       "region": "waw",
       "subject": "Scheduled Maintenance - 2023-03-25",
