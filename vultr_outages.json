@@ -148,21 +148,7 @@
       "location": "New Jersey",
       "country": "US",
       "country_name": "United States",
-      "alerts": [
-        {
-          "id": "b9e691de-3805-4829-a081-05ef79b06b75",
-          "subject": "Partial Outage",
-          "status": "ongoing",
-          "start_date": "2023-03-08T15:39:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2023-03-08T15:39:00+00:00",
-              "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "itm": {
       "location": "Osaka",
