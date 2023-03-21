@@ -20,7 +20,7 @@
       "subject": "Singapore Object Storage Outage - 2023-03-21",
       "start_date": "2023-03-21T13:34:00+00:00",
       "updated_at": "",
-      "status": "ongoing",
+      "status": "resolved",
       "entries": [
         {
           "updated_at": "2023-03-21T13:34:00+00:00",
@@ -34,7 +34,7 @@
       "subject": "Scheduled Maintenance - 2023-03-21",
       "start_date": "2023-03-19T01:26:00+00:00",
       "updated_at": "",
-      "status": "ongoing",
+      "status": "resolved",
       "entries": [
         {
           "updated_at": "2023-03-19T01:26:00+00:00",

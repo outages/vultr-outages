@@ -72,7 +72,7 @@
         {
           "id": "d2c749be-7dfc-4622-a864-7af55fed9834",
           "subject": "Scheduled Maintenance - 2023-03-21",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-03-19T01:26:00+00:00",
           "updated_at": "",
           "entries": [
@@ -200,7 +200,7 @@
         {
           "id": "fcdcad00-7d1e-4ca6-9e4a-62f4fbca3791",
           "subject": "Singapore Object Storage Outage - 2023-03-21",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-03-21T13:34:00+00:00",
           "updated_at": "",
           "entries": [
