@@ -297,7 +297,7 @@
         {
           "id": "ecacac90-ff5d-42c5-92f1-e8200d2abb2c",
           "subject": "Scheduled Maintenance - 2023-03-22",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-03-16T23:44:00+00:00",
           "updated_at": "",
           "entries": [
