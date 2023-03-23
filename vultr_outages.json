@@ -31,19 +31,6 @@
               "message": "We will be performing maintenance on the deployment infrastructure supporting our Bare Metal products on Thursday, March 21, 2023 at 14:00 UTC.\r\n\r\nDuring this time re-installation, deployments, and metadata services will not be available.\r\n\r\nUpon conclusion of the maintenance, all Bare Metal functionality will return to normal."
             }
           ]
-        },
-        {
-          "id": "c5a3351f-aec2-4b04-875d-478200891a56",
-          "subject": "Bangalore Bare Metal Deployment Delays",
-          "status": "resolved",
-          "start_date": "2023-03-15T12:51:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2023-03-15T12:51:00+00:00",
-              "message": "Some customers are currently experiencing issues deploying Bare Metal servers in our Bangalore location. Our engineering team is aware of this issue and is working diligently to resolve this as quickly as possible."
-            }
-          ]
         }
       ]
     },
