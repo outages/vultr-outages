@@ -69,20 +69,6 @@
           "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
         }
       ]
-    },
-    {
-      "id": "1880d4d2-ba9a-4bb8-9760-7069c33fe834",
-      "region": "waw",
-      "subject": "Scheduled Maintenance - 2023-03-25",
-      "start_date": "2023-03-16T23:54:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2023-03-16T23:54:00+00:00",
-          "message": "Event Type: Software Upgrade\r\nStart Time: 2023-03-25 02:05:00 UTC\r\nEnd Time: 2023-03-25 06:05:00 UTC\r\n\r\nWe will be performing software upgrades in this location as part of an ongoing effort to maintain an ideal hosting environment. During the course of this maintenance window, your instance will be rebooted, and will be unavailable for several minutes. Please be aware that as we do not have access to your filesystem, this reboot will not be as clean as if it were done from within your OS, so preparing your software/filesystem with a graceful shutdown of services and the VPS itself would be advised."
-        }
-      ]
     }
   ]
 }
