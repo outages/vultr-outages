@@ -25,7 +25,21 @@
       "location": "Amsterdam",
       "country": "NL",
       "country_name": "Netherlands",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "c5e43ca8-e5ef-4e55-9f1f-5da7d14e75c7",
+          "subject": "Amsterdam Scheduled Maintenance - 2023-04-11",
+          "status": "ongoing",
+          "start_date": "2023-03-29T16:09:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-03-29T16:09:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Amsterdam location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-04-11 00:00:00 UTC  (02:00 local time)\r\nEnd Time: 2023-04-11 02:00:00 UTC  (04:00 local time)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Amsterdam instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+            }
+          ]
+        }
+      ]
     },
     "atl": {
       "location": "Atlanta",
@@ -171,7 +185,21 @@
       "location": "Seoul",
       "country": "KR",
       "country_name": "Korea, Republic of",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "dd1fe3db-e262-4935-b567-4c4fea51712a",
+          "subject": "Seoul Scheduled Maintenance - 2023-04-11",
+          "status": "ongoing",
+          "start_date": "2023-03-29T16:05:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-03-29T16:05:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Seoul location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-04-10 19:00:00 UTC (2023-04-11 04:00 local)\r\nEnd Time: 2023-04-10 21:00:00 UTC (2023-04-11 06:00 local)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Seoul instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+            }
+          ]
+        }
+      ]
     },
     "sjc": {
       "location": "Silicon Valley",
@@ -203,7 +231,21 @@
       "location": "Stockholm",
       "country": "SE",
       "country_name": "Sweden",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "a586aa11-440e-43c4-8e15-69921cd73c26",
+          "subject": "Stockholm Scheduled Maintenance - 2023-04-11",
+          "status": "ongoing",
+          "start_date": "2023-03-29T16:11:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-03-29T16:11:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Stockholm location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-04-11 02:00:00 UTC  (04:00 local time)\r\nEnd Time: 2023-04-11 04:00:00 UTC  (06:00 local time)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Stockholm instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+            }
+          ]
+        }
+      ]
     },
     "syd": {
       "location": "Sydney",
