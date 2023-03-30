@@ -1,26 +1,6 @@
 {
   "service_alerts": [],
   "regions": {
-    "global": {
-      "location": "All Locations",
-      "country": "ALL",
-      "country_name": "Global",
-      "alerts": [
-        {
-          "id": "0a495a46-52af-4d21-9f8b-b34bdd8ecdc9",
-          "subject": "Control Portal & API Scheduled Maintenance - 2023-03-27",
-          "status": "resolved",
-          "start_date": "2023-03-22T18:39:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2023-03-22T18:39:00+00:00",
-              "message": "Event Type: Provisioning platform upgrade\r\n\r\nIn an effort to continuously enhance the customer experience, we are performing routine maintenance on my.vultr.com and api.vultr.com during the following scheduled maintenance window: \r\n\r\nStart Time: 2023-03-27 20:00:00 UTC\r\nEnd Time: 2023-03-27 22:00:00 UTC\r\n\r\nThis maintenance affects Vultr provisioning and management systems only. During this maintenance window deploying or managing instances via API or my.vultr.com may be unavailable for brief periods of time, but the normal operation of your Vultr instances and infrastructure will not be affected. Provisioning or management attempts during this time may timeout or fail, if so, please wait a few minutes and try again.\r\n\r\nThe 2 hour window is a precautionary measure and the work is expected to be very brief.  Please feel free to open a support ticket with any questions or concerns."
-            }
-          ]
-        }
-      ]
-    },
     "ams": {
       "location": "Amsterdam",
       "country": "NL",
