@@ -25,7 +25,21 @@
       "location": "Atlanta",
       "country": "US",
       "country_name": "United States",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "119f45a7-7a42-4b6e-842c-78e69b9311a4",
+          "subject": "Private Networking Outage",
+          "status": "ongoing",
+          "start_date": "2023-04-10T20:24:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-04-10T20:24:00+00:00",
+              "message": "We are currently experiencing a VPC outage in our Atlanta and London locations. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible."
+            }
+          ]
+        }
+      ]
     },
     "blr": {
       "location": "Bangalore",
@@ -73,7 +87,21 @@
       "location": "London",
       "country": "GB",
       "country_name": "United Kingdom",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "119f45a7-7a42-4b6e-842c-78e69b9311a4",
+          "subject": "Private Networking Outage",
+          "status": "ongoing",
+          "start_date": "2023-04-10T20:24:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-04-10T20:24:00+00:00",
+              "message": "We are currently experiencing a VPC outage in our Atlanta and London locations. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible."
+            }
+          ]
+        }
+      ]
     },
     "lax": {
       "location": "Los Angeles",
