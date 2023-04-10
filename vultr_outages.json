@@ -197,7 +197,7 @@
         {
           "id": "dd1fe3db-e262-4935-b567-4c4fea51712a",
           "subject": "Seoul Scheduled Maintenance - 2023-04-11",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-03-29T16:05:00+00:00",
           "updated_at": "2023-04-10T20:39:00+00:00",
           "entries": [
