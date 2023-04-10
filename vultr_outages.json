@@ -29,7 +29,7 @@
         {
           "id": "119f45a7-7a42-4b6e-842c-78e69b9311a4",
           "subject": "Private Networking Outage",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-04-10T20:24:00+00:00",
           "updated_at": "",
           "entries": [
@@ -91,7 +91,7 @@
         {
           "id": "119f45a7-7a42-4b6e-842c-78e69b9311a4",
           "subject": "Private Networking Outage",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-04-10T20:24:00+00:00",
           "updated_at": "",
           "entries": [
