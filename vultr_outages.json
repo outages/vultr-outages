@@ -251,7 +251,7 @@
         {
           "id": "a586aa11-440e-43c4-8e15-69921cd73c26",
           "subject": "Stockholm Scheduled Maintenance - 2023-04-11",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-03-29T16:11:00+00:00",
           "updated_at": "2023-04-11T02:43:00+00:00",
           "entries": [
