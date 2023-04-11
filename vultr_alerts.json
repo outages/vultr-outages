@@ -1,6 +1,76 @@
 {
   "service_alerts": [
     {
+      "id": "f8135692-352c-42a2-923f-db1aa344d744",
+      "region": "lax",
+      "subject": "Los Angeles Scheduled Maintenance - 2023-04-19",
+      "start_date": "2023-04-11T13:33:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2023-04-11T13:33:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Los Angeles location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-04-19 12:00:00 UTC  (05:00 local time)\r\nEnd Time: 2023-04-19 13:00:00 UTC  (06:00 local time)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Los Angeles instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
+      "id": "fe08a486-a5fb-437b-98ee-a36412e0152d",
+      "region": "mex",
+      "subject": "Mexico City Scheduled Maintenance - 2023-04-19",
+      "start_date": "2023-04-11T13:29:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2023-04-11T13:29:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Mexico City location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-04-19 11:00:00 UTC  (05:00 local time)\r\nEnd Time: 2023-04-19 12:00:00 UTC  (06:00 local time)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Mexico City instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
+      "id": "632a7781-6a11-4e2c-ad97-1c7591ab2fef",
+      "region": "dfw",
+      "subject": "Dallas Scheduled Maintenance - 2023-04-19",
+      "start_date": "2023-04-11T13:26:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2023-04-11T13:26:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Dallas location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-04-19 10:00:00 UTC  (05:00 local time)\r\nEnd Time: 2023-04-19 11:00:00 UTC  (06:00 local time)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Dallas instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
+      "id": "f216dd31-2750-4f29-9389-76065c931161",
+      "region": "ord",
+      "subject": "Chicago Scheduled Maintenance - 2023-04-19",
+      "start_date": "2023-04-11T13:23:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2023-04-11T13:23:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Chicago location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-04-19 09:00:00 UTC  (04:00 local time)\r\nEnd Time: 2023-04-19 10:00:00 UTC  (05:00 local time)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Chicago instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
+      "id": "ee2b8798-0cfc-422a-8c68-681fa63cd003",
+      "region": "mia",
+      "subject": "Miami Scheduled Maintenance - 2023-04-19",
+      "start_date": "2023-04-11T13:20:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2023-04-11T13:20:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Miami location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-04-19 08:00:00 UTC  (04:00 local time)\r\nEnd Time: 2023-04-19 09:00:00 UTC  (05:00 local time)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Miami instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
       "id": "119f45a7-7a42-4b6e-842c-78e69b9311a4",
       "region": "atl",
       "subject": "Private Networking Outage",
