@@ -159,20 +159,6 @@
       ]
     },
     {
-      "id": "b8976631-dbd2-4288-9d4d-4156eaf7a3f2",
-      "region": "nrt",
-      "subject": "Tokyo Scheduled Maintenance - 2023-04-10",
-      "start_date": "2023-04-04T18:05:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2023-04-04T18:05:00+00:00",
-          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Tokyo location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-04-10 17:30:00 UTC\r\nEnd Time: 2023-04-10 22:30:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Tokyo instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-        }
-      ]
-    },
-    {
       "id": "3ae8d1ec-0cbe-4570-bb40-297163508026",
       "region": "sgp",
       "subject": "Singapore Scheduled Maintenance - 2023-04-11",
