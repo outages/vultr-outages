@@ -5,9 +5,13 @@
       "region": "ewr",
       "subject": "New Jersey Object Storage Outage - 2023-04-13",
       "start_date": "2023-04-12T00:17:00+00:00",
-      "updated_at": "",
-      "status": "ongoing",
+      "updated_at": "2023-04-12T16:56:00+00:00",
+      "status": "resolved",
       "entries": [
+        {
+          "updated_at": "2023-04-12T16:56:00+00:00",
+          "message": "New Jersey Object Storage availability has been restored.   Performance improvements are in-progress; please expect that work to continue for several days but that is not expected to impact stability or availability."
+        },
         {
           "updated_at": "2023-04-12T00:17:00+00:00",
           "message": "Event Type: Service Degraded Performance and Availability\r\n\r\nOur Cloud Storage team is investigating a partial outage situation with our Object Storage infrastructure. The following services may be impacted by this event:\r\n\r\n- Object Storage Subscription management\r\n- Adding or removing buckets\r\n- S3 client issues\r\n- Vultr Load Balancer management\r\n- Vultr Kubernetes Engine management\r\n\r\nWe are working quickly to restore service to its optimal state."
@@ -146,7 +150,7 @@
       "subject": "New Jersey Object Storage Outage - 2023-04-06",
       "start_date": "2023-04-06T12:15:00+00:00",
       "updated_at": "",
-      "status": "ongoing",
+      "status": "resolved",
       "entries": [
         {
           "updated_at": "2023-04-06T12:15:00+00:00",
