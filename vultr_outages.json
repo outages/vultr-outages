@@ -173,6 +173,19 @@
       "country_name": "United States",
       "alerts": [
         {
+          "id": "c17b4bf7-5992-4119-bf3f-8dda7123efaa",
+          "subject": "New Jersey Object Storage Outage - 2023-04-13",
+          "status": "ongoing",
+          "start_date": "2023-04-13T16:24:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-04-13T16:24:00+00:00",
+              "message": "Event Type: Service Degraded Performance and Availability\r\n\r\nOur Cloud Storage team is investigating a partial outage situation with our Object Storage infrastructure. The following services may be impacted by this event:\r\n\r\n- Object Storage Subscription management\r\n- Adding or removing buckets\r\n- S3 client issues\r\n- HTTP 502 and 504 errors\r\n\r\nOur engineers are in the process of adding additional resources to improve service stability and performance."
+            }
+          ]
+        },
+        {
           "id": "1c58a7e9-2b71-43aa-85ca-bed275222062",
           "subject": "New Jersey Object Storage Outage - 2023-04-13",
           "status": "resolved",
