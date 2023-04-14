@@ -184,36 +184,6 @@
               "message": "Event Type: Service Degraded Performance and Availability\r\n\r\nOur Cloud Storage team is investigating a partial outage situation with our Object Storage infrastructure. The following services may be impacted by this event:\r\n\r\n- Object Storage Subscription management\r\n- Adding or removing buckets\r\n- S3 client issues\r\n- HTTP 502 and 504 errors\r\n\r\nOur engineers are in the process of adding additional resources to improve service stability and performance."
             }
           ]
-        },
-        {
-          "id": "1c58a7e9-2b71-43aa-85ca-bed275222062",
-          "subject": "New Jersey Object Storage Outage - 2023-04-13",
-          "status": "resolved",
-          "start_date": "2023-04-12T00:17:00+00:00",
-          "updated_at": "2023-04-12T16:56:00+00:00",
-          "entries": [
-            {
-              "updated_at": "2023-04-12T16:56:00+00:00",
-              "message": "New Jersey Object Storage availability has been restored.   Performance improvements are in-progress; please expect that work to continue for several days but that is not expected to impact stability or availability."
-            },
-            {
-              "updated_at": "2023-04-12T00:17:00+00:00",
-              "message": "Event Type: Service Degraded Performance and Availability\r\n\r\nOur Cloud Storage team is investigating a partial outage situation with our Object Storage infrastructure. The following services may be impacted by this event:\r\n\r\n- Object Storage Subscription management\r\n- Adding or removing buckets\r\n- S3 client issues\r\n- Vultr Load Balancer management\r\n- Vultr Kubernetes Engine management\r\n\r\nWe are working quickly to restore service to its optimal state."
-            }
-          ]
-        },
-        {
-          "id": "536b09d1-cbeb-45da-bb29-5bdd10dc95eb",
-          "subject": "New Jersey Object Storage Outage - 2023-04-06",
-          "status": "resolved",
-          "start_date": "2023-04-06T12:15:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2023-04-06T12:15:00+00:00",
-              "message": "Event Type: Service Degraded Performance and Availability\r\n\r\nOur Cloud Storage team is investigating a partial outage situation with our Object Storage infrastructure. The following services may be impacted by this event:\r\n\r\n- Object Storage Subscription management\r\n- Adding or removing buckets\r\n- S3 client issues\r\n\r\nWe are working quickly to restore service to its optimal state."
-            }
-          ]
         }
       ]
     },
