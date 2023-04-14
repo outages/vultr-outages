@@ -233,21 +233,7 @@
       "location": "São Paulo",
       "country": "BR",
       "country_name": "Brazil",
-      "alerts": [
-        {
-          "id": "abd719b6-5f48-4a06-99ad-1de5943ce850",
-          "subject": "Partial Outage",
-          "status": "ongoing",
-          "start_date": "2023-04-11T18:00:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2023-04-11T18:00:00+00:00",
-              "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "scl": {
       "location": "Santiago",
