@@ -1,6 +1,26 @@
 {
   "service_alerts": [],
   "regions": {
+    "global": {
+      "location": "All Locations",
+      "country": "ALL",
+      "country_name": "Global",
+      "alerts": [
+        {
+          "id": "abd30c79-c0ee-41d3-9b51-d73e8d7d36ca",
+          "subject": "Bare Metal Deployment Delays",
+          "status": "ongoing",
+          "start_date": "2023-04-17T15:21:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-04-17T15:21:00+00:00",
+              "message": "Some customers are currently experiencing slower than normal bare metal instance deployment times. Our engineering team is aware of this issue and is working diligently to resolve this as quickly as possible."
+            }
+          ]
+        }
+      ]
+    },
     "ams": {
       "location": "Amsterdam",
       "country": "NL",
