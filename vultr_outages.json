@@ -244,6 +244,19 @@
       "country_name": "Spain",
       "alerts": [
         {
+          "id": "6834ee50-8754-48c3-9cd7-c23a1037ae39",
+          "subject": "Madrid Scheduled Maintenance - 2023-04-28",
+          "status": "ongoing",
+          "start_date": "2023-04-18T16:39:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-04-18T16:39:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Madrid location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-04-27 22:00:00 UTC  (Apr 28 00:00 local time)\r\nEnd Time: 2023-04-28 00:00:00 UTC  (Apr 28 02:00 local time)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Madrid instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        },
+        {
           "id": "90e1e4eb-fc2d-457f-b3ce-ba32d1c2281b",
           "subject": "Bangalore, Delhi NCR, Johannesburg, Madrid, Mumbai, Osaka, Tokyo, Warsaw Scheduled Maintenance - 2023-04-24",
           "status": "ongoing",
@@ -322,6 +335,19 @@
       "country": "IN",
       "country_name": "India",
       "alerts": [
+        {
+          "id": "5ab13548-5fb9-4d8d-b183-d3b08312fc8b",
+          "subject": "Mumbai Scheduled Maintenance - 2023-04-28",
+          "status": "ongoing",
+          "start_date": "2023-04-18T16:37:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-04-18T16:37:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Mumbai location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-04-27 19:00:00 UTC  (Apr 28 00:30 local time)\r\nEnd Time: 2023-04-27 21:00:00 UTC  (Apr 28 02:30 local time)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Mumbai instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        },
         {
           "id": "90e1e4eb-fc2d-457f-b3ce-ba32d1c2281b",
           "subject": "Bangalore, Delhi NCR, Johannesburg, Madrid, Mumbai, Osaka, Tokyo, Warsaw Scheduled Maintenance - 2023-04-24",
@@ -473,6 +499,19 @@
       "country": "SG",
       "country_name": "Singapore",
       "alerts": [
+        {
+          "id": "6caf1391-1eed-4ee7-8f6e-d8eeda80b9e3",
+          "subject": "Singapore Scheduled Maintenance - 2023-04-28",
+          "status": "ongoing",
+          "start_date": "2023-04-18T16:35:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-04-18T16:35:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Singapore location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-04-27 16:00:00 UTC  (Apr 28 00:00 local time)\r\nEnd Time: 2023-04-27 18:00:00 UTC  (Apr 28 02:00 local time)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Singapore instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        },
         {
           "id": "b58d3994-891a-43bb-a838-cb4452931cce",
           "subject": "Singapore Scheduled Maintenance - 2023-04-19",
