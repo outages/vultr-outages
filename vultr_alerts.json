@@ -268,20 +268,6 @@
     },
     {
       "id": "8919abec-85ae-4ea5-8377-8fe3fec7f601",
-      "region": "scl",
-      "subject": "Dallas, Honolulu, Mexico City, Santiago, Seattle Scheduled Maintenance - 2023-04-25",
-      "start_date": "2023-04-17T18:58:00+00:00",
-      "updated_at": "",
-      "status": "ongoing",
-      "entries": [
-        {
-          "updated_at": "2023-04-17T18:58:00+00:00",
-          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Dallas, Honolulu, Mexico City, Santiago, Seattle locations during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-04-25 18:00:00 UTC\r\nEnd Time: 2023-04-25 22:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Dallas, Honolulu, Mexico City, Santiago, Seattle instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
-        }
-      ]
-    },
-    {
-      "id": "8919abec-85ae-4ea5-8377-8fe3fec7f601",
       "region": "dfw",
       "subject": "Dallas, Honolulu, Mexico City, Santiago, Seattle Scheduled Maintenance - 2023-04-25",
       "start_date": "2023-04-17T18:58:00+00:00",
@@ -297,6 +283,20 @@
     {
       "id": "8919abec-85ae-4ea5-8377-8fe3fec7f601",
       "region": "sea",
+      "subject": "Dallas, Honolulu, Mexico City, Santiago, Seattle Scheduled Maintenance - 2023-04-25",
+      "start_date": "2023-04-17T18:58:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2023-04-17T18:58:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Dallas, Honolulu, Mexico City, Santiago, Seattle locations during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-04-25 18:00:00 UTC\r\nEnd Time: 2023-04-25 22:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Dallas, Honolulu, Mexico City, Santiago, Seattle instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+        }
+      ]
+    },
+    {
+      "id": "8919abec-85ae-4ea5-8377-8fe3fec7f601",
+      "region": "scl",
       "subject": "Dallas, Honolulu, Mexico City, Santiago, Seattle Scheduled Maintenance - 2023-04-25",
       "start_date": "2023-04-17T18:58:00+00:00",
       "updated_at": "",
@@ -411,9 +411,13 @@
       "region": "dfw",
       "subject": "Dallas Scheduled Maintenance - 2023-04-19",
       "start_date": "2023-04-11T13:26:00+00:00",
-      "updated_at": "",
-      "status": "ongoing",
+      "updated_at": "2023-04-19T10:49:00+00:00",
+      "status": "resolved",
       "entries": [
+        {
+          "updated_at": "2023-04-19T10:49:00+00:00",
+          "message": "work completed"
+        },
         {
           "updated_at": "2023-04-11T13:26:00+00:00",
           "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Dallas location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-04-19 10:00:00 UTC  (05:00 local time)\r\nEnd Time: 2023-04-19 11:00:00 UTC  (06:00 local time)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Dallas instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
