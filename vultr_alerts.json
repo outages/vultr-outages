@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "8497f291-caa2-46c1-8b3e-670686d515e8",
+      "region": "mia",
+      "subject": "Miami Network Outage",
+      "start_date": "2023-04-19T09:40:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2023-04-19T09:40:00+00:00",
+          "message": "We are currently experiencing a partial outage in our Miami location. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible."
+        }
+      ]
+    },
+    {
       "id": "6834ee50-8754-48c3-9cd7-c23a1037ae39",
       "region": "mad",
       "subject": "Madrid Scheduled Maintenance - 2023-04-28",
@@ -240,7 +254,7 @@
     },
     {
       "id": "8919abec-85ae-4ea5-8377-8fe3fec7f601",
-      "region": "hnl",
+      "region": "mex",
       "subject": "Dallas, Honolulu, Mexico City, Santiago, Seattle Scheduled Maintenance - 2023-04-25",
       "start_date": "2023-04-17T18:58:00+00:00",
       "updated_at": "",
@@ -254,7 +268,7 @@
     },
     {
       "id": "8919abec-85ae-4ea5-8377-8fe3fec7f601",
-      "region": "mex",
+      "region": "hnl",
       "subject": "Dallas, Honolulu, Mexico City, Santiago, Seattle Scheduled Maintenance - 2023-04-25",
       "start_date": "2023-04-17T18:58:00+00:00",
       "updated_at": "",

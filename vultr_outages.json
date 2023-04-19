@@ -316,6 +316,19 @@
       "country_name": "United States",
       "alerts": [
         {
+          "id": "8497f291-caa2-46c1-8b3e-670686d515e8",
+          "subject": "Miami Network Outage",
+          "status": "ongoing",
+          "start_date": "2023-04-19T09:40:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-04-19T09:40:00+00:00",
+              "message": "We are currently experiencing a partial outage in our Miami location. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible."
+            }
+          ]
+        },
+        {
           "id": "ee2b8798-0cfc-422a-8c68-681fa63cd003",
           "subject": "Miami Scheduled Maintenance - 2023-04-19",
           "status": "resolved",
