@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "5dd4a9b9-946e-4522-93bf-aabe38ba94f5",
+      "region": "global",
+      "subject": "Ticket Creation Delays",
+      "start_date": "2023-04-19T22:56:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2023-04-19T22:56:00+00:00",
+          "message": "Some customers are currently experiencing issues creating or responding to tickets. This may result in slower than normal ticket response times. Our engineering team is aware of this issue and is working diligently to resolve this as quickly as possible."
+        }
+      ]
+    },
+    {
       "id": "8497f291-caa2-46c1-8b3e-670686d515e8",
       "region": "mia",
       "subject": "Miami Network Outage",
@@ -142,34 +156,6 @@
     },
     {
       "id": "90e1e4eb-fc2d-457f-b3ce-ba32d1c2281b",
-      "region": "del",
-      "subject": "Bangalore, Delhi NCR, Johannesburg, Madrid, Mumbai, Osaka, Tokyo, Warsaw Scheduled Maintenance - 2023-04-24",
-      "start_date": "2023-04-17T18:59:00+00:00",
-      "updated_at": "",
-      "status": "ongoing",
-      "entries": [
-        {
-          "updated_at": "2023-04-17T18:59:00+00:00",
-          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Bangalore, Delhi NCR, Johannesburg, Madrid, Mumbai, Osaka, Tokyo, Warsaw locations during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-04-24 20:00:00 UTC\r\nEnd Time: 2023-04-25 24:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Bangalore, Delhi NCR, Johannesburg, Madrid, Mumbai, Osaka, Tokyo, Warsaw instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
-        }
-      ]
-    },
-    {
-      "id": "90e1e4eb-fc2d-457f-b3ce-ba32d1c2281b",
-      "region": "blr",
-      "subject": "Bangalore, Delhi NCR, Johannesburg, Madrid, Mumbai, Osaka, Tokyo, Warsaw Scheduled Maintenance - 2023-04-24",
-      "start_date": "2023-04-17T18:59:00+00:00",
-      "updated_at": "",
-      "status": "ongoing",
-      "entries": [
-        {
-          "updated_at": "2023-04-17T18:59:00+00:00",
-          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Bangalore, Delhi NCR, Johannesburg, Madrid, Mumbai, Osaka, Tokyo, Warsaw locations during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-04-24 20:00:00 UTC\r\nEnd Time: 2023-04-25 24:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Bangalore, Delhi NCR, Johannesburg, Madrid, Mumbai, Osaka, Tokyo, Warsaw instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
-        }
-      ]
-    },
-    {
-      "id": "90e1e4eb-fc2d-457f-b3ce-ba32d1c2281b",
       "region": "nrt",
       "subject": "Bangalore, Delhi NCR, Johannesburg, Madrid, Mumbai, Osaka, Tokyo, Warsaw Scheduled Maintenance - 2023-04-24",
       "start_date": "2023-04-17T18:59:00+00:00",
@@ -212,7 +198,7 @@
     },
     {
       "id": "90e1e4eb-fc2d-457f-b3ce-ba32d1c2281b",
-      "region": "jnb",
+      "region": "waw",
       "subject": "Bangalore, Delhi NCR, Johannesburg, Madrid, Mumbai, Osaka, Tokyo, Warsaw Scheduled Maintenance - 2023-04-24",
       "start_date": "2023-04-17T18:59:00+00:00",
       "updated_at": "",
@@ -240,7 +226,35 @@
     },
     {
       "id": "90e1e4eb-fc2d-457f-b3ce-ba32d1c2281b",
-      "region": "waw",
+      "region": "jnb",
+      "subject": "Bangalore, Delhi NCR, Johannesburg, Madrid, Mumbai, Osaka, Tokyo, Warsaw Scheduled Maintenance - 2023-04-24",
+      "start_date": "2023-04-17T18:59:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2023-04-17T18:59:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Bangalore, Delhi NCR, Johannesburg, Madrid, Mumbai, Osaka, Tokyo, Warsaw locations during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-04-24 20:00:00 UTC\r\nEnd Time: 2023-04-25 24:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Bangalore, Delhi NCR, Johannesburg, Madrid, Mumbai, Osaka, Tokyo, Warsaw instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+        }
+      ]
+    },
+    {
+      "id": "90e1e4eb-fc2d-457f-b3ce-ba32d1c2281b",
+      "region": "del",
+      "subject": "Bangalore, Delhi NCR, Johannesburg, Madrid, Mumbai, Osaka, Tokyo, Warsaw Scheduled Maintenance - 2023-04-24",
+      "start_date": "2023-04-17T18:59:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2023-04-17T18:59:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Bangalore, Delhi NCR, Johannesburg, Madrid, Mumbai, Osaka, Tokyo, Warsaw locations during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-04-24 20:00:00 UTC\r\nEnd Time: 2023-04-25 24:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Bangalore, Delhi NCR, Johannesburg, Madrid, Mumbai, Osaka, Tokyo, Warsaw instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+        }
+      ]
+    },
+    {
+      "id": "90e1e4eb-fc2d-457f-b3ce-ba32d1c2281b",
+      "region": "blr",
       "subject": "Bangalore, Delhi NCR, Johannesburg, Madrid, Mumbai, Osaka, Tokyo, Warsaw Scheduled Maintenance - 2023-04-24",
       "start_date": "2023-04-17T18:59:00+00:00",
       "updated_at": "",
@@ -254,7 +268,7 @@
     },
     {
       "id": "8919abec-85ae-4ea5-8377-8fe3fec7f601",
-      "region": "mex",
+      "region": "hnl",
       "subject": "Dallas, Honolulu, Mexico City, Santiago, Seattle Scheduled Maintenance - 2023-04-25",
       "start_date": "2023-04-17T18:58:00+00:00",
       "updated_at": "",
@@ -310,7 +324,7 @@
     },
     {
       "id": "8919abec-85ae-4ea5-8377-8fe3fec7f601",
-      "region": "hnl",
+      "region": "mex",
       "subject": "Dallas, Honolulu, Mexico City, Santiago, Seattle Scheduled Maintenance - 2023-04-25",
       "start_date": "2023-04-17T18:58:00+00:00",
       "updated_at": "",
