@@ -234,10 +234,14 @@
         {
           "id": "f8135692-352c-42a2-923f-db1aa344d744",
           "subject": "Los Angeles Scheduled Maintenance - 2023-04-19",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-04-11T13:33:00+00:00",
-          "updated_at": "",
+          "updated_at": "2023-04-19T12:49:00+00:00",
           "entries": [
+            {
+              "updated_at": "2023-04-19T12:49:00+00:00",
+              "message": "work completed"
+            },
             {
               "updated_at": "2023-04-11T13:33:00+00:00",
               "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Los Angeles location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-04-19 12:00:00 UTC  (05:00 local time)\r\nEnd Time: 2023-04-19 13:00:00 UTC  (06:00 local time)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Los Angeles instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
@@ -327,19 +331,6 @@
       "country": "US",
       "country_name": "United States",
       "alerts": [
-        {
-          "id": "7ebf1c72-8986-4d47-a264-dfd9907c6e86",
-          "subject": "Partial Outage",
-          "status": "ongoing",
-          "start_date": "2023-04-19T12:38:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2023-04-19T12:38:00+00:00",
-              "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
-            }
-          ]
-        },
         {
           "id": "8497f291-caa2-46c1-8b3e-670686d515e8",
           "subject": "Miami Network Outage",
