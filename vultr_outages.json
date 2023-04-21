@@ -25,13 +25,41 @@
       "location": "Amsterdam",
       "country": "NL",
       "country_name": "Netherlands",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "7d0e686c-5de9-4537-bd23-4d33f6e05361",
+          "subject": "Amsterdam Scheduled Maintenance - 2023-05-01",
+          "status": "ongoing",
+          "start_date": "2023-04-21T20:50:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-04-21T20:50:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Amsterdam location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-05-01 22:00:00 UTC  (May 2 00:00 local time)\r\nEnd Time: 2023-05-01 23:00:00 UTC  (May 2 01:00 local time)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Amsterdam instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        }
+      ]
     },
     "atl": {
       "location": "Atlanta",
       "country": "US",
       "country_name": "United States",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "5c7c646f-fe1a-4b07-a1b1-0b000b57f076",
+          "subject": "Atlanta Scheduled Maintenance - 2023-05-03",
+          "status": "ongoing",
+          "start_date": "2023-04-21T21:04:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-04-21T21:04:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Atlanta location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-05-03 05:00:00 UTC  (01:00 local time)\r\nEnd Time: 2023-05-03 06:00:00 UTC  (02:00 local time)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Atlanta instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        }
+      ]
     },
     "blr": {
       "location": "Bangalore",
@@ -70,13 +98,40 @@
       "location": "Chicago",
       "country": "US",
       "country_name": "United States",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "6f1d2de0-0df9-4824-b1b0-b2dd3fee466f",
+          "subject": "Chicago Scheduled Maintenance - 2023-05-03",
+          "status": "ongoing",
+          "start_date": "2023-04-21T21:07:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-04-21T21:07:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Chicago location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-05-03 07:00:00 UTC  (02:00 local time)\r\nEnd Time: 2023-05-03 08:00:00 UTC  (03:00 local time)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Chicago instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        }
+      ]
     },
     "dfw": {
       "location": "Dallas",
       "country": "US",
       "country_name": "United States",
       "alerts": [
+        {
+          "id": "685bc1e1-1627-4100-ba01-66fd338ef27d",
+          "subject": "Dallas Scheduled Maintenance - 2023-05-03",
+          "status": "ongoing",
+          "start_date": "2023-04-21T21:10:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-04-21T21:10:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Dallas location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-05-03 08:00:00 UTC  (03:00 local time)\r\nEnd Time: 2023-05-03 09:00:00 UTC  (04:00 local time)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Dallas instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        },
         {
           "id": "8919abec-85ae-4ea5-8377-8fe3fec7f601",
           "subject": "Dallas, Honolulu, Mexico City, Santiago, Seattle Scheduled Maintenance - 2023-04-25",
@@ -151,6 +206,19 @@
       "country_name": "United States",
       "alerts": [
         {
+          "id": "59efd399-9566-4554-a636-bbe2523a5f3c",
+          "subject": "Honolulu Scheduled Maintenance - 2023-05-01",
+          "status": "ongoing",
+          "start_date": "2023-04-21T20:42:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-04-21T20:42:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Honolulu location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-05-01 13:00:00 UTC  (03:00 local time)\r\nEnd Time: 2023-05-01 14:00:00 UTC  (04:00 local time)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Honolulu instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        },
+        {
           "id": "8919abec-85ae-4ea5-8377-8fe3fec7f601",
           "subject": "Dallas, Honolulu, Mexico City, Santiago, Seattle Scheduled Maintenance - 2023-04-25",
           "status": "ongoing",
@@ -171,6 +239,19 @@
       "country_name": "South Africa",
       "alerts": [
         {
+          "id": "01d11b95-4d74-4636-9796-0fab4a14f477",
+          "subject": "Johannesburg Scheduled Maintenance - 2023-05-02",
+          "status": "ongoing",
+          "start_date": "2023-04-21T20:56:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-04-21T20:56:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Johannesburg location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-05-02 01:00:00 UTC  (03:00 local time)\r\nEnd Time: 2023-05-02 02:00:00 UTC  (04:00 local time)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Johannesburg instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        },
+        {
           "id": "90e1e4eb-fc2d-457f-b3ce-ba32d1c2281b",
           "subject": "Bangalore, Delhi NCR, Johannesburg, Madrid, Mumbai, Osaka, Tokyo, Warsaw Scheduled Maintenance - 2023-04-24",
           "status": "ongoing",
@@ -189,7 +270,21 @@
       "location": "London",
       "country": "GB",
       "country_name": "United Kingdom",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "7a3c4aff-dfc2-44ab-89e6-fcb58a33d2c0",
+          "subject": "London Scheduled Maintenance - 2023-05-02",
+          "status": "ongoing",
+          "start_date": "2023-04-21T20:54:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-04-21T20:54:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the London location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-05-02 00:00:00 UTC  (01:00 local time)\r\nEnd Time: 2023-05-02 01:00:00 UTC  (02:00 local time)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, London instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        }
+      ]
     },
     "lax": {
       "location": "Los Angeles",
@@ -234,13 +329,40 @@
       "location": "Melbourne",
       "country": "AU",
       "country_name": "Australia",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "0b2ca5a8-eb64-4337-9897-5072568b9a82",
+          "subject": "Melbourne, Sydney Scheduled Maintenance - 2023-05-01",
+          "status": "ongoing",
+          "start_date": "2023-04-21T20:46:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-04-21T20:46:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Melbourne, Sydney locations during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-05-01 14:00:00 UTC  (May 2 00:00 local time)\r\nEnd Time: 2023-05-01 15:00:00 UTC  (May 2 01:00 local time)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Melbourne, Sydney instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        }
+      ]
     },
     "mex": {
       "location": "Mexico City",
       "country": "MX",
       "country_name": "Mexico",
       "alerts": [
+        {
+          "id": "43d5685b-033b-4ba4-9b5c-ae4e5bc4104d",
+          "subject": "Mexico City Scheduled Maintenance - 2023-05-03",
+          "status": "ongoing",
+          "start_date": "2023-04-21T21:12:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-04-21T21:12:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Mexico City location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-05-03 09:00:00 UTC  (03:00 local time)\r\nEnd Time: 2023-05-03 10:00:00 UTC  (04:00 local time)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Mexico City instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        },
         {
           "id": "8919abec-85ae-4ea5-8377-8fe3fec7f601",
           "subject": "Dallas, Honolulu, Mexico City, Santiago, Seattle Scheduled Maintenance - 2023-04-25",
@@ -260,7 +382,21 @@
       "location": "Miami",
       "country": "US",
       "country_name": "United States",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "5ca4d3c2-c414-4912-95ee-71303346fbac",
+          "subject": "Miami Scheduled Maintenance - 2023-05-03",
+          "status": "ongoing",
+          "start_date": "2023-04-21T21:02:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-04-21T21:02:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Miami location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-05-03 04:00:00 UTC  (00:00 local time)\r\nEnd Time: 2023-05-03 05:00:00 UTC  (01:00 local time)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Miami instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        }
+      ]
     },
     "bom": {
       "location": "Mumbai",
@@ -372,7 +508,21 @@
       "location": "São Paulo",
       "country": "BR",
       "country_name": "Brazil",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "72758484-f2c7-4a80-b7a6-352811881be7",
+          "subject": "São Paulo Scheduled Maintenance - 2023-05-03",
+          "status": "ongoing",
+          "start_date": "2023-04-21T21:00:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-04-21T21:00:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the São Paulo location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-05-03 03:00:00 UTC  (00:00 local time)\r\nEnd Time: 2023-05-03 04:00:00 UTC  (01:00 local time)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, São Paulo instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        }
+      ]
     },
     "scl": {
       "location": "Santiago",
@@ -400,6 +550,19 @@
       "country_name": "United States",
       "alerts": [
         {
+          "id": "b7a03605-de7c-44db-9c18-adfcf21fafc6",
+          "subject": "Seattle Scheduled Maintenance - 2023-05-03",
+          "status": "ongoing",
+          "start_date": "2023-04-21T21:15:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-04-21T21:15:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Seattle location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-05-03 10:00:00 UTC  (03:00 local time)\r\nEnd Time: 2023-05-03 11:00:00 UTC  (04:00 local time)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Seattle instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        },
+        {
           "id": "8919abec-85ae-4ea5-8377-8fe3fec7f601",
           "subject": "Dallas, Honolulu, Mexico City, Santiago, Seattle Scheduled Maintenance - 2023-04-25",
           "status": "ongoing",
@@ -418,13 +581,41 @@
       "location": "Seoul",
       "country": "KR",
       "country_name": "Korea, Republic of",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "826fd849-0f86-4691-8363-43fd6ffd3100",
+          "subject": "Seoul Scheduled Maintenance - 2023-05-01",
+          "status": "ongoing",
+          "start_date": "2023-04-21T20:48:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-04-21T20:48:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Seoul location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-05-01 15:00:00 UTC  (May 2 00:00 local time)\r\nEnd Time: 2023-05-01 16:00:00 UTC  (May 2 01:00 local time)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Seoul instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        }
+      ]
     },
     "sjc": {
       "location": "Silicon Valley",
       "country": "US",
       "country_name": "United States",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "4c4026c8-9893-463e-9fc8-e1c5d2576c1b",
+          "subject": "Silicon Valley Scheduled Maintenance - 2023-05-03",
+          "status": "ongoing",
+          "start_date": "2023-04-21T21:17:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-04-21T21:17:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Silicon Valley location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-05-03 11:00:00 UTC (04:00 local time)\r\nEnd Time: 2023-05-03 13:00:00 UTC  (06:00 local time)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Silicon Valley instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        }
+      ]
     },
     "sgp": {
       "location": "Singapore",
@@ -476,13 +667,41 @@
       "location": "Stockholm",
       "country": "SE",
       "country_name": "Sweden",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "43d70def-8c4b-41c7-aa90-16865b8e15dc",
+          "subject": "Stockholm Scheduled Maintenance - 2023-05-01",
+          "status": "ongoing",
+          "start_date": "2023-04-21T20:52:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-04-21T20:52:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Stockholm location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-05-01 23:00:00 UTC  (May 2 01:00 local time)\r\nEnd Time: 2023-05-02 00:00:00 UTC  (May 2 02:00 local time)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Stockholm instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        }
+      ]
     },
     "syd": {
       "location": "Sydney",
       "country": "AU",
       "country_name": "Australia",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "0b2ca5a8-eb64-4337-9897-5072568b9a82",
+          "subject": "Melbourne, Sydney Scheduled Maintenance - 2023-05-01",
+          "status": "ongoing",
+          "start_date": "2023-04-21T20:46:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-04-21T20:46:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Melbourne, Sydney locations during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-05-01 14:00:00 UTC  (May 2 00:00 local time)\r\nEnd Time: 2023-05-01 15:00:00 UTC  (May 2 01:00 local time)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Melbourne, Sydney instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        }
+      ]
     },
     "nrt": {
       "location": "Tokyo",
@@ -522,6 +741,19 @@
       "country": "CA",
       "country_name": "Canada",
       "alerts": [
+        {
+          "id": "74317132-323c-4881-b99f-22d85e0f9263",
+          "subject": "Toronto Scheduled Maintenance - 2023-05-03",
+          "status": "ongoing",
+          "start_date": "2023-04-21T21:06:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-04-21T21:06:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Toronto location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-05-03 06:00:00 UTC  (02:00 local time)\r\nEnd Time: 2023-05-03 07:00:00 UTC  (03:00 local time)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Toronto instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        },
         {
           "id": "31eec6e9-8e19-46c3-b814-f592607cb957",
           "subject": "Toronto Scheduled Maintenance - 2023-04-27",
