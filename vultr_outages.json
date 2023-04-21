@@ -437,6 +437,19 @@
       "country_name": "United States",
       "alerts": [
         {
+          "id": "e9024135-efe1-41bf-9df3-17c84f7139d1",
+          "subject": "New Jersey Scheduled Maintenance - 2023-05-04",
+          "status": "ongoing",
+          "start_date": "2023-04-21T21:19:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-04-21T21:19:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the New Jersey location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-05-04 04:00:00 UTC  (00:00 local time)\r\nEnd Time: 2023-05-04 06:00:00 UTC  (02:00 local time)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, New Jersey instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        },
+        {
           "id": "c17b4bf7-5992-4119-bf3f-8dda7123efaa",
           "subject": "New Jersey Object Storage Outage - 2023-04-13",
           "status": "ongoing",
