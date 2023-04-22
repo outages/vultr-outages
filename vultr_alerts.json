@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "fbf94bd8-3199-445f-9ce8-bfe6fb693e42",
+      "region": "ewr",
+      "subject": "New Jersey Object Storage Outage - 2023-04-22",
+      "start_date": "2023-04-22T12:26:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2023-04-22T12:26:00+00:00",
+          "message": "Event Type: Service Degraded Performance and Availability\r\n\r\nOur Cloud Storage team is investigating a partial outage situation with our Object Storage infrastructure. The following services may be impacted by this event:\r\n\r\n- Object Storage Subscription management\r\n- Adding or removing buckets\r\n- S3 client issues\r\n\r\nWe are working quickly to restore service to its optimal state."
+        }
+      ]
+    },
+    {
       "id": "38d8c2f2-7aea-40cb-839b-1c86bf3e403b",
       "region": "waw",
       "subject": "Warsaw Network Outage",
@@ -226,7 +240,7 @@
     },
     {
       "id": "0b2ca5a8-eb64-4337-9897-5072568b9a82",
-      "region": "syd",
+      "region": "mel",
       "subject": "Melbourne, Sydney Scheduled Maintenance - 2023-05-01",
       "start_date": "2023-04-21T20:46:00+00:00",
       "updated_at": "",
@@ -240,7 +254,7 @@
     },
     {
       "id": "0b2ca5a8-eb64-4337-9897-5072568b9a82",
-      "region": "mel",
+      "region": "syd",
       "subject": "Melbourne, Sydney Scheduled Maintenance - 2023-05-01",
       "start_date": "2023-04-21T20:46:00+00:00",
       "updated_at": "",
@@ -464,7 +478,7 @@
     },
     {
       "id": "90e1e4eb-fc2d-457f-b3ce-ba32d1c2281b",
-      "region": "mad",
+      "region": "itm",
       "subject": "Bangalore, Delhi NCR, Johannesburg, Madrid, Mumbai, Osaka, Tokyo, Warsaw Scheduled Maintenance - 2023-04-24",
       "start_date": "2023-04-17T18:59:00+00:00",
       "updated_at": "",
@@ -478,7 +492,7 @@
     },
     {
       "id": "90e1e4eb-fc2d-457f-b3ce-ba32d1c2281b",
-      "region": "itm",
+      "region": "mad",
       "subject": "Bangalore, Delhi NCR, Johannesburg, Madrid, Mumbai, Osaka, Tokyo, Warsaw Scheduled Maintenance - 2023-04-24",
       "start_date": "2023-04-17T18:59:00+00:00",
       "updated_at": "",
@@ -613,20 +627,6 @@
         {
           "updated_at": "2023-04-17T18:58:00+00:00",
           "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Dallas, Honolulu, Mexico City, Santiago, Seattle locations during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-04-25 18:00:00 UTC\r\nEnd Time: 2023-04-25 22:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Dallas, Honolulu, Mexico City, Santiago, Seattle instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
-        }
-      ]
-    },
-    {
-      "id": "b58d3994-891a-43bb-a838-cb4452931cce",
-      "region": "sgp",
-      "subject": "Singapore Scheduled Maintenance - 2023-04-19",
-      "start_date": "2023-04-14T20:08:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2023-04-14T20:08:00+00:00",
-          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Singapore location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-04-19 16:00:00 UTC\r\nEnd Time: 2023-04-19 18:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Singapore instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
         }
       ]
     },
