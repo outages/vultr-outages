@@ -782,6 +782,19 @@
       "country_name": "Poland",
       "alerts": [
         {
+          "id": "38d8c2f2-7aea-40cb-839b-1c86bf3e403b",
+          "subject": "Warsaw Network Outage",
+          "status": "ongoing",
+          "start_date": "2023-04-22T09:00:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-04-22T09:00:00+00:00",
+              "message": "We are currently experiencing a partial outage in our Warsaw location. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible."
+            }
+          ]
+        },
+        {
           "id": "90e1e4eb-fc2d-457f-b3ce-ba32d1c2281b",
           "subject": "Bangalore, Delhi NCR, Johannesburg, Madrid, Mumbai, Osaka, Tokyo, Warsaw Scheduled Maintenance - 2023-04-24",
           "status": "ongoing",
