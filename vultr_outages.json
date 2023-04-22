@@ -784,7 +784,7 @@
         {
           "id": "38d8c2f2-7aea-40cb-839b-1c86bf3e403b",
           "subject": "Warsaw Network Outage",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-04-22T09:00:00+00:00",
           "updated_at": "",
           "entries": [
