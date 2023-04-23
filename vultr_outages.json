@@ -435,8 +435,12 @@
           "subject": "New Jersey Object Storage Outage - 2023-04-22",
           "status": "ongoing",
           "start_date": "2023-04-22T12:26:00+00:00",
-          "updated_at": "",
+          "updated_at": "2023-04-23T11:37:00+00:00",
           "entries": [
+            {
+              "updated_at": "2023-04-23T11:37:00+00:00",
+              "message": "New Jersey Object Storage continues to have reduced performance and some availability issues.   We have temporarily stabilized the situation to a reasonable degree, but note that further work here is known to be required.  The next major intervention for the NJ object product is planned for Monday, April 24th (EST) .\r\n\r\nThank you for your patience and understanding during this troubleshooting and recovery process."
+            },
             {
               "updated_at": "2023-04-22T12:26:00+00:00",
               "message": "Event Type: Service Degraded Performance and Availability\r\n\r\nOur Cloud Storage team is investigating a partial outage situation with our Object Storage infrastructure. The following services may be impacted by this event:\r\n\r\n- Object Storage Subscription management\r\n- Adding or removing buckets\r\n- S3 client issues\r\n\r\nWe are working quickly to restore service to its optimal state."
