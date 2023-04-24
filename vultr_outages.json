@@ -714,6 +714,12 @@
         }
       ]
     },
+    "tlv": {
+      "location": "Tel Aviv",
+      "country": "IL",
+      "country_name": "Israel",
+      "alerts": []
+    },
     "nrt": {
       "location": "Tokyo",
       "country": "JP",
