@@ -115,7 +115,7 @@
         {
           "id": "8919abec-85ae-4ea5-8377-8fe3fec7f601",
           "subject": "Dallas, Honolulu, Mexico City, Santiago, Seattle Scheduled Maintenance - 2023-04-25",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-04-17T18:58:00+00:00",
           "updated_at": "",
           "entries": [
@@ -201,7 +201,7 @@
         {
           "id": "8919abec-85ae-4ea5-8377-8fe3fec7f601",
           "subject": "Dallas, Honolulu, Mexico City, Santiago, Seattle Scheduled Maintenance - 2023-04-25",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-04-17T18:58:00+00:00",
           "updated_at": "",
           "entries": [
@@ -360,7 +360,7 @@
         {
           "id": "8919abec-85ae-4ea5-8377-8fe3fec7f601",
           "subject": "Dallas, Honolulu, Mexico City, Santiago, Seattle Scheduled Maintenance - 2023-04-25",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-04-17T18:58:00+00:00",
           "updated_at": "",
           "entries": [
@@ -560,7 +560,7 @@
         {
           "id": "8919abec-85ae-4ea5-8377-8fe3fec7f601",
           "subject": "Dallas, Honolulu, Mexico City, Santiago, Seattle Scheduled Maintenance - 2023-04-25",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-04-17T18:58:00+00:00",
           "updated_at": "",
           "entries": [
@@ -593,7 +593,7 @@
         {
           "id": "8919abec-85ae-4ea5-8377-8fe3fec7f601",
           "subject": "Dallas, Honolulu, Mexico City, Santiago, Seattle Scheduled Maintenance - 2023-04-25",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-04-17T18:58:00+00:00",
           "updated_at": "",
           "entries": [
