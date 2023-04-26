@@ -755,8 +755,12 @@
           "subject": "Tokyo Scheduled Maintenance - 2023-04-26",
           "status": "ongoing",
           "start_date": "2023-04-17T22:39:00+00:00",
-          "updated_at": "",
+          "updated_at": "2023-04-26T15:49:00+00:00",
           "entries": [
+            {
+              "updated_at": "2023-04-26T15:49:00+00:00",
+              "message": "work completed"
+            },
             {
               "updated_at": "2023-04-17T22:39:00+00:00",
               "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Tokyo location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-04-26 15:00:00 UTC  (Apr 27 00:00 local time)\r\nEnd Time: 2023-04-26 17:00:00 UTC  (Apr 27 02:00 local time)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Tokyo instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
