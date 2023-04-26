@@ -176,7 +176,7 @@
         {
           "id": "5a867e36-5467-4a72-9327-6a248442ed7e",
           "subject": "Frankfurt Degraded Network Performance",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-04-26T01:49:00+00:00",
           "updated_at": "2023-04-26T20:13:00+00:00",
           "entries": [
