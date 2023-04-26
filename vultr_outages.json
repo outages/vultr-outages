@@ -753,7 +753,7 @@
         {
           "id": "82f4ed73-9903-45b0-aba1-1d7c2ddde1ec",
           "subject": "Tokyo Scheduled Maintenance - 2023-04-26",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-04-17T22:39:00+00:00",
           "updated_at": "2023-04-26T15:49:00+00:00",
           "entries": [
