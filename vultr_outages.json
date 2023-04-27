@@ -109,25 +109,7 @@
       "location": "Delhi NCR",
       "country": "IN",
       "country_name": "India",
-      "alerts": [
-        {
-          "id": "8a2cf4ba-6a8f-41ce-933d-ae1fd6a0f2ff",
-          "subject": "Delhi NCR Scheduled Maintenance - 2023-04-26",
-          "status": "resolved",
-          "start_date": "2023-04-17T22:32:00+00:00",
-          "updated_at": "2023-04-25T19:44:00+00:00",
-          "entries": [
-            {
-              "updated_at": "2023-04-25T19:44:00+00:00",
-              "message": "work completed"
-            },
-            {
-              "updated_at": "2023-04-17T22:32:00+00:00",
-              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Delhi NCR location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-04-25 19:00:00 UTC  (Apr 26 00:30 local time)\r\nEnd Time: 2023-04-25 21:00:00 UTC (Apr 26 02:20 local time)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Delhi NCR instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "fra": {
       "location": "Frankfurt",
