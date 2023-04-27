@@ -363,9 +363,13 @@
       "region": "bom",
       "subject": "Mumbai Scheduled Maintenance - 2023-04-28",
       "start_date": "2023-04-18T16:37:00+00:00",
-      "updated_at": "",
-      "status": "ongoing",
+      "updated_at": "2023-04-27T19:47:00+00:00",
+      "status": "resolved",
       "entries": [
+        {
+          "updated_at": "2023-04-27T19:47:00+00:00",
+          "message": "work completed"
+        },
         {
           "updated_at": "2023-04-18T16:37:00+00:00",
           "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Mumbai location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-04-27 19:00:00 UTC  (Apr 28 00:30 local time)\r\nEnd Time: 2023-04-27 21:00:00 UTC  (Apr 28 02:30 local time)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Mumbai instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
