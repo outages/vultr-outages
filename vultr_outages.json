@@ -240,10 +240,14 @@
         {
           "id": "6834ee50-8754-48c3-9cd7-c23a1037ae39",
           "subject": "Madrid Scheduled Maintenance - 2023-04-28",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-04-18T16:39:00+00:00",
-          "updated_at": "",
+          "updated_at": "2023-04-27T22:29:00+00:00",
           "entries": [
+            {
+              "updated_at": "2023-04-27T22:29:00+00:00",
+              "message": "work completed"
+            },
             {
               "updated_at": "2023-04-18T16:39:00+00:00",
               "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Madrid location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-04-27 22:00:00 UTC  (Apr 28 00:00 local time)\r\nEnd Time: 2023-04-28 00:00:00 UTC  (Apr 28 02:00 local time)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Madrid instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
