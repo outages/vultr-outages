@@ -815,7 +815,7 @@
         {
           "id": "31eec6e9-8e19-46c3-b814-f592607cb957",
           "subject": "Toronto Scheduled Maintenance - 2023-04-27",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-04-20T17:57:00+00:00",
           "updated_at": "",
           "entries": [
