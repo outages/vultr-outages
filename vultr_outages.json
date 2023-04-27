@@ -102,19 +102,6 @@
               "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Dallas location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-05-03 08:00:00 UTC  (03:00 local time)\r\nEnd Time: 2023-05-03 09:00:00 UTC  (04:00 local time)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Dallas instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
             }
           ]
-        },
-        {
-          "id": "8919abec-85ae-4ea5-8377-8fe3fec7f601",
-          "subject": "Dallas, Honolulu, Mexico City, Santiago, Seattle Scheduled Maintenance - 2023-04-25",
-          "status": "resolved",
-          "start_date": "2023-04-17T18:58:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2023-04-17T18:58:00+00:00",
-              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Dallas, Honolulu, Mexico City, Santiago, Seattle locations during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-04-25 18:00:00 UTC\r\nEnd Time: 2023-04-25 22:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Dallas, Honolulu, Mexico City, Santiago, Seattle instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
-            }
-          ]
         }
       ]
     },
@@ -198,19 +185,6 @@
             {
               "updated_at": "2023-04-21T20:42:00+00:00",
               "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Honolulu location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-05-01 13:00:00 UTC  (03:00 local time)\r\nEnd Time: 2023-05-01 14:00:00 UTC  (04:00 local time)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Honolulu instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-            }
-          ]
-        },
-        {
-          "id": "8919abec-85ae-4ea5-8377-8fe3fec7f601",
-          "subject": "Dallas, Honolulu, Mexico City, Santiago, Seattle Scheduled Maintenance - 2023-04-25",
-          "status": "resolved",
-          "start_date": "2023-04-17T18:58:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2023-04-17T18:58:00+00:00",
-              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Dallas, Honolulu, Mexico City, Santiago, Seattle locations during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-04-25 18:00:00 UTC\r\nEnd Time: 2023-04-25 22:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Dallas, Honolulu, Mexico City, Santiago, Seattle instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
             }
           ]
         }
@@ -331,19 +305,6 @@
             {
               "updated_at": "2023-04-21T21:12:00+00:00",
               "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Mexico City location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-05-03 09:00:00 UTC  (03:00 local time)\r\nEnd Time: 2023-05-03 10:00:00 UTC  (04:00 local time)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Mexico City instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-            }
-          ]
-        },
-        {
-          "id": "8919abec-85ae-4ea5-8377-8fe3fec7f601",
-          "subject": "Dallas, Honolulu, Mexico City, Santiago, Seattle Scheduled Maintenance - 2023-04-25",
-          "status": "resolved",
-          "start_date": "2023-04-17T18:58:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2023-04-17T18:58:00+00:00",
-              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Dallas, Honolulu, Mexico City, Santiago, Seattle locations during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-04-25 18:00:00 UTC\r\nEnd Time: 2023-04-25 22:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Dallas, Honolulu, Mexico City, Santiago, Seattle instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
             }
           ]
         }
@@ -507,21 +468,7 @@
       "location": "Santiago",
       "country": "CL",
       "country_name": "Chile",
-      "alerts": [
-        {
-          "id": "8919abec-85ae-4ea5-8377-8fe3fec7f601",
-          "subject": "Dallas, Honolulu, Mexico City, Santiago, Seattle Scheduled Maintenance - 2023-04-25",
-          "status": "resolved",
-          "start_date": "2023-04-17T18:58:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2023-04-17T18:58:00+00:00",
-              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Dallas, Honolulu, Mexico City, Santiago, Seattle locations during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-04-25 18:00:00 UTC\r\nEnd Time: 2023-04-25 22:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Dallas, Honolulu, Mexico City, Santiago, Seattle instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "sea": {
       "location": "Seattle",
@@ -538,19 +485,6 @@
             {
               "updated_at": "2023-04-21T21:15:00+00:00",
               "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Seattle location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-05-03 10:00:00 UTC  (03:00 local time)\r\nEnd Time: 2023-05-03 11:00:00 UTC  (04:00 local time)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Seattle instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-            }
-          ]
-        },
-        {
-          "id": "8919abec-85ae-4ea5-8377-8fe3fec7f601",
-          "subject": "Dallas, Honolulu, Mexico City, Santiago, Seattle Scheduled Maintenance - 2023-04-25",
-          "status": "resolved",
-          "start_date": "2023-04-17T18:58:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2023-04-17T18:58:00+00:00",
-              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Dallas, Honolulu, Mexico City, Santiago, Seattle locations during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-04-25 18:00:00 UTC\r\nEnd Time: 2023-04-25 22:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Dallas, Honolulu, Mexico City, Santiago, Seattle instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
             }
           ]
         }
