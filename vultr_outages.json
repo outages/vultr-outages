@@ -456,23 +456,6 @@
               "message": "The Ceph image cluster in Osaka was deployed in one cab initially due to space constraints in the data center.\r\n\r\nOur normal protocol is to deploy Ceph into 3x cabs so that if a rack were to fail, then it is less likely to take down the entire cluster. \r\n\r\nB612 is scheduled to begin work on Wednesday May 3rd.\r\n\r\nNo customer impact is expected."
             }
           ]
-        },
-        {
-          "id": "7c8a16d2-175b-4be7-9bda-5412b8dc6d49",
-          "subject": "Osaka Scheduled Maintenance - 2023-04-26",
-          "status": "resolved",
-          "start_date": "2023-04-17T22:26:00+00:00",
-          "updated_at": "2023-04-25T15:53:00+00:00",
-          "entries": [
-            {
-              "updated_at": "2023-04-25T15:53:00+00:00",
-              "message": "work completed"
-            },
-            {
-              "updated_at": "2023-04-17T22:26:00+00:00",
-              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Osaka location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-04-25 15:00:00 UTC  (2023-04-26 00:00 local time)\r\nEnd Time: 2023-04-25 17:00:00 UTC  (2023-04-26 02:00 local time)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Osaka instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-            }
-          ]
         }
       ]
     },
