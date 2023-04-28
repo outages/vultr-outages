@@ -165,6 +165,19 @@
       "country_name": "United States",
       "alerts": [
         {
+          "id": "305c5b66-3acf-40a2-bc79-a49093f77ef1",
+          "subject": "Los Angeles Scheduled Maintenance - 2023-05-04",
+          "status": "ongoing",
+          "start_date": "2023-04-28T20:03:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-04-28T20:03:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Los Angeles location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-05-04 11:00:00 UTC\r\nEnd Time: 2023-05-04 13:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Los Angeles instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+            }
+          ]
+        },
+        {
           "id": "2ccd0152-b1a3-4857-9dd7-cf59d5341601",
           "subject": "Los Angeles Scheduled Maintenance - 2023-05-01",
           "status": "ongoing",
