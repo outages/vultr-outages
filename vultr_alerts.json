@@ -453,24 +453,6 @@
       ]
     },
     {
-      "id": "399c06b7-eb66-4eea-8508-e1e6ba2c00ef",
-      "region": "fra",
-      "subject": "Frankfurt Scheduled Maintenance - 2023-04-26",
-      "start_date": "2023-04-17T22:35:00+00:00",
-      "updated_at": "2023-04-26T00:26:00+00:00",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2023-04-26T00:26:00+00:00",
-          "message": "work completed"
-        },
-        {
-          "updated_at": "2023-04-17T22:35:00+00:00",
-          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Frankfurt location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-04-25 22:00:00 UTC  (Apr 26 00:00 local time)\r\nEnd Time: 2023-04-26 00:00:00 UTC  (Apr 26 02:00 local time)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Frankfurt instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-        }
-      ]
-    },
-    {
       "id": "c17b4bf7-5992-4119-bf3f-8dda7123efaa",
       "region": "ewr",
       "subject": "New Jersey Object Storage Outage - 2023-04-13",
