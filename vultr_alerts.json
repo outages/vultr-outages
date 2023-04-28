@@ -262,7 +262,7 @@
     },
     {
       "id": "0b2ca5a8-eb64-4337-9897-5072568b9a82",
-      "region": "mel",
+      "region": "syd",
       "subject": "Melbourne, Sydney Scheduled Maintenance - 2023-05-01",
       "start_date": "2023-04-21T20:46:00+00:00",
       "updated_at": "",
@@ -276,7 +276,7 @@
     },
     {
       "id": "0b2ca5a8-eb64-4337-9897-5072568b9a82",
-      "region": "syd",
+      "region": "mel",
       "subject": "Melbourne, Sydney Scheduled Maintenance - 2023-05-01",
       "start_date": "2023-04-21T20:46:00+00:00",
       "updated_at": "",
@@ -327,20 +327,6 @@
         {
           "updated_at": "2023-04-20T17:57:00+00:00",
           "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Toronto location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-04-27 04:00:00 UTC\r\nEnd Time: 2023-04-27 08:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Toronto instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
-        }
-      ]
-    },
-    {
-      "id": "f28f406a-33f4-46c4-81e6-547a2a70c674",
-      "region": "sgp",
-      "subject": "Singapore Scheduled Maintenance - 2023-04-26",
-      "start_date": "2023-04-20T17:51:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2023-04-20T17:51:00+00:00",
-          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Singapore location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-04-26 16:00:00 UTC\r\nEnd Time: 2023-04-26 20:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Singapore instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
         }
       ]
     },
