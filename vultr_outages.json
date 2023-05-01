@@ -9,7 +9,7 @@
         {
           "id": "7d0e686c-5de9-4537-bd23-4d33f6e05361",
           "subject": "Amsterdam Scheduled Maintenance - 2023-05-01",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-04-21T20:50:00+00:00",
           "updated_at": "2023-05-01T22:46:00+00:00",
           "entries": [
