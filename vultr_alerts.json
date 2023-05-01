@@ -261,9 +261,13 @@
       "region": "mel",
       "subject": "Melbourne, Sydney Scheduled Maintenance - 2023-05-01",
       "start_date": "2023-04-21T20:46:00+00:00",
-      "updated_at": "",
-      "status": "ongoing",
+      "updated_at": "2023-05-01T14:54:00+00:00",
+      "status": "resolved",
       "entries": [
+        {
+          "updated_at": "2023-05-01T14:54:00+00:00",
+          "message": "work completed"
+        },
         {
           "updated_at": "2023-04-21T20:46:00+00:00",
           "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Melbourne, Sydney locations during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-05-01 14:00:00 UTC  (May 2 00:00 local time)\r\nEnd Time: 2023-05-01 15:00:00 UTC  (May 2 01:00 local time)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Melbourne, Sydney instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
@@ -275,9 +279,13 @@
       "region": "syd",
       "subject": "Melbourne, Sydney Scheduled Maintenance - 2023-05-01",
       "start_date": "2023-04-21T20:46:00+00:00",
-      "updated_at": "",
-      "status": "ongoing",
+      "updated_at": "2023-05-01T14:54:00+00:00",
+      "status": "resolved",
       "entries": [
+        {
+          "updated_at": "2023-05-01T14:54:00+00:00",
+          "message": "work completed"
+        },
         {
           "updated_at": "2023-04-21T20:46:00+00:00",
           "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Melbourne, Sydney locations during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-05-01 14:00:00 UTC  (May 2 00:00 local time)\r\nEnd Time: 2023-05-01 15:00:00 UTC  (May 2 01:00 local time)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Melbourne, Sydney instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
