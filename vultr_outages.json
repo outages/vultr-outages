@@ -107,7 +107,7 @@
         {
           "id": "59efd399-9566-4554-a636-bbe2523a5f3c",
           "subject": "Honolulu Scheduled Maintenance - 2023-05-01",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-04-21T20:42:00+00:00",
           "updated_at": "2023-05-01T13:21:00+00:00",
           "entries": [
