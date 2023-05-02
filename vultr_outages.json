@@ -135,7 +135,7 @@
         {
           "id": "01d11b95-4d74-4636-9796-0fab4a14f477",
           "subject": "Johannesburg Scheduled Maintenance - 2023-05-02",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-04-21T20:56:00+00:00",
           "updated_at": "2023-05-02T01:49:00+00:00",
           "entries": [
