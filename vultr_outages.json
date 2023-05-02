@@ -218,6 +218,12 @@
       "country_name": "Spain",
       "alerts": []
     },
+    "man": {
+      "location": "Manchester",
+      "country": "UK",
+      "country_name": "UK",
+      "alerts": []
+    },
     "mel": {
       "location": "Melbourne",
       "country": "AU",
