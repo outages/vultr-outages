@@ -87,7 +87,7 @@
         {
           "id": "685bc1e1-1627-4100-ba01-66fd338ef27d",
           "subject": "Dallas Scheduled Maintenance - 2023-05-03",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-04-21T21:10:00+00:00",
           "updated_at": "2023-05-03T08:56:00+00:00",
           "entries": [
