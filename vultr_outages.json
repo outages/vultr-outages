@@ -408,23 +408,6 @@
               "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Seoul location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-05-09 15:00:00 UTC\r\nEnd Time: 2023-05-09 19:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Seoul instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
             }
           ]
-        },
-        {
-          "id": "826fd849-0f86-4691-8363-43fd6ffd3100",
-          "subject": "Seoul Scheduled Maintenance - 2023-05-01",
-          "status": "resolved",
-          "start_date": "2023-04-21T20:48:00+00:00",
-          "updated_at": "2023-05-01T15:51:00+00:00",
-          "entries": [
-            {
-              "updated_at": "2023-05-01T15:51:00+00:00",
-              "message": "work completed"
-            },
-            {
-              "updated_at": "2023-04-21T20:48:00+00:00",
-              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Seoul location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-05-01 15:00:00 UTC  (May 2 00:00 local time)\r\nEnd Time: 2023-05-01 16:00:00 UTC  (May 2 01:00 local time)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Seoul instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-            }
-          ]
         }
       ]
     },
