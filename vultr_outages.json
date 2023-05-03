@@ -5,25 +5,7 @@
       "location": "Amsterdam",
       "country": "NL",
       "country_name": "Netherlands",
-      "alerts": [
-        {
-          "id": "7d0e686c-5de9-4537-bd23-4d33f6e05361",
-          "subject": "Amsterdam Scheduled Maintenance - 2023-05-01",
-          "status": "resolved",
-          "start_date": "2023-04-21T20:50:00+00:00",
-          "updated_at": "2023-05-01T22:46:00+00:00",
-          "entries": [
-            {
-              "updated_at": "2023-05-01T22:46:00+00:00",
-              "message": "work completed"
-            },
-            {
-              "updated_at": "2023-04-21T20:50:00+00:00",
-              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Amsterdam location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-05-01 22:00:00 UTC  (May 2 00:00 local time)\r\nEnd Time: 2023-05-01 23:00:00 UTC  (May 2 01:00 local time)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Amsterdam instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "atl": {
       "location": "Atlanta",
