@@ -119,25 +119,7 @@
       "location": "Honolulu",
       "country": "US",
       "country_name": "United States",
-      "alerts": [
-        {
-          "id": "59efd399-9566-4554-a636-bbe2523a5f3c",
-          "subject": "Honolulu Scheduled Maintenance - 2023-05-01",
-          "status": "resolved",
-          "start_date": "2023-04-21T20:42:00+00:00",
-          "updated_at": "2023-05-01T13:21:00+00:00",
-          "entries": [
-            {
-              "updated_at": "2023-05-01T13:21:00+00:00",
-              "message": "work completed"
-            },
-            {
-              "updated_at": "2023-04-21T20:42:00+00:00",
-              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Honolulu location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-05-01 13:00:00 UTC  (03:00 local time)\r\nEnd Time: 2023-05-01 14:00:00 UTC  (04:00 local time)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Honolulu instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "jnb": {
       "location": "Johannesburg",
