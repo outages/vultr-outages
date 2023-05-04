@@ -269,10 +269,14 @@
         {
           "id": "63e57d57-b60f-4e09-a805-9d287eaab204",
           "subject": "(STAFF NOTICE) Osaka itm-image01 Image Cluster Hardware Move",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-04-27T14:36:00+00:00",
-          "updated_at": "",
+          "updated_at": "2023-05-04T16:55:00+00:00",
           "entries": [
+            {
+              "updated_at": "2023-05-04T16:55:00+00:00",
+              "message": "Ceph hosts are now spread across 3x cabs. \r\nMaintenance is complete."
+            },
             {
               "updated_at": "2023-04-27T14:36:00+00:00",
               "message": "The Ceph image cluster in Osaka was deployed in one cab initially due to space constraints in the data center.\r\n\r\nOur normal protocol is to deploy Ceph into 3x cabs so that if a rack were to fail, then it is less likely to take down the entire cluster. \r\n\r\nB612 is scheduled to begin work on Wednesday May 3rd.\r\n\r\nNo customer impact is expected."
