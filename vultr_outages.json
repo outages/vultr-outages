@@ -243,25 +243,7 @@
       "location": "Silicon Valley",
       "country": "US",
       "country_name": "United States",
-      "alerts": [
-        {
-          "id": "4c4026c8-9893-463e-9fc8-e1c5d2576c1b",
-          "subject": "Silicon Valley Scheduled Maintenance - 2023-05-03",
-          "status": "resolved",
-          "start_date": "2023-04-21T21:17:00+00:00",
-          "updated_at": "2023-05-03T11:40:00+00:00",
-          "entries": [
-            {
-              "updated_at": "2023-05-03T11:40:00+00:00",
-              "message": "work completed"
-            },
-            {
-              "updated_at": "2023-04-21T21:17:00+00:00",
-              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Silicon Valley location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-05-03 11:00:00 UTC (04:00 local time)\r\nEnd Time: 2023-05-03 13:00:00 UTC  (06:00 local time)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Silicon Valley instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "sgp": {
       "location": "Singapore",
