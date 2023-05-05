@@ -295,25 +295,7 @@
       "location": "São Paulo",
       "country": "BR",
       "country_name": "Brazil",
-      "alerts": [
-        {
-          "id": "72758484-f2c7-4a80-b7a6-352811881be7",
-          "subject": "São Paulo Scheduled Maintenance - 2023-05-03",
-          "status": "resolved",
-          "start_date": "2023-04-21T21:00:00+00:00",
-          "updated_at": "2023-05-03T03:47:00+00:00",
-          "entries": [
-            {
-              "updated_at": "2023-05-03T03:47:00+00:00",
-              "message": "work completed"
-            },
-            {
-              "updated_at": "2023-04-21T21:00:00+00:00",
-              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the São Paulo location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-05-03 03:00:00 UTC  (00:00 local time)\r\nEnd Time: 2023-05-03 04:00:00 UTC  (01:00 local time)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, São Paulo instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "scl": {
       "location": "Santiago",
