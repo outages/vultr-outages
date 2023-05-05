@@ -383,25 +383,7 @@
       "location": "Toronto",
       "country": "CA",
       "country_name": "Canada",
-      "alerts": [
-        {
-          "id": "74317132-323c-4881-b99f-22d85e0f9263",
-          "subject": "Toronto Scheduled Maintenance - 2023-05-03",
-          "status": "resolved",
-          "start_date": "2023-04-21T21:06:00+00:00",
-          "updated_at": "2023-05-03T06:28:00+00:00",
-          "entries": [
-            {
-              "updated_at": "2023-05-03T06:28:00+00:00",
-              "message": "work completed"
-            },
-            {
-              "updated_at": "2023-04-21T21:06:00+00:00",
-              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Toronto location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-05-03 06:00:00 UTC  (02:00 local time)\r\nEnd Time: 2023-05-03 07:00:00 UTC  (03:00 local time)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Toronto instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "waw": {
       "location": "Warsaw",
