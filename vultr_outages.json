@@ -17,7 +17,21 @@
       "location": "Bangalore",
       "country": "IN",
       "country_name": "India",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "d9533cbc-312d-4df1-bdc9-4983917a262f",
+          "subject": "Bangalore Scheduled Maintenance - 2023-05-18",
+          "status": "ongoing",
+          "start_date": "2023-05-09T18:48:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-05-09T18:48:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Bangalore location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-05-18 19:30:00 UTC\r\nEnd Time: 2023-05-18 23:30:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Bangalore instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+            }
+          ]
+        }
+      ]
     },
     "ord": {
       "location": "Chicago",
@@ -29,7 +43,21 @@
       "location": "Dallas",
       "country": "US",
       "country_name": "United States",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "80d53a59-f54a-4b41-aa8d-a937e8cffe23",
+          "subject": "Dallas, Honolulu, Mexico City, Santiago, Seattle, Toronto Scheduled Maintenance - 2023-05-17",
+          "status": "ongoing",
+          "start_date": "2023-05-09T18:40:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-05-09T18:40:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Dallas, Honolulu, Mexico City, Santiago, Seattle, Toronto locations during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-05-17 04:00:00 UTC\r\nEnd Time: 2023-05-17 08:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Dallas, Honolulu, Mexico City, Santiago, Seattle, Toronto instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+            }
+          ]
+        }
+      ]
     },
     "del": {
       "location": "Delhi NCR",
@@ -47,7 +75,21 @@
       "location": "Honolulu",
       "country": "US",
       "country_name": "United States",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "80d53a59-f54a-4b41-aa8d-a937e8cffe23",
+          "subject": "Dallas, Honolulu, Mexico City, Santiago, Seattle, Toronto Scheduled Maintenance - 2023-05-17",
+          "status": "ongoing",
+          "start_date": "2023-05-09T18:40:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-05-09T18:40:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Dallas, Honolulu, Mexico City, Santiago, Seattle, Toronto locations during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-05-17 04:00:00 UTC\r\nEnd Time: 2023-05-17 08:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Dallas, Honolulu, Mexico City, Santiago, Seattle, Toronto instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+            }
+          ]
+        }
+      ]
     },
     "jnb": {
       "location": "Johannesburg",
@@ -89,7 +131,21 @@
       "location": "Mexico City",
       "country": "MX",
       "country_name": "Mexico",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "80d53a59-f54a-4b41-aa8d-a937e8cffe23",
+          "subject": "Dallas, Honolulu, Mexico City, Santiago, Seattle, Toronto Scheduled Maintenance - 2023-05-17",
+          "status": "ongoing",
+          "start_date": "2023-05-09T18:40:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-05-09T18:40:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Dallas, Honolulu, Mexico City, Santiago, Seattle, Toronto locations during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-05-17 04:00:00 UTC\r\nEnd Time: 2023-05-17 08:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Dallas, Honolulu, Mexico City, Santiago, Seattle, Toronto instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+            }
+          ]
+        }
+      ]
     },
     "mia": {
       "location": "Miami",
@@ -176,13 +232,41 @@
       "location": "Santiago",
       "country": "CL",
       "country_name": "Chile",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "80d53a59-f54a-4b41-aa8d-a937e8cffe23",
+          "subject": "Dallas, Honolulu, Mexico City, Santiago, Seattle, Toronto Scheduled Maintenance - 2023-05-17",
+          "status": "ongoing",
+          "start_date": "2023-05-09T18:40:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-05-09T18:40:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Dallas, Honolulu, Mexico City, Santiago, Seattle, Toronto locations during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-05-17 04:00:00 UTC\r\nEnd Time: 2023-05-17 08:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Dallas, Honolulu, Mexico City, Santiago, Seattle, Toronto instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+            }
+          ]
+        }
+      ]
     },
     "sea": {
       "location": "Seattle",
       "country": "US",
       "country_name": "United States",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "80d53a59-f54a-4b41-aa8d-a937e8cffe23",
+          "subject": "Dallas, Honolulu, Mexico City, Santiago, Seattle, Toronto Scheduled Maintenance - 2023-05-17",
+          "status": "ongoing",
+          "start_date": "2023-05-09T18:40:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-05-09T18:40:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Dallas, Honolulu, Mexico City, Santiago, Seattle, Toronto locations during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-05-17 04:00:00 UTC\r\nEnd Time: 2023-05-17 08:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Dallas, Honolulu, Mexico City, Santiago, Seattle, Toronto instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+            }
+          ]
+        }
+      ]
     },
     "icn": {
       "location": "Seoul",
@@ -258,7 +342,21 @@
       "location": "Toronto",
       "country": "CA",
       "country_name": "Canada",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "80d53a59-f54a-4b41-aa8d-a937e8cffe23",
+          "subject": "Dallas, Honolulu, Mexico City, Santiago, Seattle, Toronto Scheduled Maintenance - 2023-05-17",
+          "status": "ongoing",
+          "start_date": "2023-05-09T18:40:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-05-09T18:40:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Dallas, Honolulu, Mexico City, Santiago, Seattle, Toronto locations during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-05-17 04:00:00 UTC\r\nEnd Time: 2023-05-17 08:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Dallas, Honolulu, Mexico City, Santiago, Seattle, Toronto instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+            }
+          ]
+        }
+      ]
     },
     "waw": {
       "location": "Warsaw",
