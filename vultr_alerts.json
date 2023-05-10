@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "af26230b-00c5-4ed0-ae73-602b82fc975e",
+      "region": "tlv",
+      "subject": "Tel Aviv Scheduled Maintenance - 2023-05-15",
+      "start_date": "2023-05-10T23:17:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2023-05-10T23:17:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Tel Aviv location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-05-15 19:30:00 UTC\r\nEnd Time: 2023-05-15 23:30:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Tel Aviv instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
       "id": "d9533cbc-312d-4df1-bdc9-4983917a262f",
       "region": "blr",
       "subject": "Bangalore Scheduled Maintenance - 2023-05-18",
