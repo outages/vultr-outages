@@ -325,21 +325,7 @@
       "location": "Stockholm",
       "country": "SE",
       "country_name": "Sweden",
-      "alerts": [
-        {
-          "id": "b1e4f162-7df5-4913-990b-f62786d0606d",
-          "subject": "Stockholm Scheduled Maintenance - 2023-05-10",
-          "status": "resolved",
-          "start_date": "2023-05-03T14:58:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2023-05-03T14:58:00+00:00",
-              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Stockholm location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-05-10 22:00:00 UTC\r\nEnd Time: 2023-05-11 02:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Stockholm instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "syd": {
       "location": "Sydney",
