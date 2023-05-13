@@ -51,15 +51,6 @@
       ]
     },
     {
-      "id": "af26230b-00c5-4ed0-ae73-602b82fc975e",
-      "region": "tlv",
-      "subject": "Tel Aviv Scheduled Maintenance - 2023-05-15",
-      "start_date": "2023-05-10T23:17:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": []
-    },
-    {
       "id": "d9533cbc-312d-4df1-bdc9-4983917a262f",
       "region": "blr",
       "subject": "Bangalore Scheduled Maintenance - 2023-05-18",
