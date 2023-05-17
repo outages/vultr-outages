@@ -47,7 +47,7 @@
         {
           "id": "80d53a59-f54a-4b41-aa8d-a937e8cffe23",
           "subject": "Dallas, Honolulu, Mexico City, Santiago, Seattle, Toronto Scheduled Maintenance - 2023-05-17",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-05-09T18:40:00+00:00",
           "updated_at": "",
           "entries": [
@@ -79,7 +79,7 @@
         {
           "id": "80d53a59-f54a-4b41-aa8d-a937e8cffe23",
           "subject": "Dallas, Honolulu, Mexico City, Santiago, Seattle, Toronto Scheduled Maintenance - 2023-05-17",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-05-09T18:40:00+00:00",
           "updated_at": "",
           "entries": [
@@ -170,7 +170,7 @@
         {
           "id": "80d53a59-f54a-4b41-aa8d-a937e8cffe23",
           "subject": "Dallas, Honolulu, Mexico City, Santiago, Seattle, Toronto Scheduled Maintenance - 2023-05-17",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-05-09T18:40:00+00:00",
           "updated_at": "",
           "entries": [
@@ -271,7 +271,7 @@
         {
           "id": "80d53a59-f54a-4b41-aa8d-a937e8cffe23",
           "subject": "Dallas, Honolulu, Mexico City, Santiago, Seattle, Toronto Scheduled Maintenance - 2023-05-17",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-05-09T18:40:00+00:00",
           "updated_at": "",
           "entries": [
@@ -291,7 +291,7 @@
         {
           "id": "80d53a59-f54a-4b41-aa8d-a937e8cffe23",
           "subject": "Dallas, Honolulu, Mexico City, Santiago, Seattle, Toronto Scheduled Maintenance - 2023-05-17",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-05-09T18:40:00+00:00",
           "updated_at": "",
           "entries": [
@@ -362,7 +362,7 @@
         {
           "id": "80d53a59-f54a-4b41-aa8d-a937e8cffe23",
           "subject": "Dallas, Honolulu, Mexico City, Santiago, Seattle, Toronto Scheduled Maintenance - 2023-05-17",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-05-09T18:40:00+00:00",
           "updated_at": "",
           "entries": [
