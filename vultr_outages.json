@@ -337,16 +337,7 @@
       "location": "Tel Aviv",
       "country": "IL",
       "country_name": "Israel",
-      "alerts": [
-        {
-          "id": "1075684e-323f-4d4a-9939-9e820735d6f4",
-          "subject": "Tel Aviv Scheduled Maintenance - 2023-05-16",
-          "status": "resolved",
-          "start_date": "2023-05-11T16:45:00+00:00",
-          "updated_at": "",
-          "entries": []
-        }
-      ]
+      "alerts": []
     },
     "nrt": {
       "location": "Tokyo",
