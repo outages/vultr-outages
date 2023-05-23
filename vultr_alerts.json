@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "4832d64d-c6a6-4a17-9e97-b971ff38c968",
+      "region": "sgp",
+      "subject": "Singapore NVME Block Storage Maintenance",
+      "start_date": "2023-05-23T20:38:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2023-05-23T20:38:00+00:00",
+          "message": "sgp-block01 Debian and Ceph Pacific Upgrades (17 machines)\r\n\r\nMoved up in priority due to Linux kernel crashes (5.15.48) on these boxes.   (\"AMD completion wait\" will be seen on the OOB console.)   SGP was one of the first of the 2nd generation NVME block clusters and the hardware BOM is slightly different than the LAX cluster that is being upgraded now.  The SGP block cluster has seen fewer crashes than the LAX cluster but more crashes than the other 2nd generation block clusters."
+        }
+      ]
+    },
+    {
       "id": "925f26db-99a0-44bd-b139-1c1f7d2af5ac",
       "region": "lax",
       "subject": "Los Angeles NVME Block Storage Maintenance",
