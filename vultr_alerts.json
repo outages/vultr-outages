@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "1b80a825-a503-4ad3-9f92-7f1b7765f845",
+      "region": "global",
+      "subject": "Network Outage",
+      "start_date": "2023-05-25T17:15:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2023-05-25T17:15:00+00:00",
+          "message": "We are currently experiencing a partial outage. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible."
+        }
+      ]
+    },
+    {
       "id": "423e391a-dbd4-4ec8-8588-b38243320367",
       "region": "icn",
       "subject": "Seoul Network Outage",

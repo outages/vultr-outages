@@ -7,6 +7,19 @@
       "country_name": "Global",
       "alerts": [
         {
+          "id": "1b80a825-a503-4ad3-9f92-7f1b7765f845",
+          "subject": "Network Outage",
+          "status": "ongoing",
+          "start_date": "2023-05-25T17:15:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-05-25T17:15:00+00:00",
+              "message": "We are currently experiencing a partial outage. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible."
+            }
+          ]
+        },
+        {
           "id": "2d51d84c-8128-43c9-adb3-8b00a3e27c6f",
           "subject": "VKE Deployment Delays",
           "status": "ongoing",
