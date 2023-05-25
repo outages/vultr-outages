@@ -9,7 +9,7 @@
         {
           "id": "1b80a825-a503-4ad3-9f92-7f1b7765f845",
           "subject": "Network Outage",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-05-25T17:15:00+00:00",
           "updated_at": "2023-05-25T19:20:00+00:00",
           "entries": [
