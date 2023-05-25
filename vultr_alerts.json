@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "2d51d84c-8128-43c9-adb3-8b00a3e27c6f",
+      "region": "global",
+      "subject": "VKE Deployment Delays",
+      "start_date": "2023-05-25T03:12:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2023-05-25T03:12:00+00:00",
+          "message": "Some customers are currently experiencing slower than normal VKE deployment times. Our engineering team is aware of this issue and is working diligently to resolve this as quickly as possible."
+        }
+      ]
+    },
+    {
       "id": "4832d64d-c6a6-4a17-9e97-b971ff38c968",
       "region": "sgp",
       "subject": "Singapore NVME Block Storage Maintenance",
