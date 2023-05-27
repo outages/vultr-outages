@@ -15,24 +15,6 @@
       ]
     },
     {
-      "id": "1b80a825-a503-4ad3-9f92-7f1b7765f845",
-      "region": "global",
-      "subject": "Network Outage",
-      "start_date": "2023-05-25T17:15:00+00:00",
-      "updated_at": "2023-05-25T19:20:00+00:00",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2023-05-25T19:20:00+00:00",
-          "message": "The outage was limited to a subnet of server infrastructure in each location and has been substantially resolved. Our engineers are reviewing and resolving all remaining issues."
-        },
-        {
-          "updated_at": "2023-05-25T17:15:00+00:00",
-          "message": "We are currently experiencing a partial outage. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible."
-        }
-      ]
-    },
-    {
       "id": "4832d64d-c6a6-4a17-9e97-b971ff38c968",
       "region": "sgp",
       "subject": "Singapore NVME Block Storage Maintenance",
