@@ -1,6 +1,26 @@
 {
   "service_alerts": [],
   "regions": {
+    "global": {
+      "location": "All Locations",
+      "country": "ALL",
+      "country_name": "Global",
+      "alerts": [
+        {
+          "id": "a7cf0f17-1d3d-49bf-bc9c-ef73a7e9cedc",
+          "subject": "System Error - Network configuration issues",
+          "status": "ongoing",
+          "start_date": "2023-05-30T19:39:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-05-30T19:39:00+00:00",
+              "message": "Some customers are currently experiencing issues with DHCP assignments on their instances. Our engineering team is aware of this issue and is working diligently to resolve this as quickly as possible."
+            }
+          ]
+        }
+      ]
+    },
     "ams": {
       "location": "Amsterdam",
       "country": "NL",
