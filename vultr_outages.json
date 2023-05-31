@@ -89,7 +89,7 @@
         {
           "id": "925f26db-99a0-44bd-b139-1c1f7d2af5ac",
           "subject": "Los Angeles NVME Block Storage Maintenance",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-05-11T17:55:00+00:00",
           "updated_at": "2023-05-11T21:26:00+00:00",
           "entries": [
@@ -106,7 +106,7 @@
         {
           "id": "925f26db-99a0-44bd-b139-1c1f7d2af5ac",
           "subject": "Los Angeles NVME Block Storage Maintenance",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-05-11T17:55:00+00:00",
           "updated_at": "2023-05-11T21:26:00+00:00",
           "entries": [
