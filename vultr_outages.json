@@ -7,6 +7,19 @@
       "country_name": "Global",
       "alerts": [
         {
+          "id": "0a2d0a45-8fee-4b52-9a2e-daaf83e2e013",
+          "subject": "Alipay Processing Delays",
+          "status": "ongoing",
+          "start_date": "2023-06-01T12:33:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-06-01T12:33:00+00:00",
+              "message": "We are currently experiencing payment delays with our Alipay processor. You may experience settlement delays and/or failures while this notice is active.\r\n\r\nOur account engineers are in direct communication with our Alipay processor to restore optimal functioning of payment transactions."
+            }
+          ]
+        },
+        {
           "id": "a7cf0f17-1d3d-49bf-bc9c-ef73a7e9cedc",
           "subject": "System Error - Network configuration issues",
           "status": "resolved",
