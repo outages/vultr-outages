@@ -22,19 +22,6 @@
               "message": "We are currently experiencing payment delays with our Alipay processor. You may experience settlement delays and/or failures while this notice is active.\r\n\r\nOur account engineers are in direct communication with our Alipay processor to restore optimal functioning of payment transactions."
             }
           ]
-        },
-        {
-          "id": "a7cf0f17-1d3d-49bf-bc9c-ef73a7e9cedc",
-          "subject": "System Error - Network configuration issues",
-          "status": "resolved",
-          "start_date": "2023-05-30T19:39:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2023-05-30T19:39:00+00:00",
-              "message": "Some customers are currently experiencing issues with DHCP assignments on their instances. Our engineering team is aware of this issue and is working diligently to resolve this as quickly as possible."
-            }
-          ]
         }
       ]
     },
