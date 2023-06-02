@@ -47,42 +47,6 @@
       ]
     },
     {
-      "id": "925f26db-99a0-44bd-b139-1c1f7d2af5ac",
-      "region": "lax",
-      "subject": "Los Angeles NVME Block Storage Maintenance",
-      "start_date": "2023-05-11T17:55:00+00:00",
-      "updated_at": "2023-05-11T21:26:00+00:00",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2023-05-11T21:26:00+00:00",
-          "message": "Event Type: LAX NVMe Block Storage Infrastructure Maintenance\r\nStart Time: 2023-05-11 04:00:00 America/Los_Angeles\r\nEnd Time: 2023-06-01 04:00:00 America/Los_Angeles\r\n\r\nWe will be conducting Los Angeles NVME block storage product upgrades and backend configuration changes.  Our aim is to maximize reliability and performance of this product.  Specific client I/O operations may see moderate impact during this maintenance period, but the overall product is expected to be operational throughout.\r\n\r\nNote that only NVME block (not HDD), and only Los Angeles is impacted by this alert.\r\n\r\nThe prior notice for this maintenance window did not contain a time and date."
-        },
-        {
-          "updated_at": "2023-05-11T17:55:00+00:00",
-          "message": "We will be conducting Los Angeles NVME block storage product upgrades and backend configuration changes.  Our aim is to maximize reliability and performance of this product.  Specific client I/O operations may see moderate impact during this maintenance period, but the overall product is expected to be operational throughout.\r\n\r\nNote that only NVME block (not HDD), and only Los Angeles is impacted by this alert."
-        }
-      ]
-    },
-    {
-      "id": "925f26db-99a0-44bd-b139-1c1f7d2af5ac",
-      "region": "lax",
-      "subject": "Los Angeles NVME Block Storage Maintenance",
-      "start_date": "2023-05-11T17:55:00+00:00",
-      "updated_at": "2023-05-11T21:26:00+00:00",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2023-05-11T21:26:00+00:00",
-          "message": "Event Type: LAX NVMe Block Storage Infrastructure Maintenance\r\nStart Time: 2023-05-11 04:00:00 America/Los_Angeles\r\nEnd Time: 2023-06-01 04:00:00 America/Los_Angeles\r\n\r\nWe will be conducting Los Angeles NVME block storage product upgrades and backend configuration changes.  Our aim is to maximize reliability and performance of this product.  Specific client I/O operations may see moderate impact during this maintenance period, but the overall product is expected to be operational throughout.\r\n\r\nNote that only NVME block (not HDD), and only Los Angeles is impacted by this alert.\r\n\r\nThe prior notice for this maintenance window did not contain a time and date."
-        },
-        {
-          "updated_at": "2023-05-11T17:55:00+00:00",
-          "message": "We will be conducting Los Angeles NVME block storage product upgrades and backend configuration changes.  Our aim is to maximize reliability and performance of this product.  Specific client I/O operations may see moderate impact during this maintenance period, but the overall product is expected to be operational throughout.\r\n\r\nNote that only NVME block (not HDD), and only Los Angeles is impacted by this alert."
-        }
-      ]
-    },
-    {
       "id": "fbf94bd8-3199-445f-9ce8-bfe6fb693e42",
       "region": "ewr",
       "subject": "New Jersey Object Storage Outage - 2023-04-22",
