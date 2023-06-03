@@ -1,24 +1,6 @@
 {
   "service_alerts": [
     {
-      "id": "0a2d0a45-8fee-4b52-9a2e-daaf83e2e013",
-      "region": "global",
-      "subject": "Alipay Processing Delays",
-      "start_date": "2023-06-01T12:33:00+00:00",
-      "updated_at": "2023-06-01T17:46:00+00:00",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2023-06-01T17:46:00+00:00",
-          "message": "The processor confirmed this issue should be resolved - please retry your payment. If you are still experiencing issues, please open a support ticket."
-        },
-        {
-          "updated_at": "2023-06-01T12:33:00+00:00",
-          "message": "We are currently experiencing payment delays with our Alipay processor. You may experience settlement delays and/or failures while this notice is active.\r\n\r\nOur account engineers are in direct communication with our Alipay processor to restore optimal functioning of payment transactions."
-        }
-      ]
-    },
-    {
       "id": "b9e81849-fc90-41dc-9a36-0e3b37655c6f",
       "region": "tlv",
       "subject": "Tel Aviv Scheduled Maintenance - 2023-06-01",
