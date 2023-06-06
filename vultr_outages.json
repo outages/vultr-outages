@@ -173,7 +173,7 @@
         {
           "id": "4832d64d-c6a6-4a17-9e97-b971ff38c968",
           "subject": "Singapore NVME Block Storage Maintenance",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-05-23T20:38:00+00:00",
           "updated_at": "",
           "entries": [
