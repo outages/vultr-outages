@@ -94,19 +94,6 @@
           ]
         },
         {
-          "id": "0e77d9f7-952b-491e-be11-8d9d3a5e940c",
-          "subject": "Los Angeles Emergency Maintenance - 2023-06-15",
-          "status": "resolved",
-          "start_date": "2023-06-15T10:24:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2023-06-15T10:24:00+00:00",
-              "message": "Event Type: Network Emergency\r\n\r\nWe are performing system changes in the Los Angeles location during the following emergency maintenance window. \r\n\r\nStart Time: 2023-06-15 10:30:00 UTC\r\nEnd Time: 2023-06-15 12:30:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Los Angeles instances may be unreachable for some, or all, of the emergency maintenance window as we perform network, firmware, or host upgrades."
-            }
-          ]
-        },
-        {
           "id": "843baaf8-439c-4ae3-91ec-50856cd65823",
           "subject": "Los Angeles Scheduled Maintenance - 2023-06-19",
           "status": "ongoing",
