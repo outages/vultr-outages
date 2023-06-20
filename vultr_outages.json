@@ -111,7 +111,21 @@
       "location": "Melbourne",
       "country": "AU",
       "country_name": "Australia",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "bb8f79e2-f818-408a-ab74-6a873d7868ae",
+          "subject": "Melbourne Scheduled Maintenance - 2023-06-26",
+          "status": "ongoing",
+          "start_date": "2023-06-20T14:03:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-06-20T14:03:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Melbourne location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-06-26 14:00:00 UTC  (2023-06-27 00:00 local time)\r\nEnd Time: 2023-06-26 16:00:00 UTC  (2023-06-27 02:00 local time)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Melbourne instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+            }
+          ]
+        }
+      ]
     },
     "mex": {
       "location": "Mexico City",
