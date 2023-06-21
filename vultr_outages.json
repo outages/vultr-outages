@@ -17,7 +17,34 @@
       "location": "Bangalore",
       "country": "IN",
       "country_name": "India",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "8b746e8c-92e7-4952-878b-ef0ab5c01d23",
+          "subject": "Bangalore Scheduled Maintenance - 2023-06-28",
+          "status": "ongoing",
+          "start_date": "2023-06-21T22:03:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-06-21T22:03:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Bangalore location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-06-28 20:00:00 UTC  (2023-06-29 01:30 local time)\r\nEnd Time: 2023-06-28 22:00:00 UTC  (2023-06-29 03:30 local time)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Bangalore instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+            }
+          ]
+        },
+        {
+          "id": "8a07e172-f7f6-417f-ad73-ff265083e1bc",
+          "subject": "Bangalore Scheduled Maintenance - 2023-06-27",
+          "status": "ongoing",
+          "start_date": "2023-06-21T21:45:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-06-21T21:45:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Bangalore location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-06-27 20:00:00 UTC  (2023-06-28 01:30 local time)\r\nEnd Time: 2023-06-27 22:00:00 UTC  (2023-06-28 03:30 local time)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Bangalore instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+            }
+          ]
+        }
+      ]
     },
     "ord": {
       "location": "Chicago",
@@ -35,7 +62,34 @@
       "location": "Delhi NCR",
       "country": "IN",
       "country_name": "India",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "abc41de2-2177-47ef-8439-3ea474b4c957",
+          "subject": "Delhi NCR Scheduled Maintenance - 2023-06-28",
+          "status": "ongoing",
+          "start_date": "2023-06-21T22:05:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-06-21T22:05:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Delhi NCR location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-06-28 22:00:00 UTC  (2023-06-29 03:30 local time)\r\nEnd Time: 2023-06-29 00:00:00 UTC  (2023-06-29 05:30 local time)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Delhi NCR instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+            }
+          ]
+        },
+        {
+          "id": "620abe04-ca3c-43ea-bad3-2917f4ca1322",
+          "subject": "Delhi NCR Scheduled Maintenance - 2023-06-27",
+          "status": "ongoing",
+          "start_date": "2023-06-21T21:48:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-06-21T21:48:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Delhi NCR location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-06-27 22:00:00 UTC  (2023-06-28 03:30 local time)\r\nEnd Time: 2023-06-28 00:00:00 UTC  (2023-06-28 05:30 local time)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Delhi NCR instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+            }
+          ]
+        }
+      ]
     },
     "fra": {
       "location": "Frankfurt",
@@ -116,6 +170,19 @@
       "country_name": "Australia",
       "alerts": [
         {
+          "id": "06599a14-38b8-4143-98dd-fb331f3f8a81",
+          "subject": "Melbourne Scheduled Maintenance - 2023-06-28",
+          "status": "ongoing",
+          "start_date": "2023-06-21T21:51:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-06-21T21:51:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Melbourne location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-06-28 14:00:00 UTC  (2023-06-29 00:00 local time)\r\nEnd Time: 2023-06-28 16:00:00 UTC  (2023-06-29 02:00 local time)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Melbourne instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+            }
+          ]
+        },
+        {
           "id": "bb8f79e2-f818-408a-ab74-6a873d7868ae",
           "subject": "Melbourne Scheduled Maintenance - 2023-06-26",
           "status": "ongoing",
@@ -174,6 +241,19 @@
       "country_name": "Japan",
       "alerts": [
         {
+          "id": "84ab7bc3-2b07-4f3c-9c25-595a911aed06",
+          "subject": "Osaka Scheduled Maintenance - 2023-06-28",
+          "status": "ongoing",
+          "start_date": "2023-06-21T21:54:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-06-21T21:54:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Osaka location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-06-28 16:00:00 UTC  (2023-06-29 01:00 local time)\r\nEnd Time: 2023-06-28 18:00:00 UTC  (2023-06-29 03:00 local time)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Osaka instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+            }
+          ]
+        },
+        {
           "id": "62a22a15-5251-4f52-8b97-ce5ff6c50a16",
           "subject": "Osaka Scheduled Maintenance - 2023-06-27",
           "status": "ongoing",
@@ -229,6 +309,19 @@
       "country": "SG",
       "country_name": "Singapore",
       "alerts": [
+        {
+          "id": "98b3a67c-8235-45d7-97e5-6ceb6ae8804e",
+          "subject": "Singapore Scheduled Maintenance - 2023-06-28",
+          "status": "ongoing",
+          "start_date": "2023-06-21T21:59:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-06-21T21:59:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Singapore location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-06-28 18:00:00 UTC  (2023-06-29 02:00 local time)\r\nEnd Time: 2023-06-28 21:00:00 UTC  (2023-06-29 05:00 local time)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Singapore instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+            }
+          ]
+        },
         {
           "id": "7cad0b6c-ee76-4d05-bb47-bab777be7291",
           "subject": "Singapore Scheduled Maintenance - 2023-06-26",
