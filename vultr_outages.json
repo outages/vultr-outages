@@ -64,10 +64,14 @@
         {
           "id": "becf5c4a-ec93-4f27-b31e-0abf17d9c991",
           "subject": "Honolulu Scheduled Maintenance - 2023-06-21",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-06-12T21:32:00+00:00",
-          "updated_at": "",
+          "updated_at": "2023-06-21T13:51:00+00:00",
           "entries": [
+            {
+              "updated_at": "2023-06-21T13:51:00+00:00",
+              "message": "work completed"
+            },
             {
               "updated_at": "2023-06-12T21:32:00+00:00",
               "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Honolulu location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-06-21 13:00:00 UTC  (03:00 local time)\r\nEnd Time: 2023-06-21 14:00:00 UTC  (04:00 local time)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Honolulu instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
@@ -92,21 +96,7 @@
       "location": "Los Angeles",
       "country": "US",
       "country_name": "United States",
-      "alerts": [
-        {
-          "id": "843baaf8-439c-4ae3-91ec-50856cd65823",
-          "subject": "Los Angeles Scheduled Maintenance - 2023-06-19",
-          "status": "resolved",
-          "start_date": "2023-06-13T19:41:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2023-06-13T19:41:00+00:00",
-              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Los Angeles location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-06-19 10:30:00 UTC\r\nEnd Time: 2023-06-19 12:30:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Los Angeles instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "mad": {
       "location": "Madrid",
