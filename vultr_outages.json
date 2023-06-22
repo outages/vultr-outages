@@ -248,7 +248,21 @@
       "location": "Miami",
       "country": "US",
       "country_name": "United States",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "33f452ba-9d24-4de9-bcb7-1da4a94252ca",
+          "subject": "Miami Network Outage",
+          "status": "ongoing",
+          "start_date": "2023-06-22T21:53:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-06-22T21:53:00+00:00",
+              "message": "We are currently experiencing a partial outage in our Miami location. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible."
+            }
+          ]
+        }
+      ]
     },
     "bom": {
       "location": "Mumbai",
