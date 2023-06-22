@@ -7,6 +7,19 @@
       "country_name": "Netherlands",
       "alerts": [
         {
+          "id": "7f5852b6-1785-4e70-881f-42765493966c",
+          "subject": "Amsterdam Scheduled Maintenance - 2023-07-10",
+          "status": "ongoing",
+          "start_date": "2023-06-22T19:05:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-06-22T19:05:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Amsterdam location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-07-10 22:00:00 UTC  (2023-07-11 00:00 local time)\r\nEnd Time: 2023-07-11 01:00:00 UTC  (2023-07-11 03:00 local time)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Amsterdam instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+            }
+          ]
+        },
+        {
           "id": "7dfd6749-2d6f-4c7e-9556-e078c07571b9",
           "subject": "Amsterdam Scheduled Maintenance - 2023-07-06",
           "status": "ongoing",
@@ -495,6 +508,19 @@
       "country": "PL",
       "country_name": "Poland",
       "alerts": [
+        {
+          "id": "c0dd2ed9-e935-44ec-9920-fd694fde172b",
+          "subject": "Warsaw Scheduled Maintenance - 2023-07-11",
+          "status": "ongoing",
+          "start_date": "2023-06-22T19:07:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-06-22T19:07:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Warsaw location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-07-11 01:00:00 UTC  (2023-07-11 03:00 local time)\r\nEnd Time: 2023-07-11 02:00:00 UTC  (2023-07-11 04:00 local time)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Warsaw instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+            }
+          ]
+        },
         {
           "id": "b80be4eb-23c5-4056-ad2f-5f41d8610666",
           "subject": "Warsaw Scheduled Maintenance - 2023-07-07",
