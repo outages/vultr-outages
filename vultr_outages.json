@@ -254,8 +254,12 @@
           "subject": "Miami Network Outage",
           "status": "ongoing",
           "start_date": "2023-06-22T21:53:00+00:00",
-          "updated_at": "",
+          "updated_at": "2023-06-22T23:05:00+00:00",
           "entries": [
+            {
+              "updated_at": "2023-06-22T23:05:00+00:00",
+              "message": "After getting into contact with our upstream providers, we've learned there was a power incident that had occurred. We are still investigating the source of the issue along with restoration of services."
+            },
             {
               "updated_at": "2023-06-22T21:53:00+00:00",
               "message": "We are currently experiencing a partial outage in our Miami location. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible."
