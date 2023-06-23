@@ -5,9 +5,13 @@
       "region": "mia",
       "subject": "Miami Network Outage",
       "start_date": "2023-06-22T21:53:00+00:00",
-      "updated_at": "2023-06-23T00:38:00+00:00",
-      "status": "ongoing",
+      "updated_at": "2023-06-23T03:13:00+00:00",
+      "status": "resolved",
       "entries": [
+        {
+          "updated_at": "2023-06-23T03:13:00+00:00",
+          "message": "At this time, the faulty hardware has been replaced and our teams are working to ensure all connectivity is restored."
+        },
         {
           "updated_at": "2023-06-23T00:38:00+00:00",
           "message": "The source of the issue has been identified with coordination between our onsite technicians and ourselves working towards a solution."
