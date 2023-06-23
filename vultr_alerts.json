@@ -27,6 +27,20 @@
       ]
     },
     {
+      "id": "384980d2-49ea-49e5-8108-fde9bed2bbe0",
+      "region": "mad",
+      "subject": "Madrid Scheduled Maintenance - 2023-07-11",
+      "start_date": "2023-06-22T19:09:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2023-06-22T19:09:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Madrid location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-07-11 02:00:00 UTC  (2023-07-11 04:00 local time)\r\nEnd Time: 2023-07-11 04:00:00 UTC  (2023-07-11 06:00 local time)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Madrid instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+        }
+      ]
+    },
+    {
       "id": "c0dd2ed9-e935-44ec-9920-fd694fde172b",
       "region": "waw",
       "subject": "Warsaw Scheduled Maintenance - 2023-07-11",
@@ -121,6 +135,20 @@
         {
           "updated_at": "2023-06-22T18:47:00+00:00",
           "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Seoul location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-07-06 17:00:00 UTC  (2023-07-07 02:00 local time)\r\nEnd Time: 2023-07-06 20:00:00 UTC  (2023-07-07 05:00 local time)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Seoul instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+        }
+      ]
+    },
+    {
+      "id": "6e77384b-a81c-4143-8fc2-50af6ecc38e7",
+      "region": "bom",
+      "subject": "Mumbai Scheduled Maintenance - 2023-07-05",
+      "start_date": "2023-06-22T18:31:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2023-06-22T18:31:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Mumbai location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-07-05 21:00:00 UTC  (2023-07-06 02:30 local time)\r\nEnd Time: 2023-07-05 23:00:00 UTC  (2023-07-06 04:30 local time)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Mumbai instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
         }
       ]
     },
