@@ -132,7 +132,7 @@
         {
           "id": "9ec1a59e-fbdc-4a14-ae08-f292600e84b2",
           "subject": "Honolulu Scheduled Maintenance - 2023-06-26",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-06-20T13:57:00+00:00",
           "updated_at": "2023-06-26T13:15:00+00:00",
           "entries": [
