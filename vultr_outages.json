@@ -74,7 +74,7 @@
         {
           "id": "8a07e172-f7f6-417f-ad73-ff265083e1bc",
           "subject": "Bangalore Scheduled Maintenance - 2023-06-27",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-06-21T21:45:00+00:00",
           "updated_at": "2023-06-27T20:29:00+00:00",
           "entries": [
