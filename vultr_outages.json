@@ -305,7 +305,7 @@
         {
           "id": "84ab7bc3-2b07-4f3c-9c25-595a911aed06",
           "subject": "Osaka Scheduled Maintenance - 2023-06-28",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-06-21T21:54:00+00:00",
           "updated_at": "2023-06-28T16:19:00+00:00",
           "entries": [
