@@ -61,7 +61,7 @@
         {
           "id": "8b746e8c-92e7-4952-878b-ef0ab5c01d23",
           "subject": "Bangalore Scheduled Maintenance - 2023-06-28",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-06-21T22:03:00+00:00",
           "updated_at": "2023-06-28T20:42:00+00:00",
           "entries": [
@@ -413,7 +413,7 @@
         {
           "id": "98b3a67c-8235-45d7-97e5-6ceb6ae8804e",
           "subject": "Singapore Scheduled Maintenance - 2023-06-28",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-06-21T21:59:00+00:00",
           "updated_at": "2023-06-28T20:10:00+00:00",
           "entries": [
