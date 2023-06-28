@@ -426,23 +426,6 @@
               "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Singapore location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-06-28 18:00:00 UTC  (2023-06-29 02:00 local time)\r\nEnd Time: 2023-06-28 21:00:00 UTC  (2023-06-29 05:00 local time)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Singapore instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
             }
           ]
-        },
-        {
-          "id": "7cad0b6c-ee76-4d05-bb47-bab777be7291",
-          "subject": "Singapore Scheduled Maintenance - 2023-06-26",
-          "status": "resolved",
-          "start_date": "2023-06-20T14:07:00+00:00",
-          "updated_at": "2023-06-26T21:55:00+00:00",
-          "entries": [
-            {
-              "updated_at": "2023-06-26T21:55:00+00:00",
-              "message": "work complete"
-            },
-            {
-              "updated_at": "2023-06-20T14:07:00+00:00",
-              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Singapore location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-06-26 18:00:00 UTC  (2023-06-27 02:00 local time)\r\nEnd Time: 2023-06-26 22:00:00 UTC  (2023-06-27 06:00 local time)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Singapore instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
-            }
-          ]
         }
       ]
     },
