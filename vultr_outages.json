@@ -456,10 +456,14 @@
         {
           "id": "b3e859fd-b206-4185-84bc-3f2a7eda9e90",
           "subject": "Sydney Scheduled Maintenance - 2023-06-29",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-06-22T18:14:00+00:00",
-          "updated_at": "",
+          "updated_at": "2023-06-29T15:54:00+00:00",
           "entries": [
+            {
+              "updated_at": "2023-06-29T15:54:00+00:00",
+              "message": "work completed"
+            },
             {
               "updated_at": "2023-06-22T18:14:00+00:00",
               "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Sydney location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-06-29 14:00:00 UTC  (2023-06-30 00:00 local time)\r\nEnd Time: 2023-06-29 16:00:00 UTC  (2023-06-30 02:00 local time)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Sydney instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
