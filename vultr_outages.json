@@ -22,10 +22,14 @@
         {
           "id": "c5e3703e-5d9e-410f-9696-f92b30064859",
           "subject": "Amsterdam Scheduled Maintenance - 2023-07-06",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-06-29T22:22:00+00:00",
-          "updated_at": "",
+          "updated_at": "2023-07-06T23:47:00+00:00",
           "entries": [
+            {
+              "updated_at": "2023-07-06T23:47:00+00:00",
+              "message": "work completed"
+            },
             {
               "updated_at": "2023-06-29T22:22:00+00:00",
               "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Amsterdam location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-07-06 22:00:00 UTC  (2023-07-07 00:00 local time)\r\nEnd Time: 2023-07-07 01:00:00 UTC  (2023-07-07 03:00 local time)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Amsterdam instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
