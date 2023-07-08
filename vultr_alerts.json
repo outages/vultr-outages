@@ -339,24 +339,6 @@
       ]
     },
     {
-      "id": "bd2d1f3a-0de9-481e-a7e3-7687a3897b62",
-      "region": "icn",
-      "subject": "Seoul Scheduled Maintenance - 2023-07-06",
-      "start_date": "2023-06-29T22:14:00+00:00",
-      "updated_at": "2023-07-06T18:16:00+00:00",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2023-07-06T18:16:00+00:00",
-          "message": "work completed"
-        },
-        {
-          "updated_at": "2023-06-29T22:14:00+00:00",
-          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Seoul location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-07-06 17:00:00 UTC  (2023-07-02:00 local time)\r\nEnd Time: 2023-07-06 19:00:00 UTC  (2023-07-04:00 local time)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Seoul instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
-        }
-      ]
-    },
-    {
       "id": "a4db6022-d78b-4e0a-909f-c2e9327baf9a",
       "region": "ewr",
       "subject": "New Jersey Object Storage Outage - 2023-06-09",
