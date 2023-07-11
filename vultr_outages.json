@@ -144,10 +144,14 @@
         {
           "id": "af9b74ce-1857-41b9-b1d9-81b013d25a33",
           "subject": "Frankfurt Scheduled Maintenance - 2023-07-11",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-06-30T18:02:00+00:00",
-          "updated_at": "",
+          "updated_at": "2023-07-11T23:09:00+00:00",
           "entries": [
+            {
+              "updated_at": "2023-07-11T23:09:00+00:00",
+              "message": "work completed"
+            },
             {
               "updated_at": "2023-06-30T18:02:00+00:00",
               "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Frankfurt location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-07-11 22:00:00 UTC  (2023-07-12 00:00 local time)\r\nEnd Time: 2023-07-12 01:00:00 UTC  (2023-07-12 03:00 local time)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Frankfurt instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
