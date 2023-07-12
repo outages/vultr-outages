@@ -70,6 +70,19 @@
       "country_name": "United States",
       "alerts": [
         {
+          "id": "81541972-3f9a-449e-905b-a51e192a81b2",
+          "subject": "Chicago Degraded Network Performance",
+          "status": "ongoing",
+          "start_date": "2023-07-12T16:31:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-07-12T16:31:00+00:00",
+              "message": "We are currently experiencing degraded network performance in our Chicago location. Our network engineers are actively working with our upstream providers to resolve the issue as quickly as possible."
+            }
+          ]
+        },
+        {
           "id": "ec87831b-385a-404c-a285-51edec391691",
           "subject": "Chicago Degraded Network Performance",
           "status": "resolved",
@@ -347,6 +360,19 @@
       "country": "US",
       "country_name": "United States",
       "alerts": [
+        {
+          "id": "a61c1cfe-7136-47d9-bac8-295f11a4c082",
+          "subject": "Miami Scheduled Maintenance - 2023-07-20",
+          "status": "ongoing",
+          "start_date": "2023-07-10T18:54:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-07-10T18:54:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Miami location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-07-20 15:00:00 UTC\r\nEnd Time: 2023-07-20 19:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Miami instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+            }
+          ]
+        },
         {
           "id": "d88bb04c-5ea6-4976-b435-9c2b7c53be88",
           "subject": "Miami Scheduled Maintenance - 2023-07-13",
