@@ -326,10 +326,14 @@
         {
           "id": "aa8d7d45-9ed5-475a-8cea-674669bbc9a5",
           "subject": "Mexico City Scheduled Maintenance - 2023-07-12",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-06-30T18:09:00+00:00",
-          "updated_at": "",
+          "updated_at": "2023-07-12T06:16:00+00:00",
           "entries": [
+            {
+              "updated_at": "2023-07-12T06:16:00+00:00",
+              "message": "work completed"
+            },
             {
               "updated_at": "2023-06-30T18:09:00+00:00",
               "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Mexico City location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-07-12 06:00:00 UTC  (00:00 local time)\r\nEnd Time: 2023-07-12 07:00:00 UTC  (01:00 local time)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Mexico City instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
