@@ -148,25 +148,7 @@
       "location": "Frankfurt",
       "country": "DE",
       "country_name": "Germany",
-      "alerts": [
-        {
-          "id": "e6c06a26-3ddd-4cb4-b34f-2ca1402503b0",
-          "subject": "Frankfurt Scheduled Maintenance - 2023-07-12",
-          "status": "resolved",
-          "start_date": "2023-06-30T18:15:00+00:00",
-          "updated_at": "2023-07-12T23:22:00+00:00",
-          "entries": [
-            {
-              "updated_at": "2023-07-12T23:22:00+00:00",
-              "message": "work completed"
-            },
-            {
-              "updated_at": "2023-06-30T18:15:00+00:00",
-              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Frankfurt location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-07-12 22:00:00 UTC  (2023-0-13 00:00 local time)\r\nEnd Time: 2023-07-13 01:00:00 UTC  (2023-0-13 03:00 local time)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Frankfurt instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "hnl": {
       "location": "Honolulu",
