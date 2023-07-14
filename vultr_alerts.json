@@ -1,6 +1,188 @@
 {
   "service_alerts": [
     {
+      "id": "7c91ebb6-8541-443b-83ad-478bc0e40b80",
+      "region": "mia",
+      "subject": "Miami Scheduled Maintenance - 2023-07-26",
+      "start_date": "2023-07-14T17:40:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2023-07-14T17:40:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Miami location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-07-26 04:00:00 UTC\r\nEnd Time: 2023-07-26 07:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Miami instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+        }
+      ]
+    },
+    {
+      "id": "31bb16f2-6189-4f1f-900c-83334974f2d6",
+      "region": "mia",
+      "subject": "Miami Scheduled Maintenance - 2023-07-25",
+      "start_date": "2023-07-14T17:38:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2023-07-14T17:38:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Miami location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-07-25 04:00:00 UTC\r\nEnd Time: 2023-07-25 07:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Miami instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+        }
+      ]
+    },
+    {
+      "id": "c6abb348-f6e6-4c6d-8e7d-cacdca901782",
+      "region": "sea",
+      "subject": "Seattle Scheduled Maintenance - 2023-07-26",
+      "start_date": "2023-07-14T17:03:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2023-07-14T17:03:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Seattle location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-07-26 10:00:00 UTC\r\nEnd Time: 2023-07-26 13:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Seattle instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+        }
+      ]
+    },
+    {
+      "id": "953528b4-8271-4fe6-834d-ec9e2a050bd2",
+      "region": "sjc",
+      "subject": "Silicon Valley Scheduled Maintenance - 2023-07-26",
+      "start_date": "2023-07-14T17:02:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2023-07-14T17:02:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Silicon Valley location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-07-26 07:00:00 UTC\r\nEnd Time: 2023-07-26 10:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Silicon Valley instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+        }
+      ]
+    },
+    {
+      "id": "fe85fc9b-4efe-40ca-b2c6-190d662a728f",
+      "region": "yto",
+      "subject": "Toronto Scheduled Maintenance - 2023-07-26",
+      "start_date": "2023-07-14T17:00:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2023-07-14T17:00:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Toronto location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-07-26 04:00:00 UTC\r\nEnd Time: 2023-07-26 05:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Toronto instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+        }
+      ]
+    },
+    {
+      "id": "3d4555d5-98f4-4028-a111-7b9baf08e413",
+      "region": "sea",
+      "subject": "Seattle Scheduled Maintenance - 2023-07-25",
+      "start_date": "2023-07-14T16:59:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2023-07-14T16:59:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Seattle location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-07-25 10:00:00 UTC\r\nEnd Time: 2023-07-25 13:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Seattle instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+        }
+      ]
+    },
+    {
+      "id": "80699a55-5c27-4dda-81df-3b75846029f0",
+      "region": "sjc",
+      "subject": "Silicon Valley Scheduled Maintenance - 2023-07-25",
+      "start_date": "2023-07-14T16:57:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2023-07-14T16:57:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Silicon Valley location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-07-25 07:00:00 UTC\r\nEnd Time: 2023-07-25 10:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Silicon Valley instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+        }
+      ]
+    },
+    {
+      "id": "461e9f6a-5389-4813-9cd0-5c7ff72ec627",
+      "region": "yto",
+      "subject": "Toronto Scheduled Maintenance - 2023-07-25",
+      "start_date": "2023-07-14T16:54:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2023-07-14T16:54:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Toronto location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-07-25 04:00:00 UTC\r\nEnd Time: 2023-07-25 05:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Toronto instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+        }
+      ]
+    },
+    {
+      "id": "8de562e0-85a8-46cd-94ea-b1409db25907",
+      "region": "lax",
+      "subject": "Los Angeles Scheduled Maintenance - 2023-07-24",
+      "start_date": "2023-07-14T16:52:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2023-07-14T16:52:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Los Angeles location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-07-24 07:00:00 UTC\r\nEnd Time: 2023-07-24 13:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Los Angeles instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+        }
+      ]
+    },
+    {
+      "id": "3c5e47af-bbac-4bcf-a0b4-2a029a7b4a0c",
+      "region": "ord",
+      "subject": "Chicago Scheduled Maintenance - 2023-07-24",
+      "start_date": "2023-07-14T16:51:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2023-07-14T16:51:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Chicago location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-07-24 05:00:00 UTC\r\nEnd Time: 2023-07-24 11:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Chicago instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+        }
+      ]
+    },
+    {
+      "id": "04d6e200-3668-474e-85fb-4a4a4b4b0b50",
+      "region": "ewr",
+      "subject": "New Jersey Scheduled Maintenance - 2023-07-24",
+      "start_date": "2023-07-14T16:49:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2023-07-14T16:49:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the New Jersey location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-07-24 04:00:00 UTC\r\nEnd Time: 2023-07-24 10:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to New Jersey instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+        }
+      ]
+    },
+    {
+      "id": "fde70df2-607c-48f4-88e9-e5829983f66c",
+      "region": "lax",
+      "subject": "Los Angeles Scheduled Maintenance - 2023-07-21",
+      "start_date": "2023-07-14T16:47:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2023-07-14T16:47:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Los Angeles location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-07-21 07:00:00 UTC\r\nEnd Time: 2023-07-21 13:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Los Angeles instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+        }
+      ]
+    },
+    {
+      "id": "515f7fd5-7e81-44ee-9618-830648f89c96",
+      "region": "ord",
+      "subject": "Chicago Scheduled Maintenance - 2023-07-21",
+      "start_date": "2023-07-14T16:45:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2023-07-14T16:45:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Chicago location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-07-21 05:00:00 UTC\r\nEnd Time: 2023-07-21 11:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Chicago instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+        }
+      ]
+    },
+    {
       "id": "41d969c1-e7ca-40f7-aef7-3b176ff070a4",
       "region": "ewr",
       "subject": "New Jersey Scheduled Maintenance - 2023-07-21",
