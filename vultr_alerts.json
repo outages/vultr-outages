@@ -521,24 +521,6 @@
       ]
     },
     {
-      "id": "212a22ef-783b-42b3-a086-8e613a7bc09c",
-      "region": "mex",
-      "subject": "Mexico City Scheduled Maintenance - 2023-07-13",
-      "start_date": "2023-06-30T18:20:00+00:00",
-      "updated_at": "2023-07-13T06:13:00+00:00",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2023-07-13T06:13:00+00:00",
-          "message": "work completed"
-        },
-        {
-          "updated_at": "2023-06-30T18:20:00+00:00",
-          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Mexico City location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-07-13 06:00:00 UTC  (00:00 local time)\r\nEnd Time: 2023-07-13 07:00:00 UTC  (01:00 local time)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Mexico City instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
-        }
-      ]
-    },
-    {
       "id": "a4db6022-d78b-4e0a-909f-c2e9327baf9a",
       "region": "ewr",
       "subject": "New Jersey Object Storage Outage - 2023-06-09",
