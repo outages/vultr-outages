@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "27ce0ea3-fa80-490f-8e0f-862b73fef9aa",
+      "region": "ord",
+      "subject": "Chicago Scheduled Maintenance - 2023-07-26",
+      "start_date": "2023-07-17T15:08:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2023-07-17T15:08:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Chicago location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-07-26 05:00:00 UTC\r\nEnd Time: 2023-07-26 09:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Chicago instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
       "id": "7c91ebb6-8541-443b-83ad-478bc0e40b80",
       "region": "mia",
       "subject": "Miami Scheduled Maintenance - 2023-07-26",
