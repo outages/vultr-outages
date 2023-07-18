@@ -164,10 +164,14 @@
         {
           "id": "32abf37a-86c3-4757-86f6-6486895ef643",
           "subject": "Johannesburg Scheduled Maintenance - 2023-07-18",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-07-06T20:56:00+00:00",
-          "updated_at": "",
+          "updated_at": "2023-07-18T02:32:00+00:00",
           "entries": [
+            {
+              "updated_at": "2023-07-18T02:32:00+00:00",
+              "message": "work completed"
+            },
             {
               "updated_at": "2023-07-06T20:56:00+00:00",
               "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Johannesburg location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-07-18 02:00:00 UTC  (04:00 local time)\r\nEnd Time: 2023-07-18 03:00:00 UTC  (05:00 local time)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Johannesburg instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
@@ -229,10 +233,14 @@
         {
           "id": "a3e793a1-ea0c-404e-8fef-0b02fa6a29b6",
           "subject": "Manchester Scheduled Maintenance - 2023-07-18",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-07-06T20:54:00+00:00",
-          "updated_at": "",
+          "updated_at": "2023-07-18T01:18:00+00:00",
           "entries": [
+            {
+              "updated_at": "2023-07-18T01:18:00+00:00",
+              "message": "work completed"
+            },
             {
               "updated_at": "2023-07-06T20:54:00+00:00",
               "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Manchester location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-07-18 01:00:00 UTC  (02:00 local time)\r\nEnd Time: 2023-07-18 02:00:00 UTC  (03:00 local time)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Manchester instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
