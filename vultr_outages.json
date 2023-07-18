@@ -430,7 +430,7 @@
         {
           "id": "0a281e9d-081e-4190-8362-ac9658bfbde7",
           "subject": "Santiago Scheduled Maintenance - 2023-07-18",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-07-06T20:58:00+00:00",
           "updated_at": "2023-07-18T04:12:00+00:00",
           "entries": [
