@@ -35,10 +35,14 @@
         {
           "id": "b4e8b3bb-1c81-464b-8e07-9dc0a42f3d0b",
           "subject": "Atlanta Scheduled Maintenance - 2023-07-20",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-07-10T16:36:00+00:00",
-          "updated_at": "",
+          "updated_at": "2023-07-20T05:01:00+00:00",
           "entries": [
+            {
+              "updated_at": "2023-07-20T05:01:00+00:00",
+              "message": "work completed"
+            },
             {
               "updated_at": "2023-07-10T16:36:00+00:00",
               "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Atlanta location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-07-20 04:00:00 UTC  (00:00 local time)\r\nEnd Time: 2023-07-20 06:00:00 UTC  (02:00 local time)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Atlanta instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
@@ -412,25 +416,7 @@
       "location": "Santiago",
       "country": "CL",
       "country_name": "Chile",
-      "alerts": [
-        {
-          "id": "0a281e9d-081e-4190-8362-ac9658bfbde7",
-          "subject": "Santiago Scheduled Maintenance - 2023-07-18",
-          "status": "resolved",
-          "start_date": "2023-07-06T20:58:00+00:00",
-          "updated_at": "2023-07-18T04:12:00+00:00",
-          "entries": [
-            {
-              "updated_at": "2023-07-18T04:12:00+00:00",
-              "message": "work completed"
-            },
-            {
-              "updated_at": "2023-07-06T20:58:00+00:00",
-              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Santiago location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-07-18 04:00:00 UTC  (00:00 local time)\r\nEnd Time: 2023-07-18 05:00:00 UTC  (01:00 local time)\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Santiago instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "sea": {
       "location": "Seattle",
