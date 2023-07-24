@@ -185,6 +185,19 @@
       "country_name": "United States",
       "alerts": [
         {
+          "id": "1cd9732f-f9a8-451b-9486-57e148575a08",
+          "subject": "Partial Outage",
+          "status": "ongoing",
+          "start_date": "2023-07-24T14:28:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-07-24T14:28:00+00:00",
+              "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
+            }
+          ]
+        },
+        {
           "id": "04d6e200-3668-474e-85fb-4a4a4b4b0b50",
           "subject": "New Jersey Scheduled Maintenance - 2023-07-24",
           "status": "resolved",
