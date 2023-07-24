@@ -100,7 +100,7 @@
         {
           "id": "8de562e0-85a8-46cd-94ea-b1409db25907",
           "subject": "Los Angeles Scheduled Maintenance - 2023-07-24",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-07-14T16:52:00+00:00",
           "updated_at": "2023-07-24T09:39:00+00:00",
           "entries": [
