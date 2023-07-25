@@ -380,7 +380,7 @@
         {
           "id": "461e9f6a-5389-4813-9cd0-5c7ff72ec627",
           "subject": "Toronto Scheduled Maintenance - 2023-07-25",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-07-14T16:54:00+00:00",
           "updated_at": "2023-07-25T04:45:00+00:00",
           "entries": [
