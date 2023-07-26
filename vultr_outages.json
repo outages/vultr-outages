@@ -148,10 +148,14 @@
         {
           "id": "7c91ebb6-8541-443b-83ad-478bc0e40b80",
           "subject": "Miami Scheduled Maintenance - 2023-07-26",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-07-14T17:40:00+00:00",
-          "updated_at": "",
+          "updated_at": "2023-07-26T05:32:00+00:00",
           "entries": [
+            {
+              "updated_at": "2023-07-26T05:32:00+00:00",
+              "message": "work completed"
+            },
             {
               "updated_at": "2023-07-14T17:40:00+00:00",
               "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Miami location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-07-26 04:00:00 UTC\r\nEnd Time: 2023-07-26 07:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Miami instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
