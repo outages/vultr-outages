@@ -201,24 +201,6 @@
       ]
     },
     {
-      "id": "04d6e200-3668-474e-85fb-4a4a4b4b0b50",
-      "region": "ewr",
-      "subject": "New Jersey Scheduled Maintenance - 2023-07-24",
-      "start_date": "2023-07-14T16:49:00+00:00",
-      "updated_at": "2023-07-24T06:18:00+00:00",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2023-07-24T06:18:00+00:00",
-          "message": "work completed"
-        },
-        {
-          "updated_at": "2023-07-14T16:49:00+00:00",
-          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the New Jersey location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-07-24 04:00:00 UTC\r\nEnd Time: 2023-07-24 10:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to New Jersey instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
-        }
-      ]
-    },
-    {
       "id": "a4db6022-d78b-4e0a-909f-c2e9327baf9a",
       "region": "ewr",
       "subject": "New Jersey Object Storage Outage - 2023-06-09",
