@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "a32c33f1-5a62-46e1-ae7c-12162342e230",
+      "region": "sgp",
+      "subject": "Singapore Object Storage Outage - 2023-08-04",
+      "start_date": "2023-08-03T01:46:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2023-08-03T01:46:00+00:00",
+          "message": "Event Type: Service Degraded Performance and Availability\r\n\r\nOur Cloud Storage team is investigating a partial outage situation with our Object Storage infrastructure. The following services may be impacted by this event:\r\n\r\n- Object Storage Subscription management\r\n- Adding or removing buckets\r\n- S3 client issues\r\n\r\nWe are working quickly to restore service to its optimal state."
+        }
+      ]
+    },
+    {
       "id": "8349d968-d5e9-4beb-b1cb-80684783d25f",
       "region": "sjc",
       "subject": "Silicon Valley Degraded Object Storage Performance",
