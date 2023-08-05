@@ -154,8 +154,12 @@
           "subject": "New Jersey Object Storage Outage - 2023-06-09",
           "status": "ongoing",
           "start_date": "2023-06-09T16:40:00+00:00",
-          "updated_at": "2023-07-19T19:49:00+00:00",
+          "updated_at": "2023-08-05T07:19:00+00:00",
           "entries": [
+            {
+              "updated_at": "2023-08-05T07:19:00+00:00",
+              "message": "[ New Jersey Object Storage Update ]\r\n\r\nAffected Product : New Jersey Object Storage\r\n\r\nThere are an increased number of reports regarding performance and timeouts. These issues are currently being addressed to bring object storage to a more optimal state."
+            },
             {
               "updated_at": "2023-07-19T19:49:00+00:00",
               "message": "[ New Jersey Object Storage Maintenance Update ]\r\n\r\nAffected Product : New Jersey Object Storage \r\nMaintenance Date : Monday, July 24\r\n\r\nFurther maintenance and upgrades will be conducted for the New Jersey Object Storage product starting on Monday, July 24.  Customers may observe some performance disruption and client access timeouts for New Jersey object storage subscriptions during this work.\r\n\r\nThank you for your patience and understanding."
