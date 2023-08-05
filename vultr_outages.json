@@ -137,6 +137,19 @@
       "country_name": "United States",
       "alerts": [
         {
+          "id": "8b1774cb-1cf1-4fa3-a958-fe1e76dddba7",
+          "subject": "New Jersey Object Storage Outage - 2023-08-05",
+          "status": "ongoing",
+          "start_date": "2023-08-05T16:24:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-08-05T16:24:00+00:00",
+              "message": "Event Type: Service Degraded Performance and Availability\r\n\r\nOur Cloud Storage team is investigating a partial outage situation with our Object Storage infrastructure. The following services may be impacted by this event:\r\n\r\n- Object Storage Subscription management\r\n- Adding or removing buckets\r\n- S3 client issues\r\n\r\nWe are working quickly to restore service to its optimal state."
+            }
+          ]
+        },
+        {
           "id": "1cd9732f-f9a8-451b-9486-57e148575a08",
           "subject": "Partial Outage",
           "status": "ongoing",
