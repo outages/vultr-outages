@@ -71,20 +71,6 @@
       ]
     },
     {
-      "id": "8349d968-d5e9-4beb-b1cb-80684783d25f",
-      "region": "sjc",
-      "subject": "Silicon Valley Degraded Object Storage Performance",
-      "start_date": "2023-08-02T23:39:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2023-08-02T23:39:00+00:00",
-          "message": "We are currently experiencing degraded Object Storage performance in our Silicon Valley location. Our storage engineers are actively working to resolve the issue as quickly as possible."
-        }
-      ]
-    },
-    {
       "id": "1cd9732f-f9a8-451b-9486-57e148575a08",
       "region": "ewr",
       "subject": "Partial Outage",
