@@ -7,6 +7,19 @@
       "country_name": "Global",
       "alerts": [
         {
+          "id": "31530671-056d-4a46-88b2-4957e3958a7f",
+          "subject": "Vultr Load Balancer (VLB) Partial Outage",
+          "status": "ongoing",
+          "start_date": "2023-08-07T14:29:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-08-07T14:29:00+00:00",
+              "message": "We are currently experiencing a partial outage affecting Vultr Load Balancers (VLB) in all locations.  The deployment of new Vultr Load Balancers has been temporarily disabled.  Existing load balancers are currently locked.  Certain actions, including the modification of VLB configurations, are unavailable at this time.  Our engineers are actively working to restore service as quickly as possible."
+            }
+          ]
+        },
+        {
           "id": "9fc2c54e-72e1-4502-94e4-176c74c2c95c",
           "subject": "Vultr Kubernetes Engine (VKE) Outage",
           "status": "ongoing",
