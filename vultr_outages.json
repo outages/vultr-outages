@@ -1,6 +1,26 @@
 {
   "service_alerts": [],
   "regions": {
+    "global": {
+      "location": "All Locations",
+      "country": "ALL",
+      "country_name": "Global",
+      "alerts": [
+        {
+          "id": "9fc2c54e-72e1-4502-94e4-176c74c2c95c",
+          "subject": "Vultr Kubernetes Engine (VKE) Outage",
+          "status": "ongoing",
+          "start_date": "2023-08-07T14:25:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-08-07T14:25:00+00:00",
+              "message": "We are currently experiencing a partial outage affecting Vultr Kubernetes Engine (VKE) in all locations.  The creation of new VKE clusters has been temporarily disabled.  Existing clusters have been temporarily locked.  Certain actions, including scaling existing clusters and retrieving kubectl configuration files are currently disabled.  Our engineers are actively working to restore service as quickly as possible."
+            }
+          ]
+        }
+      ]
+    },
     "ams": {
       "location": "Amsterdam",
       "country": "NL",
