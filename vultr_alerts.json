@@ -1,6 +1,62 @@
 {
   "service_alerts": [
     {
+      "id": "d206ecaf-ded4-4c4c-a7db-bfb634a65372",
+      "region": "syd",
+      "subject": "Sydney Scheduled Maintenance - 2023-08-24",
+      "start_date": "2023-08-08T21:16:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2023-08-08T21:16:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Sydney location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-08-24 16:00:00 UTC\r\nEnd Time: 2023-08-24 20:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Sydney instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
+      "id": "46e28fb6-3a9d-467a-a3a7-9cbb670ea9c4",
+      "region": "mad",
+      "subject": "Madrid Scheduled Maintenance - 2023-08-23",
+      "start_date": "2023-08-08T21:13:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2023-08-08T21:13:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Madrid location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-08-23 22:00:00 UTC\r\nEnd Time: 2023-08-24 02:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Madrid instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
+      "id": "007da446-7820-4e4d-b986-55a7cd6afb39",
+      "region": "mel",
+      "subject": "Melbourne Scheduled Maintenance - 2023-08-21",
+      "start_date": "2023-08-08T21:10:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2023-08-08T21:10:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Melbourne location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-08-21 16:00:00 UTC\r\nEnd Time: 2023-08-21 20:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Melbourne instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
+      "id": "3466283f-015d-4be6-a23b-d316418efcf8",
+      "region": "itm",
+      "subject": "Osaka Scheduled Maintenance - 2023-08-15",
+      "start_date": "2023-08-08T21:04:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2023-08-08T21:04:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Osaka location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-08-15 15:00:00 UTC\r\nEnd Time: 2023-08-15 19:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Osaka instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
       "id": "05e29cf8-e040-4e16-a058-11c935b5b2b2",
       "region": "ewr",
       "subject": "Partial Outage",
@@ -114,7 +170,7 @@
     },
     {
       "id": "c464617d-7804-410c-ac57-21b89806b98a",
-      "region": "ams",
+      "region": "sjc",
       "subject": "Amsterdam/Silicon Valley Degraded Network Performance",
       "start_date": "2023-08-03T18:11:00+00:00",
       "updated_at": "",
@@ -128,7 +184,7 @@
     },
     {
       "id": "c464617d-7804-410c-ac57-21b89806b98a",
-      "region": "sjc",
+      "region": "ams",
       "subject": "Amsterdam/Silicon Valley Degraded Network Performance",
       "start_date": "2023-08-03T18:11:00+00:00",
       "updated_at": "",

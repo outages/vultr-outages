@@ -132,7 +132,21 @@
       "location": "Madrid",
       "country": "ES",
       "country_name": "Spain",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "46e28fb6-3a9d-467a-a3a7-9cbb670ea9c4",
+          "subject": "Madrid Scheduled Maintenance - 2023-08-23",
+          "status": "ongoing",
+          "start_date": "2023-08-08T21:13:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-08-08T21:13:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Madrid location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-08-23 22:00:00 UTC\r\nEnd Time: 2023-08-24 02:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Madrid instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        }
+      ]
     },
     "man": {
       "location": "Manchester",
@@ -144,7 +158,21 @@
       "location": "Melbourne",
       "country": "AU",
       "country_name": "Australia",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "007da446-7820-4e4d-b986-55a7cd6afb39",
+          "subject": "Melbourne Scheduled Maintenance - 2023-08-21",
+          "status": "ongoing",
+          "start_date": "2023-08-08T21:10:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-08-08T21:10:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Melbourne location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-08-21 16:00:00 UTC\r\nEnd Time: 2023-08-21 20:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Melbourne instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        }
+      ]
     },
     "mex": {
       "location": "Mexico City",
@@ -249,7 +277,21 @@
       "location": "Osaka",
       "country": "JP",
       "country_name": "Japan",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "3466283f-015d-4be6-a23b-d316418efcf8",
+          "subject": "Osaka Scheduled Maintenance - 2023-08-15",
+          "status": "ongoing",
+          "start_date": "2023-08-08T21:04:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-08-08T21:04:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Osaka location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-08-15 15:00:00 UTC\r\nEnd Time: 2023-08-15 19:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Osaka instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        }
+      ]
     },
     "cdg": {
       "location": "Paris",
@@ -344,7 +386,21 @@
       "location": "Sydney",
       "country": "AU",
       "country_name": "Australia",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "d206ecaf-ded4-4c4c-a7db-bfb634a65372",
+          "subject": "Sydney Scheduled Maintenance - 2023-08-24",
+          "status": "ongoing",
+          "start_date": "2023-08-08T21:16:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-08-08T21:16:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Sydney location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-08-24 16:00:00 UTC\r\nEnd Time: 2023-08-24 20:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Sydney instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        }
+      ]
     },
     "tlv": {
       "location": "Tel Aviv",
