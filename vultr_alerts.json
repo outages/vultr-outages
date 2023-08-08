@@ -62,7 +62,7 @@
       "subject": "Vultr Load Balancer (VLB) Partial Outage",
       "start_date": "2023-08-07T14:29:00+00:00",
       "updated_at": "",
-      "status": "ongoing",
+      "status": "resolved",
       "entries": [
         {
           "updated_at": "2023-08-07T14:29:00+00:00",
@@ -76,7 +76,7 @@
       "subject": "Vultr Kubernetes Engine (VKE) Outage",
       "start_date": "2023-08-07T14:25:00+00:00",
       "updated_at": "",
-      "status": "ongoing",
+      "status": "resolved",
       "entries": [
         {
           "updated_at": "2023-08-07T14:25:00+00:00",
