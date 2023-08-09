@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "f7c10a63-5924-45d2-a086-f7f105245e9f",
+      "region": "fra",
+      "subject": "Partial Outage",
+      "start_date": "2023-08-09T06:27:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2023-08-09T06:27:00+00:00",
+          "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
+        }
+      ]
+    },
+    {
       "id": "d206ecaf-ded4-4c4c-a7db-bfb634a65372",
       "region": "syd",
       "subject": "Sydney Scheduled Maintenance - 2023-08-24",
@@ -156,7 +170,7 @@
     },
     {
       "id": "c464617d-7804-410c-ac57-21b89806b98a",
-      "region": "ams",
+      "region": "sjc",
       "subject": "Amsterdam/Silicon Valley Degraded Network Performance",
       "start_date": "2023-08-03T18:11:00+00:00",
       "updated_at": "",
@@ -170,7 +184,7 @@
     },
     {
       "id": "c464617d-7804-410c-ac57-21b89806b98a",
-      "region": "sjc",
+      "region": "ams",
       "subject": "Amsterdam/Silicon Valley Degraded Network Performance",
       "start_date": "2023-08-03T18:11:00+00:00",
       "updated_at": "",

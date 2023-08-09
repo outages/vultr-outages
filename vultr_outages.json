@@ -88,7 +88,21 @@
       "location": "Frankfurt",
       "country": "DE",
       "country_name": "Germany",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "f7c10a63-5924-45d2-a086-f7f105245e9f",
+          "subject": "Partial Outage",
+          "status": "ongoing",
+          "start_date": "2023-08-09T06:27:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-08-09T06:27:00+00:00",
+              "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
+            }
+          ]
+        }
+      ]
     },
     "hnl": {
       "location": "Honolulu",
