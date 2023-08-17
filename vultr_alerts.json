@@ -6,7 +6,7 @@
       "subject": "Tokyo Network Outage",
       "start_date": "2023-08-17T21:15:00+00:00",
       "updated_at": "",
-      "status": "ongoing",
+      "status": "resolved",
       "entries": [
         {
           "updated_at": "2023-08-17T21:15:00+00:00",
@@ -103,9 +103,13 @@
       "region": "lhr",
       "subject": "London Scheduled Maintenance - 2023-08-17",
       "start_date": "2023-08-09T12:48:00+00:00",
-      "updated_at": "",
+      "updated_at": "2023-08-17T22:02:00+00:00",
       "status": "ongoing",
       "entries": [
+        {
+          "updated_at": "2023-08-17T22:02:00+00:00",
+          "message": "This evenings maintenance will be rescheduled, additional information will be provided at a later date."
+        },
         {
           "updated_at": "2023-08-09T12:48:00+00:00",
           "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the London location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-08-17 23:00:00 UTC\r\nEnd Time: 2023-08-18 03:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to London instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
