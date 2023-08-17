@@ -117,7 +117,7 @@
         {
           "id": "971b5ecb-2d46-42b4-b998-6f47461a6f6d",
           "subject": "Madrid Network Outage",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-08-15T12:24:00+00:00",
           "updated_at": "",
           "entries": [
