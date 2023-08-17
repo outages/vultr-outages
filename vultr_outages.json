@@ -279,21 +279,7 @@
       "location": "Osaka",
       "country": "JP",
       "country_name": "Japan",
-      "alerts": [
-        {
-          "id": "3466283f-015d-4be6-a23b-d316418efcf8",
-          "subject": "Osaka Scheduled Maintenance - 2023-08-15",
-          "status": "resolved",
-          "start_date": "2023-08-08T21:04:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2023-08-08T21:04:00+00:00",
-              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Osaka location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-08-15 15:00:00 UTC\r\nEnd Time: 2023-08-15 19:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Osaka instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "cdg": {
       "location": "Paris",
