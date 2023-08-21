@@ -162,7 +162,7 @@
         {
           "id": "007da446-7820-4e4d-b986-55a7cd6afb39",
           "subject": "Melbourne Scheduled Maintenance - 2023-08-21",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-08-08T21:10:00+00:00",
           "updated_at": "",
           "entries": [
