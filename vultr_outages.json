@@ -283,7 +283,7 @@
         {
           "id": "34bc249e-025b-48c0-a0a4-d45dc17eeff6",
           "subject": "Paris Scheduled Maintenance - 2023-08-22",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-08-16T21:29:00+00:00",
           "updated_at": "",
           "entries": [
