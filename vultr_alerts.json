@@ -181,9 +181,13 @@
       "region": "ewr",
       "subject": "New Jersey Object Storage Outage - 2023-06-09",
       "start_date": "2023-06-09T16:40:00+00:00",
-      "updated_at": "2023-08-05T07:19:00+00:00",
+      "updated_at": "2023-08-24T13:39:00+00:00",
       "status": "ongoing",
       "entries": [
+        {
+          "updated_at": "2023-08-24T13:39:00+00:00",
+          "message": "We are providing an update on restoration progress regarding the extended outage to the Object Storage platform (VOBS) in the New Jersey (EWR) location.\r\n\r\nAt this time, cluster recovery is continuing to track towards a healthy state while running background recovery operations.  The most pressing and service impacting challenge, however, is that we have identified a small portion of objects that could have partial corruption.  Our efforts are focused on all attempts to repair the corrupted objects as well improvements to the storage interfaces which hang when encountering corruption. \r\n\r\nWhile the potential scope of impact of this problem is limited to only 0.00024% of objects stored in the cluster, the issue presents challenges for recovery and general cluster I/O. We are working with the most seasoned experts in the world to restore full operation as safely and quickly as possible. Pending the level of success for repairing corrupted blocks, we will work to map the issue to specific objects and provide notification directly to affected users that can be identified.\r\n\r\nPlease be reminded that the other Object Storage locations are available to you and fully up to date with our modern hardware and software specifications."
+        },
         {
           "updated_at": "2023-08-05T07:19:00+00:00",
           "message": "[ New Jersey Object Storage Update ]\r\n\r\nAffected Product : New Jersey Object Storage\r\n\r\nThere are an increased number of reports regarding performance and timeouts. These issues are currently being addressed to bring object storage to a more optimal state."
