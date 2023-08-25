@@ -1,26 +1,6 @@
 {
   "service_alerts": [],
   "regions": {
-    "global": {
-      "location": "All Locations",
-      "country": "ALL",
-      "country_name": "Global",
-      "alerts": [
-        {
-          "id": "40cbeaf3-12b9-40da-95c6-e239386fce40",
-          "subject": "Tokyo Degraded Network Performance",
-          "status": "resolved",
-          "start_date": "2023-08-19T13:42:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2023-08-19T13:42:00+00:00",
-              "message": "We are currently experiencing degraded network performance in our Tokyo location. Our network engineers are actively working with our upstream providers to resolve the issue as quickly as possible."
-            }
-          ]
-        }
-      ]
-    },
     "ams": {
       "location": "Amsterdam",
       "country": "NL",
