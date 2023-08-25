@@ -113,20 +113,6 @@
       ]
     },
     {
-      "id": "46e28fb6-3a9d-467a-a3a7-9cbb670ea9c4",
-      "region": "mad",
-      "subject": "Madrid Scheduled Maintenance - 2023-08-23",
-      "start_date": "2023-08-08T21:13:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2023-08-08T21:13:00+00:00",
-          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Madrid location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-08-23 22:00:00 UTC\r\nEnd Time: 2023-08-24 02:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Madrid instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-        }
-      ]
-    },
-    {
       "id": "8cfc5dd4-d846-4e2a-b539-b4af3c27bbfd",
       "region": "ewr",
       "subject": "New Jersey Object Storage Outage - 2023-08-06",
