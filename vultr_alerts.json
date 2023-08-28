@@ -89,9 +89,13 @@
       "region": "mad",
       "subject": "Madrid Network Outage",
       "start_date": "2023-08-18T13:36:00+00:00",
-      "updated_at": "",
-      "status": "ongoing",
+      "updated_at": "2023-08-28T13:50:00+00:00",
+      "status": "resolved",
       "entries": [
+        {
+          "updated_at": "2023-08-28T13:50:00+00:00",
+          "message": "Mitigation in Madrid is working very efficiently. When an attack is detected in Madrid traffic is redirected to our scrubbers and the attack is mitigated."
+        },
         {
           "updated_at": "2023-08-18T13:36:00+00:00",
           "message": "We are currently experiencing a partial outage in our Madrid location. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible."
