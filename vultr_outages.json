@@ -172,7 +172,7 @@
         {
           "id": "cb568db7-502e-463f-902a-f1c72e6e130e",
           "subject": "Miami Scheduled Maintenance - 2023-08-29",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-08-21T20:51:00+00:00",
           "updated_at": "2023-08-29T04:16:00+00:00",
           "entries": [
