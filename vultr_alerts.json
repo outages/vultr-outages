@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "37c0c477-0014-4252-b77c-9edea80f6313",
+      "region": "sea",
+      "subject": "Partial Outage",
+      "start_date": "2023-08-30T20:34:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2023-08-30T20:34:00+00:00",
+          "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
+        }
+      ]
+    },
+    {
       "id": "3d321e99-5e02-44b6-8ffb-48063d8c9ecd",
       "region": "atl",
       "subject": "Atlanta Scheduled Maintenance - 2023-09-06",
