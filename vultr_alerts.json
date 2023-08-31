@@ -131,24 +131,6 @@
       ]
     },
     {
-      "id": "cb568db7-502e-463f-902a-f1c72e6e130e",
-      "region": "mia",
-      "subject": "Miami Scheduled Maintenance - 2023-08-29",
-      "start_date": "2023-08-21T20:51:00+00:00",
-      "updated_at": "2023-08-29T04:16:00+00:00",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2023-08-29T04:16:00+00:00",
-          "message": "work completed"
-        },
-        {
-          "updated_at": "2023-08-21T20:51:00+00:00",
-          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Miami location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-08-29 04:00:00 UTC\r\nEnd Time: 2023-08-29 05:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Miami instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
-        }
-      ]
-    },
-    {
       "id": "8cfc5dd4-d846-4e2a-b539-b4af3c27bbfd",
       "region": "ewr",
       "subject": "New Jersey Object Storage Outage - 2023-08-06",
