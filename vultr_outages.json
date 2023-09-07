@@ -362,7 +362,7 @@
         {
           "id": "735b2060-c86e-43eb-9a7a-5cf8f20629c7",
           "subject": "Warsaw Scheduled Maintenance - 2023-09-06",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-08-31T19:03:00+00:00",
           "updated_at": "",
           "entries": [
