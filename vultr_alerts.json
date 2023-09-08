@@ -76,7 +76,7 @@
       "subject": "Silicon Valley Object Storage Outage - 2023-09-04",
       "start_date": "2023-09-04T23:58:00+00:00",
       "updated_at": "",
-      "status": "ongoing",
+      "status": "resolved",
       "entries": []
     },
     {
@@ -148,9 +148,13 @@
       "region": "ewr",
       "subject": "New Jersey Object Storage Outage - 2023-06-09",
       "start_date": "2023-06-09T16:40:00+00:00",
-      "updated_at": "2023-08-24T13:39:00+00:00",
-      "status": "ongoing",
+      "updated_at": "2023-09-08T17:16:00+00:00",
+      "status": "resolved",
       "entries": [
+        {
+          "updated_at": "2023-09-08T17:16:00+00:00",
+          "message": "We are providing an update on restoration progress regarding the extended outage to the Object Storage platform (VOBS) in the New Jersey (EWR) location.\r\n\r\nAt this time, the cluster is in stable health and operational for normal workloads. We will be closing the alert associated with the outage as the system is fully available to you for read and write access. \r\n\r\nA significant amount of routine operational work is ongoing and scheduled but will not be customer impacting. As noted in our prior update, we believe there is a small subset of objects that could be fractionally corrupted. Presently, attempting to retrieve these objects may stall. We are working to enable these objects to be retrievable in their current state.  Despite the closing of this outage event, our teams are continuing to focus on these specific objects.\r\n\r\nIf and as soon as possible, we will be identifying the specific subscriptions and object paths associated with these objects and providing a list and/or metadata marker to designate them as likely problematic. If your bucket contains one or more of these objects, our goal is to provide you with a specific notification and a detailed list.\r\n\r\nThank you for your patience through this matter."
+        },
         {
           "updated_at": "2023-08-24T13:39:00+00:00",
           "message": "We are providing an update on restoration progress regarding the extended outage to the Object Storage platform (VOBS) in the New Jersey (EWR) location.\r\n\r\nAt this time, cluster recovery is continuing to track towards a healthy state while running background recovery operations.  The most pressing and service impacting challenge, however, is that we have identified a small portion of objects that could have partial corruption.  Our efforts are focused on all attempts to repair the corrupted objects as well improvements to the storage interfaces which hang when encountering corruption. \r\n\r\nWhile the potential scope of impact of this problem is limited to only 0.00024% of objects stored in the cluster, the issue presents challenges for recovery and general cluster I/O. We are working with the most seasoned experts in the world to restore full operation as safely and quickly as possible. Pending the level of success for repairing corrupted blocks, we will work to map the issue to specific objects and provide notification directly to affected users that can be identified.\r\n\r\nPlease be reminded that the other Object Storage locations are available to you and fully up to date with our modern hardware and software specifications."
