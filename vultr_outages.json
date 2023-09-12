@@ -313,7 +313,21 @@
       "location": "Stockholm",
       "country": "SE",
       "country_name": "Sweden",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "d2510efc-f5fb-4271-8d26-5eec215ae18d",
+          "subject": "Stockholm Scheduled Maintenance - 2023-09-19",
+          "status": "ongoing",
+          "start_date": "2023-09-12T19:07:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-09-12T19:07:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Stockholm location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-09-19 21:30:00 UTC\r\nEnd Time: 2023-09-20 01:30:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Stockholm instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        }
+      ]
     },
     "syd": {
       "location": "Sydney",
@@ -325,7 +339,21 @@
       "location": "Tel Aviv",
       "country": "IL",
       "country_name": "Israel",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "106176e0-24e5-4921-8377-eef7ab24deeb",
+          "subject": "Tel Aviv Scheduled Maintenance - 2023-09-20",
+          "status": "ongoing",
+          "start_date": "2023-09-12T19:09:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-09-12T19:09:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Tel Aviv location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-09-20 21:30:00 UTC\r\nEnd Time: 2023-09-21 01:30:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Tel Aviv instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        }
+      ]
     },
     "nrt": {
       "location": "Tokyo",
@@ -337,13 +365,41 @@
       "location": "Toronto",
       "country": "CA",
       "country_name": "Canada",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "e75522ff-1acf-480d-885d-98fa2b276b32",
+          "subject": "Toronto Scheduled Maintenance - 2023-09-22",
+          "status": "ongoing",
+          "start_date": "2023-09-12T19:25:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-09-12T19:25:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Toronto location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-09-22 04:05:00 UTC\r\nEnd Time: 2023-09-22 08:05:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Toronto instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        }
+      ]
     },
     "waw": {
       "location": "Warsaw",
       "country": "PL",
       "country_name": "Poland",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "90171287-fe69-477c-b334-d4452ed79935",
+          "subject": "Warsaw Scheduled Maintenance - 2023-09-18",
+          "status": "ongoing",
+          "start_date": "2023-09-12T19:04:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-09-12T19:04:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Warsaw location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-09-18 21:30:00 UTC\r\nEnd Time: 2023-09-19 01:30:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Warsaw instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        }
+      ]
     }
   }
 }
