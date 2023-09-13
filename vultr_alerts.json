@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "8747869c-3145-4f89-846b-acd5042cc2a9",
+      "region": "fra",
+      "subject": "Frankfurt Network Outage",
+      "start_date": "2023-09-13T11:20:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2023-09-13T11:20:00+00:00",
+          "message": "We are currently experiencing a partial outage in our Frankfurt location. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible."
+        }
+      ]
+    },
+    {
       "id": "e75522ff-1acf-480d-885d-98fa2b276b32",
       "region": "yto",
       "subject": "Toronto Scheduled Maintenance - 2023-09-22",
