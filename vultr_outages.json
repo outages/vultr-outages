@@ -95,7 +95,7 @@
         {
           "id": "8747869c-3145-4f89-846b-acd5042cc2a9",
           "subject": "Frankfurt Network Outage",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-09-13T11:20:00+00:00",
           "updated_at": "",
           "entries": [
@@ -217,10 +217,14 @@
         {
           "id": "8cfc5dd4-d846-4e2a-b539-b4af3c27bbfd",
           "subject": "New Jersey Object Storage Outage - 2023-08-06",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-08-06T07:18:00+00:00",
-          "updated_at": "2023-08-14T16:03:00+00:00",
+          "updated_at": "2023-09-13T12:02:00+00:00",
           "entries": [
+            {
+              "updated_at": "2023-09-13T12:02:00+00:00",
+              "message": "As identified in a previous notice, New Jersey object storage is now usable again while investigations and improvements continue on the cluster.   This specific alert is a redundant notice."
+            },
             {
               "updated_at": "2023-08-14T16:03:00+00:00",
               "message": "Hello,\r\n\r\nWe are providing an update on restoration progress regarding the extended outage to the Object Storage platform (VOBS) in the New Jersey (EWR) location.\r\n\r\nAt this time, we are continuing to work to bring VOBS EWR back to normal health. Some or all of your data may be accessible at this time, either constantly or intermittently. Rebalancing continues as anticipated and we expect to reach a state where acceptable read performance is available soon. As part of this, we are continuing to retrofit new, more performant hardware in VOBS EWR. Once we have achieved an acceptable level of read availability, we will work to restore write access, and lastly performance to normal levels. Please note that we are making every effort to safely expedite this process and minimize the additional impact time.\r\n\r\nThank you for your patience as we work through this outage.\r\n\r\nWe will continue to provide regular updates until normal performance is restored."
