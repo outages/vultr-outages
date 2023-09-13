@@ -117,9 +117,13 @@
       "region": "hnl",
       "subject": "Honolulu Scheduled Maintenance - 2023-09-13",
       "start_date": "2023-09-06T17:30:00+00:00",
-      "updated_at": "",
+      "updated_at": "2023-09-13T12:31:00+00:00",
       "status": "ongoing",
       "entries": [
+        {
+          "updated_at": "2023-09-13T12:31:00+00:00",
+          "message": "Upgrade ER1/2 in HNL1 to the new standard OS Junos: 22.2R3.15 Completed Successful"
+        },
         {
           "updated_at": "2023-09-06T17:30:00+00:00",
           "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Honolulu location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-09-13 10:00:00 UTC\r\nEnd Time: 2023-09-13 14:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Honolulu instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
@@ -221,9 +225,13 @@
       "region": "sgp",
       "subject": "Singapore Object Storage Outage - 2023-08-04",
       "start_date": "2023-08-03T01:46:00+00:00",
-      "updated_at": "",
-      "status": "ongoing",
+      "updated_at": "2023-09-13T12:14:00+00:00",
+      "status": "resolved",
       "entries": [
+        {
+          "updated_at": "2023-09-13T12:14:00+00:00",
+          "message": "Singapore object storage is functioning normally, and clients may resume their usual activity.   A development plan to increase future performance and stability on all object clusters is in progress as well.   Thank you for your patience on this and related matters."
+        },
         {
           "updated_at": "2023-08-03T01:46:00+00:00",
           "message": "Event Type: Service Degraded Performance and Availability\r\n\r\nOur Cloud Storage team is investigating a partial outage situation with our Object Storage infrastructure. The following services may be impacted by this event:\r\n\r\n- Object Storage Subscription management\r\n- Adding or removing buckets\r\n- S3 client issues\r\n\r\nWe are working quickly to restore service to its optimal state."
