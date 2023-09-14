@@ -11,7 +11,21 @@
       "location": "Atlanta",
       "country": "US",
       "country_name": "United States",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "4b67beb6-83eb-4fc2-9a22-20c2ce0054bb",
+          "subject": "Atlanta Scheduled Maintenance - 2023-09-20",
+          "status": "ongoing",
+          "start_date": "2023-09-14T17:14:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-09-14T17:14:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Atlanta location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-09-20 04:05:00 UTC\r\nEnd Time: 2023-09-20 08:05:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Atlanta instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+            }
+          ]
+        }
+      ]
     },
     "blr": {
       "location": "Bangalore",
@@ -155,7 +169,21 @@
       "location": "London",
       "country": "GB",
       "country_name": "United Kingdom",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "642657c4-3c36-4731-8d27-413edcf061c7",
+          "subject": "London Scheduled Maintenance - 2023-09-26",
+          "status": "ongoing",
+          "start_date": "2023-09-14T18:31:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-09-14T18:31:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the London location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-09-26 23:05:00 UTC\r\nEnd Time: 2023-09-27 03:05:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to London instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+            }
+          ]
+        }
+      ]
     },
     "lax": {
       "location": "Los Angeles",
@@ -313,7 +341,21 @@
       "location": "Silicon Valley",
       "country": "US",
       "country_name": "United States",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "8e4b6b48-066d-42d9-b7bc-cf8639cdbc0c",
+          "subject": "Silicon Valley Scheduled Maintenance - 2023-09-21",
+          "status": "ongoing",
+          "start_date": "2023-09-14T17:41:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-09-14T17:41:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Silicon Valley location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-09-21 07:00:00 UTC\r\nEnd Time: 2023-09-21 11:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Silicon Valley instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+            }
+          ]
+        }
+      ]
     },
     "sgp": {
       "location": "Singapore",
