@@ -249,7 +249,7 @@
         {
           "id": "43d163bf-b3fd-40d8-b247-ef0e326acf1a",
           "subject": "São Paulo Scheduled Maintenance - 2023-09-15",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-09-06T16:06:00+00:00",
           "updated_at": "",
           "entries": [
