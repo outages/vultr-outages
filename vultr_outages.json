@@ -227,6 +227,19 @@
       "country_name": "United States",
       "alerts": [
         {
+          "id": "35bdf27c-ff48-4c32-96a5-d9fef85d5eaf",
+          "subject": "Seattle Block Storage Maintenance - 2023-09-20",
+          "status": "ongoing",
+          "start_date": "2023-09-15T14:16:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-09-15T14:16:00+00:00",
+              "message": "Event Type: Block Storage Infrastructure Maintenance\r\nStart Time: 2023-09-20 10:30am EST\r\nEnd Time: 2023-09-22 17:00 EST\r\n\r\nOur Cloud Storage team will be performing maintenance on our Seattle Block Storage infrastructure starting at 2023-09-20 14:30:00 UTC.\r\n\r\nWe will be moving more Block Storage data to our new cluster in Seattle but you should not expect any interruption to your services. Please let us know you have any trouble with your block storage volumes during or after this maintenance. \r\n\r\nThank you"
+            }
+          ]
+        },
+        {
           "id": "50efc496-50c2-4f64-9fde-f143d86c7b68",
           "subject": "Seattle Block Storage Maintenance - 2023-09-13",
           "status": "resolved",
