@@ -238,19 +238,6 @@
               "message": "Event Type: Block Storage Infrastructure Maintenance\r\nStart Time: 2023-09-20 10:30am EST\r\nEnd Time: 2023-09-22 17:00 EST\r\n\r\nOur Cloud Storage team will be performing maintenance on our Seattle Block Storage infrastructure starting at 2023-09-20 14:30:00 UTC.\r\n\r\nWe will be moving more Block Storage data to our new cluster in Seattle but you should not expect any interruption to your services. Please let us know you have any trouble with your block storage volumes during or after this maintenance. \r\n\r\nThank you"
             }
           ]
-        },
-        {
-          "id": "50efc496-50c2-4f64-9fde-f143d86c7b68",
-          "subject": "Seattle Block Storage Maintenance - 2023-09-13",
-          "status": "resolved",
-          "start_date": "2023-09-08T14:45:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2023-09-08T14:45:00+00:00",
-              "message": "Event Type: Seattle Block Storage Infrastructure Maintenance\r\nStart Time: 2023-09-13 11:00:00 America/EST\r\nEnd Time: 2023-09-13 17:00:00 America/EST\r\n\r\nOur Cloud Storage team will be performing upgrades to our Seattle Block Storage infrastructure starting at 2023-09-13 11:00:00 EST. During this maintenance window, creating, attaching, resizing, and deletion of Block Storage volumes may be temporarily unavailable.\r\n\r\nThe Vultr Storage team also plans to migrate existing block storage volumes to a new cluster. The process will require detaching your block storage volume and then reattaching the volume in the new cluster. \r\n\r\nIn order to guarantee no loss of data, please detach your block storage manually before the maintenance window begins to ensure there is no data actively being written to it when we detach it from the current cluster. \r\n\r\nOnce the maintenance window ends please check your block storage manually to ensure it is working properly. If you encounter any issues with re-attaching your storage volume first please attempt to re-mount the volume or reboot your VPS. If this doesn't work please open a support ticket. \r\n\r\nThank you"
-            }
-          ]
         }
       ]
     },
