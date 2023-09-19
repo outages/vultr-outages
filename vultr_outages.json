@@ -253,7 +253,7 @@
         {
           "id": "d2510efc-f5fb-4271-8d26-5eec215ae18d",
           "subject": "Stockholm Scheduled Maintenance - 2023-09-19",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-09-12T19:07:00+00:00",
           "updated_at": "",
           "entries": [
