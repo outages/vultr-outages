@@ -127,20 +127,6 @@
       ]
     },
     {
-      "id": "90171287-fe69-477c-b334-d4452ed79935",
-      "region": "waw",
-      "subject": "Warsaw Scheduled Maintenance - 2023-09-18",
-      "start_date": "2023-09-12T19:04:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2023-09-12T19:04:00+00:00",
-          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Warsaw location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-09-18 21:30:00 UTC\r\nEnd Time: 2023-09-19 01:30:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Warsaw instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-        }
-      ]
-    },
-    {
       "id": "11b5d216-cd53-4b3b-a2e0-604019786b43",
       "region": "mad",
       "subject": "Madrid Network Outage",
