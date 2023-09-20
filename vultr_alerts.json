@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "a5781196-ed3c-4a42-84c1-d82be0e34de4",
+      "region": "man",
+      "subject": "Manchester Scheduled Maintenance - 2023-09-25",
+      "start_date": "2023-09-19T18:40:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2023-09-19T18:40:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Manchester location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-09-25 23:00:00 UTC\r\nEnd Time: 2023-09-26 03:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Manchester instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
       "id": "35bdf27c-ff48-4c32-96a5-d9fef85d5eaf",
       "region": "sea",
       "subject": "Seattle Block Storage Maintenance - 2023-09-20",
