@@ -15,7 +15,7 @@
         {
           "id": "4b67beb6-83eb-4fc2-9a22-20c2ce0054bb",
           "subject": "Atlanta Scheduled Maintenance - 2023-09-20",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-09-14T17:14:00+00:00",
           "updated_at": "",
           "entries": [
@@ -307,7 +307,7 @@
         {
           "id": "106176e0-24e5-4921-8377-eef7ab24deeb",
           "subject": "Tel Aviv Scheduled Maintenance - 2023-09-20",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-09-12T19:09:00+00:00",
           "updated_at": "",
           "entries": [

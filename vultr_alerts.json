@@ -76,7 +76,7 @@
       "subject": "Atlanta Scheduled Maintenance - 2023-09-20",
       "start_date": "2023-09-14T17:14:00+00:00",
       "updated_at": "",
-      "status": "ongoing",
+      "status": "resolved",
       "entries": [
         {
           "updated_at": "2023-09-14T17:14:00+00:00",
@@ -104,7 +104,7 @@
       "subject": "Tel Aviv Scheduled Maintenance - 2023-09-20",
       "start_date": "2023-09-12T19:09:00+00:00",
       "updated_at": "",
-      "status": "ongoing",
+      "status": "resolved",
       "entries": [
         {
           "updated_at": "2023-09-12T19:09:00+00:00",
