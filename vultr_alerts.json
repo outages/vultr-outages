@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "2cf16757-e75e-47fd-9e3b-2a2d6065e049",
+      "region": "scl",
+      "subject": "Santiago Scheduled Maintenance - 2023-09-27",
+      "start_date": "2023-09-19T21:54:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2023-09-19T21:54:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Santiago location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-09-27 03:00:00 UTC\r\nEnd Time: 2023-09-27 07:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Santiago instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
       "id": "a5781196-ed3c-4a42-84c1-d82be0e34de4",
       "region": "man",
       "subject": "Manchester Scheduled Maintenance - 2023-09-25",
