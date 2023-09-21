@@ -139,24 +139,6 @@
           "message": "We are currently experiencing a partial outage in our Madrid location. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible."
         }
       ]
-    },
-    {
-      "id": "419741d1-0e46-4372-9f21-93ade756bd9d",
-      "region": "jnb",
-      "subject": "Johannesburg Scheduled Maintenance - 2023-09-18",
-      "start_date": "2023-09-08T16:22:00+00:00",
-      "updated_at": "2023-09-18T23:43:00+00:00",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2023-09-18T23:43:00+00:00",
-          "message": "Completed successfully upgrade ER1/2 in JNB2 to the new standard OS Junos: 22.2R3.15"
-        },
-        {
-          "updated_at": "2023-09-08T16:22:00+00:00",
-          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Johannesburg location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-09-18 22:00:00 UTC\r\nEnd Time: 2023-09-19 02:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Johannesburg instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-        }
-      ]
     }
   ]
 }
