@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "ca01fb16-3b89-4f18-9cf9-8d016d8f1174",
+      "region": "sea",
+      "subject": "Seattle Block Storage Maintenance - VPS Downtime - 2023-09-26",
+      "start_date": "2023-09-21T20:57:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2023-09-21T20:57:00+00:00",
+          "message": "Event Type: Block Storage Infrastructure Maintenance\r\nStart Time: 2023-09-26 18:00:00 America/EST\r\nEnd Time: 2023-09-27 02:00:00 America/EST\r\n\r\nOur Cloud Storage team will be performing one last round of Maintenance starting at 2023-09-26 21:00:00 UTC. During this maintenance window, creating, attaching, resizing, and deletion of HDD Block Storage volumes may be temporarily unavailable.\r\n\r\nDuring this maintenance window we will be performing the final migration of your block storage data to our new cluster. The process will involve powering down your VM, detaching the storage, copying it to the new cluster, and finally re-attach the block storage and restart your VM.\r\n\r\nWe can not specify when exactly your VM will need to be powered off as we are moving one block at a time but your total downtime should be anywhere from <5 minutes to 30 depending on the size of your block storage volume.\r\n\r\nPlease accept our apologies for any inconvenience this may cause. \r\n\r\nIf you have any additional questions please open a support ticket."
+        }
+      ]
+    },
+    {
       "id": "9c339dd5-3f8d-462a-b8ea-26cded8f27d5",
       "region": "atl",
       "subject": "Atlanta Scheduled Maintenance - 2023-09-27",
@@ -39,20 +53,6 @@
         {
           "updated_at": "2023-09-19T18:40:00+00:00",
           "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Manchester location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-09-25 23:00:00 UTC\r\nEnd Time: 2023-09-26 03:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Manchester instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-        }
-      ]
-    },
-    {
-      "id": "35bdf27c-ff48-4c32-96a5-d9fef85d5eaf",
-      "region": "sea",
-      "subject": "Seattle Block Storage Maintenance - 2023-09-20",
-      "start_date": "2023-09-15T14:16:00+00:00",
-      "updated_at": "",
-      "status": "ongoing",
-      "entries": [
-        {
-          "updated_at": "2023-09-15T14:16:00+00:00",
-          "message": "Event Type: Block Storage Infrastructure Maintenance\r\nStart Time: 2023-09-20 10:30am EST\r\nEnd Time: 2023-09-22 17:00 EST\r\n\r\nOur Cloud Storage team will be performing maintenance on our Seattle Block Storage infrastructure starting at 2023-09-20 14:30:00 UTC.\r\n\r\nWe will be moving more Block Storage data to our new cluster in Seattle but you should not expect any interruption to your services. Please let us know you have any trouble with your block storage volumes during or after this maintenance. \r\n\r\nThank you"
         }
       ]
     },
