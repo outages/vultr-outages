@@ -24,19 +24,6 @@
               "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Atlanta location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-09-27 04:05:00 UTC\r\nEnd Time: 2023-09-27 08:05:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Atlanta instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
             }
           ]
-        },
-        {
-          "id": "4b67beb6-83eb-4fc2-9a22-20c2ce0054bb",
-          "subject": "Atlanta Scheduled Maintenance - 2023-09-20",
-          "status": "resolved",
-          "start_date": "2023-09-14T17:14:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2023-09-14T17:14:00+00:00",
-              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Atlanta location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-09-20 04:05:00 UTC\r\nEnd Time: 2023-09-20 08:05:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Atlanta instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
-            }
-          ]
         }
       ]
     },
@@ -298,21 +285,7 @@
       "location": "Tel Aviv",
       "country": "IL",
       "country_name": "Israel",
-      "alerts": [
-        {
-          "id": "106176e0-24e5-4921-8377-eef7ab24deeb",
-          "subject": "Tel Aviv Scheduled Maintenance - 2023-09-20",
-          "status": "resolved",
-          "start_date": "2023-09-12T19:09:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2023-09-12T19:09:00+00:00",
-              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Tel Aviv location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-09-20 21:30:00 UTC\r\nEnd Time: 2023-09-21 01:30:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Tel Aviv instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "nrt": {
       "location": "Tokyo",
