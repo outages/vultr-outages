@@ -123,7 +123,7 @@
         {
           "id": "a5781196-ed3c-4a42-84c1-d82be0e34de4",
           "subject": "Manchester Scheduled Maintenance - 2023-09-25",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-09-19T18:40:00+00:00",
           "updated_at": "2023-09-26T02:49:00+00:00",
           "entries": [
