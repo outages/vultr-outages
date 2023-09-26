@@ -89,9 +89,13 @@
       "region": "man",
       "subject": "Manchester Scheduled Maintenance - 2023-09-25",
       "start_date": "2023-09-19T18:40:00+00:00",
-      "updated_at": "",
+      "updated_at": "2023-09-26T02:49:00+00:00",
       "status": "ongoing",
       "entries": [
+        {
+          "updated_at": "2023-09-26T02:49:00+00:00",
+          "message": "Upgrade ER1/2 in MAN1 to the new standard OS Junos: 22.2R3.15 had to rollback to previous OS has FPC would not come online with the new OS."
+        },
         {
           "updated_at": "2023-09-19T18:40:00+00:00",
           "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Manchester location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-09-25 23:00:00 UTC\r\nEnd Time: 2023-09-26 03:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Manchester instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
