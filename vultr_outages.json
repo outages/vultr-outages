@@ -15,7 +15,7 @@
         {
           "id": "9c339dd5-3f8d-462a-b8ea-26cded8f27d5",
           "subject": "Atlanta Scheduled Maintenance - 2023-09-27",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-09-21T16:58:00+00:00",
           "updated_at": "",
           "entries": [
@@ -217,10 +217,14 @@
         {
           "id": "2cf16757-e75e-47fd-9e3b-2a2d6065e049",
           "subject": "Santiago Scheduled Maintenance - 2023-09-27",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-09-19T21:54:00+00:00",
-          "updated_at": "",
+          "updated_at": "2023-09-27T05:30:00+00:00",
           "entries": [
+            {
+              "updated_at": "2023-09-27T05:30:00+00:00",
+              "message": "MNT Completed - Upgrade ER1/2 in SCL1 to the new standard OS Junos: 22.2R3.15, Only ER2 was able to be upgraded ER1 has a bad/not present SSD1 and was unable to be upgraded. tried deferent commands and reload to activate SSD1 no luck. Tried to open a Juniper case but MX204 is not have a support contract."
+            },
             {
               "updated_at": "2023-09-19T21:54:00+00:00",
               "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Santiago location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-09-27 03:00:00 UTC\r\nEnd Time: 2023-09-27 07:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Santiago instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
