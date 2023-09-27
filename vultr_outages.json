@@ -185,7 +185,7 @@
         {
           "id": "2757e379-f192-4c48-a315-33250bce977b",
           "subject": "New Jersey Object Storage Outage - 2023-09-22",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-09-22T07:26:00+00:00",
           "updated_at": "",
           "entries": [
