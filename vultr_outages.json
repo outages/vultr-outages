@@ -119,7 +119,21 @@
       "location": "Manchester",
       "country": "GB",
       "country_name": "United Kingdom",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "aa590c51-ef7a-4292-a1ed-621309d706ee",
+          "subject": "Manchester Scheduled Maintenance - 2023-10-03",
+          "status": "ongoing",
+          "start_date": "2023-09-28T20:19:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-09-28T20:19:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Manchester location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-10-03 23:00:00 UTC\r\nEnd Time: 2023-10-04 03:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Manchester instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        }
+      ]
     },
     "mel": {
       "location": "Melbourne",
