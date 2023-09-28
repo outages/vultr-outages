@@ -285,7 +285,7 @@
         {
           "id": "a91a939d-e2fe-4e84-8496-d18cf001462d",
           "subject": "Tokyo Scheduled Maintenance - 2023-09-28",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-09-22T19:35:00+00:00",
           "updated_at": "",
           "entries": [
