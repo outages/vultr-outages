@@ -229,7 +229,7 @@
         {
           "id": "ca01fb16-3b89-4f18-9cf9-8d016d8f1174",
           "subject": "Seattle Block Storage Maintenance - VPS Downtime - 2023-09-26",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-09-21T20:57:00+00:00",
           "updated_at": "",
           "entries": [
