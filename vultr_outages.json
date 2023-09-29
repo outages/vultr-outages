@@ -11,21 +11,7 @@
       "location": "Atlanta",
       "country": "US",
       "country_name": "United States",
-      "alerts": [
-        {
-          "id": "9c339dd5-3f8d-462a-b8ea-26cded8f27d5",
-          "subject": "Atlanta Scheduled Maintenance - 2023-09-27",
-          "status": "resolved",
-          "start_date": "2023-09-21T16:58:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2023-09-21T16:58:00+00:00",
-              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Atlanta location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-09-27 04:05:00 UTC\r\nEnd Time: 2023-09-27 08:05:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Atlanta instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "blr": {
       "location": "Bangalore",
@@ -195,25 +181,7 @@
       "location": "Santiago",
       "country": "CL",
       "country_name": "Chile",
-      "alerts": [
-        {
-          "id": "2cf16757-e75e-47fd-9e3b-2a2d6065e049",
-          "subject": "Santiago Scheduled Maintenance - 2023-09-27",
-          "status": "resolved",
-          "start_date": "2023-09-19T21:54:00+00:00",
-          "updated_at": "2023-09-27T05:30:00+00:00",
-          "entries": [
-            {
-              "updated_at": "2023-09-27T05:30:00+00:00",
-              "message": "MNT Completed - Upgrade ER1/2 in SCL1 to the new standard OS Junos: 22.2R3.15, Only ER2 was able to be upgraded ER1 has a bad/not present SSD1 and was unable to be upgraded. tried deferent commands and reload to activate SSD1 no luck. Tried to open a Juniper case but MX204 is not have a support contract."
-            },
-            {
-              "updated_at": "2023-09-19T21:54:00+00:00",
-              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Santiago location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-09-27 03:00:00 UTC\r\nEnd Time: 2023-09-27 07:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Santiago instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "sao": {
       "location": "São Paulo",
