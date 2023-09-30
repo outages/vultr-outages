@@ -57,20 +57,6 @@
       ]
     },
     {
-      "id": "ca01fb16-3b89-4f18-9cf9-8d016d8f1174",
-      "region": "sea",
-      "subject": "Seattle Block Storage Maintenance - VPS Downtime - 2023-09-26",
-      "start_date": "2023-09-21T20:57:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2023-09-21T20:57:00+00:00",
-          "message": "Event Type: Block Storage Infrastructure Maintenance\r\nStart Time: 2023-09-26 18:00:00 America/EST\r\nEnd Time: 2023-09-27 02:00:00 America/EST\r\n\r\nOur Cloud Storage team will be performing one last round of Maintenance starting at 2023-09-26 21:00:00 UTC. During this maintenance window, creating, attaching, resizing, and deletion of HDD Block Storage volumes may be temporarily unavailable.\r\n\r\nDuring this maintenance window we will be performing the final migration of your block storage data to our new cluster. The process will involve powering down your VM, detaching the storage, copying it to the new cluster, and finally re-attach the block storage and restart your VM.\r\n\r\nWe can not specify when exactly your VM will need to be powered off as we are moving one block at a time but your total downtime should be anywhere from <5 minutes to 30 depending on the size of your block storage volume.\r\n\r\nPlease accept our apologies for any inconvenience this may cause. \r\n\r\nIf you have any additional questions please open a support ticket."
-        }
-      ]
-    },
-    {
       "id": "11b5d216-cd53-4b3b-a2e0-604019786b43",
       "region": "mad",
       "subject": "Madrid Network Outage",
