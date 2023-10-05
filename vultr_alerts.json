@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "77cb06d8-046a-4ef8-bba6-d66f9a2af476",
+      "region": "dfw",
+      "subject": "Partial Outage",
+      "start_date": "2023-10-05T19:29:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2023-10-05T19:29:00+00:00",
+          "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
+        }
+      ]
+    },
+    {
       "id": "8caefda1-3fa4-4fbc-aac5-aa75c8d38b89",
       "region": "sea",
       "subject": "Seattle Scheduled Maintenance - 2023-10-12",
