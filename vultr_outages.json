@@ -198,6 +198,32 @@
       "country_name": "United States",
       "alerts": [
         {
+          "id": "8caefda1-3fa4-4fbc-aac5-aa75c8d38b89",
+          "subject": "Seattle Scheduled Maintenance - 2023-10-12",
+          "status": "ongoing",
+          "start_date": "2023-10-05T13:54:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-10-05T13:54:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Seattle location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-10-12 07:00:00 UTC\r\nEnd Time: 2023-10-12 11:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Seattle instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        },
+        {
+          "id": "612da114-4022-4598-9ce9-8293d338b05a",
+          "subject": "Seattle Scheduled Maintenance - 2023-10-11",
+          "status": "ongoing",
+          "start_date": "2023-10-05T13:48:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-10-05T13:48:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Seattle location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-10-11 07:00:00 UTC\r\nEnd Time: 2023-10-11 11:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Seattle instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        },
+        {
           "id": "404d3788-8bc2-49ec-9fba-5c9bb8dca750",
           "subject": "Seattle Scheduled Maintenance - 2023-10-05",
           "status": "ongoing",
