@@ -265,7 +265,7 @@
         {
           "id": "b8f457fc-e63e-4a31-9646-f7f616379f8e",
           "subject": "Tokyo Block Storage Outage - 2023-10-07",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-10-07T14:27:00+00:00",
           "updated_at": "",
           "entries": [
