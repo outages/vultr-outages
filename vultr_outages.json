@@ -141,7 +141,7 @@
         {
           "id": "2406cbda-f8d3-4fd1-ac5f-dc09c5151d49",
           "subject": "Mexico City Scheduled Maintenance - 2023-10-10",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-10-03T23:38:00+00:00",
           "updated_at": "",
           "entries": [
