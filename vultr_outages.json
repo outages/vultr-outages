@@ -1,30 +1,6 @@
 {
   "service_alerts": [],
   "regions": {
-    "global": {
-      "location": "All Locations",
-      "country": "ALL",
-      "country_name": "Global",
-      "alerts": [
-        {
-          "id": "3ca55192-c5fd-4a85-a97d-8f1e7e39c833",
-          "subject": "Global Deployment Delays",
-          "status": "resolved",
-          "start_date": "2023-10-10T05:36:00+00:00",
-          "updated_at": "2023-10-10T08:56:00+00:00",
-          "entries": [
-            {
-              "updated_at": "2023-10-10T08:56:00+00:00",
-              "message": "We have received confirmed reports that deployment services have returned to normal across our infrastructure."
-            },
-            {
-              "updated_at": "2023-10-10T05:36:00+00:00",
-              "message": "We have been receiving reports of extended deployment delays across our infrastructure. Our engineering team is aware of this issue and is working diligently to resolve this as quickly as possible."
-            }
-          ]
-        }
-      ]
-    },
     "ams": {
       "location": "Amsterdam",
       "country": "NL",
