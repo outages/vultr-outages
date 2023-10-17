@@ -15,6 +15,20 @@
       ]
     },
     {
+      "id": "c401ed39-efa5-42f9-ac5e-d22b449077f0",
+      "region": "lhr",
+      "subject": "Lodon Storage Infrastructure Upgrades",
+      "start_date": "2023-10-16T19:25:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2023-10-16T19:25:00+00:00",
+          "message": "Event Type: Storage Infrastructure Maintenance\r\nStart Time: 2023-10-23 19:10:00 UTC\r\nEnd Time: 2023-10-29 24:10:00 UTC\r\n\r\nOur Cloud Storage team will be performing firmware upgrades to London's storage infrastructure within the local time window. During this maintenance, the potentially affected product functions will include new VPS deployments, new VPS snapshot captures, access to custom ISOs, and HDD block storage. Each of these may be temporarily unavailable at various times during the maintenance window, and performance levels are also expected to be lower during these operations.\r\n\r\nThe most impact is expected to be on HDD block storage volumes, which will likely experience temporary I/O timeouts and similar access errors for new and in-flight operations.  Existing data stored in advance will not be affected.\r\n\r\nPre-existing VPS instances will remain online with no disruption to any of their core functionality."
+        }
+      ]
+    },
+    {
       "id": "1769e28e-29d9-48b7-af99-c57c4b161a86",
       "region": "icn",
       "subject": "Seoul Scheduled Maintenance - 2023-10-18",
