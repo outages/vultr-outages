@@ -179,7 +179,34 @@
       "location": "Seattle",
       "country": "US",
       "country_name": "United States",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "bc136987-e808-4b52-baf3-75bfb7ec1386",
+          "subject": "Seattle Scheduled Maintenance - 2023-10-26",
+          "status": "ongoing",
+          "start_date": "2023-10-19T15:44:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-10-19T15:44:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Seattle location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-10-26 07:00:00 UTC\r\nEnd Time: 2023-10-26 11:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Seattle instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        },
+        {
+          "id": "c4cf3460-1f12-4e81-a340-b1894cc9e28f",
+          "subject": "Seattle Scheduled Maintenance - 2023-10-25",
+          "status": "ongoing",
+          "start_date": "2023-10-19T15:42:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-10-19T15:42:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Seattle location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-10-25 07:00:00 UTC\r\nEnd Time: 2023-10-25 11:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Seattle instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        }
+      ]
     },
     "icn": {
       "location": "Seoul",
