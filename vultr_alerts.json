@@ -5,9 +5,13 @@
       "region": "global",
       "subject": "Global Deployment Delays",
       "start_date": "2023-10-23T20:25:00+00:00",
-      "updated_at": "",
+      "updated_at": "2023-10-23T21:25:00+00:00",
       "status": "ongoing",
       "entries": [
+        {
+          "updated_at": "2023-10-23T21:25:00+00:00",
+          "message": "The solution is being deployed across the platform.  Delayed actions such as deploys and destroys are now proceeding and will be caught up shortly."
+        },
         {
           "updated_at": "2023-10-23T20:25:00+00:00",
           "message": "We are currently experiencing delays with deploying, destroying, and managing VM subscriptions. A solution is being worked on at this time. \r\n\r\nWe will provide further information as we work to resolve this issue."
