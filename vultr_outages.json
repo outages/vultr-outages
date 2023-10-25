@@ -219,7 +219,7 @@
         {
           "id": "c4cf3460-1f12-4e81-a340-b1894cc9e28f",
           "subject": "Seattle Scheduled Maintenance - 2023-10-25",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-10-19T15:42:00+00:00",
           "updated_at": "2023-10-25T11:18:00+00:00",
           "entries": [
