@@ -47,9 +47,13 @@
       "region": "sea",
       "subject": "Seattle Scheduled Maintenance - 2023-10-26",
       "start_date": "2023-10-19T15:44:00+00:00",
-      "updated_at": "",
-      "status": "ongoing",
+      "updated_at": "2023-10-26T12:23:00+00:00",
+      "status": "resolved",
       "entries": [
+        {
+          "updated_at": "2023-10-26T12:23:00+00:00",
+          "message": "Move all services and TOR connections from sr1/sr2.sea3(10k2) to new install 10k8\r\nMaintenance completed all services moved to the new sr1 10k8"
+        },
         {
           "updated_at": "2023-10-19T15:44:00+00:00",
           "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Seattle location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-10-26 07:00:00 UTC\r\nEnd Time: 2023-10-26 11:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Seattle instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
