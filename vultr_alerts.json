@@ -61,24 +61,6 @@
       ]
     },
     {
-      "id": "c4cf3460-1f12-4e81-a340-b1894cc9e28f",
-      "region": "sea",
-      "subject": "Seattle Scheduled Maintenance - 2023-10-25",
-      "start_date": "2023-10-19T15:42:00+00:00",
-      "updated_at": "2023-10-25T11:18:00+00:00",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2023-10-25T11:18:00+00:00",
-          "message": "Move all services and TOR connections from sr1/sr2.sea3(10k2) to new install 10k8\r\nMaintenance completed just moved all connections and services from sr2 10k2 to sr2 10k8"
-        },
-        {
-          "updated_at": "2023-10-19T15:42:00+00:00",
-          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Seattle location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-10-25 07:00:00 UTC\r\nEnd Time: 2023-10-25 11:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Seattle instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-        }
-      ]
-    },
-    {
       "id": "c79501db-32db-49b6-a8bb-46c0529f3452",
       "region": "tlv",
       "subject": "Potential service disruption in Tel Aviv",
