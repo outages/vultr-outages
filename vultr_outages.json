@@ -121,7 +121,21 @@
       "location": "New Jersey",
       "country": "US",
       "country_name": "United States",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "fe5db4ec-ad0c-409f-9487-d7ef159ef536",
+          "subject": "New Jersey DNS Network Outage",
+          "status": "ongoing",
+          "start_date": "2023-10-27T21:43:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-10-27T21:43:00+00:00",
+              "message": "We are currently experiencing a partial DNS outage in our New Jersey location. Our network engineers are actively working to restore connectivity as quickly as possible."
+            }
+          ]
+        }
+      ]
     },
     "itm": {
       "location": "Osaka",
