@@ -125,7 +125,7 @@
         {
           "id": "fe5db4ec-ad0c-409f-9487-d7ef159ef536",
           "subject": "New Jersey DNS Network Outage",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-10-27T21:43:00+00:00",
           "updated_at": "",
           "entries": [
