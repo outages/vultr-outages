@@ -1,6 +1,26 @@
 {
   "service_alerts": [],
   "regions": {
+    "global": {
+      "location": "All Locations",
+      "country": "ALL",
+      "country_name": "Global",
+      "alerts": [
+        {
+          "id": "f2e7f487-45ea-4465-90c6-07370fa46b05",
+          "subject": "Load Balancer Deployment/Configuration Failures",
+          "status": "ongoing",
+          "start_date": "2023-10-30T10:21:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-10-30T10:21:00+00:00",
+              "message": "Some customers are currently experiencing issues creating new Load Balancers or configuring existing Load Balancers. Our engineering team is aware of this issue and is working diligently to resolve this as quickly as possible."
+            }
+          ]
+        }
+      ]
+    },
     "ams": {
       "location": "Amsterdam",
       "country": "NL",
