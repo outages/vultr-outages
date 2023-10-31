@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "2bf57322-7d74-4f26-8727-853a93e75148",
+      "region": "fra",
+      "subject": "Partial Outage",
+      "start_date": "2023-10-31T07:59:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2023-10-31T07:59:00+00:00",
+          "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
+        }
+      ]
+    },
+    {
       "id": "f2e7f487-45ea-4465-90c6-07370fa46b05",
       "region": "global",
       "subject": "Load Balancer Deployment/Configuration Failures",
