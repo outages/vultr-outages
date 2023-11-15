@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "dcd23ab2-5902-4a87-af92-4aedc546b24a",
+      "region": "global",
+      "subject": "GPU Deploy Quality",
+      "start_date": "2023-11-15T09:19:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2023-11-15T09:19:00+00:00",
+          "message": "We are currently aware of multiple issues degrading the deploy quality of GPU products at this time. We are working diligently to restore functionality to our deploy images."
+        }
+      ]
+    },
+    {
       "id": "8ae26184-33db-4802-918b-bc55048949c2",
       "region": "sjc",
       "subject": "Silicon Valley Snapshots & ISOs Maintenance - 2023-11-13",
