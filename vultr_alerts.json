@@ -29,24 +29,6 @@
       ]
     },
     {
-      "id": "cde5412c-962c-40b2-85c3-93fe7693c717",
-      "region": "lax",
-      "subject": "Los Angeles Scheduled Maintenance - 2023-11-14",
-      "start_date": "2023-11-07T21:49:00+00:00",
-      "updated_at": "2023-11-14T12:48:00+00:00",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2023-11-14T12:48:00+00:00",
-          "message": "Unhair Pin ER's in LAX - Maintenance completed All transit circuits were moved to new ER 10k2 and 10k8 was unhair-pin and now function as Spine only"
-        },
-        {
-          "updated_at": "2023-11-07T21:49:00+00:00",
-          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Los Angeles location during the following scheduled maintenance window. \r\n\r\nStart Time: 2023-11-14 08:00:00 UTC\r\nEnd Time: 2023-11-14 12:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Los Angeles instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-        }
-      ]
-    },
-    {
       "id": "c79501db-32db-49b6-a8bb-46c0529f3452",
       "region": "tlv",
       "subject": "Potential service disruption in Tel Aviv",
