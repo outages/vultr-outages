@@ -1,26 +1,6 @@
 {
   "service_alerts": [],
   "regions": {
-    "global": {
-      "location": "All Locations",
-      "country": "ALL",
-      "country_name": "Global",
-      "alerts": [
-        {
-          "id": "dcd23ab2-5902-4a87-af92-4aedc546b24a",
-          "subject": "GPU Deploy Quality",
-          "status": "resolved",
-          "start_date": "2023-11-15T09:19:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2023-11-15T09:19:00+00:00",
-              "message": "We are currently aware of multiple issues degrading the deploy quality of GPU products at this time. We are working diligently to restore functionality to our deploy images."
-            }
-          ]
-        }
-      ]
-    },
     "ams": {
       "location": "Amsterdam",
       "country": "NL",
