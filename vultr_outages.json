@@ -1,6 +1,26 @@
 {
   "service_alerts": [],
   "regions": {
+    "global": {
+      "location": "All Locations",
+      "country": "ALL",
+      "country_name": "Global",
+      "alerts": [
+        {
+          "id": "30ecb7b8-2346-4684-b467-e5f7a65a5e3d",
+          "subject": "VKE Deployment Delays",
+          "status": "ongoing",
+          "start_date": "2023-11-27T05:20:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-11-27T05:20:00+00:00",
+              "message": "Some customers are currently experiencing issues when deploying VKE subscriptions. Our engineering team is aware of this issue and is working diligently to resolve this as quickly as possible."
+            }
+          ]
+        }
+      ]
+    },
     "ams": {
       "location": "Amsterdam",
       "country": "NL",

@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "30ecb7b8-2346-4684-b467-e5f7a65a5e3d",
+      "region": "global",
+      "subject": "VKE Deployment Delays",
+      "start_date": "2023-11-27T05:20:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2023-11-27T05:20:00+00:00",
+          "message": "Some customers are currently experiencing issues when deploying VKE subscriptions. Our engineering team is aware of this issue and is working diligently to resolve this as quickly as possible."
+        }
+      ]
+    },
+    {
       "id": "c79501db-32db-49b6-a8bb-46c0529f3452",
       "region": "tlv",
       "subject": "Potential service disruption in Tel Aviv",
