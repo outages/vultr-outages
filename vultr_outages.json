@@ -5,7 +5,21 @@
       "location": "Amsterdam",
       "country": "NL",
       "country_name": "Netherlands",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "0220433a-c215-48f8-a7a4-0335b8d67871",
+          "subject": "Amsterdam, Sydney VPC Outage",
+          "status": "ongoing",
+          "start_date": "2023-11-30T02:33:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-11-30T02:33:00+00:00",
+              "message": "We are currently experiencing intermittent outages with our Vultr Private Cloud platform in our Amsterdam and Sydney datacenters. Our Engineers and System Administrators are actively working to resolve this issue and restore service as quickly as possible."
+            }
+          ]
+        }
+      ]
     },
     "atl": {
       "location": "Atlanta",
@@ -167,7 +181,21 @@
       "location": "Sydney",
       "country": "AU",
       "country_name": "Australia",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "0220433a-c215-48f8-a7a4-0335b8d67871",
+          "subject": "Amsterdam, Sydney VPC Outage",
+          "status": "ongoing",
+          "start_date": "2023-11-30T02:33:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-11-30T02:33:00+00:00",
+              "message": "We are currently experiencing intermittent outages with our Vultr Private Cloud platform in our Amsterdam and Sydney datacenters. Our Engineers and System Administrators are actively working to resolve this issue and restore service as quickly as possible."
+            }
+          ]
+        }
+      ]
     },
     "tlv": {
       "location": "Tel Aviv",
