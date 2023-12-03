@@ -9,7 +9,7 @@
         {
           "id": "0220433a-c215-48f8-a7a4-0335b8d67871",
           "subject": "Amsterdam, Sydney VPC Outage",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-11-30T02:33:00+00:00",
           "updated_at": "",
           "entries": [
@@ -199,7 +199,7 @@
         {
           "id": "0220433a-c215-48f8-a7a4-0335b8d67871",
           "subject": "Amsterdam, Sydney VPC Outage",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-11-30T02:33:00+00:00",
           "updated_at": "",
           "entries": [
