@@ -10,9 +10,14 @@
           "id": "71b2a116-c913-4256-a827-b77b7f12b517",
           "subject": "Deployment Delays",
           "status": "resolved",
-          "start_date": "2023-12-06T17:51:00+00:00",
+          "start_date": "2023-12-06T23:49:00+00:00",
           "updated_at": "",
-          "entries": []
+          "entries": [
+            {
+              "updated_at": "2023-12-06T23:49:00+00:00",
+              "message": "Some customers were experiencing slower than normal instance deployment times. Our engineering team has identified the issue and pushed a fix."
+            }
+          ]
         }
       ]
     },
