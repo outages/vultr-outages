@@ -1,20 +1,6 @@
 {
   "service_alerts": [
     {
-      "id": "71b2a116-c913-4256-a827-b77b7f12b517",
-      "region": "global",
-      "subject": "Deployment Delays",
-      "start_date": "2023-12-06T23:49:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2023-12-06T23:49:00+00:00",
-          "message": "Some customers were experiencing slower than normal instance deployment times. Our engineering team has identified the issue and pushed a fix."
-        }
-      ]
-    },
-    {
       "id": "3f3e897e-39ce-41ed-9e4f-34cdb9ae5665",
       "region": "dfw",
       "subject": "Dallas Scheduled Maintenance - 2023-12-07",
