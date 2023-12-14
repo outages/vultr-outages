@@ -9,7 +9,7 @@
         {
           "id": "5b8aa345-bf5a-4de3-98e6-b0c2f526128a",
           "subject": "my.vultr.com Portal Outage",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2023-12-14T04:46:00+00:00",
           "updated_at": "",
           "entries": [
