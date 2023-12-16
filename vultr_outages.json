@@ -1,26 +1,6 @@
 {
   "service_alerts": [],
   "regions": {
-    "global": {
-      "location": "All Locations",
-      "country": "ALL",
-      "country_name": "Global",
-      "alerts": [
-        {
-          "id": "5b8aa345-bf5a-4de3-98e6-b0c2f526128a",
-          "subject": "my.vultr.com Portal Outage",
-          "status": "resolved",
-          "start_date": "2023-12-14T04:46:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2023-12-14T04:46:00+00:00",
-              "message": "We are currently experiencing a partial outage with the my.vultr.com portal. Our engineers are actively working with to resolve this issue as quickly as possible."
-            }
-          ]
-        }
-      ]
-    },
     "ams": {
       "location": "Amsterdam",
       "country": "NL",
