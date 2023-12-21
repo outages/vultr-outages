@@ -1,6 +1,26 @@
 {
   "service_alerts": [],
   "regions": {
+    "global": {
+      "location": "All Locations",
+      "country": "ALL",
+      "country_name": "Global",
+      "alerts": [
+        {
+          "id": "c15ea44d-720f-462d-8d07-27ae87bab066",
+          "subject": "Global Control Panel Outage",
+          "status": "ongoing",
+          "start_date": "2023-12-21T20:16:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-12-21T20:16:00+00:00",
+              "message": "Our control panel at my.vultr.com is currently inaccessible to some customers. Our engineering team is aware of this issue and is working diligently to resolve this as quickly as possible."
+            }
+          ]
+        }
+      ]
+    },
     "ams": {
       "location": "Amsterdam",
       "country": "NL",
