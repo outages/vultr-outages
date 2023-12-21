@@ -1,20 +1,6 @@
 {
   "service_alerts": [
     {
-      "id": "c15ea44d-720f-462d-8d07-27ae87bab066",
-      "region": "global",
-      "subject": "Global Control Panel Outage",
-      "start_date": "2023-12-21T20:16:00+00:00",
-      "updated_at": "",
-      "status": "ongoing",
-      "entries": [
-        {
-          "updated_at": "2023-12-21T20:16:00+00:00",
-          "message": "Our control panel at my.vultr.com is currently inaccessible to some customers. Our engineering team is aware of this issue and is working diligently to resolve this as quickly as possible."
-        }
-      ]
-    },
-    {
       "id": "8b7e536d-3780-4820-a32b-b1f509436196",
       "region": "ewr",
       "subject": "New Jersey Emergency Maintenance - 2023-12-21",
