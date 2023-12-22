@@ -109,6 +109,19 @@
       "country_name": "United States",
       "alerts": [
         {
+          "id": "ba9e895b-5f1b-4901-8c5d-897107e805f3",
+          "subject": "New Jersey Degraded Network Performance",
+          "status": "ongoing",
+          "start_date": "2023-12-22T00:12:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2023-12-22T00:12:00+00:00",
+              "message": "We are currently experiencing degraded network performance in our New Jersey location. Our network engineers are actively working with our upstream providers to resolve the issue as quickly as possible."
+            }
+          ]
+        },
+        {
           "id": "8b7e536d-3780-4820-a32b-b1f509436196",
           "subject": "New Jersey Emergency Maintenance - 2023-12-21",
           "status": "resolved",
