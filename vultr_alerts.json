@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "134c5290-3ba7-484e-955c-882c12656941",
+      "region": "sao",
+      "subject": "São Paulo Outage",
+      "start_date": "2024-01-09T16:07:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2024-01-09T16:07:00+00:00",
+          "message": "We are currently experiencing a partial outage in our São Paulo location. Our System Administrators are actively working with our onsite technicians to restore service as quickly as possible."
+        }
+      ]
+    },
+    {
       "id": "14312610-e909-4686-91db-c6a30ea52df9",
       "region": "sjc",
       "subject": "Silicon Valley Object Storage Upgrade - 2024-01-09",

@@ -163,7 +163,21 @@
       "location": "São Paulo",
       "country": "BR",
       "country_name": "Brazil",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "134c5290-3ba7-484e-955c-882c12656941",
+          "subject": "São Paulo Outage",
+          "status": "ongoing",
+          "start_date": "2024-01-09T16:07:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2024-01-09T16:07:00+00:00",
+              "message": "We are currently experiencing a partial outage in our São Paulo location. Our System Administrators are actively working with our onsite technicians to restore service as quickly as possible."
+            }
+          ]
+        }
+      ]
     },
     "sea": {
       "location": "Seattle",
