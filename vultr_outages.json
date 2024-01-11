@@ -135,29 +135,7 @@
       "location": "New Jersey",
       "country": "US",
       "country_name": "United States",
-      "alerts": [
-        {
-          "id": "d99281e5-eddf-4aff-9ab5-b50a12500ce1",
-          "subject": "New Jersey Object Storage Outage - 2023-12-25",
-          "status": "resolved",
-          "start_date": "2023-12-25T10:14:00+00:00",
-          "updated_at": "2024-01-09T17:37:00+00:00",
-          "entries": [
-            {
-              "updated_at": "2024-01-09T17:37:00+00:00",
-              "message": "The New Jersey object storage cluster has been stabilized.   Data integrity was preserved during this downtime.  Connectivity to clients has been restored at this time.\r\n\r\nWe will continue to work on improving this cluster's performance and stability.   Please expect further scheduled maintenance in the near future on this product without corresponding downtime.\r\n\r\nThank you for your patience and understanding."
-            },
-            {
-              "updated_at": "2024-01-02T12:41:00+00:00",
-              "message": "The New Jersey object storage cluster is currently fully down.   A comprehensive investigation of this incident is now underway.   We will work on this dilligently and report further updates as they become available.\r\n\r\nNote that the other object storage locations are unaffected by this event.\r\n\r\nThank you for your patience and understanding."
-            },
-            {
-              "updated_at": "2023-12-25T10:14:00+00:00",
-              "message": "Event Type: Service Degraded Performance and Availability\r\n\r\nOur Cloud Storage team is investigating a partial outage situation with our Object Storage infrastructure. The following services may be impacted by this event:\r\n\r\n- Object Storage Subscription management\r\n- Adding or removing buckets\r\n- S3 client issues\r\n\r\nWe are working quickly to restore service to its optimal state."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "itm": {
       "location": "Osaka",
@@ -181,21 +159,7 @@
       "location": "São Paulo",
       "country": "BR",
       "country_name": "Brazil",
-      "alerts": [
-        {
-          "id": "134c5290-3ba7-484e-955c-882c12656941",
-          "subject": "São Paulo Outage",
-          "status": "resolved",
-          "start_date": "2024-01-09T16:07:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2024-01-09T16:07:00+00:00",
-              "message": "We are currently experiencing a partial outage in our São Paulo location. Our System Administrators are actively working with our onsite technicians to restore service as quickly as possible."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "sea": {
       "location": "Seattle",
