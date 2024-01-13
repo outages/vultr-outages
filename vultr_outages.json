@@ -177,34 +177,7 @@
       "location": "Silicon Valley",
       "country": "US",
       "country_name": "United States",
-      "alerts": [
-        {
-          "id": "14312610-e909-4686-91db-c6a30ea52df9",
-          "subject": "Silicon Valley Object Storage Upgrade - 2024-01-09",
-          "status": "resolved",
-          "start_date": "2024-01-08T22:39:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2024-01-08T22:39:00+00:00",
-              "message": "Event Type: Service Degraded Performance and Availability\r\n\r\nOur Cloud Storage team has discovered a bug that requires immediate attention. \r\n\r\nThere may be a potential impact to some S3 services from the sjc1.vultrobjects.com endpoint. Which include:\r\n\r\nNew object storage subscriptions\r\nTemporary service interruptions\r\nTemporary object access disruptions\r\n\r\nWe are working quickly to restore service to its optimal state."
-            }
-          ]
-        },
-        {
-          "id": "14312610-e909-4686-91db-c6a30ea52df9",
-          "subject": "Silicon Valley Object Storage Upgrade - 2024-01-09",
-          "status": "resolved",
-          "start_date": "2024-01-08T22:39:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2024-01-08T22:39:00+00:00",
-              "message": "Event Type: Service Degraded Performance and Availability\r\n\r\nOur Cloud Storage team has discovered a bug that requires immediate attention. \r\n\r\nThere may be a potential impact to some S3 services from the sjc1.vultrobjects.com endpoint. Which include:\r\n\r\nNew object storage subscriptions\r\nTemporary service interruptions\r\nTemporary object access disruptions\r\n\r\nWe are working quickly to restore service to its optimal state."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "sgp": {
       "location": "Singapore",
