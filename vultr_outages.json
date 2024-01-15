@@ -177,7 +177,21 @@
       "location": "Silicon Valley",
       "country": "US",
       "country_name": "United States",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "1f1d62d7-042d-47d5-9ea7-1a4b01ed7d0a",
+          "subject": "Silicon Valley Network Outage",
+          "status": "ongoing",
+          "start_date": "2024-01-15T19:23:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2024-01-15T19:23:00+00:00",
+              "message": "We are currently experiencing a partial outage in our Silicon Valley location. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible."
+            }
+          ]
+        }
+      ]
     },
     "sgp": {
       "location": "Singapore",
