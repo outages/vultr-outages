@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "2e1938a3-7f16-430d-a7b3-223f61fa6f1e",
+      "region": "sjc",
+      "subject": "Silicon Valley Object Storage Outage - 2024-01-20",
+      "start_date": "2024-01-19T03:41:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2024-01-19T03:41:00+00:00",
+          "message": "Event Type: Service Degraded Performance and Availability\r\n\r\nOur Cloud Storage team is investigating a partial outage situation with our Object Storage infrastructure. The following services may be impacted by this event:\r\n\r\n- Object Storage Subscription management\r\n- Adding or removing buckets\r\n- S3 client issues\r\n\r\nWe are working quickly to restore service to its optimal state."
+        }
+      ]
+    },
+    {
       "id": "8532b3cc-47c4-4958-a314-cab1155647ab",
       "region": "del",
       "subject": "Delhi NCR Object Storage Upgrades - 2024-01-24",
