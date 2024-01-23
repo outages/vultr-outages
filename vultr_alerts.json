@@ -4,13 +4,13 @@
       "id": "22656b52-21d1-489d-ba40-ef4ff76bcef7",
       "region": "global",
       "subject": "New Deployment Outage - CentOS 8 & 9",
-      "start_date": "2024-01-23T06:39:00+00:00",
+      "start_date": "2024-01-23T18:29:00+00:00",
       "updated_at": "",
       "status": "ongoing",
       "entries": [
         {
-          "updated_at": "2024-01-23T06:39:00+00:00",
-          "message": "Our team has identified an issue with new deployments of CentOS 8 and CentOS 9 operating systems. This will not affect current deployments of CentOS 8 and CentOS 9. Our Engineering team is aware of this issue and we plan to have these operating systems available for new deployments as soon as possible."
+          "updated_at": "2024-01-23T18:29:00+00:00",
+          "message": "New images have been published that resolve this issue"
         }
       ]
     },
