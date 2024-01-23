@@ -9,7 +9,7 @@
         {
           "id": "22656b52-21d1-489d-ba40-ef4ff76bcef7",
           "subject": "New Deployment Outage - CentOS 8 & 9",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2024-01-23T18:29:00+00:00",
           "updated_at": "",
           "entries": [
