@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "7f18bbf9-583f-4092-9f79-705b9be863d7",
+      "region": "ams",
+      "subject": "Amsterdam Object Storage Upgrades - 2024-01-31",
+      "start_date": "2024-01-25T16:16:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2024-01-25T16:16:00+00:00",
+          "message": "Event Type: Object Storage Infrastructure Maintenance\r\nStart Time: 2024-01-31 15:00:00 Europe/Amsterdam\r\nEnd Time: 2024-02-01 15:00:00 Europe/Amsterdam\r\n\r\nOur Cloud Storage team will be performing upgrades to our Amsterdam Object Storage infrastructure starting at 2024-01-31 15:00:00 UTC. During this maintenance window, creating, attaching, resizing, and deletion of Object Storage subscriptions may be temporarily unavailable.\r\n\r\nPreviously deployed Object Storage subscriptions in Amsterdam will remain online without interruption and will not be impacted by this event."
+        }
+      ]
+    },
+    {
       "id": "22656b52-21d1-489d-ba40-ef4ff76bcef7",
       "region": "global",
       "subject": "New Deployment Outage - CentOS 8 & 9",
