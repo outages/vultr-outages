@@ -29,20 +29,6 @@
       ]
     },
     {
-      "id": "22656b52-21d1-489d-ba40-ef4ff76bcef7",
-      "region": "global",
-      "subject": "New Deployment Outage - CentOS 8 & 9",
-      "start_date": "2024-01-23T18:29:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2024-01-23T18:29:00+00:00",
-          "message": "New images have been published that resolve this issue"
-        }
-      ]
-    },
-    {
       "id": "2e1938a3-7f16-430d-a7b3-223f61fa6f1e",
       "region": "sjc",
       "subject": "Silicon Valley Object Storage Outage - 2024-01-20",
