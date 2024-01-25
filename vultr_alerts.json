@@ -20,7 +20,7 @@
       "subject": "Silicon Valley Object Storage Outage - 2024-01-20",
       "start_date": "2024-01-19T03:41:00+00:00",
       "updated_at": "2024-01-25T15:05:00+00:00",
-      "status": "ongoing",
+      "status": "resolved",
       "entries": [
         {
           "updated_at": "2024-01-25T15:05:00+00:00",
@@ -55,9 +55,13 @@
       "region": "waw",
       "subject": "Warsaw Image Storage Outage - 2024-01-01",
       "start_date": "2024-01-01T14:05:00+00:00",
-      "updated_at": "",
-      "status": "ongoing",
+      "updated_at": "2024-01-25T15:19:00+00:00",
+      "status": "resolved",
       "entries": [
+        {
+          "updated_at": "2024-01-25T15:19:00+00:00",
+          "message": "The Vultr Warsaw storage cluster is back to full health, full capacity, and normal operations including its usual performance profile."
+        },
         {
           "updated_at": "2024-01-01T14:05:00+00:00",
           "message": "Event Type: Service Degraded Performance and Availability\r\n\r\nOur Cloud Storage team is investigating a partial outage scenario with our Image and HDD Block Storage infrastructure. The following services may be impacted by this event:\r\n\r\n- VPS and Bare Metal deploys\r\n- Snapshots\r\n- Auto-backups\r\n- Custom ISOs\r\n- HDD Block Storage\r\n\r\nWe are working quickly to restore service to its optimal state."
