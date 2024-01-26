@@ -65,20 +65,6 @@
       ]
     },
     {
-      "id": "8532b3cc-47c4-4958-a314-cab1155647ab",
-      "region": "del",
-      "subject": "Delhi NCR Object Storage Upgrades - 2024-01-24",
-      "start_date": "2024-01-18T17:02:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2024-01-18T17:02:00+00:00",
-          "message": "Event Type: Object Storage Infrastructure Maintenance\r\nStart Time: 2024-01-24 20:30:00 Asia/Kolkata\r\nEnd Time: 2024-01-26 20:30:00 Asia/Kolkata\r\n\r\nOur Cloud Storage team will be performing upgrades to our Delhi NCR Object Storage infrastructure starting at 2024-01-24 15:00:00 UTC. During this maintenance window, creating, attaching, resizing, and deletion of Object Storage subscriptions may be temporarily unavailable.\r\n\r\nPreviously deployed Object Storage subscriptions in Delhi NCR will remain online without interruption and will not be impacted by this event."
-        }
-      ]
-    },
-    {
       "id": "a0e8d95b-b962-4ee4-9710-ed171347c07d",
       "region": "waw",
       "subject": "Warsaw Image Storage Outage - 2024-01-01",
