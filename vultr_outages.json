@@ -7,6 +7,19 @@
       "country_name": "Netherlands",
       "alerts": [
         {
+          "id": "27058110-52a4-48b2-afb4-db1034d114be",
+          "subject": "Amsterdam Image Storage Outage - 2024-01-29",
+          "status": "ongoing",
+          "start_date": "2024-01-29T10:54:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2024-01-29T10:54:00+00:00",
+              "message": "Event Type: Service Degraded Performance and Availability\r\n\r\nOur Cloud Storage team is investigating a partial outage scenario with our Image and HDD Block Storage infrastructure. The following services may be impacted by this event:\r\n\r\n- VPS and Bare Metal deploys\r\n- Snapshots\r\n- Auto-backups\r\n- Custom ISOs\r\n- HDD Block Storage\r\n\r\nWe are working quickly to restore service to its optimal state."
+            }
+          ]
+        },
+        {
           "id": "7f18bbf9-583f-4092-9f79-705b9be863d7",
           "subject": "Amsterdam Object Storage Upgrades - 2024-01-31",
           "status": "ongoing",
