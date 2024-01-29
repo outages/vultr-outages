@@ -9,7 +9,7 @@
         {
           "id": "27058110-52a4-48b2-afb4-db1034d114be",
           "subject": "Amsterdam Image Storage Outage - 2024-01-29",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2024-01-29T10:54:00+00:00",
           "updated_at": "",
           "entries": [
@@ -207,7 +207,7 @@
         {
           "id": "766ebf78-af84-4b88-bf97-7ac6d3b2749e",
           "subject": "Silicon Valley, Tokyo Deployment Delays",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2024-01-29T10:18:00+00:00",
           "updated_at": "",
           "entries": [
@@ -265,7 +265,7 @@
         {
           "id": "766ebf78-af84-4b88-bf97-7ac6d3b2749e",
           "subject": "Silicon Valley, Tokyo Deployment Delays",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2024-01-29T10:18:00+00:00",
           "updated_at": "",
           "entries": [
