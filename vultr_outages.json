@@ -7,6 +7,19 @@
       "country_name": "Global",
       "alerts": [
         {
+          "id": "8cadd937-bfd0-4006-9fcf-29de6adadb84",
+          "subject": "Platform Maintenance - 2024-02-01",
+          "status": "ongoing",
+          "start_date": "2024-02-01T02:14:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2024-02-01T02:14:00+00:00",
+              "message": "Event Type: Platform Maintenance\r\nStart Time: 2024-02-01 02:00:00 UTC\r\nEnd Time: 2024-02-01 04:00:00 UTC\r\n\r\nWe are performing platform maintenance that may impact your ability to view vCPU, disk, and network graphs during the maintenance window."
+            }
+          ]
+        },
+        {
           "id": "3caf1e95-062a-4ac7-bf68-d513c4ba04fb",
           "subject": "VKE Upgrade Delays",
           "status": "resolved",
