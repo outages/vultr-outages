@@ -18,19 +18,6 @@
               "message": "Event Type: Platform Maintenance\r\nStart Time: 2024-02-01 02:00:00 UTC\r\nEnd Time: 2024-02-01 04:00:00 UTC\r\n\r\nWe are performing platform maintenance that may impact your ability to view vCPU, disk, and network graphs during the maintenance window."
             }
           ]
-        },
-        {
-          "id": "3caf1e95-062a-4ac7-bf68-d513c4ba04fb",
-          "subject": "VKE Upgrade Delays",
-          "status": "resolved",
-          "start_date": "2024-01-31T00:39:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2024-01-31T00:39:00+00:00",
-              "message": "We are currently investigating an issue with the upgrade feature of our Vultr Kubernetes Engine causing clusters to be stuck upgrading. Our engineers have been made aware of the issue and are currently working to resolve it. \r\n\r\nAt this time, we are recommending that all VKE upgrades are canceled and/or put on hold. We will be updating as more information is provided.\r\n\r\nThank you for your patience and we apologize for any inconvenience this may cause."
-            }
-          ]
         }
       ]
     },
