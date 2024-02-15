@@ -107,7 +107,21 @@
       "location": "London",
       "country": "GB",
       "country_name": "United Kingdom",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "cb1fc193-6a38-47a1-8443-91eb72a86bc0",
+          "subject": "London NVMe Block Storage Upgrades - 2024-02-22",
+          "status": "ongoing",
+          "start_date": "2024-02-15T21:20:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2024-02-15T21:20:00+00:00",
+              "message": "Event Type: NVMe Block Storage Infrastructure Maintenance\r\nStart Time: 2024-02-22 14:00:00 Europe/London\r\nEnd Time: 2024-02-23 02:00:00 Europe/London\r\n\r\nOur Cloud Storage team will be performing upgrades to our London NVMe Block Storage infrastructure starting at 2024-02-22 14:00:00 Europe/London (14:00:00 UTC). During this maintenance window, creating, attaching, resizing, and deletion of NVMe Block Storage volumes may be temporarily unavailable.\r\n\r\nPreviously deployed NVMe Block Storage volumes in London will remain online without interruption and will not be impacted by this event."
+            }
+          ]
+        }
+      ]
     },
     "lax": {
       "location": "Los Angeles",
@@ -203,7 +217,21 @@
       "location": "Singapore",
       "country": "SG",
       "country_name": "Singapore",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "80eb0329-1c40-43cc-bf8b-d21c0e9c611b",
+          "subject": "Singapore NVMe Block Storage Upgrades - 2024-02-21",
+          "status": "ongoing",
+          "start_date": "2024-02-15T21:12:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2024-02-15T21:12:00+00:00",
+              "message": "Event Type: NVMe Block Storage Infrastructure Maintenance\r\nStart Time: 2024-02-21 22:00:00 Asia/Hong_Kong\r\nEnd Time: 2024-02-22 10:00:00 Asia/Hong_Kong\r\n\r\nOur Cloud Storage team will be performing upgrades to our Singapore NVMe Block Storage infrastructure starting at 2024-02-21 22:00:00 Asia/Hong_Kong (14:00:00 UTC). During this maintenance window, creating, attaching, resizing, and deletion of NVMe Block Storage volumes may be temporarily unavailable.\r\n\r\nPreviously deployed NVMe Block Storage volumes in Singapore will remain online without interruption and will not be impacted by this event."
+            }
+          ]
+        }
+      ]
     },
     "sto": {
       "location": "Stockholm",
