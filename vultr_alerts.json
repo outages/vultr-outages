@@ -85,20 +85,6 @@
       ]
     },
     {
-      "id": "5ef52fdd-34be-49f7-b941-b45736853807",
-      "region": "yto",
-      "subject": "Toronto HDD Block Storage Upgrades - 2024-02-13",
-      "start_date": "2024-02-07T19:24:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2024-02-07T19:24:00+00:00",
-          "message": "Event Type: HDD Block Storage Infrastructure Maintenance\r\nStart Time: 2024-02-13 10:00:00 America/Toronto\r\nEnd Time: 2024-02-13 16:00:00 America/Toronto\r\n\r\nOur Cloud Storage team will be performing upgrades to our Toronto HDD Block Storage infrastructure starting at 2024-02-12 10:00:00 EST (15:00:00 UTC). During this maintenance window, creating, attaching, resizing, and deletion of HDD Block Storage volumes may be temporarily unavailable.\r\n\r\nPreviously deployed HDD Block Storage volumes in Toronto will remain online without interruption and will not be impacted by this event."
-        }
-      ]
-    },
-    {
       "id": "c79501db-32db-49b6-a8bb-46c0529f3452",
       "region": "tlv",
       "subject": "Potential service disruption in Tel Aviv",
