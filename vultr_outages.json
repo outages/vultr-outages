@@ -25,7 +25,21 @@
       "location": "Amsterdam",
       "country": "NL",
       "country_name": "Netherlands",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "c220a2ba-0ae1-4e61-8451-b65e85579bd1",
+          "subject": "Amsterdam NVMe Block Storage Upgrades - 2024-02-23",
+          "status": "ongoing",
+          "start_date": "2024-02-16T17:14:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2024-02-16T17:14:00+00:00",
+              "message": "Event Type: NVMe Block Storage Infrastructure Maintenance\r\nStart Time: 2024-02-23 15:00:00 Europe/Amsterdam\r\nEnd Time: 2024-02-24 03:00:00 Europe/Amsterdam\r\n\r\nOur Cloud Storage team will be performing upgrades to our Amsterdam NVMe Block Storage infrastructure starting at 2024-02-23 2024-02-23 15:00:00 (14:00:00 UTC). During this maintenance window, creating, attaching, resizing, and deletion of NVMe Block Storage volumes may be temporarily unavailable.\r\n\r\nPreviously deployed NVMe Block Storage volumes in Amsterdam will remain online without interruption and will not be impacted by this event."
+            }
+          ]
+        }
+      ]
     },
     "atl": {
       "location": "Atlanta",
@@ -243,7 +257,21 @@
       "location": "Sydney",
       "country": "AU",
       "country_name": "Australia",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "072a3a23-09c3-4519-9c4e-35a9cdb7f970",
+          "subject": "Sydney NVMe Block Storage Upgrades - 2024-02-26",
+          "status": "ongoing",
+          "start_date": "2024-02-16T17:20:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2024-02-16T17:20:00+00:00",
+              "message": "Event Type: NVMe Block Storage Infrastructure Maintenance\r\nStart Time: 2024-02-27 01:00:00 Australia/Sydney\r\nEnd Time: 2024-02-27 13:00:00 Australia/Sydney\r\n\r\nOur Cloud Storage team will be performing upgrades to our Sydney NVMe Block Storage infrastructure starting at 2024-02-26 14:00:00 UTC. During this maintenance window, creating, attaching, resizing, and deletion of NVMe Block Storage volumes may be temporarily unavailable.\r\n\r\nPreviously deployed NVMe Block Storage volumes in Sydney will remain online without interruption and will not be impacted by this event."
+            }
+          ]
+        }
+      ]
     },
     "tlv": {
       "location": "Tel Aviv",
