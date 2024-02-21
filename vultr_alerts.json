@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "29524ece-d570-4e78-82ce-68130c3c013f",
+      "region": "global",
+      "subject": "Global API Outage",
+      "start_date": "2024-02-21T15:41:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2024-02-21T15:41:00+00:00",
+          "message": "We are currently experiencing an outage in our API system. Our System Engineers are actively working to restore service as quickly as possible.\r\n\r\nNo API actions are possible at this time. \r\n\r\nManagement of services via my.vultr.com remains functional."
+        }
+      ]
+    },
+    {
       "id": "1c357f87-d09d-40ee-b606-dd01d3f9fb0d",
       "region": "atl",
       "subject": "Atlanta Scheduled Maintenance - 2024-02-28",
