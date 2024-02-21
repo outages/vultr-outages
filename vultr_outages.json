@@ -9,7 +9,7 @@
         {
           "id": "29524ece-d570-4e78-82ce-68130c3c013f",
           "subject": "Global API Outage",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2024-02-21T15:41:00+00:00",
           "updated_at": "",
           "entries": [
