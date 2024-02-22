@@ -47,6 +47,19 @@
       "country_name": "United States",
       "alerts": [
         {
+          "id": "6b74d09f-0d01-4af8-84af-2bb3fba43ffa",
+          "subject": "Atlanta HDD Block Storage Upgrades - 2024-02-28",
+          "status": "ongoing",
+          "start_date": "2024-02-22T23:06:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2024-02-22T23:06:00+00:00",
+              "message": "Event Type: HDD Block Storage Infrastructure Maintenance\r\nStart Time: 2024-02-28 09:00:00 America/New_York\r\nEnd Time: 2024-02-28 21:00:00 America/New_York\r\n\r\nOur Cloud Storage team will be performing upgrades to our Atlanta HDD Block Storage infrastructure starting at 2024-02-27 09:00:00 America/New_York (14:00:00 UTC). During this maintenance window, creating, attaching, resizing, and deletion of HDD Block Storage volumes may be temporarily unavailable.\r\n\r\nPreviously deployed HDD Block Storage volumes in Atlanta will remain online without interruption and will not be impacted by this event."
+            }
+          ]
+        },
+        {
           "id": "1c357f87-d09d-40ee-b606-dd01d3f9fb0d",
           "subject": "Atlanta Scheduled Maintenance - 2024-02-28",
           "status": "ongoing",
