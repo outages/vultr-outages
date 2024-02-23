@@ -85,24 +85,6 @@
       ]
     },
     {
-      "id": "80eb0329-1c40-43cc-bf8b-d21c0e9c611b",
-      "region": "sgp",
-      "subject": "Singapore NVMe Block Storage Upgrades - 2024-02-21",
-      "start_date": "2024-02-15T21:12:00+00:00",
-      "updated_at": "2024-02-21T20:38:00+00:00",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2024-02-21T20:38:00+00:00",
-          "message": "Upgrade completed"
-        },
-        {
-          "updated_at": "2024-02-15T21:12:00+00:00",
-          "message": "Event Type: NVMe Block Storage Infrastructure Maintenance\r\nStart Time: 2024-02-21 22:00:00 Asia/Hong_Kong\r\nEnd Time: 2024-02-22 10:00:00 Asia/Hong_Kong\r\n\r\nOur Cloud Storage team will be performing upgrades to our Singapore NVMe Block Storage infrastructure starting at 2024-02-21 22:00:00 Asia/Hong_Kong (14:00:00 UTC). During this maintenance window, creating, attaching, resizing, and deletion of NVMe Block Storage volumes may be temporarily unavailable.\r\n\r\nPreviously deployed NVMe Block Storage volumes in Singapore will remain online without interruption and will not be impacted by this event."
-        }
-      ]
-    },
-    {
       "id": "007a7e8d-562b-4b53-9605-26d4055e4734",
       "region": "atl",
       "subject": "Atlanta Scheduled Maintenance - 2024-03-05",
