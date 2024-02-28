@@ -1,6 +1,48 @@
 {
   "service_alerts": [
     {
+      "id": "0c17fe85-74d6-40cd-95d8-e1d0e32020ef",
+      "region": "jnb",
+      "subject": "Johannesburg Scheduled Maintenance - 2024-03-12",
+      "start_date": "2024-02-28T22:07:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2024-02-28T22:07:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Johannesburg location during the following scheduled maintenance window. \r\n\r\nStart Time: 2024-03-12 20:00:00 UTC\r\nEnd Time: 2024-03-13 24:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Johannesburg instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
+      "id": "a3e30aed-971d-442c-b363-ba72c08d8a95",
+      "region": "del",
+      "subject": "Delhi NCR Scheduled Maintenance - 2024-03-11",
+      "start_date": "2024-02-28T21:55:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2024-02-28T21:55:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Delhi NCR location during the following scheduled maintenance window. \r\n\r\nStart Time: 2024-03-11 20:00:00 UTC\r\nEnd Time: 2024-03-12 24:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Delhi NCR instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
+      "id": "026d50c2-d834-4686-8a68-f33652b4fde7",
+      "region": "blr",
+      "subject": "Bangalore Scheduled Maintenance - 2024-03-07",
+      "start_date": "2024-02-28T19:52:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2024-02-28T19:52:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Bangalore location during the following scheduled maintenance window. \r\n\r\nStart Time: 2024-03-07 21:00:00 UTC\r\nEnd Time: 2024-03-08 01:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Bangalore instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
       "id": "979d2cf2-1b8e-4aea-a2fe-0919a2162ecd",
       "region": "lhr",
       "subject": "London Scheduled Maintenance - 2024-03-05",
