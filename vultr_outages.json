@@ -65,6 +65,19 @@
       "country_name": "United States",
       "alerts": [
         {
+          "id": "689f0ed1-1efd-4a59-a84f-a1da86a2f85b",
+          "subject": "Chicago Scheduled Maintenance - 2024-03-06",
+          "status": "ongoing",
+          "start_date": "2024-02-28T19:04:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2024-02-28T19:04:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Chicago location during the following scheduled maintenance window. \r\n\r\nStart Time: 2024-03-06 05:15:00 UTC\r\nEnd Time: 2024-03-06 09:15:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Chicago instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+            }
+          ]
+        },
+        {
           "id": "d229ca41-7b44-4659-966d-be6405599a5a",
           "subject": "Chicago Partial Network Outage",
           "status": "resolved",
@@ -250,7 +263,21 @@
       "location": "Singapore",
       "country": "SG",
       "country_name": "Singapore",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "e137703d-c636-4bb3-afe7-30e849d9db82",
+          "subject": "Singapore Scheduled Maintenance - 2024-03-05",
+          "status": "ongoing",
+          "start_date": "2024-02-28T17:34:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2024-02-28T17:34:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Singapore location during the following scheduled maintenance window. \r\n\r\nStart Time: 2024-03-05 18:00:00 UTC\r\nEnd Time: 2024-03-05 22:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Singapore instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        }
+      ]
     },
     "sto": {
       "location": "Stockholm",
@@ -302,7 +329,21 @@
       "location": "Tokyo",
       "country": "JP",
       "country_name": "Japan",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "d57069a9-6c9a-49cf-8db6-74f756800141",
+          "subject": "Tokyo Scheduled Maintenance - 2024-03-07",
+          "status": "ongoing",
+          "start_date": "2024-02-28T17:41:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2024-02-28T17:41:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Tokyo location during the following scheduled maintenance window. \r\n\r\nStart Time: 2024-03-07 16:00:00 UTC\r\nEnd Time: 2024-03-07 20:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Tokyo instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        }
+      ]
     },
     "yto": {
       "location": "Toronto",
