@@ -197,20 +197,6 @@
       ]
     },
     {
-      "id": "d229ca41-7b44-4659-966d-be6405599a5a",
-      "region": "ord",
-      "subject": "Chicago Partial Network Outage",
-      "start_date": "2024-02-27T21:32:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2024-02-27T21:32:00+00:00",
-          "message": "We are currently experiencing a partial outage in our Chicago location. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible."
-        }
-      ]
-    },
-    {
       "id": "8c1c4e61-8de7-438e-bd30-11660c23cc28",
       "region": "dfw",
       "subject": "Dallas HDD Block Storage Upgrades - 2024-03-04",
