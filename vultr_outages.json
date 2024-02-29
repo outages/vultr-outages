@@ -1,6 +1,26 @@
 {
   "service_alerts": [],
   "regions": {
+    "global": {
+      "location": "All Locations",
+      "country": "ALL",
+      "country_name": "Global",
+      "alerts": [
+        {
+          "id": "c0378212-6cc9-4749-8e85-18ab5024f0a8",
+          "subject": "Miami HDD Block Storage Upgrades - 2024-03-06",
+          "status": "ongoing",
+          "start_date": "2024-02-29T22:01:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2024-02-29T22:01:00+00:00",
+              "message": "Event Type: HDD Block Storage Infrastructure Maintenance\r\nStart Time: 2024-03-06 12:00:00 America/New_York\r\nEnd Time: 2024-03-06 21:00:00 America/New_York\r\n\r\nOur Cloud Storage team will be performing upgrades to our Miami HDD Block Storage infrastructure starting at 2024-03-06 12:00:00 America/New York (17:00:00 UTC). During this maintenance window, creating, attaching, resizing, and deletion of HDD Block Storage volumes may be temporarily unavailable.\r\n\r\nPreviously deployed HDD Block Storage volumes in Miami will remain online without interruption and will not be impacted by this event."
+            }
+          ]
+        }
+      ]
+    },
     "ams": {
       "location": "Amsterdam",
       "country": "NL",
@@ -280,7 +300,21 @@
       "location": "Mexico City",
       "country": "MX",
       "country_name": "Mexico",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "d6ac41b0-6774-4797-84ac-0e88f87c93ce",
+          "subject": "Mexico City HDD Block Storage Upgrades - 2024-03-06",
+          "status": "ongoing",
+          "start_date": "2024-02-29T21:57:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2024-02-29T21:57:00+00:00",
+              "message": "Event Type: HDD Block Storage Infrastructure Maintenance\r\nStart Time: 2024-03-06 08:00:00 America/Mexico_City\r\nEnd Time: 2024-03-06 14:00:00 America/Mexico_City\r\n\r\nOur Cloud Storage team will be performing upgrades to our Mexico City HDD Block Storage infrastructure starting at 2024-03-06 08:00:00 America/Mexico City (14:00:00 UTC). During this maintenance window, creating, attaching, resizing, and deletion of HDD Block Storage volumes may be temporarily unavailable.\r\n\r\nPreviously deployed HDD Block Storage volumes in Mexico City will remain online without interruption and will not be impacted by this event."
+            }
+          ]
+        }
+      ]
     },
     "mia": {
       "location": "Miami",
