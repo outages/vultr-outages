@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "edcc7545-39b0-4977-b73e-9cfa2c6501cc",
+      "region": "lax",
+      "subject": "Los Angeles Infrastructure Upgrades - 2024-03-05",
+      "start_date": "2024-02-29T18:22:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2024-02-29T18:22:00+00:00",
+          "message": "Event Type: Storage Infrastructure Maintenance\r\nStart Time: 2024-03-05 11:00:00 America/Los_Angeles\r\nEnd Time: 2024-03-05 23:00:00 America/Los_Angeles\r\n\r\nOur Cloud Storage team will be performing upgrades to our Los Angeles deployment infrastructure starting at 2024-03-05 11:00:00 America/Los_Angeles (18:15:00 UTC). During this maintenance window, new deployments, snapshot functionality, and custom ISOs may be temporarily unavailable.\r\n\r\nPreviously deployed servers in Los Angeles will remain online without interruption and will not be impacted by this event."
+        }
+      ]
+    },
+    {
       "id": "ca969cd7-e883-4372-a076-205a90cc6eef",
       "region": "waw",
       "subject": "Warsaw Scheduled Maintenance - 2024-03-08",
