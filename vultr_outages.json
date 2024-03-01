@@ -7,6 +7,19 @@
       "country_name": "Global",
       "alerts": [
         {
+          "id": "ce5bdfb9-3fa4-4755-87f1-edcabe58e8c5",
+          "subject": "New Jersey NVMe Block Storage Upgrades - 2024-03-07",
+          "status": "ongoing",
+          "start_date": "2024-03-01T21:52:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2024-03-01T21:52:00+00:00",
+              "message": "Event Type: NVMe Block Storage Infrastructure Maintenance\r\nStart Time: 2024-03-07 08:00:00 America/New_York\r\nEnd Time: 2024-03-07 20:00:00 America/New_York\r\n\r\nOur Cloud Storage team will be performing upgrades to our New Jersey NVMe Block Storage infrastructure starting at 2024-03-07 08:00:00 America/New York (13:00:00 UTC). During this maintenance window, creating, attaching, resizing, and deletion of NVMe Block Storage volumes may be temporarily unavailable.\r\n\r\nPreviously deployed NVMe Block Storage volumes in New Jersey will remain online without interruption and will not be impacted by this event."
+            }
+          ]
+        },
+        {
           "id": "c0378212-6cc9-4749-8e85-18ab5024f0a8",
           "subject": "Miami HDD Block Storage Upgrades - 2024-03-06",
           "status": "ongoing",
@@ -306,7 +319,21 @@
       "location": "New Jersey",
       "country": "US",
       "country_name": "United States",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "377e9b0f-9ada-4fb5-9815-6f0b7fbac9ee",
+          "subject": "New Jersey HDD Block Storage Upgrades - 2024-03-08",
+          "status": "ongoing",
+          "start_date": "2024-03-01T22:02:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2024-03-01T22:02:00+00:00",
+              "message": "Event Type: HDD Block Storage Infrastructure Maintenance\r\nStart Time: 2024-03-08 08:00:00 America/New_York\r\nEnd Time: 2024-03-08 20:00:00 America/New_York\r\n\r\nOur Cloud Storage team will be performing upgrades to our New Jersey HDD Block Storage infrastructure starting at 2024-03-08 08:00:00 America/New_York (13:00:00 UTC). During this maintenance window, creating, attaching, resizing, and deletion of HDD Block Storage volumes may be temporarily unavailable.\r\n\r\nPreviously deployed HDD Block Storage volumes in New Jersey will remain online without interruption and will not be impacted by this event."
+            }
+          ]
+        }
+      ]
     },
     "itm": {
       "location": "Osaka",
@@ -336,7 +363,21 @@
       "location": "Seattle",
       "country": "US",
       "country_name": "United States",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "c16102f6-70d8-4ded-b9fc-e14d9c22afff",
+          "subject": "Seattle HDD Block Storage Upgrades - 2024-03-07",
+          "status": "ongoing",
+          "start_date": "2024-03-01T21:58:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2024-03-01T21:58:00+00:00",
+              "message": "Event Type: HDD Block Storage Infrastructure Maintenance\r\nStart Time: 2024-03-07 07:00:00 America/Los_Angeles\r\nEnd Time: 2024-03-07 19:00:00 America/Los_Angeles\r\n\r\nOur Cloud Storage team will be performing upgrades to our Seattle HDD Block Storage infrastructure starting at 2024-03-07 07:00:00 America/Los_Angeles (15:00:00 UTC). During this maintenance window, creating, attaching, resizing, and deletion of HDD Block Storage volumes may be temporarily unavailable.\r\n\r\nPreviously deployed HDD Block Storage volumes in Seattle will remain online without interruption and will not be impacted by this event."
+            }
+          ]
+        }
+      ]
     },
     "icn": {
       "location": "Seoul",
