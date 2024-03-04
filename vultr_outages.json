@@ -108,7 +108,7 @@
         {
           "id": "8c1c4e61-8de7-438e-bd30-11660c23cc28",
           "subject": "Dallas HDD Block Storage Upgrades - 2024-03-04",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2024-02-26T18:38:00+00:00",
           "updated_at": "",
           "entries": [
@@ -154,7 +154,7 @@
         {
           "id": "8a3ea8b9-b1f6-4755-a857-14f07dd8c711",
           "subject": "Honolulu HDD Block Storage Upgrades - 2024-03-04",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2024-02-28T17:14:00+00:00",
           "updated_at": "",
           "entries": [
