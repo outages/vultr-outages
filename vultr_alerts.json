@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "0f67e606-55c7-4249-9b87-e8ee1cde86f8",
+      "region": "global",
+      "subject": "Disruption of deploying new Vultr DBaaS subscriptions",
+      "start_date": "2024-03-05T15:37:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2024-03-05T15:37:00+00:00",
+          "message": "We are investigating a problem with the creation of new Vultr DBaaS instances (mysql, pgsql, redis, ferretdb).  The operational status of existing DBaaS subscriptions is not affected though adding additional replicas or other features that require a deploy may be affected."
+        }
+      ]
+    },
+    {
       "id": "377e9b0f-9ada-4fb5-9815-6f0b7fbac9ee",
       "region": "ewr",
       "subject": "New Jersey HDD Block Storage Upgrades - 2024-03-08",
