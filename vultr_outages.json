@@ -161,7 +161,21 @@
       "location": "Frankfurt",
       "country": "DE",
       "country_name": "Germany",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "4289c2e7-3cb8-43a1-93a8-bb860aad5ab1",
+          "subject": "Frankfurt Infrastructure Upgrades - 2024-03-12",
+          "status": "ongoing",
+          "start_date": "2024-03-06T21:37:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2024-03-06T21:37:00+00:00",
+              "message": "Event Type: Storage Infrastructure Maintenance\r\nStart Time: 2024-03-12 13:30:00 Europe/Berlin\r\nEnd Time: 2024-03-13 05:30:00 Europe/Berlin\r\n\r\nOur Cloud Storage team will be performing upgrades to our Frankfurt deployment infrastructure starting at 2024-03-12 12:30:00 UTC. During this maintenance window, new deployments, snapshot functionality, and custom ISOs may be temporarily unavailable.\r\n\r\nPreviously deployed servers in Frankfurt will remain online without interruption and will not be impacted by this event."
+            }
+          ]
+        }
+      ]
     },
     "hnl": {
       "location": "Honolulu",
@@ -439,6 +453,19 @@
       "country": "JP",
       "country_name": "Japan",
       "alerts": [
+        {
+          "id": "4bc159d9-8378-4098-80b7-4f8a59ea7b8c",
+          "subject": "Tokyo Infrastructure Upgrades - 2024-03-12",
+          "status": "ongoing",
+          "start_date": "2024-03-06T21:33:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2024-03-06T21:33:00+00:00",
+              "message": "Event Type: Storage Infrastructure Maintenance\r\nStart Time: 2024-03-12 21:25:00 Asia/Tokyo\r\nEnd Time: 2024-03-13 13:25:00 Asia/Tokyo\r\n\r\nOur Cloud Storage team will be performing upgrades to our Tokyo deployment infrastructure starting at 2024-03-12 12:25:00 UTC. During this maintenance window, creating, attaching, resizing, and deletion of NVMe Block Storage volumes may be temporarily unavailable.\r\n\r\nPreviously deployed NVMe Block Storage volumes in New Jersey will remain online without interruption and will not be impacted by this event."
+            }
+          ]
+        },
         {
           "id": "d57069a9-6c9a-49cf-8db6-74f756800141",
           "subject": "Tokyo Scheduled Maintenance - 2024-03-07",
