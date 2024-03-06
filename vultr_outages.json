@@ -9,7 +9,7 @@
         {
           "id": "0f67e606-55c7-4249-9b87-e8ee1cde86f8",
           "subject": "Disruption of deploying new Vultr DBaaS subscriptions",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2024-03-05T15:37:00+00:00",
           "updated_at": "2024-03-05T23:06:00+00:00",
           "entries": [
