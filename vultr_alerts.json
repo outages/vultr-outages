@@ -257,20 +257,6 @@
       ]
     },
     {
-      "id": "8a3ea8b9-b1f6-4755-a857-14f07dd8c711",
-      "region": "hnl",
-      "subject": "Honolulu HDD Block Storage Upgrades - 2024-03-04",
-      "start_date": "2024-02-28T17:14:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2024-02-28T17:14:00+00:00",
-          "message": "Event Type: HDD Block Storage Infrastructure Maintenance\r\nStart Time: 2024-03-04 08:00:00 Pacific/Honolulu\r\nEnd Time: 2024-03-04 16:00:00 Pacific/Honolulu\r\n\r\nOur Cloud Storage team will be performing upgrades to our Honolulu HDD Block Storage infrastructure starting at 2024-03-04 08:00:00 Pacific/Honolulu (16:00:00 UTC). During this maintenance window, creating, attaching, resizing, and deletion of HDD Block Storage volumes may be temporarily unavailable.\r\n\r\nPreviously deployed HDD Block Storage volumes in Honolulu will remain online without interruption and will not be impacted by this event."
-        }
-      ]
-    },
-    {
       "id": "8ae95c13-4d94-4248-bf01-8ed625d1170f",
       "region": "yto",
       "subject": "Toronto Scheduled Maintenance - 2024-04-03",
@@ -281,20 +267,6 @@
         {
           "updated_at": "2024-02-27T23:27:00+00:00",
           "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Toronto location during the following scheduled maintenance window. \r\n\r\nStart Time: 2024-04-03 04:15:00 UTC\r\nEnd Time: 2024-04-03 08:15:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Toronto instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
-        }
-      ]
-    },
-    {
-      "id": "8c1c4e61-8de7-438e-bd30-11660c23cc28",
-      "region": "dfw",
-      "subject": "Dallas HDD Block Storage Upgrades - 2024-03-04",
-      "start_date": "2024-02-26T18:38:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2024-02-26T18:38:00+00:00",
-          "message": "Event Type: HDD Block Storage Infrastructure Maintenance\r\nStart Time: 2024-03-04 08:00:00 America/Chicago\r\nEnd Time: 2024-03-04 20:00:00 America/Chicago\r\n\r\nOur Cloud Storage team will be performing upgrades to our Dallas HDD Block Storage infrastructure starting at 2024-02-26 2024-03-04 08:00:00 America/Chicago (18:05:00 UTC). During this maintenance window, creating, attaching, resizing, and deletion of HDD Block Storage volumes may be temporarily unavailable.\r\n\r\nPreviously deployed HDD Block Storage volumes in Dallas will remain online without interruption and will not be impacted by this event."
         }
       ]
     },
