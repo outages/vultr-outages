@@ -380,7 +380,21 @@
       "location": "Silicon Valley",
       "country": "US",
       "country_name": "United States",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "8131ca51-3889-4ba3-b59d-9523a1b8b99b",
+          "subject": "Silicon Valley Snapshot and HDD Block Storage Upgrades - 2024-03-11",
+          "status": "ongoing",
+          "start_date": "2024-03-06T21:38:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2024-03-06T21:38:00+00:00",
+              "message": "Event Type: HDD Block Storage Infrastructure Maintenance\r\nStart Time: 2024-03-11 14:00:00 America/Los_Angeles\r\nEnd Time: 2024-03-12 02:00:00 America/Los_Angeles\r\n\r\nOur Cloud Storage team will be performing upgrades to our Silicon Valley HDD Block Storage infrastructure starting at 2024-03-11 14:00:00 America/Los_Angeles (09:00:00 UTC). During this maintenance window, new deployments, snapshot functionality, and custom ISOs may be temporarily unavailable. Also, during this maintenance window, creating, attaching, resizing, and deletion of HDD Block Storage volumes may be temporarily unavailable.\r\n\r\nPreviously deployed HDD Block Storage volumes in Silicon Valley will remain online without interruption and will not be impacted by this event."
+            }
+          ]
+        }
+      ]
     },
     "sgp": {
       "location": "Singapore",
