@@ -294,6 +294,19 @@
       "country_name": "France",
       "alerts": [
         {
+          "id": "7fff76e3-e410-466f-9b50-2247cfc07d27",
+          "subject": "Paris Scheduled Maintenance - 2024-03-14",
+          "status": "ongoing",
+          "start_date": "2024-03-08T14:46:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2024-03-08T14:46:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Paris location during the following scheduled maintenance window. \r\n\r\nStart Time: 2024-03-14 23:00:00 UTC\r\nEnd Time: 2024-03-15 03:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Paris instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+            }
+          ]
+        },
+        {
           "id": "1e24c344-4863-4055-9d25-eb86238dbad2",
           "subject": "Paris Infrastructure Upgrades - 2024-03-15",
           "status": "ongoing",
@@ -377,6 +390,19 @@
       "country": "SE",
       "country_name": "Sweden",
       "alerts": [
+        {
+          "id": "ad87bb53-a242-4699-9462-8c39c0a6ee6f",
+          "subject": "Stockholm Scheduled Maintenance - 2024-03-13",
+          "status": "ongoing",
+          "start_date": "2024-03-08T14:41:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2024-03-08T14:41:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Stockholm location during the following scheduled maintenance window. \r\n\r\nStart Time: 2024-03-13 23:00:00 UTC\r\nEnd Time: 2024-03-14 03:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Stockholm instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+            }
+          ]
+        },
         {
           "id": "dff41984-e1b2-455c-90a5-8db8d1099570",
           "subject": "Stockholm Infrastructure Upgrades - 2024-03-15",
