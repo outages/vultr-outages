@@ -209,19 +209,6 @@
               "message": "Event Type: Storage Infrastructure Maintenance\r\nStart Time: 2024-03-05 11:00:00 America/Los_Angeles\r\nEnd Time: 2024-03-05 23:00:00 America/Los_Angeles\r\n\r\nOur Cloud Storage team will be performing upgrades to our Los Angeles deployment infrastructure starting at 2024-03-05 11:00:00 America/Los_Angeles (18:15:00 UTC). During this maintenance window, new deployments, snapshot functionality, and custom ISOs may be temporarily unavailable.\r\n\r\nPreviously deployed servers in Los Angeles will remain online without interruption and will not be impacted by this event."
             }
           ]
-        },
-        {
-          "id": "cd7ef5bc-2a46-466f-bc00-fb7816b1cb83",
-          "subject": "Los Angeles NVMe Block Storage Upgrades - 2024-03-05",
-          "status": "resolved",
-          "start_date": "2024-02-28T18:47:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2024-02-28T18:47:00+00:00",
-              "message": "Event Type: NVMe Block Storage Infrastructure Maintenance\r\nStart Time: 2024-03-05 05:00:00 America/Los_Angeles\r\nEnd Time: 2024-03-05 17:00:00 America/Los_Angeles\r\n\r\nOur Cloud Storage team will be performing upgrades to our Los Angeles NVMe Block Storage infrastructure starting at 2024-03-05 05:00:00 America/Los_Angeles (12:00:00 UTC). During this maintenance window, creating, attaching, resizing, and deletion of NVMe Block Storage volumes may be temporarily unavailable.\r\n\r\nPreviously deployed NVMe Block Storage volumes in Los Angeles will remain online without interruption and will not be impacted by this event."
-            }
-          ]
         }
       ]
     },
