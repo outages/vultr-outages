@@ -520,7 +520,7 @@
         {
           "id": "ca969cd7-e883-4372-a076-205a90cc6eef",
           "subject": "Warsaw Scheduled Maintenance - 2024-03-08",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2024-02-29T16:13:00+00:00",
           "updated_at": "",
           "entries": [
