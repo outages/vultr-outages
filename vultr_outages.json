@@ -7,23 +7,6 @@
       "country_name": "Global",
       "alerts": [
         {
-          "id": "0f67e606-55c7-4249-9b87-e8ee1cde86f8",
-          "subject": "Disruption of deploying new Vultr DBaaS subscriptions",
-          "status": "resolved",
-          "start_date": "2024-03-05T15:37:00+00:00",
-          "updated_at": "2024-03-05T23:06:00+00:00",
-          "entries": [
-            {
-              "updated_at": "2024-03-05T23:06:00+00:00",
-              "message": "Our team reports that DBaaS subscriptions should be fully operational. We will continue to monitor the health of service over the next 24 hours."
-            },
-            {
-              "updated_at": "2024-03-05T15:37:00+00:00",
-              "message": "We are investigating a problem with the creation of new Vultr DBaaS instances (mysql, pgsql, redis, ferretdb).  The operational status of existing DBaaS subscriptions is not affected though adding additional replicas or other features that require a deploy may be affected."
-            }
-          ]
-        },
-        {
           "id": "ce5bdfb9-3fa4-4755-87f1-edcabe58e8c5",
           "subject": "New Jersey NVMe Block Storage Upgrades - 2024-03-07",
           "status": "resolved",
