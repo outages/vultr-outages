@@ -327,21 +327,7 @@
       "location": "Seattle",
       "country": "US",
       "country_name": "United States",
-      "alerts": [
-        {
-          "id": "c16102f6-70d8-4ded-b9fc-e14d9c22afff",
-          "subject": "Seattle HDD Block Storage Upgrades - 2024-03-07",
-          "status": "resolved",
-          "start_date": "2024-03-01T21:58:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2024-03-01T21:58:00+00:00",
-              "message": "Event Type: HDD Block Storage Infrastructure Maintenance\r\nStart Time: 2024-03-07 07:00:00 America/Los_Angeles\r\nEnd Time: 2024-03-07 19:00:00 America/Los_Angeles\r\n\r\nOur Cloud Storage team will be performing upgrades to our Seattle HDD Block Storage infrastructure starting at 2024-03-07 07:00:00 America/Los_Angeles (15:00:00 UTC). During this maintenance window, creating, attaching, resizing, and deletion of HDD Block Storage volumes may be temporarily unavailable.\r\n\r\nPreviously deployed HDD Block Storage volumes in Seattle will remain online without interruption and will not be impacted by this event."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "icn": {
       "location": "Seoul",
