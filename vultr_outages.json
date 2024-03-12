@@ -99,7 +99,7 @@
         {
           "id": "0c17fe85-74d6-40cd-95d8-e1d0e32020ef",
           "subject": "Johannesburg Scheduled Maintenance - 2024-03-12",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2024-02-28T22:07:00+00:00",
           "updated_at": "",
           "entries": [
