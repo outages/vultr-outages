@@ -169,6 +169,20 @@
       ]
     },
     {
+      "id": "ac9583bf-6b5c-4806-b1ed-cbe7befd71f5",
+      "region": "lhr",
+      "subject": "London Scheduled Maintenance - 2024-03-27",
+      "start_date": "2024-03-12T13:58:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2024-03-12T13:58:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the London location during the following scheduled maintenance window. \r\n\r\nStart Time: 2024-03-27 03:00:00 UTC\r\nEnd Time: 2024-03-27 07:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, London instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
       "id": "a2d68ed4-1ce0-43e6-bfb9-b30abcf05bb2",
       "region": "lhr",
       "subject": "London Scheduled Maintenance - 2024-03-28",
@@ -193,20 +207,6 @@
         {
           "updated_at": "2024-03-12T13:58:00+00:00",
           "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the London location during the following scheduled maintenance window. \r\n\r\nStart Time: 2024-04-02 02:00:00 UTC\r\nEnd Time: 2024-04-02 06:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, London instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-        }
-      ]
-    },
-    {
-      "id": "ac9583bf-6b5c-4806-b1ed-cbe7befd71f5",
-      "region": "lhr",
-      "subject": "London Scheduled Maintenance - 2024-03-27",
-      "start_date": "2024-03-12T13:58:00+00:00",
-      "updated_at": "",
-      "status": "ongoing",
-      "entries": [
-        {
-          "updated_at": "2024-03-12T13:58:00+00:00",
-          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the London location during the following scheduled maintenance window. \r\n\r\nStart Time: 2024-03-27 03:00:00 UTC\r\nEnd Time: 2024-03-27 07:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, London instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
         }
       ]
     },
@@ -361,20 +361,6 @@
         {
           "updated_at": "2024-03-06T21:33:00+00:00",
           "message": "Event Type: Storage Infrastructure Maintenance\r\nStart Time: 2024-03-12 21:25:00 Asia/Tokyo\r\nEnd Time: 2024-03-13 13:25:00 Asia/Tokyo\r\n\r\nOur Cloud Storage team will be performing upgrades to our Tokyo deployment infrastructure starting at 2024-03-12 12:25:00 UTC. During this maintenance window, creating, attaching, resizing, and deletion of HDD Block Storage volumes may be temporarily unavailable. Also, during this maintenance window, new deployments, snapshot functionality, and custom ISOs may be temporarily unavailable.\r\n\r\nPreviously deployed HDD Block Storage volumes in Tokyo will remain online without interruption and will not be impacted by this event."
-        }
-      ]
-    },
-    {
-      "id": "0c17fe85-74d6-40cd-95d8-e1d0e32020ef",
-      "region": "jnb",
-      "subject": "Johannesburg Scheduled Maintenance - 2024-03-12",
-      "start_date": "2024-02-28T22:07:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2024-02-28T22:07:00+00:00",
-          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Johannesburg location during the following scheduled maintenance window. \r\n\r\nStart Time: 2024-03-12 20:00:00 UTC\r\nEnd Time: 2024-03-13 24:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Johannesburg instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
         }
       ]
     },
