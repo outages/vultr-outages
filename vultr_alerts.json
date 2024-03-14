@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "ef7c4978-003a-475e-a5ce-42fe344b3ba3",
+      "region": "waw",
+      "subject": "Warsaw Infrastructure Upgrades - 2024-03-19",
+      "start_date": "2024-03-14T01:58:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2024-03-14T01:58:00+00:00",
+          "message": "Event Type: Storage Infrastructure Maintenance\r\nStart Time: 2024-03-19 03:50:00 Europe/Warsaw\r\nEnd Time: 2024-03-19 19:50:00 Europe/Warsaw\r\n\r\nOur Cloud Storage team will be performing upgrades to our Warsaw deployment infrastructure starting at 2024-03-19 02:50:00 UTC. During this maintenance window, new deployments, snapshot functionality, and custom ISOs may be temporarily unavailable.\r\n\r\nPreviously deployed servers in Warsaw will remain online without interruption and will not be impacted by this event."
+        }
+      ]
+    },
+    {
       "id": "9efc8b67-9e02-4527-992c-1b4ce1d91bdf",
       "region": "lhr",
       "subject": "London Scheduled Maintenance - 2024-04-04",
@@ -104,7 +118,7 @@
       "subject": "Stockholm Scheduled Maintenance - 2024-03-13",
       "start_date": "2024-03-08T14:41:00+00:00",
       "updated_at": "",
-      "status": "ongoing",
+      "status": "resolved",
       "entries": [
         {
           "updated_at": "2024-03-08T14:41:00+00:00",
