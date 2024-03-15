@@ -141,20 +141,6 @@
       ]
     },
     {
-      "id": "9efc8b67-9e02-4527-992c-1b4ce1d91bdf",
-      "region": "lhr",
-      "subject": "London Scheduled Maintenance - 2024-04-04",
-      "start_date": "2024-03-12T13:59:00+00:00",
-      "updated_at": "",
-      "status": "ongoing",
-      "entries": [
-        {
-          "updated_at": "2024-03-12T13:59:00+00:00",
-          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the London location during the following scheduled maintenance window. \r\n\r\nStart Time: 2024-04-04 02:00:00 UTC\r\nEnd Time: 2024-04-04 06:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, London instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-        }
-      ]
-    },
-    {
       "id": "65f33f93-67cd-416a-8da6-5cc03ef4e318",
       "region": "lhr",
       "subject": "London Scheduled Maintenance - 2024-04-03",
@@ -169,16 +155,16 @@
       ]
     },
     {
-      "id": "ac9583bf-6b5c-4806-b1ed-cbe7befd71f5",
+      "id": "9efc8b67-9e02-4527-992c-1b4ce1d91bdf",
       "region": "lhr",
-      "subject": "London Scheduled Maintenance - 2024-03-27",
-      "start_date": "2024-03-12T13:58:00+00:00",
+      "subject": "London Scheduled Maintenance - 2024-04-04",
+      "start_date": "2024-03-12T13:59:00+00:00",
       "updated_at": "",
       "status": "ongoing",
       "entries": [
         {
-          "updated_at": "2024-03-12T13:58:00+00:00",
-          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the London location during the following scheduled maintenance window. \r\n\r\nStart Time: 2024-03-27 03:00:00 UTC\r\nEnd Time: 2024-03-27 07:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, London instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+          "updated_at": "2024-03-12T13:59:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the London location during the following scheduled maintenance window. \r\n\r\nStart Time: 2024-04-04 02:00:00 UTC\r\nEnd Time: 2024-04-04 06:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, London instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
         }
       ]
     },
@@ -193,6 +179,20 @@
         {
           "updated_at": "2024-03-12T13:58:00+00:00",
           "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the London location during the following scheduled maintenance window. \r\n\r\nStart Time: 2024-03-28 03:00:00 UTC\r\nEnd Time: 2024-03-28 07:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, London instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
+      "id": "ac9583bf-6b5c-4806-b1ed-cbe7befd71f5",
+      "region": "lhr",
+      "subject": "London Scheduled Maintenance - 2024-03-27",
+      "start_date": "2024-03-12T13:58:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2024-03-12T13:58:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the London location during the following scheduled maintenance window. \r\n\r\nStart Time: 2024-03-27 03:00:00 UTC\r\nEnd Time: 2024-03-27 07:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, London instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
         }
       ]
     },
@@ -300,20 +300,6 @@
         {
           "updated_at": "2024-03-08T00:19:00+00:00",
           "message": "Event Type: Storage Infrastructure Maintenance\r\nStart Time: 2024-03-15 24:10:00 Europe/Madrid\r\nEnd Time: 2024-03-15 16:10:00 Europe/Madrid\r\n\r\nOur Cloud Storage team will be performing upgrades to our Madrid deployment infrastructure starting at 2024-03-14 23:10:00 UTC. During this maintenance window, new deployments, snapshot functionality, and custom ISOs may be temporarily unavailable.\r\n\r\nPreviously deployed servers in Madrid will remain online without interruption and will not be impacted by this event."
-        }
-      ]
-    },
-    {
-      "id": "2aad7dcf-8286-45a8-ad07-a2e5d4f90531",
-      "region": "lhr",
-      "subject": "London Infrastructure Upgrades - 2024-03-13",
-      "start_date": "2024-03-06T23:46:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2024-03-06T23:46:00+00:00",
-          "message": "Event Type: Storage Infrastructure Maintenance\r\nStart Time: 2024-03-13 12:40:00 Europe/London\r\nEnd Time: 2024-03-14 04:40:00 Europe/London\r\n\r\nOur Cloud Storage team will be performing upgrades to our London deployment infrastructure starting at 2024-03-13 12:40:00 UTC. During this maintenance window, new deployments, snapshot functionality, and custom ISOs may be temporarily unavailable.\r\n\r\nPreviously deployed servers in London will remain online without interruption and will not be impacted by this event."
         }
       ]
     },
