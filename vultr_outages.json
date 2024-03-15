@@ -209,7 +209,7 @@
         {
           "id": "391559ea-99a5-4c93-bdf7-652c57a9b12f",
           "subject": "Madrid Infrastructure Upgrades - 2024-03-14",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2024-03-08T00:19:00+00:00",
           "updated_at": "",
           "entries": [
@@ -232,12 +232,7 @@
           "status": "resolved",
           "start_date": "2024-03-08T00:22:00+00:00",
           "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2024-03-08T00:22:00+00:00",
-              "message": "Event Type: HDD Block Storage Infrastructure Maintenance\r\nStart Time: 2024-03-14 18:15:00 BST\r\nEnd Time: 2024-03-15 10:15:00 BST\r\n\r\nOur Cloud Storage team will be performing upgrades to our Manchester HDD Block Storage infrastructure starting at 2024-03-14 12:15:00 UTC. During this maintenance window, creating, attaching, resizing, and deletion of HDD Block Storage volumes may be temporarily unavailable.\r\n\r\nPreviously deployed HDD Block Storage volumes in Manchester will remain online without interruption and will not be impacted by this event."
-            }
-          ]
+          "entries": []
         }
       ]
     },
