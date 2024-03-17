@@ -352,21 +352,7 @@
       "location": "Stockholm",
       "country": "SE",
       "country_name": "Sweden",
-      "alerts": [
-        {
-          "id": "dff41984-e1b2-455c-90a5-8db8d1099570",
-          "subject": "Stockholm Infrastructure Upgrades - 2024-03-15",
-          "status": "resolved",
-          "start_date": "2024-03-08T00:41:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2024-03-08T00:41:00+00:00",
-              "message": "Event Type: Storage Infrastructure Maintenance\r\nStart Time: 2024-03-15 13:35:00 Europe/Stockholm\r\nEnd Time: 2024-03-16 05:35:00 Europe/Stockholm\r\n\r\nOur Cloud Storage team will be performing upgrades to our Stockholm deployment infrastructure starting at 2024-03-15 12:35:00 UTC. During this maintenance window, new deployments, snapshot functionality, and custom ISOs may be temporarily unavailable.\r\n\r\nPreviously deployed servers in Stockholm will remain online without interruption and will not be impacted by this event."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "syd": {
       "location": "Sydney",
