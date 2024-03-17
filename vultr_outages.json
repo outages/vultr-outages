@@ -198,16 +198,7 @@
       "location": "Manchester",
       "country": "GB",
       "country_name": "United Kingdom",
-      "alerts": [
-        {
-          "id": "85b68e86-bae7-40d6-b322-9aab8cd88eca",
-          "subject": "Manchester HDD Block Storage Upgrades - 2024-03-14",
-          "status": "resolved",
-          "start_date": "2024-03-08T00:22:00+00:00",
-          "updated_at": "",
-          "entries": []
-        }
-      ]
+      "alerts": []
     },
     "mel": {
       "location": "Melbourne",
