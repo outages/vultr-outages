@@ -268,21 +268,7 @@
       "location": "Paris",
       "country": "FR",
       "country_name": "France",
-      "alerts": [
-        {
-          "id": "1e24c344-4863-4055-9d25-eb86238dbad2",
-          "subject": "Paris Infrastructure Upgrades - 2024-03-15",
-          "status": "resolved",
-          "start_date": "2024-03-08T00:38:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2024-03-08T00:38:00+00:00",
-              "message": "Event Type: Storage Infrastructure Maintenance\r\nStart Time: 2024-03-15 13:30:00 Europe/Paris\r\nEnd Time: 2024-03-16 05:30:00 Europe/Paris\r\n\r\nOur Cloud Storage team will be performing upgrades to our Paris deployment infrastructure starting at 2024-03-15 12:30:00 UTC. During this maintenance window, new deployments, snapshot functionality, and custom ISOs may be temporarily unavailable.\r\n\r\nPreviously deployed servers in Paris will remain online without interruption and will not be impacted by this event."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "scl": {
       "location": "Santiago",
