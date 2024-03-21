@@ -141,15 +141,6 @@
       ]
     },
     {
-      "id": "a9d54041-0a29-477b-9b75-239eed00a15b",
-      "region": "bom",
-      "subject": "Mumbai Infrastructure Upgrades - 2024-03-19",
-      "start_date": "2024-03-14T02:12:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": []
-    },
-    {
       "id": "65949fce-0ee0-42b0-a783-8361d3a36615",
       "region": "del",
       "subject": "Delhi NCR Infrastructure Upgrades - 2024-03-19",
