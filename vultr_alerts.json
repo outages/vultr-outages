@@ -1,6 +1,48 @@
 {
   "service_alerts": [
     {
+      "id": "6901171a-829a-43b6-86db-59a1440a0ef5",
+      "region": "jnb",
+      "subject": "Johannesburg Infrastructure Upgrades - 2024-03-26",
+      "start_date": "2024-03-20T23:54:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2024-03-20T23:54:00+00:00",
+          "message": "Event Type: Storage Infrastructure Maintenance\r\nStart Time: 2024-03-26 16:00:00 Africa/Johannesburg\r\nEnd Time: 2024-03-27 08:00:00 Africa/Johannesburg\r\n\r\nOur Cloud Storage team will be performing upgrades to our Johannesburg deployment infrastructure starting at 2024-03-26 14:00:00 UTC. During this maintenance window, new deployments, snapshot functionality, and custom ISOs may be temporarily unavailable.\r\n\r\nPreviously deployed servers in Johannesburg will remain online without interruption and will not be impacted by this event."
+        }
+      ]
+    },
+    {
+      "id": "4228ddde-6a77-42e1-8992-a069a3ad8459",
+      "region": "sao",
+      "subject": "São Paulo Infrastructure Upgrades - 2024-03-26",
+      "start_date": "2024-03-20T23:50:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2024-03-20T23:50:00+00:00",
+          "message": "Event Type: Storage Infrastructure Maintenance\r\nStart Time: 2024-03-25 21:00:00 America/Sao_Paulo\r\nEnd Time: 2024-03-26 13:00:00 America/Sao_Paulo\r\n\r\nOur Cloud Storage team will be performing upgrades to our São Paulo deployment infrastructure starting at 2024-03-26 24:00:00 UTC. During this maintenance window, new deployments, snapshot functionality, and custom ISOs may be temporarily unavailable.\r\n\r\nPreviously deployed servers in São Paulo will remain online without interruption and will not be impacted by this event."
+        }
+      ]
+    },
+    {
+      "id": "a48b80a2-e511-45ac-b4ad-99a7ab547b24",
+      "region": "scl",
+      "subject": "Santiago Infrastructure Upgrades - 2024-03-26",
+      "start_date": "2024-03-20T23:46:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2024-03-20T23:46:00+00:00",
+          "message": "Event Type: Storage Infrastructure Maintenance\r\nStart Time: 2024-03-25 21:00:00 America/Santiago\r\nEnd Time: 2024-03-26 13:00:00 America/Santiago\r\n\r\nOur Cloud Storage team will be performing upgrades to our Santiago deployment infrastructure starting at 2024-03-26 24:00:00 UTC. During this maintenance window, new deployments, snapshot functionality, and custom ISOs may be temporarily unavailable.\r\n\r\nPreviously deployed servers in Santiago will remain online without interruption and will not be impacted by this event."
+        }
+      ]
+    },
+    {
       "id": "caf458fd-4295-42b4-8c4b-0fdd0e2a0cfe",
       "region": "mia",
       "subject": "Miami Scheduled Maintenance - 2024-03-27",

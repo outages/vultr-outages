@@ -81,7 +81,21 @@
       "location": "Johannesburg",
       "country": "ZA",
       "country_name": "South Africa",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "6901171a-829a-43b6-86db-59a1440a0ef5",
+          "subject": "Johannesburg Infrastructure Upgrades - 2024-03-26",
+          "status": "ongoing",
+          "start_date": "2024-03-20T23:54:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2024-03-20T23:54:00+00:00",
+              "message": "Event Type: Storage Infrastructure Maintenance\r\nStart Time: 2024-03-26 16:00:00 Africa/Johannesburg\r\nEnd Time: 2024-03-27 08:00:00 Africa/Johannesburg\r\n\r\nOur Cloud Storage team will be performing upgrades to our Johannesburg deployment infrastructure starting at 2024-03-26 14:00:00 UTC. During this maintenance window, new deployments, snapshot functionality, and custom ISOs may be temporarily unavailable.\r\n\r\nPreviously deployed servers in Johannesburg will remain online without interruption and will not be impacted by this event."
+            }
+          ]
+        }
+      ]
     },
     "lhr": {
       "location": "London",
@@ -283,13 +297,41 @@
       "location": "Santiago",
       "country": "CL",
       "country_name": "Chile",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "a48b80a2-e511-45ac-b4ad-99a7ab547b24",
+          "subject": "Santiago Infrastructure Upgrades - 2024-03-26",
+          "status": "ongoing",
+          "start_date": "2024-03-20T23:46:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2024-03-20T23:46:00+00:00",
+              "message": "Event Type: Storage Infrastructure Maintenance\r\nStart Time: 2024-03-25 21:00:00 America/Santiago\r\nEnd Time: 2024-03-26 13:00:00 America/Santiago\r\n\r\nOur Cloud Storage team will be performing upgrades to our Santiago deployment infrastructure starting at 2024-03-26 24:00:00 UTC. During this maintenance window, new deployments, snapshot functionality, and custom ISOs may be temporarily unavailable.\r\n\r\nPreviously deployed servers in Santiago will remain online without interruption and will not be impacted by this event."
+            }
+          ]
+        }
+      ]
     },
     "sao": {
       "location": "São Paulo",
       "country": "BR",
       "country_name": "Brazil",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "4228ddde-6a77-42e1-8992-a069a3ad8459",
+          "subject": "São Paulo Infrastructure Upgrades - 2024-03-26",
+          "status": "ongoing",
+          "start_date": "2024-03-20T23:50:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2024-03-20T23:50:00+00:00",
+              "message": "Event Type: Storage Infrastructure Maintenance\r\nStart Time: 2024-03-25 21:00:00 America/Sao_Paulo\r\nEnd Time: 2024-03-26 13:00:00 America/Sao_Paulo\r\n\r\nOur Cloud Storage team will be performing upgrades to our São Paulo deployment infrastructure starting at 2024-03-26 24:00:00 UTC. During this maintenance window, new deployments, snapshot functionality, and custom ISOs may be temporarily unavailable.\r\n\r\nPreviously deployed servers in São Paulo will remain online without interruption and will not be impacted by this event."
+            }
+          ]
+        }
+      ]
     },
     "sea": {
       "location": "Seattle",
