@@ -35,21 +35,7 @@
       "location": "Delhi NCR",
       "country": "IN",
       "country_name": "India",
-      "alerts": [
-        {
-          "id": "65949fce-0ee0-42b0-a783-8361d3a36615",
-          "subject": "Delhi NCR Infrastructure Upgrades - 2024-03-19",
-          "status": "resolved",
-          "start_date": "2024-03-14T02:09:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2024-03-14T02:09:00+00:00",
-              "message": "Event Type: Storage Infrastructure Maintenance\r\nStart Time: 2024-03-19 19:35:00 Asia/Kolkata\r\nEnd Time: 2024-03-20 11:35:00 Asia/Kolkata\r\n\r\nOur Cloud Storage team will be performing upgrades to our Delhi NCR deployment infrastructure starting at 2024-03-19 14:05:00 UTC. During this maintenance window, new deployments, snapshot functionality, and custom ISOs may be temporarily unavailable.\r\n\r\nPreviously deployed servers in Delhi NCR will remain online without interruption and will not be impacted by this event."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "fra": {
       "location": "Frankfurt",
