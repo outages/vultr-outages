@@ -336,7 +336,7 @@
         {
           "id": "45ff7030-6957-4cf7-8fd4-9767abb3c6dc",
           "subject": "Singapore Infrastructure Upgrades - 2024-03-21",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2024-03-14T02:26:00+00:00",
           "updated_at": "",
           "entries": [
@@ -382,7 +382,7 @@
         {
           "id": "f3c8140e-01e2-4b4c-b692-e4009bade3a0",
           "subject": "Tel Aviv Infrastructure Upgrades - 2024-03-21",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2024-03-14T02:29:00+00:00",
           "updated_at": "",
           "entries": [
