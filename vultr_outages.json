@@ -318,21 +318,7 @@
       "location": "Singapore",
       "country": "SG",
       "country_name": "Singapore",
-      "alerts": [
-        {
-          "id": "45ff7030-6957-4cf7-8fd4-9767abb3c6dc",
-          "subject": "Singapore Infrastructure Upgrades - 2024-03-21",
-          "status": "resolved",
-          "start_date": "2024-03-14T02:26:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2024-03-14T02:26:00+00:00",
-              "message": "Event Type: Storage Infrastructure Maintenance\r\nStart Time: 2024-03-21 22:25:00 Asia/Hong_Kong\r\nEnd Time: 2024-03-22 14:25:00 Asia/Hong_Kong\r\n\r\nOur Cloud Storage team will be performing upgrades to our Singapore deployment infrastructure starting at 2024-03-21 14:25:00 UTC. During this maintenance window, new deployments, snapshot functionality, and custom ISOs may be temporarily unavailable.\r\n\r\nPreviously deployed servers in Singapore will remain online without interruption and will not be impacted by this event."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "sto": {
       "location": "Stockholm",
@@ -365,19 +351,6 @@
       "country": "IL",
       "country_name": "Israel",
       "alerts": [
-        {
-          "id": "f3c8140e-01e2-4b4c-b692-e4009bade3a0",
-          "subject": "Tel Aviv Infrastructure Upgrades - 2024-03-21",
-          "status": "resolved",
-          "start_date": "2024-03-14T02:29:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2024-03-14T02:29:00+00:00",
-              "message": "Event Type: Storage Infrastructure Maintenance\r\nStart Time: 2024-03-21 19:55:00 IST\r\nEnd Time: 2024-03-22 11:55:00 IST\r\n\r\nOur Cloud Storage team will be performing upgrades to our Tel Aviv deployment infrastructure starting at 2024-03-21 14:25:00 UTC. During this maintenance window, new deployments, snapshot functionality, and custom ISOs may be temporarily unavailable.\r\n\r\nPreviously deployed servers in Tel Aviv will remain online without interruption and will not be impacted by this event."
-            }
-          ]
-        },
         {
           "id": "c79501db-32db-49b6-a8bb-46c0529f3452",
           "subject": "Potential service disruption in Tel Aviv",
