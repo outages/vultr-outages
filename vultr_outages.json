@@ -316,21 +316,7 @@
       "location": "Sydney",
       "country": "AU",
       "country_name": "Australia",
-      "alerts": [
-        {
-          "id": "3cd0432c-34a8-4750-a661-80588ecbdd12",
-          "subject": "Sydney Infrastructure Upgrades - 2024-03-22",
-          "status": "resolved",
-          "start_date": "2024-03-14T02:31:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2024-03-14T02:31:00+00:00",
-              "message": "Event Type: Storage Infrastructure Maintenance\r\nStart Time: 2024-03-23 01:30:00 Australia/Sydney\r\nEnd Time: 2024-03-23 17:30:00 Australia/Sydney\r\n\r\nOur Cloud Storage team will be performing upgrades to our Sydney deployment infrastructure starting at 2024-03-22 14:30:00 UTC. During this maintenance window, new deployments, snapshot functionality, and custom ISOs may be temporarily unavailable.\r\n\r\nPreviously deployed servers in Sydney will remain online without interruption and will not be impacted by this event."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "tlv": {
       "location": "Tel Aviv",
