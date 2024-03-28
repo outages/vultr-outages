@@ -233,21 +233,7 @@
       "location": "Santiago",
       "country": "CL",
       "country_name": "Chile",
-      "alerts": [
-        {
-          "id": "a48b80a2-e511-45ac-b4ad-99a7ab547b24",
-          "subject": "Santiago Infrastructure Upgrades - 2024-03-26",
-          "status": "resolved",
-          "start_date": "2024-03-20T23:46:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2024-03-20T23:46:00+00:00",
-              "message": "Event Type: Storage Infrastructure Maintenance\r\nStart Time: 2024-03-25 21:00:00 America/Santiago\r\nEnd Time: 2024-03-26 13:00:00 America/Santiago\r\n\r\nOur Cloud Storage team will be performing upgrades to our Santiago deployment infrastructure starting at 2024-03-26 24:00:00 UTC. During this maintenance window, new deployments, snapshot functionality, and custom ISOs may be temporarily unavailable.\r\n\r\nPreviously deployed servers in Santiago will remain online without interruption and will not be impacted by this event."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "sao": {
       "location": "São Paulo",
