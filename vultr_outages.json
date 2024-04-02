@@ -221,7 +221,34 @@
       "location": "Sydney",
       "country": "AU",
       "country_name": "Australia",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "1c142c0d-9053-4b26-ac49-f23ff0620372",
+          "subject": "Sydney Emergency Maintenance - 2024-04-02",
+          "status": "ongoing",
+          "start_date": "2024-04-02T14:59:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2024-04-02T14:59:00+00:00",
+              "message": "Event Type: Network Emergency\r\n\r\nWe are performing system changes in the Sydney location during the following emergency maintenance window. \r\n\r\nStart Time: 2024-04-02 15:00:00 UTC\r\nEnd Time: 2024-04-02 19:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Sydney instances may be unreachable for some, or all, of the emergency maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        },
+        {
+          "id": "1c142c0d-9053-4b26-ac49-f23ff0620372",
+          "subject": "Partial Outage",
+          "status": "ongoing",
+          "start_date": "2024-04-02T14:59:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2024-04-02T14:59:00+00:00",
+              "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
+            }
+          ]
+        }
+      ]
     },
     "tlv": {
       "location": "Tel Aviv",
