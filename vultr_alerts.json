@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "12ec2f42-8aa3-4a74-99d8-9c5ff86c412d",
+      "region": "sgp",
+      "subject": "Singapore Object Storage Outage - 2024-04-03",
+      "start_date": "2024-04-03T08:22:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2024-04-03T08:22:00+00:00",
+          "message": "Event Type: Service Degraded Performance and Availability\r\n\r\nOur Cloud Storage team is investigating a partial outage situation with our Object Storage infrastructure. The following services may be impacted by this event:\r\n\r\n- Object Storage Subscription management\r\n- Adding or removing buckets\r\n- S3 client issues\r\n\r\nWe are working quickly to restore service to its optimal state."
+        }
+      ]
+    },
+    {
       "id": "1c142c0d-9053-4b26-ac49-f23ff0620372",
       "region": "syd",
       "subject": "Sydney Emergency Maintenance - 2024-04-02",
