@@ -90,7 +90,7 @@
         {
           "id": "65f33f93-67cd-416a-8da6-5cc03ef4e318",
           "subject": "London Scheduled Maintenance - 2024-04-03",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2024-03-12T13:59:00+00:00",
           "updated_at": "",
           "entries": [
