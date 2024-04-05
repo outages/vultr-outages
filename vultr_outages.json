@@ -141,7 +141,21 @@
       "location": "Osaka",
       "country": "JP",
       "country_name": "Japan",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "d730d521-a5ce-42d7-ab0a-4f284f4e2557",
+          "subject": "Osaka Scheduled Maintenance - 2024-07-09",
+          "status": "ongoing",
+          "start_date": "2024-04-05T19:16:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2024-04-05T19:16:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Osaka location during the following scheduled maintenance window. \r\n\r\nStart Time: 2024-07-09 15:00:00 UTC\r\nEnd Time: 2024-07-09 19:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Osaka instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+            }
+          ]
+        }
+      ]
     },
     "cdg": {
       "location": "Paris",
@@ -195,7 +209,21 @@
       "location": "Sydney",
       "country": "AU",
       "country_name": "Australia",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "9300ea86-6ee7-430a-80b4-5adf6d36e8a2",
+          "subject": "Sydney Scheduled Maintenance - 2024-04-11",
+          "status": "ongoing",
+          "start_date": "2024-04-05T19:30:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2024-04-05T19:30:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Sydney location during the following scheduled maintenance window. \r\n\r\nStart Time: 2024-04-11 14:00:00 UTC\r\nEnd Time: 2024-04-11 18:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Sydney instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+            }
+          ]
+        }
+      ]
     },
     "tlv": {
       "location": "Tel Aviv",
@@ -221,7 +249,21 @@
       "location": "Tokyo",
       "country": "JP",
       "country_name": "Japan",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "4216f983-1cab-4a2a-851e-d8e39c492b51",
+          "subject": "Tokyo Scheduled Maintenance - 2024-04-10",
+          "status": "ongoing",
+          "start_date": "2024-04-05T19:24:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2024-04-05T19:24:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Tokyo location during the following scheduled maintenance window. \r\n\r\nStart Time: 2024-04-10 15:00:00 UTC\r\nEnd Time: 2024-04-10 19:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Tokyo instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+            }
+          ]
+        }
+      ]
     },
     "yto": {
       "location": "Toronto",
