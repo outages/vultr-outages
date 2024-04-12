@@ -1,6 +1,48 @@
 {
   "service_alerts": [
     {
+      "id": "0e45654a-0bfd-4ee1-9906-6391450f62cc",
+      "region": "mad",
+      "subject": "Madrid Scheduled Maintenance - 2024-05-01",
+      "start_date": "2024-04-12T18:22:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2024-04-12T18:22:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Madrid location during the following scheduled maintenance window. \r\n\r\nStart Time: 2024-05-01 20:30:00 UTC\r\nEnd Time: 2024-05-02 00:30:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Madrid instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
+      "id": "fe9f4bba-8686-496c-ae72-4b8056708769",
+      "region": "fra",
+      "subject": "Frankfurt Scheduled Maintenance - 2024-04-30",
+      "start_date": "2024-04-12T18:19:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2024-04-12T18:19:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Frankfurt location during the following scheduled maintenance window. \r\n\r\nStart Time: 2024-04-30 20:30:00 UTC\r\nEnd Time: 2024-05-01 00:30:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Frankfurt instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
+      "id": "e3d1584e-dffd-4209-8de7-48f2dd1a39a2",
+      "region": "jnb",
+      "subject": "Johannesburg Scheduled Maintenance - 2024-04-29",
+      "start_date": "2024-04-12T18:16:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2024-04-12T18:16:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Johannesburg location during the following scheduled maintenance window. \r\n\r\nStart Time: 2024-04-29 20:30:00 UTC\r\nEnd Time: 2024-04-30 00:30:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Johannesburg instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
       "id": "ddac43c8-efb6-4b73-8568-132712e325bf",
       "region": "tlv",
       "subject": "Tel Aviv Scheduled Maintenance - 2024-04-18",
@@ -67,20 +109,6 @@
         {
           "updated_at": "2024-04-05T19:30:00+00:00",
           "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Sydney location during the following scheduled maintenance window. \r\n\r\nStart Time: 2024-04-11 14:00:00 UTC\r\nEnd Time: 2024-04-11 18:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Sydney instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
-        }
-      ]
-    },
-    {
-      "id": "4216f983-1cab-4a2a-851e-d8e39c492b51",
-      "region": "nrt",
-      "subject": "Tokyo Scheduled Maintenance - 2024-04-10",
-      "start_date": "2024-04-05T19:24:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2024-04-05T19:24:00+00:00",
-          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Tokyo location during the following scheduled maintenance window. \r\n\r\nStart Time: 2024-04-10 15:00:00 UTC\r\nEnd Time: 2024-04-10 19:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Tokyo instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
         }
       ]
     },
