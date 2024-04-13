@@ -113,20 +113,6 @@
       ]
     },
     {
-      "id": "83041043-8e71-4182-a1b8-d21dabfc745f",
-      "region": "atl",
-      "subject": "Atlanta Scheduled Maintenance - 2024-04-11",
-      "start_date": "2024-04-05T17:41:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2024-04-05T17:41:00+00:00",
-          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Atlanta location during the following scheduled maintenance window. \r\n\r\nStart Time: 2024-04-11 01:30:00 UTC\r\nEnd Time: 2024-04-11 05:30:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Atlanta instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
-        }
-      ]
-    },
-    {
       "id": "c79501db-32db-49b6-a8bb-46c0529f3452",
       "region": "tlv",
       "subject": "Potential service disruption in Tel Aviv",
