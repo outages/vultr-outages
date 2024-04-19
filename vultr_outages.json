@@ -5,21 +5,7 @@
       "location": "Amsterdam",
       "country": "NL",
       "country_name": "Netherlands",
-      "alerts": [
-        {
-          "id": "da82e02d-c3c2-4d40-92b3-05b09f40c22b",
-          "subject": "Amsterdam Scheduled Maintenance - 2024-04-16",
-          "status": "resolved",
-          "start_date": "2024-04-11T19:09:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2024-04-11T19:09:00+00:00",
-              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Amsterdam location during the following scheduled maintenance window. \r\n\r\nStart Time: 2024-04-16 22:00:00 UTC\r\nEnd Time: 2024-04-17 02:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Amsterdam instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "atl": {
       "location": "Atlanta",
@@ -316,7 +302,7 @@
         {
           "id": "ddac43c8-efb6-4b73-8568-132712e325bf",
           "subject": "Tel Aviv Scheduled Maintenance - 2024-04-18",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2024-04-11T19:39:00+00:00",
           "updated_at": "",
           "entries": [
