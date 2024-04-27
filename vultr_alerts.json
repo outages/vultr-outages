@@ -15,20 +15,6 @@
       ]
     },
     {
-      "id": "7c9d8821-03ea-40d6-a4d4-db16be25af6c",
-      "region": "ewr",
-      "subject": "New Jersey Scheduled Maintenance - 2024-04-25",
-      "start_date": "2024-04-16T18:03:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2024-04-16T18:03:00+00:00",
-          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the New Jersey location during the following scheduled maintenance window. \r\n\r\nStart Time: 2024-04-25 04:00:00 UTC\r\nEnd Time: 2024-04-25 08:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to New Jersey instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
-        }
-      ]
-    },
-    {
       "id": "0e45654a-0bfd-4ee1-9906-6391450f62cc",
       "region": "mad",
       "subject": "Madrid Scheduled Maintenance - 2024-05-01",
