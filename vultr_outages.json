@@ -5,140 +5,43 @@
       "location": "Amsterdam",
       "country": "NL",
       "country_name": "Netherlands",
-      "alerts": [
-        {
-          "id": "5ea55441-c47e-4c8b-abff-dbd6b7f98979",
-          "subject": "EMEA Maintenance - 2024-04-30 16:00 UTC",
-          "status": "ongoing",
-          "start_date": "2024-04-29T16:45:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2024-04-29T16:45:00+00:00",
-              "message": "At 16:00 UTC on Tuesday, 2024-04-30, we will be performing a reboot of the systems providing VNC / remote console access in the Europe, Middle East, and Africa regions.  During the reboot there will be a brief time where Bare Metal provisioning and VNC are unavailable. We expect minimal to no customer impact."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "atl": {
       "location": "Atlanta",
       "country": "US",
       "country_name": "United States",
-      "alerts": [
-        {
-          "id": "0ada8f74-8942-45a3-b6f9-dec302ed03d6",
-          "subject": "Americas Maintenance - 2024-04-30 15:30 UTC",
-          "status": "ongoing",
-          "start_date": "2024-04-29T16:40:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2024-04-29T16:40:00+00:00",
-              "message": "At 15:30 UTC on Tuesday, 2024-04-30, we will be performing a reboot of the systems providing VNC / remote console access in the Americas.  During the reboot there will be a brief time where Bare Metal provisioning and VNC are unavailable. We expect minimal to no customer impact."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "blr": {
       "location": "Bangalore",
       "country": "IN",
       "country_name": "India",
-      "alerts": [
-        {
-          "id": "17678e97-e852-49e8-b305-18c58890f9e1",
-          "subject": "APAC Maintenance - 2024-04-30 16:30 UTC",
-          "status": "ongoing",
-          "start_date": "2024-04-29T16:53:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2024-04-29T16:53:00+00:00",
-              "message": "At 16:30 UTC on Tuesday, 2024-04-30, we will be performing a reboot of the systems providing VNC / remote console access in our Asia, Pacific Island, and Australia Data Centers.  During the reboot there will be a brief time where Bare Metal provisioning and VNC are unavailable. We expect minimal to no customer impact."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "ord": {
       "location": "Chicago",
       "country": "US",
       "country_name": "United States",
-      "alerts": [
-        {
-          "id": "0ada8f74-8942-45a3-b6f9-dec302ed03d6",
-          "subject": "Americas Maintenance - 2024-04-30 15:30 UTC",
-          "status": "ongoing",
-          "start_date": "2024-04-29T16:40:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2024-04-29T16:40:00+00:00",
-              "message": "At 15:30 UTC on Tuesday, 2024-04-30, we will be performing a reboot of the systems providing VNC / remote console access in the Americas.  During the reboot there will be a brief time where Bare Metal provisioning and VNC are unavailable. We expect minimal to no customer impact."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "dfw": {
       "location": "Dallas",
       "country": "US",
       "country_name": "United States",
-      "alerts": [
-        {
-          "id": "0ada8f74-8942-45a3-b6f9-dec302ed03d6",
-          "subject": "Americas Maintenance - 2024-04-30 15:30 UTC",
-          "status": "ongoing",
-          "start_date": "2024-04-29T16:40:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2024-04-29T16:40:00+00:00",
-              "message": "At 15:30 UTC on Tuesday, 2024-04-30, we will be performing a reboot of the systems providing VNC / remote console access in the Americas.  During the reboot there will be a brief time where Bare Metal provisioning and VNC are unavailable. We expect minimal to no customer impact."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "del": {
       "location": "Delhi NCR",
       "country": "IN",
       "country_name": "India",
-      "alerts": [
-        {
-          "id": "17678e97-e852-49e8-b305-18c58890f9e1",
-          "subject": "APAC Maintenance - 2024-04-30 16:30 UTC",
-          "status": "ongoing",
-          "start_date": "2024-04-29T16:53:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2024-04-29T16:53:00+00:00",
-              "message": "At 16:30 UTC on Tuesday, 2024-04-30, we will be performing a reboot of the systems providing VNC / remote console access in our Asia, Pacific Island, and Australia Data Centers.  During the reboot there will be a brief time where Bare Metal provisioning and VNC are unavailable. We expect minimal to no customer impact."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "fra": {
       "location": "Frankfurt",
       "country": "DE",
       "country_name": "Germany",
       "alerts": [
-        {
-          "id": "5ea55441-c47e-4c8b-abff-dbd6b7f98979",
-          "subject": "EMEA Maintenance - 2024-04-30 16:00 UTC",
-          "status": "ongoing",
-          "start_date": "2024-04-29T16:45:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2024-04-29T16:45:00+00:00",
-              "message": "At 16:00 UTC on Tuesday, 2024-04-30, we will be performing a reboot of the systems providing VNC / remote console access in the Europe, Middle East, and Africa regions.  During the reboot there will be a brief time where Bare Metal provisioning and VNC are unavailable. We expect minimal to no customer impact."
-            }
-          ]
-        },
         {
           "id": "fe9f4bba-8686-496c-ae72-4b8056708769",
           "subject": "Frankfurt Scheduled Maintenance - 2024-04-30",
@@ -158,40 +61,13 @@
       "location": "Honolulu",
       "country": "US",
       "country_name": "United States",
-      "alerts": [
-        {
-          "id": "17678e97-e852-49e8-b305-18c58890f9e1",
-          "subject": "APAC Maintenance - 2024-04-30 16:30 UTC",
-          "status": "ongoing",
-          "start_date": "2024-04-29T16:53:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2024-04-29T16:53:00+00:00",
-              "message": "At 16:30 UTC on Tuesday, 2024-04-30, we will be performing a reboot of the systems providing VNC / remote console access in our Asia, Pacific Island, and Australia Data Centers.  During the reboot there will be a brief time where Bare Metal provisioning and VNC are unavailable. We expect minimal to no customer impact."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "jnb": {
       "location": "Johannesburg",
       "country": "ZA",
       "country_name": "South Africa",
       "alerts": [
-        {
-          "id": "5ea55441-c47e-4c8b-abff-dbd6b7f98979",
-          "subject": "EMEA Maintenance - 2024-04-30 16:00 UTC",
-          "status": "ongoing",
-          "start_date": "2024-04-29T16:45:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2024-04-29T16:45:00+00:00",
-              "message": "At 16:00 UTC on Tuesday, 2024-04-30, we will be performing a reboot of the systems providing VNC / remote console access in the Europe, Middle East, and Africa regions.  During the reboot there will be a brief time where Bare Metal provisioning and VNC are unavailable. We expect minimal to no customer impact."
-            }
-          ]
-        },
         {
           "id": "e3d1584e-dffd-4209-8de7-48f2dd1a39a2",
           "subject": "Johannesburg Scheduled Maintenance - 2024-04-29",
@@ -211,60 +87,19 @@
       "location": "London",
       "country": "GB",
       "country_name": "United Kingdom",
-      "alerts": [
-        {
-          "id": "5ea55441-c47e-4c8b-abff-dbd6b7f98979",
-          "subject": "EMEA Maintenance - 2024-04-30 16:00 UTC",
-          "status": "ongoing",
-          "start_date": "2024-04-29T16:45:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2024-04-29T16:45:00+00:00",
-              "message": "At 16:00 UTC on Tuesday, 2024-04-30, we will be performing a reboot of the systems providing VNC / remote console access in the Europe, Middle East, and Africa regions.  During the reboot there will be a brief time where Bare Metal provisioning and VNC are unavailable. We expect minimal to no customer impact."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "lax": {
       "location": "Los Angeles",
       "country": "US",
       "country_name": "United States",
-      "alerts": [
-        {
-          "id": "0ada8f74-8942-45a3-b6f9-dec302ed03d6",
-          "subject": "Americas Maintenance - 2024-04-30 15:30 UTC",
-          "status": "ongoing",
-          "start_date": "2024-04-29T16:40:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2024-04-29T16:40:00+00:00",
-              "message": "At 15:30 UTC on Tuesday, 2024-04-30, we will be performing a reboot of the systems providing VNC / remote console access in the Americas.  During the reboot there will be a brief time where Bare Metal provisioning and VNC are unavailable. We expect minimal to no customer impact."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "mad": {
       "location": "Madrid",
       "country": "ES",
       "country_name": "Spain",
       "alerts": [
-        {
-          "id": "5ea55441-c47e-4c8b-abff-dbd6b7f98979",
-          "subject": "EMEA Maintenance - 2024-04-30 16:00 UTC",
-          "status": "ongoing",
-          "start_date": "2024-04-29T16:45:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2024-04-29T16:45:00+00:00",
-              "message": "At 16:00 UTC on Tuesday, 2024-04-30, we will be performing a reboot of the systems providing VNC / remote console access in the Europe, Middle East, and Africa regions.  During the reboot there will be a brief time where Bare Metal provisioning and VNC are unavailable. We expect minimal to no customer impact."
-            }
-          ]
-        },
         {
           "id": "0e45654a-0bfd-4ee1-9906-6391450f62cc",
           "subject": "Madrid Scheduled Maintenance - 2024-05-01",
@@ -284,160 +119,49 @@
       "location": "Manchester",
       "country": "GB",
       "country_name": "United Kingdom",
-      "alerts": [
-        {
-          "id": "5ea55441-c47e-4c8b-abff-dbd6b7f98979",
-          "subject": "EMEA Maintenance - 2024-04-30 16:00 UTC",
-          "status": "ongoing",
-          "start_date": "2024-04-29T16:45:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2024-04-29T16:45:00+00:00",
-              "message": "At 16:00 UTC on Tuesday, 2024-04-30, we will be performing a reboot of the systems providing VNC / remote console access in the Europe, Middle East, and Africa regions.  During the reboot there will be a brief time where Bare Metal provisioning and VNC are unavailable. We expect minimal to no customer impact."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "mel": {
       "location": "Melbourne",
       "country": "AU",
       "country_name": "Australia",
-      "alerts": [
-        {
-          "id": "17678e97-e852-49e8-b305-18c58890f9e1",
-          "subject": "APAC Maintenance - 2024-04-30 16:30 UTC",
-          "status": "ongoing",
-          "start_date": "2024-04-29T16:53:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2024-04-29T16:53:00+00:00",
-              "message": "At 16:30 UTC on Tuesday, 2024-04-30, we will be performing a reboot of the systems providing VNC / remote console access in our Asia, Pacific Island, and Australia Data Centers.  During the reboot there will be a brief time where Bare Metal provisioning and VNC are unavailable. We expect minimal to no customer impact."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "mex": {
       "location": "Mexico City",
       "country": "MX",
       "country_name": "Mexico",
-      "alerts": [
-        {
-          "id": "0ada8f74-8942-45a3-b6f9-dec302ed03d6",
-          "subject": "Americas Maintenance - 2024-04-30 15:30 UTC",
-          "status": "ongoing",
-          "start_date": "2024-04-29T16:40:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2024-04-29T16:40:00+00:00",
-              "message": "At 15:30 UTC on Tuesday, 2024-04-30, we will be performing a reboot of the systems providing VNC / remote console access in the Americas.  During the reboot there will be a brief time where Bare Metal provisioning and VNC are unavailable. We expect minimal to no customer impact."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "mia": {
       "location": "Miami",
       "country": "US",
       "country_name": "United States",
-      "alerts": [
-        {
-          "id": "0ada8f74-8942-45a3-b6f9-dec302ed03d6",
-          "subject": "Americas Maintenance - 2024-04-30 15:30 UTC",
-          "status": "ongoing",
-          "start_date": "2024-04-29T16:40:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2024-04-29T16:40:00+00:00",
-              "message": "At 15:30 UTC on Tuesday, 2024-04-30, we will be performing a reboot of the systems providing VNC / remote console access in the Americas.  During the reboot there will be a brief time where Bare Metal provisioning and VNC are unavailable. We expect minimal to no customer impact."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "bom": {
       "location": "Mumbai",
       "country": "IN",
       "country_name": "India",
-      "alerts": [
-        {
-          "id": "17678e97-e852-49e8-b305-18c58890f9e1",
-          "subject": "APAC Maintenance - 2024-04-30 16:30 UTC",
-          "status": "ongoing",
-          "start_date": "2024-04-29T16:53:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2024-04-29T16:53:00+00:00",
-              "message": "At 16:30 UTC on Tuesday, 2024-04-30, we will be performing a reboot of the systems providing VNC / remote console access in our Asia, Pacific Island, and Australia Data Centers.  During the reboot there will be a brief time where Bare Metal provisioning and VNC are unavailable. We expect minimal to no customer impact."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "ewr": {
       "location": "New Jersey",
       "country": "US",
       "country_name": "United States",
-      "alerts": [
-        {
-          "id": "6f1039b7-17c0-43d8-a5bf-4742fe7d75fd",
-          "subject": "PNJ Maintenance - 2024-04-30 15:00 UTC",
-          "status": "ongoing",
-          "start_date": "2024-04-29T16:49:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2024-04-29T16:49:00+00:00",
-              "message": "At 15:00 UTC on Tuesday, 2024-04-30, we will be performing a reboot of the systems providing VNC / remote console access in PNJ.  During the reboot there will be a brief time where Bare Metal provisioning and VNC are unavailable. We expect minimal to no customer impact."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "itm": {
       "location": "Osaka",
       "country": "JP",
       "country_name": "Japan",
-      "alerts": [
-        {
-          "id": "17678e97-e852-49e8-b305-18c58890f9e1",
-          "subject": "APAC Maintenance - 2024-04-30 16:30 UTC",
-          "status": "ongoing",
-          "start_date": "2024-04-29T16:53:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2024-04-29T16:53:00+00:00",
-              "message": "At 16:30 UTC on Tuesday, 2024-04-30, we will be performing a reboot of the systems providing VNC / remote console access in our Asia, Pacific Island, and Australia Data Centers.  During the reboot there will be a brief time where Bare Metal provisioning and VNC are unavailable. We expect minimal to no customer impact."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "cdg": {
       "location": "Paris",
       "country": "FR",
       "country_name": "France",
       "alerts": [
-        {
-          "id": "5ea55441-c47e-4c8b-abff-dbd6b7f98979",
-          "subject": "EMEA Maintenance - 2024-04-30 16:00 UTC",
-          "status": "ongoing",
-          "start_date": "2024-04-29T16:45:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2024-04-29T16:45:00+00:00",
-              "message": "At 16:00 UTC on Tuesday, 2024-04-30, we will be performing a reboot of the systems providing VNC / remote console access in the Europe, Middle East, and Africa regions.  During the reboot there will be a brief time where Bare Metal provisioning and VNC are unavailable. We expect minimal to no customer impact."
-            }
-          ]
-        },
         {
           "id": "187c98a3-a484-4144-b9fe-483aa7ab1268",
           "subject": "Paris Scheduled Maintenance - 2024-05-14",
@@ -457,180 +181,55 @@
       "location": "Santiago",
       "country": "CL",
       "country_name": "Chile",
-      "alerts": [
-        {
-          "id": "0ada8f74-8942-45a3-b6f9-dec302ed03d6",
-          "subject": "Americas Maintenance - 2024-04-30 15:30 UTC",
-          "status": "ongoing",
-          "start_date": "2024-04-29T16:40:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2024-04-29T16:40:00+00:00",
-              "message": "At 15:30 UTC on Tuesday, 2024-04-30, we will be performing a reboot of the systems providing VNC / remote console access in the Americas.  During the reboot there will be a brief time where Bare Metal provisioning and VNC are unavailable. We expect minimal to no customer impact."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "sao": {
       "location": "São Paulo",
       "country": "BR",
       "country_name": "Brazil",
-      "alerts": [
-        {
-          "id": "0ada8f74-8942-45a3-b6f9-dec302ed03d6",
-          "subject": "Americas Maintenance - 2024-04-30 15:30 UTC",
-          "status": "ongoing",
-          "start_date": "2024-04-29T16:40:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2024-04-29T16:40:00+00:00",
-              "message": "At 15:30 UTC on Tuesday, 2024-04-30, we will be performing a reboot of the systems providing VNC / remote console access in the Americas.  During the reboot there will be a brief time where Bare Metal provisioning and VNC are unavailable. We expect minimal to no customer impact."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "sea": {
       "location": "Seattle",
       "country": "US",
       "country_name": "United States",
-      "alerts": [
-        {
-          "id": "0ada8f74-8942-45a3-b6f9-dec302ed03d6",
-          "subject": "Americas Maintenance - 2024-04-30 15:30 UTC",
-          "status": "ongoing",
-          "start_date": "2024-04-29T16:40:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2024-04-29T16:40:00+00:00",
-              "message": "At 15:30 UTC on Tuesday, 2024-04-30, we will be performing a reboot of the systems providing VNC / remote console access in the Americas.  During the reboot there will be a brief time where Bare Metal provisioning and VNC are unavailable. We expect minimal to no customer impact."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "icn": {
       "location": "Seoul",
       "country": "KR",
       "country_name": "Korea, Republic of",
-      "alerts": [
-        {
-          "id": "17678e97-e852-49e8-b305-18c58890f9e1",
-          "subject": "APAC Maintenance - 2024-04-30 16:30 UTC",
-          "status": "ongoing",
-          "start_date": "2024-04-29T16:53:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2024-04-29T16:53:00+00:00",
-              "message": "At 16:30 UTC on Tuesday, 2024-04-30, we will be performing a reboot of the systems providing VNC / remote console access in our Asia, Pacific Island, and Australia Data Centers.  During the reboot there will be a brief time where Bare Metal provisioning and VNC are unavailable. We expect minimal to no customer impact."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "sjc": {
       "location": "Silicon Valley",
       "country": "US",
       "country_name": "United States",
-      "alerts": [
-        {
-          "id": "0ada8f74-8942-45a3-b6f9-dec302ed03d6",
-          "subject": "Americas Maintenance - 2024-04-30 15:30 UTC",
-          "status": "ongoing",
-          "start_date": "2024-04-29T16:40:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2024-04-29T16:40:00+00:00",
-              "message": "At 15:30 UTC on Tuesday, 2024-04-30, we will be performing a reboot of the systems providing VNC / remote console access in the Americas.  During the reboot there will be a brief time where Bare Metal provisioning and VNC are unavailable. We expect minimal to no customer impact."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "sgp": {
       "location": "Singapore",
       "country": "SG",
       "country_name": "Singapore",
-      "alerts": [
-        {
-          "id": "17678e97-e852-49e8-b305-18c58890f9e1",
-          "subject": "APAC Maintenance - 2024-04-30 16:30 UTC",
-          "status": "ongoing",
-          "start_date": "2024-04-29T16:53:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2024-04-29T16:53:00+00:00",
-              "message": "At 16:30 UTC on Tuesday, 2024-04-30, we will be performing a reboot of the systems providing VNC / remote console access in our Asia, Pacific Island, and Australia Data Centers.  During the reboot there will be a brief time where Bare Metal provisioning and VNC are unavailable. We expect minimal to no customer impact."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "sto": {
       "location": "Stockholm",
       "country": "SE",
       "country_name": "Sweden",
-      "alerts": [
-        {
-          "id": "5ea55441-c47e-4c8b-abff-dbd6b7f98979",
-          "subject": "EMEA Maintenance - 2024-04-30 16:00 UTC",
-          "status": "ongoing",
-          "start_date": "2024-04-29T16:45:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2024-04-29T16:45:00+00:00",
-              "message": "At 16:00 UTC on Tuesday, 2024-04-30, we will be performing a reboot of the systems providing VNC / remote console access in the Europe, Middle East, and Africa regions.  During the reboot there will be a brief time where Bare Metal provisioning and VNC are unavailable. We expect minimal to no customer impact."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "syd": {
       "location": "Sydney",
       "country": "AU",
       "country_name": "Australia",
-      "alerts": [
-        {
-          "id": "17678e97-e852-49e8-b305-18c58890f9e1",
-          "subject": "APAC Maintenance - 2024-04-30 16:30 UTC",
-          "status": "ongoing",
-          "start_date": "2024-04-29T16:53:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2024-04-29T16:53:00+00:00",
-              "message": "At 16:30 UTC on Tuesday, 2024-04-30, we will be performing a reboot of the systems providing VNC / remote console access in our Asia, Pacific Island, and Australia Data Centers.  During the reboot there will be a brief time where Bare Metal provisioning and VNC are unavailable. We expect minimal to no customer impact."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "tlv": {
       "location": "Tel Aviv",
       "country": "IL",
       "country_name": "Israel",
       "alerts": [
-        {
-          "id": "5ea55441-c47e-4c8b-abff-dbd6b7f98979",
-          "subject": "EMEA Maintenance - 2024-04-30 16:00 UTC",
-          "status": "ongoing",
-          "start_date": "2024-04-29T16:45:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2024-04-29T16:45:00+00:00",
-              "message": "At 16:00 UTC on Tuesday, 2024-04-30, we will be performing a reboot of the systems providing VNC / remote console access in the Europe, Middle East, and Africa regions.  During the reboot there will be a brief time where Bare Metal provisioning and VNC are unavailable. We expect minimal to no customer impact."
-            }
-          ]
-        },
         {
           "id": "c79501db-32db-49b6-a8bb-46c0529f3452",
           "subject": "Potential service disruption in Tel Aviv",
@@ -650,61 +249,19 @@
       "location": "Tokyo",
       "country": "JP",
       "country_name": "Japan",
-      "alerts": [
-        {
-          "id": "17678e97-e852-49e8-b305-18c58890f9e1",
-          "subject": "APAC Maintenance - 2024-04-30 16:30 UTC",
-          "status": "ongoing",
-          "start_date": "2024-04-29T16:53:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2024-04-29T16:53:00+00:00",
-              "message": "At 16:30 UTC on Tuesday, 2024-04-30, we will be performing a reboot of the systems providing VNC / remote console access in our Asia, Pacific Island, and Australia Data Centers.  During the reboot there will be a brief time where Bare Metal provisioning and VNC are unavailable. We expect minimal to no customer impact."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "yto": {
       "location": "Toronto",
       "country": "CA",
       "country_name": "Canada",
-      "alerts": [
-        {
-          "id": "0ada8f74-8942-45a3-b6f9-dec302ed03d6",
-          "subject": "Americas Maintenance - 2024-04-30 15:30 UTC",
-          "status": "ongoing",
-          "start_date": "2024-04-29T16:40:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2024-04-29T16:40:00+00:00",
-              "message": "At 15:30 UTC on Tuesday, 2024-04-30, we will be performing a reboot of the systems providing VNC / remote console access in the Americas.  During the reboot there will be a brief time where Bare Metal provisioning and VNC are unavailable. We expect minimal to no customer impact."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "waw": {
       "location": "Warsaw",
       "country": "PL",
       "country_name": "Poland",
-      "alerts": [
-        {
-          "id": "5ea55441-c47e-4c8b-abff-dbd6b7f98979",
-          "subject": "EMEA Maintenance - 2024-04-30 16:00 UTC",
-          "status": "ongoing",
-          "start_date": "2024-04-29T16:45:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2024-04-29T16:45:00+00:00",
-              "message": "At 16:00 UTC on Tuesday, 2024-04-30, we will be performing a reboot of the systems providing VNC / remote console access in the Europe, Middle East, and Africa regions.  During the reboot there will be a brief time where Bare Metal provisioning and VNC are unavailable. We expect minimal to no customer impact."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     }
   }
 }
