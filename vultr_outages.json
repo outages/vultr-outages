@@ -45,7 +45,7 @@
         {
           "id": "fe9f4bba-8686-496c-ae72-4b8056708769",
           "subject": "Frankfurt Scheduled Maintenance - 2024-04-30",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2024-04-12T18:19:00+00:00",
           "updated_at": "",
           "entries": [
