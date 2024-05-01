@@ -103,7 +103,7 @@
         {
           "id": "0e45654a-0bfd-4ee1-9906-6391450f62cc",
           "subject": "Madrid Scheduled Maintenance - 2024-05-01",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2024-04-12T18:22:00+00:00",
           "updated_at": "",
           "entries": [
