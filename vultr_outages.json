@@ -71,21 +71,7 @@
       "location": "Madrid",
       "country": "ES",
       "country_name": "Spain",
-      "alerts": [
-        {
-          "id": "0e45654a-0bfd-4ee1-9906-6391450f62cc",
-          "subject": "Madrid Scheduled Maintenance - 2024-05-01",
-          "status": "resolved",
-          "start_date": "2024-04-12T18:22:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2024-04-12T18:22:00+00:00",
-              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Madrid location during the following scheduled maintenance window. \r\n\r\nStart Time: 2024-05-01 20:30:00 UTC\r\nEnd Time: 2024-05-02 00:30:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Madrid instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "man": {
       "location": "Manchester",
