@@ -11,7 +11,21 @@
       "location": "Atlanta",
       "country": "US",
       "country_name": "United States",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "4eb98a47-d0f0-4bbf-a64e-07007dc9f6f9",
+          "subject": "Partial Outage",
+          "status": "ongoing",
+          "start_date": "2024-05-04T05:05:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2024-05-04T05:05:00+00:00",
+              "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
+            }
+          ]
+        }
+      ]
     },
     "blr": {
       "location": "Bangalore",
