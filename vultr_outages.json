@@ -101,8 +101,12 @@
           "subject": "Partial Miami Outage",
           "status": "ongoing",
           "start_date": "2024-05-06T18:46:00+00:00",
-          "updated_at": "2024-05-06T21:06:00+00:00",
+          "updated_at": "2024-05-06T22:32:00+00:00",
           "entries": [
+            {
+              "updated_at": "2024-05-06T22:32:00+00:00",
+              "message": "We have recently been updated that the Transit provider has identified a higher level one way fiber issue and are engaging with on site teams to rectify issue."
+            },
             {
               "updated_at": "2024-05-06T21:06:00+00:00",
               "message": "The provider for the interconnect has been made aware and we are awaiting updates from them."
