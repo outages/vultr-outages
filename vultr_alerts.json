@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "efdb4e3d-3665-4ddc-8f37-ad40694a2ddb",
+      "region": "tlv",
+      "subject": "Tel Aviv Emergency Maintenance - 2024-05-08",
+      "start_date": "2024-05-06T13:07:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2024-05-06T13:07:00+00:00",
+          "message": "Event Type: Network Emergency\r\n\r\nWe are performing system changes in the Tel Aviv location during the following emergency maintenance window. \r\n\r\nStart Time: 2024-05-08 21:00:00 UTC\r\nEnd Time: 2024-05-09 01:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Tel Aviv instances may be unreachable for some, or all, of the emergency maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
       "id": "187c98a3-a484-4144-b9fe-483aa7ab1268",
       "region": "cdg",
       "subject": "Paris Scheduled Maintenance - 2024-05-14",
