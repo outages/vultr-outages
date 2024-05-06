@@ -101,8 +101,12 @@
           "subject": "Partial Miami Outage",
           "status": "ongoing",
           "start_date": "2024-05-06T18:46:00+00:00",
-          "updated_at": "2024-05-06T19:31:00+00:00",
+          "updated_at": "2024-05-06T21:06:00+00:00",
           "entries": [
+            {
+              "updated_at": "2024-05-06T21:06:00+00:00",
+              "message": "The provider for the interconnect has been made aware and we are awaiting updates from them."
+            },
             {
               "updated_at": "2024-05-06T19:31:00+00:00",
               "message": "After initial investigations, we found that the issue lies within our interconnect for the Miami Datacenter. We are working with onsite technicians to further diagnose and resolve the issue. We are unfortunately unable to give an ETA at this time."
