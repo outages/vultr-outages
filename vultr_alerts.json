@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "59560a04-385c-4053-8045-b11b406b1a3f",
+      "region": "dfw",
+      "subject": "Dallas Scheduled Maintenance - 2024-05-29",
+      "start_date": "2024-05-08T16:35:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2024-05-08T16:35:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Dallas location during the following scheduled maintenance window. \r\n\r\nStart Time: 2024-05-29 05:00:00 UTC\r\nEnd Time: 2024-05-29 09:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Dallas instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+        }
+      ]
+    },
+    {
       "id": "412a6ecb-9cd9-4f1b-b0e0-51520006b149",
       "region": "mia",
       "subject": "Partial Miami Outage",
