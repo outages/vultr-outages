@@ -29,36 +29,6 @@
       ]
     },
     {
-      "id": "412a6ecb-9cd9-4f1b-b0e0-51520006b149",
-      "region": "mia",
-      "subject": "Partial Miami Outage",
-      "start_date": "2024-05-06T18:46:00+00:00",
-      "updated_at": "2024-05-07T20:36:00+00:00",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2024-05-07T20:36:00+00:00",
-          "message": "Level3 found the fiber problem & moved our circuits to working strands.\r\nAll mia1<>mia2 connectivity has been restored."
-        },
-        {
-          "updated_at": "2024-05-06T22:32:00+00:00",
-          "message": "We have recently been updated that the Transit provider has identified a higher level one way fiber issue and are engaging with on site teams to rectify issue."
-        },
-        {
-          "updated_at": "2024-05-06T21:06:00+00:00",
-          "message": "The provider for the interconnect has been made aware and we are awaiting updates from them."
-        },
-        {
-          "updated_at": "2024-05-06T19:31:00+00:00",
-          "message": "After initial investigations, we found that the issue lies within our interconnect for the Miami Datacenter. We are working with onsite technicians to further diagnose and resolve the issue. We are unfortunately unable to give an ETA at this time."
-        },
-        {
-          "updated_at": "2024-05-06T18:46:00+00:00",
-          "message": "We are currently experiencing a partial outage in our Miami location. Our System Administrators are actively working with our onsite technicians to restore service as quickly as possible."
-        }
-      ]
-    },
-    {
       "id": "efdb4e3d-3665-4ddc-8f37-ad40694a2ddb",
       "region": "tlv",
       "subject": "Tel Aviv Emergency Maintenance - 2024-05-08",
