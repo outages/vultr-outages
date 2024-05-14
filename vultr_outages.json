@@ -55,7 +55,21 @@
       "location": "Frankfurt",
       "country": "DE",
       "country_name": "Germany",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "55d83820-fa36-486c-8acd-10455b228293",
+          "subject": "Hardware issue on the host node",
+          "status": "ongoing",
+          "start_date": "2024-05-14T13:54:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2024-05-14T13:54:00+00:00",
+              "message": "Our remote hands team is looking into a hardware issue on the the host node on which your VPS resides."
+            }
+          ]
+        }
+      ]
     },
     "hnl": {
       "location": "Honolulu",
