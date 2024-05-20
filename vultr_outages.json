@@ -248,7 +248,21 @@
       "location": "Tokyo",
       "country": "JP",
       "country_name": "Japan",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "7200909e-f88a-4834-a958-26c2f0cf4176",
+          "subject": "Tokyo Scheduled Maintenance - 2024-05-29",
+          "status": "ongoing",
+          "start_date": "2024-05-20T15:08:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2024-05-20T15:08:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Tokyo location during the following scheduled maintenance window. \r\n\r\nStart Time: 2024-05-29 15:00:00 UTC\r\nEnd Time: 2024-05-29 19:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Tokyo instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+            }
+          ]
+        }
+      ]
     },
     "yto": {
       "location": "Toronto",
