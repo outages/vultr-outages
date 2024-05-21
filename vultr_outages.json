@@ -211,7 +211,7 @@
         {
           "id": "fc03ca43-efb3-4ac9-a837-0e882cfbb294",
           "subject": "Seattle Partial Network Outage",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2024-05-21T00:02:00+00:00",
           "updated_at": "",
           "entries": [
