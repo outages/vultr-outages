@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "76097212-eabb-46a1-add5-de8de76a609d",
+      "region": "hnl",
+      "subject": " Honolulu Degraded Network Performance",
+      "start_date": "2024-05-30T05:46:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2024-05-30T05:46:00+00:00",
+          "message": "We are currently experiencing degraded network performance in our \r\nHonolulu location. Our network engineers are actively working with our upstream providers to resolve the issue as quickly as possible."
+        }
+      ]
+    },
+    {
       "id": "b18b72c8-78a6-472a-9e47-e9df0f64dbbc",
       "region": "dfw",
       "subject": "Dallas Scheduled Maintenance - 2024-06-04",

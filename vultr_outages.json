@@ -88,7 +88,21 @@
       "location": "Honolulu",
       "country": "US",
       "country_name": "United States",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "76097212-eabb-46a1-add5-de8de76a609d",
+          "subject": " Honolulu Degraded Network Performance",
+          "status": "ongoing",
+          "start_date": "2024-05-30T05:46:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2024-05-30T05:46:00+00:00",
+              "message": "We are currently experiencing degraded network performance in our \r\nHonolulu location. Our network engineers are actively working with our upstream providers to resolve the issue as quickly as possible."
+            }
+          ]
+        }
+      ]
     },
     "jnb": {
       "location": "Johannesburg",
