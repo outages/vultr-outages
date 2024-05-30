@@ -142,7 +142,7 @@
         {
           "id": "fcf55e03-6ecb-47c0-8b2b-af3fac6b5b67",
           "subject": "Melbourne Scheduled Maintenance - 2024-05-30",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2024-05-20T14:23:00+00:00",
           "updated_at": "",
           "entries": [
