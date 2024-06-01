@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "c946ac1a-f220-4527-be09-c1314d34b887",
+      "region": "sea",
+      "subject": "Seattle Network Outage",
+      "start_date": "2024-06-01T15:33:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2024-06-01T15:33:00+00:00",
+          "message": "We are currently experiencing a partial outage in our Seattle location. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible."
+        }
+      ]
+    },
+    {
       "id": "b18b72c8-78a6-472a-9e47-e9df0f64dbbc",
       "region": "dfw",
       "subject": "Dallas Scheduled Maintenance - 2024-06-04",
