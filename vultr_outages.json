@@ -155,7 +155,7 @@
         {
           "id": "c946ac1a-f220-4527-be09-c1314d34b887",
           "subject": "Seattle Network Outage",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2024-06-01T15:33:00+00:00",
           "updated_at": "",
           "entries": [
