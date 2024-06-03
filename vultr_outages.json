@@ -31,6 +31,19 @@
       "country_name": "United States",
       "alerts": [
         {
+          "id": "9875fdee-0e55-494b-ac6d-6a85b31d2770",
+          "subject": "Dallas Scheduled Maintenance - 2024-06-12",
+          "status": "ongoing",
+          "start_date": "2024-06-03T17:42:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2024-06-03T17:42:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Dallas location during the following scheduled maintenance window. \r\n\r\nStart Time: 2024-06-12 03:00:00 UTC\r\nEnd Time: 2024-06-12 07:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Dallas instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+            }
+          ]
+        },
+        {
           "id": "b18b72c8-78a6-472a-9e47-e9df0f64dbbc",
           "subject": "Dallas Scheduled Maintenance - 2024-06-04",
           "status": "ongoing",
