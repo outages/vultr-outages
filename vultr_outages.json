@@ -46,7 +46,7 @@
         {
           "id": "b18b72c8-78a6-472a-9e47-e9df0f64dbbc",
           "subject": "Dallas Scheduled Maintenance - 2024-06-04",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2024-05-24T16:29:00+00:00",
           "updated_at": "",
           "entries": [
