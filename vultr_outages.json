@@ -123,6 +123,19 @@
       "country_name": "United States",
       "alerts": [
         {
+          "id": "bb34505f-195c-4a6b-bf93-513c3778f333",
+          "subject": "New Jersey Network Outage",
+          "status": "ongoing",
+          "start_date": "2024-06-07T20:29:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2024-06-07T20:29:00+00:00",
+              "message": "We are currently experiencing a partial outage in our New Jersey location. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible."
+            }
+          ]
+        },
+        {
           "id": "a2110ff0-4c9d-4ad2-b291-8769f5a30d31",
           "subject": "New Jersey Emergency Maintenance - 2024-06-07",
           "status": "resolved",
