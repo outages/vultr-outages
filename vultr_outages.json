@@ -1,6 +1,26 @@
 {
   "service_alerts": [],
   "regions": {
+    "global": {
+      "location": "All Locations",
+      "country": "ALL",
+      "country_name": "Global",
+      "alerts": [
+        {
+          "id": "c0e167c9-a412-4c55-9e30-94b09aa074ae",
+          "subject": "Global Deployment Delays",
+          "status": "ongoing",
+          "start_date": "2024-06-11T17:54:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2024-06-11T17:54:00+00:00",
+              "message": "Some customers are currently experiencing slower than normal instance deployment times in all locations. Our engineering team is aware of this issue and is working diligently to resolve this as quickly as possible."
+            }
+          ]
+        }
+      ]
+    },
     "ams": {
       "location": "Amsterdam",
       "country": "NL",

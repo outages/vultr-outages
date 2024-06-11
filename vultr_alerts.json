@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "c0e167c9-a412-4c55-9e30-94b09aa074ae",
+      "region": "global",
+      "subject": "Global Deployment Delays",
+      "start_date": "2024-06-11T17:54:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2024-06-11T17:54:00+00:00",
+          "message": "Some customers are currently experiencing slower than normal instance deployment times in all locations. Our engineering team is aware of this issue and is working diligently to resolve this as quickly as possible."
+        }
+      ]
+    },
+    {
       "id": "34675e34-899f-4bb6-804f-7105c0071dc3",
       "region": "ewr",
       "subject": "New Jersey NVMe Block Storage Upgrades - 2024-06-13",
