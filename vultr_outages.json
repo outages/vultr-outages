@@ -147,6 +147,19 @@
       "country_name": "United States",
       "alerts": [
         {
+          "id": "7919b578-6a19-480d-b917-1032e5bc5821",
+          "subject": "New Jersey Scheduled Maintenance - 2024-06-19",
+          "status": "ongoing",
+          "start_date": "2024-06-13T14:33:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2024-06-13T14:33:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the New Jersey location during the following scheduled maintenance window. \r\n\r\nStart Time: 2024-06-19 04:00:00 UTC\r\nEnd Time: 2024-06-19 08:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, New Jersey instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        },
+        {
           "id": "34675e34-899f-4bb6-804f-7105c0071dc3",
           "subject": "New Jersey NVMe Block Storage Upgrades - 2024-06-13",
           "status": "ongoing",
