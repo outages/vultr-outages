@@ -217,6 +217,19 @@
       "country_name": "Israel",
       "alerts": [
         {
+          "id": "2a151640-128e-4bca-a755-2a9b3a7d053d",
+          "subject": "Tel Aviv Network Outage",
+          "status": "ongoing",
+          "start_date": "2024-06-17T13:02:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2024-06-17T13:02:00+00:00",
+              "message": "We are currently experiencing a partial outage in our Tel Aviv location. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible."
+            }
+          ]
+        },
+        {
           "id": "c79501db-32db-49b6-a8bb-46c0529f3452",
           "subject": "Potential service disruption in Tel Aviv",
           "status": "ongoing",
