@@ -49,21 +49,7 @@
       "location": "Delhi NCR",
       "country": "IN",
       "country_name": "India",
-      "alerts": [
-        {
-          "id": "ea20cadb-d272-4259-99ab-37e4055453ce",
-          "subject": "Delhi NCR Scheduled Maintenance - 2024-06-24",
-          "status": "resolved",
-          "start_date": "2024-06-18T20:22:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2024-06-18T20:22:00+00:00",
-              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Delhi NCR location during the following scheduled maintenance window. \r\n\r\nStart Time: 2024-06-24 19:00:00 UTC\r\nEnd Time: 2024-06-24 23:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Delhi NCR instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "fra": {
       "location": "Frankfurt",
