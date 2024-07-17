@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "b98115c1-50be-4833-8f0a-0266f38cc472",
+      "region": "sea",
+      "subject": "Seattle Scheduled Maintenance - 2024-07-23",
+      "start_date": "2024-07-17T19:51:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2024-07-17T19:51:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Seattle location during the following scheduled maintenance window. \r\n\r\nStart Time: 2024-07-23 07:00:00 UTC\r\nEnd Time: 2024-07-23 11:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Seattle instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+        }
+      ]
+    },
+    {
       "id": "2b798508-0b5d-4614-98ba-c019a2c42e1b",
       "region": "lax",
       "subject": "Los Angeles Scheduled Maintenance - 2024-07-23",
