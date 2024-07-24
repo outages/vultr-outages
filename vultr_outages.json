@@ -228,19 +228,6 @@
               "message": "Event Type: Network Emergency\r\n\r\nWe are performing system changes in the Singapore location during the following emergency maintenance window. \r\n\r\nStart Time: 2024-07-22 19:50:00 UTC\r\nEnd Time: 2024-07-22 23:50:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Singapore instances may be unreachable for some, or all, of the emergency maintenance window as we perform network, firmware, or host upgrades."
             }
           ]
-        },
-        {
-          "id": "c4246762-15cb-4fbc-bef5-7ab843412e46",
-          "subject": "Singapore Degraded Network Performance",
-          "status": "resolved",
-          "start_date": "2024-07-22T08:26:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2024-07-22T08:26:00+00:00",
-              "message": "We are currently experiencing degraded network performance in our Singapore location. Our network engineers are actively working with our upstream providers to resolve the issue as quickly as possible.\r\n\r\nThis is related to the recent issues regarding an undersea cable malfunction within the region. Connectivity may be intermittent until that is ultimately resolved."
-            }
-          ]
         }
       ]
     },
