@@ -137,7 +137,7 @@
         {
           "id": "47d111c1-245e-4b06-8501-498e0535533a",
           "subject": "Paris Scheduled Maintenance - 2024-07-25",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2024-07-08T16:52:00+00:00",
           "updated_at": "",
           "entries": [
