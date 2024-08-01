@@ -196,19 +196,6 @@
               "message": "Event Type: Network Emergency\r\n\r\nWe are performing system changes in the Singapore location during the following emergency maintenance window. \r\n\r\nStart Time: 2024-08-01 16:20:00 UTC\r\nEnd Time: 2024-08-01 20:20:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Singapore instances may be unreachable for some, or all, of the emergency maintenance window as we perform network, firmware, or host upgrades."
             }
           ]
-        },
-        {
-          "id": "c965fdea-c7ec-4f2d-86c6-bdf46092cef1",
-          "subject": "Singapore Scheduled Maintenance - 2024-07-30",
-          "status": "resolved",
-          "start_date": "2024-07-25T15:40:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2024-07-25T15:40:00+00:00",
-              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Singapore location during the following scheduled maintenance window. \r\n\r\nStart Time: 2024-07-30 16:00:00 UTC\r\nEnd Time: 2024-07-30 20:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Singapore instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
-            }
-          ]
         }
       ]
     },
