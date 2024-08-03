@@ -169,21 +169,7 @@
       "location": "Singapore",
       "country": "SG",
       "country_name": "Singapore",
-      "alerts": [
-        {
-          "id": "da6eb139-ed07-46a1-b0e7-6d6f1f4db6b7",
-          "subject": "Singapore Emergency Maintenance - 2024-08-01",
-          "status": "resolved",
-          "start_date": "2024-08-01T15:18:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2024-08-01T15:18:00+00:00",
-              "message": "Event Type: Network Emergency\r\n\r\nWe are performing system changes in the Singapore location during the following emergency maintenance window. \r\n\r\nStart Time: 2024-08-01 16:20:00 UTC\r\nEnd Time: 2024-08-01 20:20:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Singapore instances may be unreachable for some, or all, of the emergency maintenance window as we perform network, firmware, or host upgrades."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "sto": {
       "location": "Stockholm",
