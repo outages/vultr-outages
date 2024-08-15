@@ -25,6 +25,19 @@
       "country_name": "United States",
       "alerts": [
         {
+          "id": "a822f47e-e9db-4569-ba86-4834fe8744f9",
+          "subject": "Chicago Degraded Network Performance",
+          "status": "ongoing",
+          "start_date": "2024-08-15T07:45:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2024-08-15T07:45:00+00:00",
+              "message": "We are currently experiencing degraded network performance in our Chicago location. Our network engineers are actively working with our upstream providers to resolve the issue as quickly as possible."
+            }
+          ]
+        },
+        {
           "id": "7dd1f0d8-0388-47ab-a7e7-6e9fe7cdf45d",
           "subject": "Chicago Scheduled Maintenance - 2024-08-15",
           "status": "resolved",
