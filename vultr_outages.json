@@ -23,7 +23,21 @@
       "location": "Chicago",
       "country": "US",
       "country_name": "United States",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "74c8ce38-f20e-42c3-9627-751bf9492cde",
+          "subject": "Chicago Scheduled Maintenance - 2024-08-28",
+          "status": "ongoing",
+          "start_date": "2024-08-19T14:14:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2024-08-19T14:14:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Chicago location during the following scheduled maintenance window. \r\n\r\nStart Time: 2024-08-28 05:00:00 UTC\r\nEnd Time: 2024-08-28 09:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Chicago instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+            }
+          ]
+        }
+      ]
     },
     "dfw": {
       "location": "Dallas",
@@ -41,13 +55,41 @@
       "location": "Frankfurt",
       "country": "DE",
       "country_name": "Germany",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "30337b37-25be-47ba-b19d-a644b0cbfc2b",
+          "subject": "Frankfurt Scheduled Maintenance - 2024-08-28",
+          "status": "ongoing",
+          "start_date": "2024-08-16T17:55:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2024-08-16T17:55:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Frankfurt location during the following scheduled maintenance window. \r\n\r\nStart Time: 2024-08-28 22:00:00 UTC\r\nEnd Time: 2024-08-29 02:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Frankfurt instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+            }
+          ]
+        }
+      ]
     },
     "hnl": {
       "location": "Honolulu",
       "country": "US",
       "country_name": "United States",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "5c5f3b7e-b79e-441b-825f-091d988dcd9c",
+          "subject": "Honolulu Scheduled Maintenance - 2024-08-27",
+          "status": "ongoing",
+          "start_date": "2024-08-16T17:49:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2024-08-16T17:49:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Honolulu location during the following scheduled maintenance window. \r\n\r\nStart Time: 2024-08-27 10:00:00 UTC\r\nEnd Time: 2024-08-27 14:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Honolulu instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+            }
+          ]
+        }
+      ]
     },
     "jnb": {
       "location": "Johannesburg",
@@ -123,7 +165,21 @@
       "location": "Miami",
       "country": "US",
       "country_name": "United States",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "ab6ba0a7-a54e-469d-8381-fae6e37afabc",
+          "subject": "Miami Scheduled Maintenance - 2024-08-29",
+          "status": "ongoing",
+          "start_date": "2024-08-16T17:58:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2024-08-16T17:58:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Miami location during the following scheduled maintenance window. \r\n\r\nStart Time: 2024-08-29 04:00:00 UTC\r\nEnd Time: 2024-08-29 08:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Miami instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+            }
+          ]
+        }
+      ]
     },
     "bom": {
       "location": "Mumbai",
