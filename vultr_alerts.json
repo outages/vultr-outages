@@ -15,20 +15,6 @@
       ]
     },
     {
-      "id": "27077c32-b15d-46ed-8c97-9fd44eddcdab",
-      "region": "sgp",
-      "subject": "Singapore Emergency Maintenance - 2024-08-19",
-      "start_date": "2024-08-19T19:07:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2024-08-19T19:07:00+00:00",
-          "message": "Event Type: Network Emergency\r\n\r\nWe are performing system changes in the Singapore location during the following emergency maintenance window. \r\n\r\nStart Time: 2024-08-19 20:15:00 UTC\r\nEnd Time: 2024-08-20 00:15:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Singapore instances may be unreachable for some, or all, of the emergency maintenance window as we perform network, firmware, or host upgrades."
-        }
-      ]
-    },
-    {
       "id": "74c8ce38-f20e-42c3-9627-751bf9492cde",
       "region": "ord",
       "subject": "Chicago Scheduled Maintenance - 2024-08-28",
