@@ -25,19 +25,6 @@
       "country_name": "United States",
       "alerts": [
         {
-          "id": "1eb52819-429d-45e3-a7c1-f2c856be2c72",
-          "subject": "Chicago Emergency Maintenance - 2024-08-20",
-          "status": "resolved",
-          "start_date": "2024-08-19T19:27:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2024-08-19T19:27:00+00:00",
-              "message": "Event Type: Network Emergency\r\n\r\nWe are performing system changes in the Chicago location during the following emergency maintenance window. \r\n\r\nStart Time: 2024-08-20 05:00:00 UTC\r\nEnd Time: 2024-08-20 09:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Chicago instances may be unreachable for some, or all, of the emergency maintenance window as we perform network, firmware, or host upgrades."
-            }
-          ]
-        },
-        {
           "id": "74c8ce38-f20e-42c3-9627-751bf9492cde",
           "subject": "Chicago Scheduled Maintenance - 2024-08-28",
           "status": "ongoing",
