@@ -5,7 +5,21 @@
       "location": "Amsterdam",
       "country": "NL",
       "country_name": "Netherlands",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "1c679b8c-a963-4534-9d24-067fcaa21d27",
+          "subject": "Amsterdam Object Storage Upgrades - 2024-09-19",
+          "status": "ongoing",
+          "start_date": "2024-09-10T18:28:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2024-09-10T18:28:00+00:00",
+              "message": "Event Type: Object Storage Infrastructure Maintenance\r\nStart Time: 2024-09-19 13:20:00 UTC\r\nEnd Time: 2024-09-19 16:20:00 UTC\r\n\r\nOur Cloud Storage team will be performing upgrades to our Amsterdam Object Storage infrastructure starting at YYYY-MM-DD HH:MM UTC. During this maintenance window, creating, attaching, resizing, and deletion of Object Storage subscriptions may be temporarily unavailable.\r\n\r\nPreviously deployed Object Storage subscriptions in Amsterdam will remain online."
+            }
+          ]
+        }
+      ]
     },
     "atl": {
       "location": "Atlanta",
@@ -17,7 +31,21 @@
       "location": "Bangalore",
       "country": "IN",
       "country_name": "India",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "3e4c99e2-8bd3-4e94-a6f8-429a139000b5",
+          "subject": "Bangalore Object Storage Upgrades - 2024-09-16",
+          "status": "ongoing",
+          "start_date": "2024-09-10T15:03:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2024-09-10T15:03:00+00:00",
+              "message": "Event Type: Object Storage Infrastructure Maintenance\r\nStart Time: 2024-09-16 14:15:00 UTC\r\nEnd Time: 2024-09-16 18:15:00 UTC\r\n\r\nOur Cloud Storage team will be performing upgrades to our Bangalore Object Storage infrastructure starting at 2024-09-16 14:00:00 UTC. During this maintenance window, creating, attaching, resizing, and deletion of Object Storage subscriptions may be temporarily unavailable.\r\n\r\nPreviously deployed Object Storage subscriptions in Bangalore will remain online."
+            }
+          ]
+        }
+      ]
     },
     "ord": {
       "location": "Chicago",
@@ -49,7 +77,21 @@
       "location": "Delhi NCR",
       "country": "IN",
       "country_name": "India",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "0f8c8e28-0c80-470f-863c-4cec620003db",
+          "subject": "Delhi Object Storage Upgrades - 2024-09-18",
+          "status": "ongoing",
+          "start_date": "2024-09-10T18:17:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2024-09-10T18:17:00+00:00",
+              "message": "Event Type: Object Storage Infrastructure Maintenance\r\nStart Time: 2024-09-18 13:00:00 UTC\r\nEnd Time: 2024-09-18 15:00:00 UTC\r\n\r\nOur Cloud Storage team will be performing upgrades to our Delhi NCR Object Storage infrastructure starting at YYYY-MM-DD HH:MM UTC. During this maintenance window, creating, attaching, resizing, and deletion of Object Storage subscriptions may be temporarily unavailable.\r\n\r\nPreviously deployed Object Storage subscriptions in Delhi remain online."
+            }
+          ]
+        }
+      ]
     },
     "fra": {
       "location": "Frankfurt",
@@ -183,7 +225,21 @@
       "location": "Singapore",
       "country": "SG",
       "country_name": "Singapore",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "1b0914ca-cd4b-48a0-9dfc-235412eb336e",
+          "subject": "Singapore Object Storage Upgrades - 2024-09-18",
+          "status": "ongoing",
+          "start_date": "2024-09-10T18:21:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2024-09-10T18:21:00+00:00",
+              "message": "Event Type: Object Storage Infrastructure Maintenance\r\nStart Time: 2024-09-18 17:00:00 UTC\r\nEnd Time: 2024-09-18 21:00:00 UTC\r\n\r\nOur Cloud Storage team will be performing upgrades to our Singapore Object Storage infrastructure starting at YYYY-MM-DD HH:MM UTC. During this maintenance window, creating, attaching, resizing, and deletion of Object Storage subscriptions may be temporarily unavailable.\r\n\r\nPreviously deployed Object Storage subscriptions in Singapore will remain online."
+            }
+          ]
+        }
+      ]
     },
     "sto": {
       "location": "Stockholm",
