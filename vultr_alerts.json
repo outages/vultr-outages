@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "61f6bc59-3491-4b24-a4d6-c5ad6ddbb658",
+      "region": "ord",
+      "subject": "Chicago Scheduled Maintenance - 2024-09-20",
+      "start_date": "2024-09-13T19:20:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2024-09-13T19:20:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Chicago location during the following scheduled maintenance window. \r\n\r\nStart Time: 2024-09-20 05:00:00 UTC\r\nEnd Time: 2024-09-20 09:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Chicago instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+        }
+      ]
+    },
+    {
       "id": "dd508b19-7f7d-4767-b3c5-7d28e3d05ba9",
       "region": "ord",
       "subject": "Chicago Scheduled Maintenance - 2024-09-19",
