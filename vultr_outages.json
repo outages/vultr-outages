@@ -51,7 +51,21 @@
       "location": "Chicago",
       "country": "US",
       "country_name": "United States",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "dd508b19-7f7d-4767-b3c5-7d28e3d05ba9",
+          "subject": "Chicago Scheduled Maintenance - 2024-09-19",
+          "status": "ongoing",
+          "start_date": "2024-09-13T19:17:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2024-09-13T19:17:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Chicago location during the following scheduled maintenance window. \r\n\r\nStart Time: 2024-09-19 05:15:00 UTC\r\nEnd Time: 2024-09-19 09:15:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Chicago instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+            }
+          ]
+        }
+      ]
     },
     "dfw": {
       "location": "Dallas",
