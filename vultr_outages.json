@@ -31,25 +31,7 @@
       "location": "Bangalore",
       "country": "IN",
       "country_name": "India",
-      "alerts": [
-        {
-          "id": "3e4c99e2-8bd3-4e94-a6f8-429a139000b5",
-          "subject": "Bangalore Object Storage Upgrades - 2024-09-16",
-          "status": "resolved",
-          "start_date": "2024-09-10T15:03:00+00:00",
-          "updated_at": "2024-09-16T15:12:00+00:00",
-          "entries": [
-            {
-              "updated_at": "2024-09-16T15:12:00+00:00",
-              "message": "Update has been completed."
-            },
-            {
-              "updated_at": "2024-09-10T15:03:00+00:00",
-              "message": "Event Type: Object Storage Infrastructure Maintenance\r\nStart Time: 2024-09-16 14:15:00 UTC\r\nEnd Time: 2024-09-16 18:15:00 UTC\r\n\r\nOur Cloud Storage team will be performing upgrades to our Bangalore Object Storage infrastructure starting at 2024-09-16 14:00:00 UTC. During this maintenance window, creating, attaching, resizing, and deletion of Object Storage subscriptions may be temporarily unavailable.\r\n\r\nPreviously deployed Object Storage subscriptions in Bangalore will remain online."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "ord": {
       "location": "Chicago",
