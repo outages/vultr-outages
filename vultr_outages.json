@@ -54,7 +54,7 @@
         {
           "id": "dd508b19-7f7d-4767-b3c5-7d28e3d05ba9",
           "subject": "Chicago Scheduled Maintenance - 2024-09-19",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2024-09-13T19:17:00+00:00",
           "updated_at": "",
           "entries": [
