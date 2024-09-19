@@ -191,6 +191,19 @@
       "country_name": "United States",
       "alerts": [
         {
+          "id": "6bd0e8d1-1147-4fb1-bbd6-4522622ab56e",
+          "subject": "New Jersey Outage",
+          "status": "ongoing",
+          "start_date": "2024-09-19T20:54:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2024-09-19T20:54:00+00:00",
+              "message": "We are currently experiencing a partial outage in our New Jersey location. Our System Administrators are actively working with our onsite technicians to restore service as quickly as possible."
+            }
+          ]
+        },
+        {
           "id": "503df32e-3ee6-4522-842e-33ba07d197fd",
           "subject": "New Jersey Object Storage Upgrades - 2024-09-26",
           "status": "ongoing",
