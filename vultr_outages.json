@@ -193,7 +193,7 @@
         {
           "id": "6bd0e8d1-1147-4fb1-bbd6-4522622ab56e",
           "subject": "New Jersey Outage",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2024-09-19T20:54:00+00:00",
           "updated_at": "",
           "entries": [
@@ -355,21 +355,7 @@
       "location": "Warsaw",
       "country": "PL",
       "country_name": "Poland",
-      "alerts": [
-        {
-          "id": "f4ca3eb4-584f-42da-a44a-6918d6a3996f",
-          "subject": "Warsaw Emergency Maintenance - 2024-09-17",
-          "status": "resolved",
-          "start_date": "2024-09-17T17:53:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2024-09-17T17:53:00+00:00",
-              "message": "Event Type: Network Emergency\r\n\r\nWe are performing system changes in the Warsaw location during the following emergency maintenance window. \r\n\r\nStart Time: 2024-09-17 19:00:00 UTC\r\nEnd Time: 2024-09-17 23:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Warsaw instances may be unreachable for some, or all, of the emergency maintenance window as we perform network, firmware, or host upgrades."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     }
   }
 }
