@@ -113,20 +113,6 @@
       ]
     },
     {
-      "id": "1b0914ca-cd4b-48a0-9dfc-235412eb336e",
-      "region": "sgp",
-      "subject": "Singapore Object Storage Upgrades - 2024-09-18",
-      "start_date": "2024-09-10T18:21:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2024-09-10T18:21:00+00:00",
-          "message": "Event Type: Object Storage Infrastructure Maintenance\r\nStart Time: 2024-09-18 17:00:00 UTC\r\nEnd Time: 2024-09-18 21:00:00 UTC\r\n\r\nOur Cloud Storage team will be performing upgrades to our Singapore Object Storage infrastructure starting at YYYY-MM-DD HH:MM UTC. During this maintenance window, creating, attaching, resizing, and deletion of Object Storage subscriptions may be temporarily unavailable.\r\n\r\nPreviously deployed Object Storage subscriptions in Singapore will remain online."
-        }
-      ]
-    },
-    {
       "id": "c79501db-32db-49b6-a8bb-46c0529f3452",
       "region": "tlv",
       "subject": "Potential service disruption in Tel Aviv",
