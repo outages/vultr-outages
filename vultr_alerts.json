@@ -29,20 +29,6 @@
       ]
     },
     {
-      "id": "33379c81-bbb2-4372-96c3-ac2b4a29a053",
-      "region": "sjc",
-      "subject": "Silicon Valley Object Storage Upgrades - 2024-09-23",
-      "start_date": "2024-09-17T12:40:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2024-09-17T12:40:00+00:00",
-          "message": "Event Type: Object Storage Infrastructure Maintenance\r\nStart Time: 2024-09-23 14:00:00 UTC\r\nEnd Time: 2024-09-23 18:00:00 UTC\r\n\r\nOur Cloud Storage team will be performing upgrades to our Silicon Valley Object Storage infrastructure starting at 2024-09-23 14:00:00 UTC. During this maintenance window, creating, attaching, resizing, and deletion of Object Storage subscriptions may be temporarily unavailable.\r\n\r\nPreviously deployed Object Storage subscriptions in Silicon Valley will remain online."
-        }
-      ]
-    },
-    {
       "id": "c79501db-32db-49b6-a8bb-46c0529f3452",
       "region": "tlv",
       "subject": "Potential service disruption in Tel Aviv",
