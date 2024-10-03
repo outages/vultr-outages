@@ -107,7 +107,21 @@
       "location": "New Jersey",
       "country": "US",
       "country_name": "United States",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "8f3bd731-0abc-410d-9d9f-ba1f1c229501",
+          "subject": "New Jersey Object Storage Upgrades - 2024-10-09",
+          "status": "ongoing",
+          "start_date": "2024-10-03T17:15:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2024-10-03T17:15:00+00:00",
+              "message": "Event Type: Object Storage Infrastructure Maintenance\r\nStart Time: 2024-10-09 14:00:00 UTC\r\nEnd Time: 2024-10-09 18:00:00 UTC\r\n\r\nOur Cloud Storage team will be performing upgrades to our New Jersey Object Storage infrastructure starting at YYYY-MM-DD HH:MM UTC. During this maintenance window, creating, attaching, resizing, and deletion of Object Storage subscriptions may be temporarily unavailable."
+            }
+          ]
+        }
+      ]
     },
     "itm": {
       "location": "Osaka",
