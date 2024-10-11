@@ -121,16 +121,7 @@
       "location": "New Jersey",
       "country": "US",
       "country_name": "United States",
-      "alerts": [
-        {
-          "id": "8f3bd731-0abc-410d-9d9f-ba1f1c229501",
-          "subject": "New Jersey Object Storage Upgrades - 2024-10-09",
-          "status": "resolved",
-          "start_date": "2024-10-03T17:15:00+00:00",
-          "updated_at": "",
-          "entries": []
-        }
-      ]
+      "alerts": []
     },
     "itm": {
       "location": "Osaka",
