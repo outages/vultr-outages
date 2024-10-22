@@ -145,7 +145,7 @@
         {
           "id": "0c250465-686d-40ad-aa03-2c7657065fdf",
           "subject": "New Jersey NVMe Block Storage Outage - 2024-10-22",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2024-10-22T18:00:00+00:00",
           "updated_at": "",
           "entries": [
