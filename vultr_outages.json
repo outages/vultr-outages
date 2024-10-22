@@ -1,6 +1,26 @@
 {
   "service_alerts": [],
   "regions": {
+    "global": {
+      "location": "All Locations",
+      "country": "ALL",
+      "country_name": "Global",
+      "alerts": [
+        {
+          "id": "10f9cd17-8e5b-403c-984e-3e9e04c36bd6",
+          "subject": "Global Management Network Issues",
+          "status": "ongoing",
+          "start_date": "2024-10-22T12:35:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2024-10-22T12:35:00+00:00",
+              "message": "We are currently experiencing degraded network performance in multiple locations.\r\n\r\nAll customer servers and instances are online as normal, however their state may show as unknown and they may not be controllable from my.vultr.com or the API. Subscriptions are up and accessible on their normal IPs.\r\n\r\nOur network engineers are actively working with to resolve the issue as quickly as possible."
+            }
+          ]
+        }
+      ]
+    },
     "ams": {
       "location": "Amsterdam",
       "country": "NL",
