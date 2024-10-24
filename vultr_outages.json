@@ -7,6 +7,19 @@
       "country_name": "Global",
       "alerts": [
         {
+          "id": "af5cede6-d56d-4230-8431-12d01fb72728",
+          "subject": "Potential Management Disruption",
+          "status": "ongoing",
+          "start_date": "2024-10-23T23:53:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2024-10-23T23:53:00+00:00",
+              "message": "Good Evening,\r\n\r\nWe are performing maintenance on the Management / Deploy environment, there may be intermittent connectivity during this work.\r\n\r\nNo impact to production traffic is expected."
+            }
+          ]
+        },
+        {
           "id": "10f9cd17-8e5b-403c-984e-3e9e04c36bd6",
           "subject": "Global Management Network Issues",
           "status": "resolved",
