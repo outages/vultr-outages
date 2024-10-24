@@ -156,19 +156,6 @@
       "country_name": "United States",
       "alerts": [
         {
-          "id": "0c250465-686d-40ad-aa03-2c7657065fdf",
-          "subject": "New Jersey NVMe Block Storage Outage - 2024-10-22",
-          "status": "resolved",
-          "start_date": "2024-10-22T18:00:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2024-10-22T18:00:00+00:00",
-              "message": "Event Type: Service Degraded Performance and Availability\r\n\r\nOur Cloud Storage team is investigating an outage scenario with our NVMe Block Storage infrastructure. The following services may be impacted by this event:\r\n\r\n- Volume creation\r\n- Volume resizing\r\n- Volume deletion\r\n- Attach / Detach to VPS instance\r\n- Using attached block storage\r\n\r\nWe are working quickly to restore service to its optimal state."
-            }
-          ]
-        },
-        {
           "id": "110482ef-f0de-4756-9c83-2a73ea2de910",
           "subject": "New Jersey Object Storage Upgrades - 2024-10-23",
           "status": "resolved",
