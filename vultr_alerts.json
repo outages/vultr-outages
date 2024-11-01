@@ -3,24 +3,10 @@
     {
       "id": "42a91ec2-5f90-46e2-b70c-39f92d42e698",
       "region": "cdg",
-      "subject": "Partial Outage",
-      "start_date": "2024-11-01T01:38:00+00:00",
-      "updated_at": "",
-      "status": "ongoing",
-      "entries": [
-        {
-          "updated_at": "2024-11-01T01:38:00+00:00",
-          "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
-        }
-      ]
-    },
-    {
-      "id": "42a91ec2-5f90-46e2-b70c-39f92d42e698",
-      "region": "cdg",
       "subject": "Partial Paris Outage",
       "start_date": "2024-11-01T01:38:00+00:00",
       "updated_at": "",
-      "status": "ongoing",
+      "status": "resolved",
       "entries": [
         {
           "updated_at": "2024-11-01T01:38:00+00:00",

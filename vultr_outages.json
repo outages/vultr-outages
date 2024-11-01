@@ -220,26 +220,13 @@
         {
           "id": "42a91ec2-5f90-46e2-b70c-39f92d42e698",
           "subject": "Partial Paris Outage",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2024-11-01T01:38:00+00:00",
           "updated_at": "",
           "entries": [
             {
               "updated_at": "2024-11-01T01:38:00+00:00",
               "message": "We are currently experiencing a partial outage in our Paris location. Our System Administrators are actively working with our onsite technicians to restore service as quickly as possible."
-            }
-          ]
-        },
-        {
-          "id": "42a91ec2-5f90-46e2-b70c-39f92d42e698",
-          "subject": "Partial Outage",
-          "status": "ongoing",
-          "start_date": "2024-11-01T01:38:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2024-11-01T01:38:00+00:00",
-              "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
             }
           ]
         }
