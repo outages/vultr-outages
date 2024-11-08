@@ -15,24 +15,6 @@
       ]
     },
     {
-      "id": "49dc0922-1bd2-4323-b4b6-33942c45bec3",
-      "region": "global",
-      "subject": "Network Outage",
-      "start_date": "2024-11-06T18:51:00+00:00",
-      "updated_at": "2024-11-06T19:33:00+00:00",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2024-11-06T19:33:00+00:00",
-          "message": "A network issue in our New York datacenter has been corrected"
-        },
-        {
-          "updated_at": "2024-11-06T18:51:00+00:00",
-          "message": "We are currently experiencing a partial outage. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible."
-        }
-      ]
-    },
-    {
       "id": "26c6e4fd-c072-46e6-b941-6ac86c619f79",
       "region": "sgp",
       "subject": "Singapore Scheduled Maintenance - 2024-11-11",
