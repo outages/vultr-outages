@@ -406,6 +406,19 @@
       "country_name": "United States",
       "alerts": [
         {
+          "id": "3d68f726-5e3a-43d4-a861-d9b513b72221",
+          "subject": "New Jersey Scheduled Maintenance - 2024-11-19",
+          "status": "ongoing",
+          "start_date": "2024-11-12T16:51:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2024-11-12T16:51:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the New Jersey location during the following scheduled maintenance window. \r\n\r\nStart Time: 2024-11-19 05:00:00 UTC\r\nEnd Time: 2024-11-19 09:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, New Jersey instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        },
+        {
           "id": "2184a402-6c99-4d50-923c-a0d07d0caa53",
           "subject": "Atlanta, Chicago, Dallas, Honolulu, Los Angeles, Mexico City, Miami, New Jersey, Silicon Valley, Toronto HDD Block Storage Upgrades - 2024-11-14",
           "status": "ongoing",
