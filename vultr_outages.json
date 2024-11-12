@@ -25,7 +25,21 @@
       "location": "Amsterdam",
       "country": "NL",
       "country_name": "Netherlands",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "ca01ff62-def1-473e-a7f6-91d936217318",
+          "subject": "Amsterdam, Frankfurt, London, Madrid, Manchester, Paris, Stockholm, Warsaw HDD Block Storage Upgrades - 2024-11-18",
+          "status": "ongoing",
+          "start_date": "2024-11-12T15:09:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2024-11-12T15:09:00+00:00",
+              "message": "Event Type: HDD and NVMe Block Storage Infrastructure Maintenance\r\nStart Time: 2024-11-18 13:00:00 UTC\r\nEnd Time: 2024-11-18 21:00:00 UTC\r\n\r\nOur Cloud Storage team will be performing upgrades to our Amsterdam, Frankfurt, London, Madrid, Manchester, Paris, Stockholm, Warsaw HDD and NVMe Block Storage infrastructure starting at 2024-11-18 13:00:00 UTC. During this maintenance window, creating, attaching, resizing, and deletion of Block Storage volumes may be temporarily unavailable.\r\n\r\nPreviously deployed HDD and NVMe Block Storage volumes in Amsterdam, Frankfurt, London, Madrid, Manchester, Paris, Stockholm, Warsaw will remain online without interruption and will not be impacted by this event."
+            }
+          ]
+        }
+      ]
     },
     "atl": {
       "location": "Atlanta",
@@ -64,7 +78,21 @@
       "location": "Bangalore",
       "country": "IN",
       "country_name": "India",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "6ceba81b-6360-44a2-a360-0b5a640fca4b",
+          "subject": "Bangalore, Delhi NCR, Mumbai, Osaka, Seoul, Singapore, Tel Aviv, Tokyo HDD and NVMe Block Storage Upgrades - 2024-11-19",
+          "status": "ongoing",
+          "start_date": "2024-11-12T15:16:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2024-11-12T15:16:00+00:00",
+              "message": "Event Type: HDD and NVMe Block Storage Infrastructure Maintenance\r\nStart Time: 2024-11-19 13:00:00 UTC\r\nEnd Time: 2024-11-19 21:00:00 UTC\r\n\r\nOur Cloud Storage team will be performing upgrades to our Bangalore, Delhi NCR, Mumbai, Osaka, Seoul, Singapore, Tel Aviv, Tokyo HDD and NVMe Block Storage infrastructure starting at 2024-11-19 13:00:00 UTC. During this maintenance window, creating, attaching, resizing, and deletion of Block Storage volumes may be temporarily unavailable.\r\n\r\nPreviously deployed HDD Block Storage volumes in Bangalore, Delhi NCR, Mumbai, Osaka, Seoul, Singapore, Tel Aviv, Tokyo will remain online without interruption and will not be impacted by this event."
+            }
+          ]
+        }
+      ]
     },
     "ord": {
       "location": "Chicago",
@@ -136,13 +164,41 @@
       "location": "Delhi NCR",
       "country": "IN",
       "country_name": "India",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "6ceba81b-6360-44a2-a360-0b5a640fca4b",
+          "subject": "Bangalore, Delhi NCR, Mumbai, Osaka, Seoul, Singapore, Tel Aviv, Tokyo HDD and NVMe Block Storage Upgrades - 2024-11-19",
+          "status": "ongoing",
+          "start_date": "2024-11-12T15:16:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2024-11-12T15:16:00+00:00",
+              "message": "Event Type: HDD and NVMe Block Storage Infrastructure Maintenance\r\nStart Time: 2024-11-19 13:00:00 UTC\r\nEnd Time: 2024-11-19 21:00:00 UTC\r\n\r\nOur Cloud Storage team will be performing upgrades to our Bangalore, Delhi NCR, Mumbai, Osaka, Seoul, Singapore, Tel Aviv, Tokyo HDD and NVMe Block Storage infrastructure starting at 2024-11-19 13:00:00 UTC. During this maintenance window, creating, attaching, resizing, and deletion of Block Storage volumes may be temporarily unavailable.\r\n\r\nPreviously deployed HDD Block Storage volumes in Bangalore, Delhi NCR, Mumbai, Osaka, Seoul, Singapore, Tel Aviv, Tokyo will remain online without interruption and will not be impacted by this event."
+            }
+          ]
+        }
+      ]
     },
     "fra": {
       "location": "Frankfurt",
       "country": "DE",
       "country_name": "Germany",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "ca01ff62-def1-473e-a7f6-91d936217318",
+          "subject": "Amsterdam, Frankfurt, London, Madrid, Manchester, Paris, Stockholm, Warsaw HDD Block Storage Upgrades - 2024-11-18",
+          "status": "ongoing",
+          "start_date": "2024-11-12T15:09:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2024-11-12T15:09:00+00:00",
+              "message": "Event Type: HDD and NVMe Block Storage Infrastructure Maintenance\r\nStart Time: 2024-11-18 13:00:00 UTC\r\nEnd Time: 2024-11-18 21:00:00 UTC\r\n\r\nOur Cloud Storage team will be performing upgrades to our Amsterdam, Frankfurt, London, Madrid, Manchester, Paris, Stockholm, Warsaw HDD and NVMe Block Storage infrastructure starting at 2024-11-18 13:00:00 UTC. During this maintenance window, creating, attaching, resizing, and deletion of Block Storage volumes may be temporarily unavailable.\r\n\r\nPreviously deployed HDD and NVMe Block Storage volumes in Amsterdam, Frankfurt, London, Madrid, Manchester, Paris, Stockholm, Warsaw will remain online without interruption and will not be impacted by this event."
+            }
+          ]
+        }
+      ]
     },
     "hnl": {
       "location": "Honolulu",
@@ -168,13 +224,41 @@
       "location": "Johannesburg",
       "country": "ZA",
       "country_name": "South Africa",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "0f06c1b7-597e-4d61-bcb4-cbcc0a30fb3c",
+          "subject": "Johannesburg, Melbourne, Santiago, São Paulo, Sydney HDD and NVMe Block Storage Upgrades - 2024-11-20",
+          "status": "ongoing",
+          "start_date": "2024-11-12T15:21:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2024-11-12T15:21:00+00:00",
+              "message": "Event Type: HDD and NVMe Block Storage Infrastructure Maintenance\r\nStart Time: 2024-11-20 13:00:00 UTC\r\nEnd Time: 2024-11-20 21:00:00 UTC\r\n\r\nOur Cloud Storage team will be performing upgrades to our Johannesburg, Melbourne, Santiago, São Paulo, Sydney HDD and NVMe Block Storage infrastructure starting at 2024-11-20 13:00:00 UTC. During this maintenance window, creating, attaching, resizing, and deletion of HDD Block Storage volumes may be temporarily unavailable.\r\n\r\nPreviously deployed Block Storage volumes in Johannesburg, Melbourne, Santiago, São Paulo, Sydney will remain online without interruption and will not be impacted by this event."
+            }
+          ]
+        }
+      ]
     },
     "lhr": {
       "location": "London",
       "country": "GB",
       "country_name": "United Kingdom",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "ca01ff62-def1-473e-a7f6-91d936217318",
+          "subject": "Amsterdam, Frankfurt, London, Madrid, Manchester, Paris, Stockholm, Warsaw HDD Block Storage Upgrades - 2024-11-18",
+          "status": "ongoing",
+          "start_date": "2024-11-12T15:09:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2024-11-12T15:09:00+00:00",
+              "message": "Event Type: HDD and NVMe Block Storage Infrastructure Maintenance\r\nStart Time: 2024-11-18 13:00:00 UTC\r\nEnd Time: 2024-11-18 21:00:00 UTC\r\n\r\nOur Cloud Storage team will be performing upgrades to our Amsterdam, Frankfurt, London, Madrid, Manchester, Paris, Stockholm, Warsaw HDD and NVMe Block Storage infrastructure starting at 2024-11-18 13:00:00 UTC. During this maintenance window, creating, attaching, resizing, and deletion of Block Storage volumes may be temporarily unavailable.\r\n\r\nPreviously deployed HDD and NVMe Block Storage volumes in Amsterdam, Frankfurt, London, Madrid, Manchester, Paris, Stockholm, Warsaw will remain online without interruption and will not be impacted by this event."
+            }
+          ]
+        }
+      ]
     },
     "lax": {
       "location": "Los Angeles",
@@ -200,19 +284,61 @@
       "location": "Madrid",
       "country": "ES",
       "country_name": "Spain",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "ca01ff62-def1-473e-a7f6-91d936217318",
+          "subject": "Amsterdam, Frankfurt, London, Madrid, Manchester, Paris, Stockholm, Warsaw HDD Block Storage Upgrades - 2024-11-18",
+          "status": "ongoing",
+          "start_date": "2024-11-12T15:09:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2024-11-12T15:09:00+00:00",
+              "message": "Event Type: HDD and NVMe Block Storage Infrastructure Maintenance\r\nStart Time: 2024-11-18 13:00:00 UTC\r\nEnd Time: 2024-11-18 21:00:00 UTC\r\n\r\nOur Cloud Storage team will be performing upgrades to our Amsterdam, Frankfurt, London, Madrid, Manchester, Paris, Stockholm, Warsaw HDD and NVMe Block Storage infrastructure starting at 2024-11-18 13:00:00 UTC. During this maintenance window, creating, attaching, resizing, and deletion of Block Storage volumes may be temporarily unavailable.\r\n\r\nPreviously deployed HDD and NVMe Block Storage volumes in Amsterdam, Frankfurt, London, Madrid, Manchester, Paris, Stockholm, Warsaw will remain online without interruption and will not be impacted by this event."
+            }
+          ]
+        }
+      ]
     },
     "man": {
       "location": "Manchester",
       "country": "GB",
       "country_name": "United Kingdom",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "ca01ff62-def1-473e-a7f6-91d936217318",
+          "subject": "Amsterdam, Frankfurt, London, Madrid, Manchester, Paris, Stockholm, Warsaw HDD Block Storage Upgrades - 2024-11-18",
+          "status": "ongoing",
+          "start_date": "2024-11-12T15:09:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2024-11-12T15:09:00+00:00",
+              "message": "Event Type: HDD and NVMe Block Storage Infrastructure Maintenance\r\nStart Time: 2024-11-18 13:00:00 UTC\r\nEnd Time: 2024-11-18 21:00:00 UTC\r\n\r\nOur Cloud Storage team will be performing upgrades to our Amsterdam, Frankfurt, London, Madrid, Manchester, Paris, Stockholm, Warsaw HDD and NVMe Block Storage infrastructure starting at 2024-11-18 13:00:00 UTC. During this maintenance window, creating, attaching, resizing, and deletion of Block Storage volumes may be temporarily unavailable.\r\n\r\nPreviously deployed HDD and NVMe Block Storage volumes in Amsterdam, Frankfurt, London, Madrid, Manchester, Paris, Stockholm, Warsaw will remain online without interruption and will not be impacted by this event."
+            }
+          ]
+        }
+      ]
     },
     "mel": {
       "location": "Melbourne",
       "country": "AU",
       "country_name": "Australia",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "0f06c1b7-597e-4d61-bcb4-cbcc0a30fb3c",
+          "subject": "Johannesburg, Melbourne, Santiago, São Paulo, Sydney HDD and NVMe Block Storage Upgrades - 2024-11-20",
+          "status": "ongoing",
+          "start_date": "2024-11-12T15:21:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2024-11-12T15:21:00+00:00",
+              "message": "Event Type: HDD and NVMe Block Storage Infrastructure Maintenance\r\nStart Time: 2024-11-20 13:00:00 UTC\r\nEnd Time: 2024-11-20 21:00:00 UTC\r\n\r\nOur Cloud Storage team will be performing upgrades to our Johannesburg, Melbourne, Santiago, São Paulo, Sydney HDD and NVMe Block Storage infrastructure starting at 2024-11-20 13:00:00 UTC. During this maintenance window, creating, attaching, resizing, and deletion of HDD Block Storage volumes may be temporarily unavailable.\r\n\r\nPreviously deployed Block Storage volumes in Johannesburg, Melbourne, Santiago, São Paulo, Sydney will remain online without interruption and will not be impacted by this event."
+            }
+          ]
+        }
+      ]
     },
     "mex": {
       "location": "Mexico City",
@@ -258,7 +384,21 @@
       "location": "Mumbai",
       "country": "IN",
       "country_name": "India",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "6ceba81b-6360-44a2-a360-0b5a640fca4b",
+          "subject": "Bangalore, Delhi NCR, Mumbai, Osaka, Seoul, Singapore, Tel Aviv, Tokyo HDD and NVMe Block Storage Upgrades - 2024-11-19",
+          "status": "ongoing",
+          "start_date": "2024-11-12T15:16:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2024-11-12T15:16:00+00:00",
+              "message": "Event Type: HDD and NVMe Block Storage Infrastructure Maintenance\r\nStart Time: 2024-11-19 13:00:00 UTC\r\nEnd Time: 2024-11-19 21:00:00 UTC\r\n\r\nOur Cloud Storage team will be performing upgrades to our Bangalore, Delhi NCR, Mumbai, Osaka, Seoul, Singapore, Tel Aviv, Tokyo HDD and NVMe Block Storage infrastructure starting at 2024-11-19 13:00:00 UTC. During this maintenance window, creating, attaching, resizing, and deletion of Block Storage volumes may be temporarily unavailable.\r\n\r\nPreviously deployed HDD Block Storage volumes in Bangalore, Delhi NCR, Mumbai, Osaka, Seoul, Singapore, Tel Aviv, Tokyo will remain online without interruption and will not be impacted by this event."
+            }
+          ]
+        }
+      ]
     },
     "ewr": {
       "location": "New Jersey",
@@ -284,25 +424,81 @@
       "location": "Osaka",
       "country": "JP",
       "country_name": "Japan",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "6ceba81b-6360-44a2-a360-0b5a640fca4b",
+          "subject": "Bangalore, Delhi NCR, Mumbai, Osaka, Seoul, Singapore, Tel Aviv, Tokyo HDD and NVMe Block Storage Upgrades - 2024-11-19",
+          "status": "ongoing",
+          "start_date": "2024-11-12T15:16:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2024-11-12T15:16:00+00:00",
+              "message": "Event Type: HDD and NVMe Block Storage Infrastructure Maintenance\r\nStart Time: 2024-11-19 13:00:00 UTC\r\nEnd Time: 2024-11-19 21:00:00 UTC\r\n\r\nOur Cloud Storage team will be performing upgrades to our Bangalore, Delhi NCR, Mumbai, Osaka, Seoul, Singapore, Tel Aviv, Tokyo HDD and NVMe Block Storage infrastructure starting at 2024-11-19 13:00:00 UTC. During this maintenance window, creating, attaching, resizing, and deletion of Block Storage volumes may be temporarily unavailable.\r\n\r\nPreviously deployed HDD Block Storage volumes in Bangalore, Delhi NCR, Mumbai, Osaka, Seoul, Singapore, Tel Aviv, Tokyo will remain online without interruption and will not be impacted by this event."
+            }
+          ]
+        }
+      ]
     },
     "cdg": {
       "location": "Paris",
       "country": "FR",
       "country_name": "France",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "ca01ff62-def1-473e-a7f6-91d936217318",
+          "subject": "Amsterdam, Frankfurt, London, Madrid, Manchester, Paris, Stockholm, Warsaw HDD Block Storage Upgrades - 2024-11-18",
+          "status": "ongoing",
+          "start_date": "2024-11-12T15:09:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2024-11-12T15:09:00+00:00",
+              "message": "Event Type: HDD and NVMe Block Storage Infrastructure Maintenance\r\nStart Time: 2024-11-18 13:00:00 UTC\r\nEnd Time: 2024-11-18 21:00:00 UTC\r\n\r\nOur Cloud Storage team will be performing upgrades to our Amsterdam, Frankfurt, London, Madrid, Manchester, Paris, Stockholm, Warsaw HDD and NVMe Block Storage infrastructure starting at 2024-11-18 13:00:00 UTC. During this maintenance window, creating, attaching, resizing, and deletion of Block Storage volumes may be temporarily unavailable.\r\n\r\nPreviously deployed HDD and NVMe Block Storage volumes in Amsterdam, Frankfurt, London, Madrid, Manchester, Paris, Stockholm, Warsaw will remain online without interruption and will not be impacted by this event."
+            }
+          ]
+        }
+      ]
     },
     "scl": {
       "location": "Santiago",
       "country": "CL",
       "country_name": "Chile",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "0f06c1b7-597e-4d61-bcb4-cbcc0a30fb3c",
+          "subject": "Johannesburg, Melbourne, Santiago, São Paulo, Sydney HDD and NVMe Block Storage Upgrades - 2024-11-20",
+          "status": "ongoing",
+          "start_date": "2024-11-12T15:21:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2024-11-12T15:21:00+00:00",
+              "message": "Event Type: HDD and NVMe Block Storage Infrastructure Maintenance\r\nStart Time: 2024-11-20 13:00:00 UTC\r\nEnd Time: 2024-11-20 21:00:00 UTC\r\n\r\nOur Cloud Storage team will be performing upgrades to our Johannesburg, Melbourne, Santiago, São Paulo, Sydney HDD and NVMe Block Storage infrastructure starting at 2024-11-20 13:00:00 UTC. During this maintenance window, creating, attaching, resizing, and deletion of HDD Block Storage volumes may be temporarily unavailable.\r\n\r\nPreviously deployed Block Storage volumes in Johannesburg, Melbourne, Santiago, São Paulo, Sydney will remain online without interruption and will not be impacted by this event."
+            }
+          ]
+        }
+      ]
     },
     "sao": {
       "location": "São Paulo",
       "country": "BR",
       "country_name": "Brazil",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "0f06c1b7-597e-4d61-bcb4-cbcc0a30fb3c",
+          "subject": "Johannesburg, Melbourne, Santiago, São Paulo, Sydney HDD and NVMe Block Storage Upgrades - 2024-11-20",
+          "status": "ongoing",
+          "start_date": "2024-11-12T15:21:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2024-11-12T15:21:00+00:00",
+              "message": "Event Type: HDD and NVMe Block Storage Infrastructure Maintenance\r\nStart Time: 2024-11-20 13:00:00 UTC\r\nEnd Time: 2024-11-20 21:00:00 UTC\r\n\r\nOur Cloud Storage team will be performing upgrades to our Johannesburg, Melbourne, Santiago, São Paulo, Sydney HDD and NVMe Block Storage infrastructure starting at 2024-11-20 13:00:00 UTC. During this maintenance window, creating, attaching, resizing, and deletion of HDD Block Storage volumes may be temporarily unavailable.\r\n\r\nPreviously deployed Block Storage volumes in Johannesburg, Melbourne, Santiago, São Paulo, Sydney will remain online without interruption and will not be impacted by this event."
+            }
+          ]
+        }
+      ]
     },
     "sea": {
       "location": "Seattle",
@@ -314,7 +510,21 @@
       "location": "Seoul",
       "country": "KR",
       "country_name": "Korea, Republic of",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "6ceba81b-6360-44a2-a360-0b5a640fca4b",
+          "subject": "Bangalore, Delhi NCR, Mumbai, Osaka, Seoul, Singapore, Tel Aviv, Tokyo HDD and NVMe Block Storage Upgrades - 2024-11-19",
+          "status": "ongoing",
+          "start_date": "2024-11-12T15:16:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2024-11-12T15:16:00+00:00",
+              "message": "Event Type: HDD and NVMe Block Storage Infrastructure Maintenance\r\nStart Time: 2024-11-19 13:00:00 UTC\r\nEnd Time: 2024-11-19 21:00:00 UTC\r\n\r\nOur Cloud Storage team will be performing upgrades to our Bangalore, Delhi NCR, Mumbai, Osaka, Seoul, Singapore, Tel Aviv, Tokyo HDD and NVMe Block Storage infrastructure starting at 2024-11-19 13:00:00 UTC. During this maintenance window, creating, attaching, resizing, and deletion of Block Storage volumes may be temporarily unavailable.\r\n\r\nPreviously deployed HDD Block Storage volumes in Bangalore, Delhi NCR, Mumbai, Osaka, Seoul, Singapore, Tel Aviv, Tokyo will remain online without interruption and will not be impacted by this event."
+            }
+          ]
+        }
+      ]
     },
     "sjc": {
       "location": "Silicon Valley",
@@ -355,6 +565,19 @@
           ]
         },
         {
+          "id": "6ceba81b-6360-44a2-a360-0b5a640fca4b",
+          "subject": "Bangalore, Delhi NCR, Mumbai, Osaka, Seoul, Singapore, Tel Aviv, Tokyo HDD and NVMe Block Storage Upgrades - 2024-11-19",
+          "status": "ongoing",
+          "start_date": "2024-11-12T15:16:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2024-11-12T15:16:00+00:00",
+              "message": "Event Type: HDD and NVMe Block Storage Infrastructure Maintenance\r\nStart Time: 2024-11-19 13:00:00 UTC\r\nEnd Time: 2024-11-19 21:00:00 UTC\r\n\r\nOur Cloud Storage team will be performing upgrades to our Bangalore, Delhi NCR, Mumbai, Osaka, Seoul, Singapore, Tel Aviv, Tokyo HDD and NVMe Block Storage infrastructure starting at 2024-11-19 13:00:00 UTC. During this maintenance window, creating, attaching, resizing, and deletion of Block Storage volumes may be temporarily unavailable.\r\n\r\nPreviously deployed HDD Block Storage volumes in Bangalore, Delhi NCR, Mumbai, Osaka, Seoul, Singapore, Tel Aviv, Tokyo will remain online without interruption and will not be impacted by this event."
+            }
+          ]
+        },
+        {
           "id": "26c6e4fd-c072-46e6-b941-6ac86c619f79",
           "subject": "Singapore Scheduled Maintenance - 2024-11-11",
           "status": "resolved",
@@ -373,19 +596,60 @@
       "location": "Stockholm",
       "country": "SE",
       "country_name": "Sweden",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "ca01ff62-def1-473e-a7f6-91d936217318",
+          "subject": "Amsterdam, Frankfurt, London, Madrid, Manchester, Paris, Stockholm, Warsaw HDD Block Storage Upgrades - 2024-11-18",
+          "status": "ongoing",
+          "start_date": "2024-11-12T15:09:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2024-11-12T15:09:00+00:00",
+              "message": "Event Type: HDD and NVMe Block Storage Infrastructure Maintenance\r\nStart Time: 2024-11-18 13:00:00 UTC\r\nEnd Time: 2024-11-18 21:00:00 UTC\r\n\r\nOur Cloud Storage team will be performing upgrades to our Amsterdam, Frankfurt, London, Madrid, Manchester, Paris, Stockholm, Warsaw HDD and NVMe Block Storage infrastructure starting at 2024-11-18 13:00:00 UTC. During this maintenance window, creating, attaching, resizing, and deletion of Block Storage volumes may be temporarily unavailable.\r\n\r\nPreviously deployed HDD and NVMe Block Storage volumes in Amsterdam, Frankfurt, London, Madrid, Manchester, Paris, Stockholm, Warsaw will remain online without interruption and will not be impacted by this event."
+            }
+          ]
+        }
+      ]
     },
     "syd": {
       "location": "Sydney",
       "country": "AU",
       "country_name": "Australia",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "0f06c1b7-597e-4d61-bcb4-cbcc0a30fb3c",
+          "subject": "Johannesburg, Melbourne, Santiago, São Paulo, Sydney HDD and NVMe Block Storage Upgrades - 2024-11-20",
+          "status": "ongoing",
+          "start_date": "2024-11-12T15:21:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2024-11-12T15:21:00+00:00",
+              "message": "Event Type: HDD and NVMe Block Storage Infrastructure Maintenance\r\nStart Time: 2024-11-20 13:00:00 UTC\r\nEnd Time: 2024-11-20 21:00:00 UTC\r\n\r\nOur Cloud Storage team will be performing upgrades to our Johannesburg, Melbourne, Santiago, São Paulo, Sydney HDD and NVMe Block Storage infrastructure starting at 2024-11-20 13:00:00 UTC. During this maintenance window, creating, attaching, resizing, and deletion of HDD Block Storage volumes may be temporarily unavailable.\r\n\r\nPreviously deployed Block Storage volumes in Johannesburg, Melbourne, Santiago, São Paulo, Sydney will remain online without interruption and will not be impacted by this event."
+            }
+          ]
+        }
+      ]
     },
     "tlv": {
       "location": "Tel Aviv",
       "country": "IL",
       "country_name": "Israel",
       "alerts": [
+        {
+          "id": "6ceba81b-6360-44a2-a360-0b5a640fca4b",
+          "subject": "Bangalore, Delhi NCR, Mumbai, Osaka, Seoul, Singapore, Tel Aviv, Tokyo HDD and NVMe Block Storage Upgrades - 2024-11-19",
+          "status": "ongoing",
+          "start_date": "2024-11-12T15:16:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2024-11-12T15:16:00+00:00",
+              "message": "Event Type: HDD and NVMe Block Storage Infrastructure Maintenance\r\nStart Time: 2024-11-19 13:00:00 UTC\r\nEnd Time: 2024-11-19 21:00:00 UTC\r\n\r\nOur Cloud Storage team will be performing upgrades to our Bangalore, Delhi NCR, Mumbai, Osaka, Seoul, Singapore, Tel Aviv, Tokyo HDD and NVMe Block Storage infrastructure starting at 2024-11-19 13:00:00 UTC. During this maintenance window, creating, attaching, resizing, and deletion of Block Storage volumes may be temporarily unavailable.\r\n\r\nPreviously deployed HDD Block Storage volumes in Bangalore, Delhi NCR, Mumbai, Osaka, Seoul, Singapore, Tel Aviv, Tokyo will remain online without interruption and will not be impacted by this event."
+            }
+          ]
+        },
         {
           "id": "c79501db-32db-49b6-a8bb-46c0529f3452",
           "subject": "Potential service disruption in Tel Aviv",
@@ -405,7 +669,21 @@
       "location": "Tokyo",
       "country": "JP",
       "country_name": "Japan",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "6ceba81b-6360-44a2-a360-0b5a640fca4b",
+          "subject": "Bangalore, Delhi NCR, Mumbai, Osaka, Seoul, Singapore, Tel Aviv, Tokyo HDD and NVMe Block Storage Upgrades - 2024-11-19",
+          "status": "ongoing",
+          "start_date": "2024-11-12T15:16:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2024-11-12T15:16:00+00:00",
+              "message": "Event Type: HDD and NVMe Block Storage Infrastructure Maintenance\r\nStart Time: 2024-11-19 13:00:00 UTC\r\nEnd Time: 2024-11-19 21:00:00 UTC\r\n\r\nOur Cloud Storage team will be performing upgrades to our Bangalore, Delhi NCR, Mumbai, Osaka, Seoul, Singapore, Tel Aviv, Tokyo HDD and NVMe Block Storage infrastructure starting at 2024-11-19 13:00:00 UTC. During this maintenance window, creating, attaching, resizing, and deletion of Block Storage volumes may be temporarily unavailable.\r\n\r\nPreviously deployed HDD Block Storage volumes in Bangalore, Delhi NCR, Mumbai, Osaka, Seoul, Singapore, Tel Aviv, Tokyo will remain online without interruption and will not be impacted by this event."
+            }
+          ]
+        }
+      ]
     },
     "yto": {
       "location": "Toronto",
@@ -431,7 +709,21 @@
       "location": "Warsaw",
       "country": "PL",
       "country_name": "Poland",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "ca01ff62-def1-473e-a7f6-91d936217318",
+          "subject": "Amsterdam, Frankfurt, London, Madrid, Manchester, Paris, Stockholm, Warsaw HDD Block Storage Upgrades - 2024-11-18",
+          "status": "ongoing",
+          "start_date": "2024-11-12T15:09:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2024-11-12T15:09:00+00:00",
+              "message": "Event Type: HDD and NVMe Block Storage Infrastructure Maintenance\r\nStart Time: 2024-11-18 13:00:00 UTC\r\nEnd Time: 2024-11-18 21:00:00 UTC\r\n\r\nOur Cloud Storage team will be performing upgrades to our Amsterdam, Frankfurt, London, Madrid, Manchester, Paris, Stockholm, Warsaw HDD and NVMe Block Storage infrastructure starting at 2024-11-18 13:00:00 UTC. During this maintenance window, creating, attaching, resizing, and deletion of Block Storage volumes may be temporarily unavailable.\r\n\r\nPreviously deployed HDD and NVMe Block Storage volumes in Amsterdam, Frankfurt, London, Madrid, Manchester, Paris, Stockholm, Warsaw will remain online without interruption and will not be impacted by this event."
+            }
+          ]
+        }
+      ]
     }
   }
 }
