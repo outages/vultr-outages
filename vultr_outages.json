@@ -1,26 +1,6 @@
 {
   "service_alerts": [],
   "regions": {
-    "global": {
-      "location": "All Locations",
-      "country": "ALL",
-      "country_name": "Global",
-      "alerts": [
-        {
-          "id": "1ddab766-e28a-4965-bb1d-d803f6a9b0ed",
-          "subject": "Seattle HDD Block Storage Upgrades - 2024-11-13",
-          "status": "resolved",
-          "start_date": "2024-11-08T17:23:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2024-11-08T17:23:00+00:00",
-              "message": "Event Type: HDD Block Storage Infrastructure Maintenance\r\nStart Time: 2024-11-13 18:00:00 UTC\r\nEnd Time: 2024-11-13 22:00:00 UTC\r\n\r\nOur Cloud Storage team will be performing upgrades to our Seattle HDD Block Storage infrastructure starting at 2024-11-13 1 PM EST (18:00:00 UTC.) During this maintenance window, creating, attaching, resizing, and deletion of HDD Block Storage volumes may be temporarily unavailable.\r\n\r\nPreviously deployed HDD Block Storage volumes in Seattle will remain online without interruption and will not be impacted by this event."
-            }
-          ]
-        }
-      ]
-    },
     "ams": {
       "location": "Amsterdam",
       "country": "NL",

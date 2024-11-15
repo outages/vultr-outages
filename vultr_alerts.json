@@ -16,20 +16,6 @@
     },
     {
       "id": "0f06c1b7-597e-4d61-bcb4-cbcc0a30fb3c",
-      "region": "sao",
-      "subject": "Johannesburg, Melbourne, Santiago, São Paulo, Sydney HDD and NVMe Block Storage Upgrades - 2024-11-20",
-      "start_date": "2024-11-12T15:21:00+00:00",
-      "updated_at": "",
-      "status": "ongoing",
-      "entries": [
-        {
-          "updated_at": "2024-11-12T15:21:00+00:00",
-          "message": "Event Type: HDD and NVMe Block Storage Infrastructure Maintenance\r\nStart Time: 2024-11-20 13:00:00 UTC\r\nEnd Time: 2024-11-20 21:00:00 UTC\r\n\r\nOur Cloud Storage team will be performing upgrades to our Johannesburg, Melbourne, Santiago, São Paulo, Sydney HDD and NVMe Block Storage infrastructure starting at 2024-11-20 13:00:00 UTC. During this maintenance window, creating, attaching, resizing, and deletion of HDD Block Storage volumes may be temporarily unavailable.\r\n\r\nPreviously deployed Block Storage volumes in Johannesburg, Melbourne, Santiago, São Paulo, Sydney will remain online without interruption and will not be impacted by this event."
-        }
-      ]
-    },
-    {
-      "id": "0f06c1b7-597e-4d61-bcb4-cbcc0a30fb3c",
       "region": "mel",
       "subject": "Johannesburg, Melbourne, Santiago, São Paulo, Sydney HDD and NVMe Block Storage Upgrades - 2024-11-20",
       "start_date": "2024-11-12T15:21:00+00:00",
@@ -72,6 +58,20 @@
     },
     {
       "id": "0f06c1b7-597e-4d61-bcb4-cbcc0a30fb3c",
+      "region": "sao",
+      "subject": "Johannesburg, Melbourne, Santiago, São Paulo, Sydney HDD and NVMe Block Storage Upgrades - 2024-11-20",
+      "start_date": "2024-11-12T15:21:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2024-11-12T15:21:00+00:00",
+          "message": "Event Type: HDD and NVMe Block Storage Infrastructure Maintenance\r\nStart Time: 2024-11-20 13:00:00 UTC\r\nEnd Time: 2024-11-20 21:00:00 UTC\r\n\r\nOur Cloud Storage team will be performing upgrades to our Johannesburg, Melbourne, Santiago, São Paulo, Sydney HDD and NVMe Block Storage infrastructure starting at 2024-11-20 13:00:00 UTC. During this maintenance window, creating, attaching, resizing, and deletion of HDD Block Storage volumes may be temporarily unavailable.\r\n\r\nPreviously deployed Block Storage volumes in Johannesburg, Melbourne, Santiago, São Paulo, Sydney will remain online without interruption and will not be impacted by this event."
+        }
+      ]
+    },
+    {
+      "id": "0f06c1b7-597e-4d61-bcb4-cbcc0a30fb3c",
       "region": "jnb",
       "subject": "Johannesburg, Melbourne, Santiago, São Paulo, Sydney HDD and NVMe Block Storage Upgrades - 2024-11-20",
       "start_date": "2024-11-12T15:21:00+00:00",
@@ -86,7 +86,7 @@
     },
     {
       "id": "6ceba81b-6360-44a2-a360-0b5a640fca4b",
-      "region": "blr",
+      "region": "icn",
       "subject": "Bangalore, Delhi NCR, Mumbai, Osaka, Seoul, Singapore, Tel Aviv, Tokyo HDD and NVMe Block Storage Upgrades - 2024-11-19",
       "start_date": "2024-11-12T15:16:00+00:00",
       "updated_at": "",
@@ -114,35 +114,7 @@
     },
     {
       "id": "6ceba81b-6360-44a2-a360-0b5a640fca4b",
-      "region": "nrt",
-      "subject": "Bangalore, Delhi NCR, Mumbai, Osaka, Seoul, Singapore, Tel Aviv, Tokyo HDD and NVMe Block Storage Upgrades - 2024-11-19",
-      "start_date": "2024-11-12T15:16:00+00:00",
-      "updated_at": "",
-      "status": "ongoing",
-      "entries": [
-        {
-          "updated_at": "2024-11-12T15:16:00+00:00",
-          "message": "Event Type: HDD and NVMe Block Storage Infrastructure Maintenance\r\nStart Time: 2024-11-19 13:00:00 UTC\r\nEnd Time: 2024-11-19 21:00:00 UTC\r\n\r\nOur Cloud Storage team will be performing upgrades to our Bangalore, Delhi NCR, Mumbai, Osaka, Seoul, Singapore, Tel Aviv, Tokyo HDD and NVMe Block Storage infrastructure starting at 2024-11-19 13:00:00 UTC. During this maintenance window, creating, attaching, resizing, and deletion of Block Storage volumes may be temporarily unavailable.\r\n\r\nPreviously deployed HDD Block Storage volumes in Bangalore, Delhi NCR, Mumbai, Osaka, Seoul, Singapore, Tel Aviv, Tokyo will remain online without interruption and will not be impacted by this event."
-        }
-      ]
-    },
-    {
-      "id": "6ceba81b-6360-44a2-a360-0b5a640fca4b",
-      "region": "tlv",
-      "subject": "Bangalore, Delhi NCR, Mumbai, Osaka, Seoul, Singapore, Tel Aviv, Tokyo HDD and NVMe Block Storage Upgrades - 2024-11-19",
-      "start_date": "2024-11-12T15:16:00+00:00",
-      "updated_at": "",
-      "status": "ongoing",
-      "entries": [
-        {
-          "updated_at": "2024-11-12T15:16:00+00:00",
-          "message": "Event Type: HDD and NVMe Block Storage Infrastructure Maintenance\r\nStart Time: 2024-11-19 13:00:00 UTC\r\nEnd Time: 2024-11-19 21:00:00 UTC\r\n\r\nOur Cloud Storage team will be performing upgrades to our Bangalore, Delhi NCR, Mumbai, Osaka, Seoul, Singapore, Tel Aviv, Tokyo HDD and NVMe Block Storage infrastructure starting at 2024-11-19 13:00:00 UTC. During this maintenance window, creating, attaching, resizing, and deletion of Block Storage volumes may be temporarily unavailable.\r\n\r\nPreviously deployed HDD Block Storage volumes in Bangalore, Delhi NCR, Mumbai, Osaka, Seoul, Singapore, Tel Aviv, Tokyo will remain online without interruption and will not be impacted by this event."
-        }
-      ]
-    },
-    {
-      "id": "6ceba81b-6360-44a2-a360-0b5a640fca4b",
-      "region": "del",
+      "region": "sgp",
       "subject": "Bangalore, Delhi NCR, Mumbai, Osaka, Seoul, Singapore, Tel Aviv, Tokyo HDD and NVMe Block Storage Upgrades - 2024-11-19",
       "start_date": "2024-11-12T15:16:00+00:00",
       "updated_at": "",
@@ -170,7 +142,7 @@
     },
     {
       "id": "6ceba81b-6360-44a2-a360-0b5a640fca4b",
-      "region": "icn",
+      "region": "del",
       "subject": "Bangalore, Delhi NCR, Mumbai, Osaka, Seoul, Singapore, Tel Aviv, Tokyo HDD and NVMe Block Storage Upgrades - 2024-11-19",
       "start_date": "2024-11-12T15:16:00+00:00",
       "updated_at": "",
@@ -184,7 +156,7 @@
     },
     {
       "id": "6ceba81b-6360-44a2-a360-0b5a640fca4b",
-      "region": "sgp",
+      "region": "tlv",
       "subject": "Bangalore, Delhi NCR, Mumbai, Osaka, Seoul, Singapore, Tel Aviv, Tokyo HDD and NVMe Block Storage Upgrades - 2024-11-19",
       "start_date": "2024-11-12T15:16:00+00:00",
       "updated_at": "",
@@ -193,6 +165,48 @@
         {
           "updated_at": "2024-11-12T15:16:00+00:00",
           "message": "Event Type: HDD and NVMe Block Storage Infrastructure Maintenance\r\nStart Time: 2024-11-19 13:00:00 UTC\r\nEnd Time: 2024-11-19 21:00:00 UTC\r\n\r\nOur Cloud Storage team will be performing upgrades to our Bangalore, Delhi NCR, Mumbai, Osaka, Seoul, Singapore, Tel Aviv, Tokyo HDD and NVMe Block Storage infrastructure starting at 2024-11-19 13:00:00 UTC. During this maintenance window, creating, attaching, resizing, and deletion of Block Storage volumes may be temporarily unavailable.\r\n\r\nPreviously deployed HDD Block Storage volumes in Bangalore, Delhi NCR, Mumbai, Osaka, Seoul, Singapore, Tel Aviv, Tokyo will remain online without interruption and will not be impacted by this event."
+        }
+      ]
+    },
+    {
+      "id": "6ceba81b-6360-44a2-a360-0b5a640fca4b",
+      "region": "blr",
+      "subject": "Bangalore, Delhi NCR, Mumbai, Osaka, Seoul, Singapore, Tel Aviv, Tokyo HDD and NVMe Block Storage Upgrades - 2024-11-19",
+      "start_date": "2024-11-12T15:16:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2024-11-12T15:16:00+00:00",
+          "message": "Event Type: HDD and NVMe Block Storage Infrastructure Maintenance\r\nStart Time: 2024-11-19 13:00:00 UTC\r\nEnd Time: 2024-11-19 21:00:00 UTC\r\n\r\nOur Cloud Storage team will be performing upgrades to our Bangalore, Delhi NCR, Mumbai, Osaka, Seoul, Singapore, Tel Aviv, Tokyo HDD and NVMe Block Storage infrastructure starting at 2024-11-19 13:00:00 UTC. During this maintenance window, creating, attaching, resizing, and deletion of Block Storage volumes may be temporarily unavailable.\r\n\r\nPreviously deployed HDD Block Storage volumes in Bangalore, Delhi NCR, Mumbai, Osaka, Seoul, Singapore, Tel Aviv, Tokyo will remain online without interruption and will not be impacted by this event."
+        }
+      ]
+    },
+    {
+      "id": "6ceba81b-6360-44a2-a360-0b5a640fca4b",
+      "region": "nrt",
+      "subject": "Bangalore, Delhi NCR, Mumbai, Osaka, Seoul, Singapore, Tel Aviv, Tokyo HDD and NVMe Block Storage Upgrades - 2024-11-19",
+      "start_date": "2024-11-12T15:16:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2024-11-12T15:16:00+00:00",
+          "message": "Event Type: HDD and NVMe Block Storage Infrastructure Maintenance\r\nStart Time: 2024-11-19 13:00:00 UTC\r\nEnd Time: 2024-11-19 21:00:00 UTC\r\n\r\nOur Cloud Storage team will be performing upgrades to our Bangalore, Delhi NCR, Mumbai, Osaka, Seoul, Singapore, Tel Aviv, Tokyo HDD and NVMe Block Storage infrastructure starting at 2024-11-19 13:00:00 UTC. During this maintenance window, creating, attaching, resizing, and deletion of Block Storage volumes may be temporarily unavailable.\r\n\r\nPreviously deployed HDD Block Storage volumes in Bangalore, Delhi NCR, Mumbai, Osaka, Seoul, Singapore, Tel Aviv, Tokyo will remain online without interruption and will not be impacted by this event."
+        }
+      ]
+    },
+    {
+      "id": "ca01ff62-def1-473e-a7f6-91d936217318",
+      "region": "sto",
+      "subject": "Amsterdam, Frankfurt, London, Madrid, Manchester, Paris, Stockholm, Warsaw HDD Block Storage Upgrades - 2024-11-18",
+      "start_date": "2024-11-12T15:09:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2024-11-12T15:09:00+00:00",
+          "message": "Event Type: HDD and NVMe Block Storage Infrastructure Maintenance\r\nStart Time: 2024-11-18 13:00:00 UTC\r\nEnd Time: 2024-11-18 21:00:00 UTC\r\n\r\nOur Cloud Storage team will be performing upgrades to our Amsterdam, Frankfurt, London, Madrid, Manchester, Paris, Stockholm, Warsaw HDD and NVMe Block Storage infrastructure starting at 2024-11-18 13:00:00 UTC. During this maintenance window, creating, attaching, resizing, and deletion of Block Storage volumes may be temporarily unavailable.\r\n\r\nPreviously deployed HDD and NVMe Block Storage volumes in Amsterdam, Frankfurt, London, Madrid, Manchester, Paris, Stockholm, Warsaw will remain online without interruption and will not be impacted by this event."
         }
       ]
     },
@@ -227,6 +241,20 @@
     {
       "id": "ca01ff62-def1-473e-a7f6-91d936217318",
       "region": "waw",
+      "subject": "Amsterdam, Frankfurt, London, Madrid, Manchester, Paris, Stockholm, Warsaw HDD Block Storage Upgrades - 2024-11-18",
+      "start_date": "2024-11-12T15:09:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2024-11-12T15:09:00+00:00",
+          "message": "Event Type: HDD and NVMe Block Storage Infrastructure Maintenance\r\nStart Time: 2024-11-18 13:00:00 UTC\r\nEnd Time: 2024-11-18 21:00:00 UTC\r\n\r\nOur Cloud Storage team will be performing upgrades to our Amsterdam, Frankfurt, London, Madrid, Manchester, Paris, Stockholm, Warsaw HDD and NVMe Block Storage infrastructure starting at 2024-11-18 13:00:00 UTC. During this maintenance window, creating, attaching, resizing, and deletion of Block Storage volumes may be temporarily unavailable.\r\n\r\nPreviously deployed HDD and NVMe Block Storage volumes in Amsterdam, Frankfurt, London, Madrid, Manchester, Paris, Stockholm, Warsaw will remain online without interruption and will not be impacted by this event."
+        }
+      ]
+    },
+    {
+      "id": "ca01ff62-def1-473e-a7f6-91d936217318",
+      "region": "fra",
       "subject": "Amsterdam, Frankfurt, London, Madrid, Manchester, Paris, Stockholm, Warsaw HDD Block Storage Upgrades - 2024-11-18",
       "start_date": "2024-11-12T15:09:00+00:00",
       "updated_at": "",
@@ -281,34 +309,6 @@
       ]
     },
     {
-      "id": "ca01ff62-def1-473e-a7f6-91d936217318",
-      "region": "fra",
-      "subject": "Amsterdam, Frankfurt, London, Madrid, Manchester, Paris, Stockholm, Warsaw HDD Block Storage Upgrades - 2024-11-18",
-      "start_date": "2024-11-12T15:09:00+00:00",
-      "updated_at": "",
-      "status": "ongoing",
-      "entries": [
-        {
-          "updated_at": "2024-11-12T15:09:00+00:00",
-          "message": "Event Type: HDD and NVMe Block Storage Infrastructure Maintenance\r\nStart Time: 2024-11-18 13:00:00 UTC\r\nEnd Time: 2024-11-18 21:00:00 UTC\r\n\r\nOur Cloud Storage team will be performing upgrades to our Amsterdam, Frankfurt, London, Madrid, Manchester, Paris, Stockholm, Warsaw HDD and NVMe Block Storage infrastructure starting at 2024-11-18 13:00:00 UTC. During this maintenance window, creating, attaching, resizing, and deletion of Block Storage volumes may be temporarily unavailable.\r\n\r\nPreviously deployed HDD and NVMe Block Storage volumes in Amsterdam, Frankfurt, London, Madrid, Manchester, Paris, Stockholm, Warsaw will remain online without interruption and will not be impacted by this event."
-        }
-      ]
-    },
-    {
-      "id": "ca01ff62-def1-473e-a7f6-91d936217318",
-      "region": "sto",
-      "subject": "Amsterdam, Frankfurt, London, Madrid, Manchester, Paris, Stockholm, Warsaw HDD Block Storage Upgrades - 2024-11-18",
-      "start_date": "2024-11-12T15:09:00+00:00",
-      "updated_at": "",
-      "status": "ongoing",
-      "entries": [
-        {
-          "updated_at": "2024-11-12T15:09:00+00:00",
-          "message": "Event Type: HDD and NVMe Block Storage Infrastructure Maintenance\r\nStart Time: 2024-11-18 13:00:00 UTC\r\nEnd Time: 2024-11-18 21:00:00 UTC\r\n\r\nOur Cloud Storage team will be performing upgrades to our Amsterdam, Frankfurt, London, Madrid, Manchester, Paris, Stockholm, Warsaw HDD and NVMe Block Storage infrastructure starting at 2024-11-18 13:00:00 UTC. During this maintenance window, creating, attaching, resizing, and deletion of Block Storage volumes may be temporarily unavailable.\r\n\r\nPreviously deployed HDD and NVMe Block Storage volumes in Amsterdam, Frankfurt, London, Madrid, Manchester, Paris, Stockholm, Warsaw will remain online without interruption and will not be impacted by this event."
-        }
-      ]
-    },
-    {
       "id": "1501aabf-e459-4f1c-83f4-8db4d88c3984",
       "region": "atl",
       "subject": "Atlanta Scheduled Maintenance - 2024-11-19",
@@ -338,20 +338,6 @@
     },
     {
       "id": "2184a402-6c99-4d50-923c-a0d07d0caa53",
-      "region": "sjc",
-      "subject": "Atlanta, Chicago, Dallas, Honolulu, Los Angeles, Mexico City, Miami, New Jersey, Silicon Valley, Toronto HDD Block Storage Upgrades - 2024-11-14",
-      "start_date": "2024-11-08T18:24:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2024-11-08T18:24:00+00:00",
-          "message": "Event Type: HDD Block Storage Infrastructure Maintenance\r\nStart Time: 2024-11-14 14:10:00 UTC\r\nEnd Time: 2024-11-15 14:10:00 UTC\r\n\r\nOur Cloud Storage team will be performing upgrades to our Atlanta, Chicago, Dallas, Honolulu, Los Angeles, Mexico City, Miami, New Jersey, Silicon Valley, Toronto HDD Block Storage infrastructure starting at 2024-11-14 14:10:00 UTC. During this maintenance window, creating, attaching, resizing, and deletion of HDD Block Storage volumes may be temporarily unavailable.\r\n\r\nPreviously deployed HDD Block Storage volumes in Atlanta, Chicago, Dallas, Honolulu, Los Angeles, Mexico City, Miami, New Jersey, Silicon Valley, Toronto will remain online without interruption and will not be impacted by this event."
-        }
-      ]
-    },
-    {
-      "id": "2184a402-6c99-4d50-923c-a0d07d0caa53",
       "region": "yto",
       "subject": "Atlanta, Chicago, Dallas, Honolulu, Los Angeles, Mexico City, Miami, New Jersey, Silicon Valley, Toronto HDD Block Storage Upgrades - 2024-11-14",
       "start_date": "2024-11-08T18:24:00+00:00",
@@ -366,77 +352,7 @@
     },
     {
       "id": "2184a402-6c99-4d50-923c-a0d07d0caa53",
-      "region": "mia",
-      "subject": "Atlanta, Chicago, Dallas, Honolulu, Los Angeles, Mexico City, Miami, New Jersey, Silicon Valley, Toronto HDD Block Storage Upgrades - 2024-11-14",
-      "start_date": "2024-11-08T18:24:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2024-11-08T18:24:00+00:00",
-          "message": "Event Type: HDD Block Storage Infrastructure Maintenance\r\nStart Time: 2024-11-14 14:10:00 UTC\r\nEnd Time: 2024-11-15 14:10:00 UTC\r\n\r\nOur Cloud Storage team will be performing upgrades to our Atlanta, Chicago, Dallas, Honolulu, Los Angeles, Mexico City, Miami, New Jersey, Silicon Valley, Toronto HDD Block Storage infrastructure starting at 2024-11-14 14:10:00 UTC. During this maintenance window, creating, attaching, resizing, and deletion of HDD Block Storage volumes may be temporarily unavailable.\r\n\r\nPreviously deployed HDD Block Storage volumes in Atlanta, Chicago, Dallas, Honolulu, Los Angeles, Mexico City, Miami, New Jersey, Silicon Valley, Toronto will remain online without interruption and will not be impacted by this event."
-        }
-      ]
-    },
-    {
-      "id": "2184a402-6c99-4d50-923c-a0d07d0caa53",
-      "region": "ewr",
-      "subject": "Atlanta, Chicago, Dallas, Honolulu, Los Angeles, Mexico City, Miami, New Jersey, Silicon Valley, Toronto HDD Block Storage Upgrades - 2024-11-14",
-      "start_date": "2024-11-08T18:24:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2024-11-08T18:24:00+00:00",
-          "message": "Event Type: HDD Block Storage Infrastructure Maintenance\r\nStart Time: 2024-11-14 14:10:00 UTC\r\nEnd Time: 2024-11-15 14:10:00 UTC\r\n\r\nOur Cloud Storage team will be performing upgrades to our Atlanta, Chicago, Dallas, Honolulu, Los Angeles, Mexico City, Miami, New Jersey, Silicon Valley, Toronto HDD Block Storage infrastructure starting at 2024-11-14 14:10:00 UTC. During this maintenance window, creating, attaching, resizing, and deletion of HDD Block Storage volumes may be temporarily unavailable.\r\n\r\nPreviously deployed HDD Block Storage volumes in Atlanta, Chicago, Dallas, Honolulu, Los Angeles, Mexico City, Miami, New Jersey, Silicon Valley, Toronto will remain online without interruption and will not be impacted by this event."
-        }
-      ]
-    },
-    {
-      "id": "2184a402-6c99-4d50-923c-a0d07d0caa53",
-      "region": "mex",
-      "subject": "Atlanta, Chicago, Dallas, Honolulu, Los Angeles, Mexico City, Miami, New Jersey, Silicon Valley, Toronto HDD Block Storage Upgrades - 2024-11-14",
-      "start_date": "2024-11-08T18:24:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2024-11-08T18:24:00+00:00",
-          "message": "Event Type: HDD Block Storage Infrastructure Maintenance\r\nStart Time: 2024-11-14 14:10:00 UTC\r\nEnd Time: 2024-11-15 14:10:00 UTC\r\n\r\nOur Cloud Storage team will be performing upgrades to our Atlanta, Chicago, Dallas, Honolulu, Los Angeles, Mexico City, Miami, New Jersey, Silicon Valley, Toronto HDD Block Storage infrastructure starting at 2024-11-14 14:10:00 UTC. During this maintenance window, creating, attaching, resizing, and deletion of HDD Block Storage volumes may be temporarily unavailable.\r\n\r\nPreviously deployed HDD Block Storage volumes in Atlanta, Chicago, Dallas, Honolulu, Los Angeles, Mexico City, Miami, New Jersey, Silicon Valley, Toronto will remain online without interruption and will not be impacted by this event."
-        }
-      ]
-    },
-    {
-      "id": "2184a402-6c99-4d50-923c-a0d07d0caa53",
-      "region": "lax",
-      "subject": "Atlanta, Chicago, Dallas, Honolulu, Los Angeles, Mexico City, Miami, New Jersey, Silicon Valley, Toronto HDD Block Storage Upgrades - 2024-11-14",
-      "start_date": "2024-11-08T18:24:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2024-11-08T18:24:00+00:00",
-          "message": "Event Type: HDD Block Storage Infrastructure Maintenance\r\nStart Time: 2024-11-14 14:10:00 UTC\r\nEnd Time: 2024-11-15 14:10:00 UTC\r\n\r\nOur Cloud Storage team will be performing upgrades to our Atlanta, Chicago, Dallas, Honolulu, Los Angeles, Mexico City, Miami, New Jersey, Silicon Valley, Toronto HDD Block Storage infrastructure starting at 2024-11-14 14:10:00 UTC. During this maintenance window, creating, attaching, resizing, and deletion of HDD Block Storage volumes may be temporarily unavailable.\r\n\r\nPreviously deployed HDD Block Storage volumes in Atlanta, Chicago, Dallas, Honolulu, Los Angeles, Mexico City, Miami, New Jersey, Silicon Valley, Toronto will remain online without interruption and will not be impacted by this event."
-        }
-      ]
-    },
-    {
-      "id": "2184a402-6c99-4d50-923c-a0d07d0caa53",
-      "region": "hnl",
-      "subject": "Atlanta, Chicago, Dallas, Honolulu, Los Angeles, Mexico City, Miami, New Jersey, Silicon Valley, Toronto HDD Block Storage Upgrades - 2024-11-14",
-      "start_date": "2024-11-08T18:24:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2024-11-08T18:24:00+00:00",
-          "message": "Event Type: HDD Block Storage Infrastructure Maintenance\r\nStart Time: 2024-11-14 14:10:00 UTC\r\nEnd Time: 2024-11-15 14:10:00 UTC\r\n\r\nOur Cloud Storage team will be performing upgrades to our Atlanta, Chicago, Dallas, Honolulu, Los Angeles, Mexico City, Miami, New Jersey, Silicon Valley, Toronto HDD Block Storage infrastructure starting at 2024-11-14 14:10:00 UTC. During this maintenance window, creating, attaching, resizing, and deletion of HDD Block Storage volumes may be temporarily unavailable.\r\n\r\nPreviously deployed HDD Block Storage volumes in Atlanta, Chicago, Dallas, Honolulu, Los Angeles, Mexico City, Miami, New Jersey, Silicon Valley, Toronto will remain online without interruption and will not be impacted by this event."
-        }
-      ]
-    },
-    {
-      "id": "2184a402-6c99-4d50-923c-a0d07d0caa53",
-      "region": "dfw",
+      "region": "atl",
       "subject": "Atlanta, Chicago, Dallas, Honolulu, Los Angeles, Mexico City, Miami, New Jersey, Silicon Valley, Toronto HDD Block Storage Upgrades - 2024-11-14",
       "start_date": "2024-11-08T18:24:00+00:00",
       "updated_at": "",
@@ -464,7 +380,7 @@
     },
     {
       "id": "2184a402-6c99-4d50-923c-a0d07d0caa53",
-      "region": "atl",
+      "region": "sjc",
       "subject": "Atlanta, Chicago, Dallas, Honolulu, Los Angeles, Mexico City, Miami, New Jersey, Silicon Valley, Toronto HDD Block Storage Upgrades - 2024-11-14",
       "start_date": "2024-11-08T18:24:00+00:00",
       "updated_at": "",
@@ -477,16 +393,86 @@
       ]
     },
     {
-      "id": "1ddab766-e28a-4965-bb1d-d803f6a9b0ed",
-      "region": "global",
-      "subject": "Seattle HDD Block Storage Upgrades - 2024-11-13",
-      "start_date": "2024-11-08T17:23:00+00:00",
+      "id": "2184a402-6c99-4d50-923c-a0d07d0caa53",
+      "region": "dfw",
+      "subject": "Atlanta, Chicago, Dallas, Honolulu, Los Angeles, Mexico City, Miami, New Jersey, Silicon Valley, Toronto HDD Block Storage Upgrades - 2024-11-14",
+      "start_date": "2024-11-08T18:24:00+00:00",
       "updated_at": "",
       "status": "resolved",
       "entries": [
         {
-          "updated_at": "2024-11-08T17:23:00+00:00",
-          "message": "Event Type: HDD Block Storage Infrastructure Maintenance\r\nStart Time: 2024-11-13 18:00:00 UTC\r\nEnd Time: 2024-11-13 22:00:00 UTC\r\n\r\nOur Cloud Storage team will be performing upgrades to our Seattle HDD Block Storage infrastructure starting at 2024-11-13 1 PM EST (18:00:00 UTC.) During this maintenance window, creating, attaching, resizing, and deletion of HDD Block Storage volumes may be temporarily unavailable.\r\n\r\nPreviously deployed HDD Block Storage volumes in Seattle will remain online without interruption and will not be impacted by this event."
+          "updated_at": "2024-11-08T18:24:00+00:00",
+          "message": "Event Type: HDD Block Storage Infrastructure Maintenance\r\nStart Time: 2024-11-14 14:10:00 UTC\r\nEnd Time: 2024-11-15 14:10:00 UTC\r\n\r\nOur Cloud Storage team will be performing upgrades to our Atlanta, Chicago, Dallas, Honolulu, Los Angeles, Mexico City, Miami, New Jersey, Silicon Valley, Toronto HDD Block Storage infrastructure starting at 2024-11-14 14:10:00 UTC. During this maintenance window, creating, attaching, resizing, and deletion of HDD Block Storage volumes may be temporarily unavailable.\r\n\r\nPreviously deployed HDD Block Storage volumes in Atlanta, Chicago, Dallas, Honolulu, Los Angeles, Mexico City, Miami, New Jersey, Silicon Valley, Toronto will remain online without interruption and will not be impacted by this event."
+        }
+      ]
+    },
+    {
+      "id": "2184a402-6c99-4d50-923c-a0d07d0caa53",
+      "region": "mex",
+      "subject": "Atlanta, Chicago, Dallas, Honolulu, Los Angeles, Mexico City, Miami, New Jersey, Silicon Valley, Toronto HDD Block Storage Upgrades - 2024-11-14",
+      "start_date": "2024-11-08T18:24:00+00:00",
+      "updated_at": "",
+      "status": "resolved",
+      "entries": [
+        {
+          "updated_at": "2024-11-08T18:24:00+00:00",
+          "message": "Event Type: HDD Block Storage Infrastructure Maintenance\r\nStart Time: 2024-11-14 14:10:00 UTC\r\nEnd Time: 2024-11-15 14:10:00 UTC\r\n\r\nOur Cloud Storage team will be performing upgrades to our Atlanta, Chicago, Dallas, Honolulu, Los Angeles, Mexico City, Miami, New Jersey, Silicon Valley, Toronto HDD Block Storage infrastructure starting at 2024-11-14 14:10:00 UTC. During this maintenance window, creating, attaching, resizing, and deletion of HDD Block Storage volumes may be temporarily unavailable.\r\n\r\nPreviously deployed HDD Block Storage volumes in Atlanta, Chicago, Dallas, Honolulu, Los Angeles, Mexico City, Miami, New Jersey, Silicon Valley, Toronto will remain online without interruption and will not be impacted by this event."
+        }
+      ]
+    },
+    {
+      "id": "2184a402-6c99-4d50-923c-a0d07d0caa53",
+      "region": "hnl",
+      "subject": "Atlanta, Chicago, Dallas, Honolulu, Los Angeles, Mexico City, Miami, New Jersey, Silicon Valley, Toronto HDD Block Storage Upgrades - 2024-11-14",
+      "start_date": "2024-11-08T18:24:00+00:00",
+      "updated_at": "",
+      "status": "resolved",
+      "entries": [
+        {
+          "updated_at": "2024-11-08T18:24:00+00:00",
+          "message": "Event Type: HDD Block Storage Infrastructure Maintenance\r\nStart Time: 2024-11-14 14:10:00 UTC\r\nEnd Time: 2024-11-15 14:10:00 UTC\r\n\r\nOur Cloud Storage team will be performing upgrades to our Atlanta, Chicago, Dallas, Honolulu, Los Angeles, Mexico City, Miami, New Jersey, Silicon Valley, Toronto HDD Block Storage infrastructure starting at 2024-11-14 14:10:00 UTC. During this maintenance window, creating, attaching, resizing, and deletion of HDD Block Storage volumes may be temporarily unavailable.\r\n\r\nPreviously deployed HDD Block Storage volumes in Atlanta, Chicago, Dallas, Honolulu, Los Angeles, Mexico City, Miami, New Jersey, Silicon Valley, Toronto will remain online without interruption and will not be impacted by this event."
+        }
+      ]
+    },
+    {
+      "id": "2184a402-6c99-4d50-923c-a0d07d0caa53",
+      "region": "lax",
+      "subject": "Atlanta, Chicago, Dallas, Honolulu, Los Angeles, Mexico City, Miami, New Jersey, Silicon Valley, Toronto HDD Block Storage Upgrades - 2024-11-14",
+      "start_date": "2024-11-08T18:24:00+00:00",
+      "updated_at": "",
+      "status": "resolved",
+      "entries": [
+        {
+          "updated_at": "2024-11-08T18:24:00+00:00",
+          "message": "Event Type: HDD Block Storage Infrastructure Maintenance\r\nStart Time: 2024-11-14 14:10:00 UTC\r\nEnd Time: 2024-11-15 14:10:00 UTC\r\n\r\nOur Cloud Storage team will be performing upgrades to our Atlanta, Chicago, Dallas, Honolulu, Los Angeles, Mexico City, Miami, New Jersey, Silicon Valley, Toronto HDD Block Storage infrastructure starting at 2024-11-14 14:10:00 UTC. During this maintenance window, creating, attaching, resizing, and deletion of HDD Block Storage volumes may be temporarily unavailable.\r\n\r\nPreviously deployed HDD Block Storage volumes in Atlanta, Chicago, Dallas, Honolulu, Los Angeles, Mexico City, Miami, New Jersey, Silicon Valley, Toronto will remain online without interruption and will not be impacted by this event."
+        }
+      ]
+    },
+    {
+      "id": "2184a402-6c99-4d50-923c-a0d07d0caa53",
+      "region": "ewr",
+      "subject": "Atlanta, Chicago, Dallas, Honolulu, Los Angeles, Mexico City, Miami, New Jersey, Silicon Valley, Toronto HDD Block Storage Upgrades - 2024-11-14",
+      "start_date": "2024-11-08T18:24:00+00:00",
+      "updated_at": "",
+      "status": "resolved",
+      "entries": [
+        {
+          "updated_at": "2024-11-08T18:24:00+00:00",
+          "message": "Event Type: HDD Block Storage Infrastructure Maintenance\r\nStart Time: 2024-11-14 14:10:00 UTC\r\nEnd Time: 2024-11-15 14:10:00 UTC\r\n\r\nOur Cloud Storage team will be performing upgrades to our Atlanta, Chicago, Dallas, Honolulu, Los Angeles, Mexico City, Miami, New Jersey, Silicon Valley, Toronto HDD Block Storage infrastructure starting at 2024-11-14 14:10:00 UTC. During this maintenance window, creating, attaching, resizing, and deletion of HDD Block Storage volumes may be temporarily unavailable.\r\n\r\nPreviously deployed HDD Block Storage volumes in Atlanta, Chicago, Dallas, Honolulu, Los Angeles, Mexico City, Miami, New Jersey, Silicon Valley, Toronto will remain online without interruption and will not be impacted by this event."
+        }
+      ]
+    },
+    {
+      "id": "2184a402-6c99-4d50-923c-a0d07d0caa53",
+      "region": "mia",
+      "subject": "Atlanta, Chicago, Dallas, Honolulu, Los Angeles, Mexico City, Miami, New Jersey, Silicon Valley, Toronto HDD Block Storage Upgrades - 2024-11-14",
+      "start_date": "2024-11-08T18:24:00+00:00",
+      "updated_at": "",
+      "status": "resolved",
+      "entries": [
+        {
+          "updated_at": "2024-11-08T18:24:00+00:00",
+          "message": "Event Type: HDD Block Storage Infrastructure Maintenance\r\nStart Time: 2024-11-14 14:10:00 UTC\r\nEnd Time: 2024-11-15 14:10:00 UTC\r\n\r\nOur Cloud Storage team will be performing upgrades to our Atlanta, Chicago, Dallas, Honolulu, Los Angeles, Mexico City, Miami, New Jersey, Silicon Valley, Toronto HDD Block Storage infrastructure starting at 2024-11-14 14:10:00 UTC. During this maintenance window, creating, attaching, resizing, and deletion of HDD Block Storage volumes may be temporarily unavailable.\r\n\r\nPreviously deployed HDD Block Storage volumes in Atlanta, Chicago, Dallas, Honolulu, Los Angeles, Mexico City, Miami, New Jersey, Silicon Valley, Toronto will remain online without interruption and will not be impacted by this event."
         }
       ]
     },
