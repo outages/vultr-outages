@@ -144,19 +144,6 @@
               "message": "Event Type: HDD Block Storage Infrastructure Maintenance\r\nStart Time: 2024-11-14 14:10:00 UTC\r\nEnd Time: 2024-11-15 14:10:00 UTC\r\n\r\nOur Cloud Storage team will be performing upgrades to our Atlanta, Chicago, Dallas, Honolulu, Los Angeles, Mexico City, Miami, New Jersey, Silicon Valley, Toronto HDD Block Storage infrastructure starting at 2024-11-14 14:10:00 UTC. During this maintenance window, creating, attaching, resizing, and deletion of HDD Block Storage volumes may be temporarily unavailable.\r\n\r\nPreviously deployed HDD Block Storage volumes in Atlanta, Chicago, Dallas, Honolulu, Los Angeles, Mexico City, Miami, New Jersey, Silicon Valley, Toronto will remain online without interruption and will not be impacted by this event."
             }
           ]
-        },
-        {
-          "id": "2dd6890f-ede8-4436-a1ec-0b06077695cc",
-          "subject": "Dallas Scheduled Maintenance - 2024-11-13",
-          "status": "resolved",
-          "start_date": "2024-11-05T17:47:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2024-11-05T17:47:00+00:00",
-              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Dallas location during the following scheduled maintenance window. \r\n\r\nStart Time: 2024-11-13 05:00:00 UTC\r\nEnd Time: 2024-11-13 09:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Dallas instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
-            }
-          ]
         }
       ]
     },
