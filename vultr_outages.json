@@ -121,7 +121,7 @@
         {
           "id": "869d7ac1-5d51-4745-ba95-5ef89b274b31",
           "subject": "Mexico City Network Outage",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2024-11-22T03:03:00+00:00",
           "updated_at": "",
           "entries": [
