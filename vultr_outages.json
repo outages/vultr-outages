@@ -177,7 +177,21 @@
       "location": "Silicon Valley",
       "country": "US",
       "country_name": "United States",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "fa2a26ca-d965-4028-8335-fe2f4420f429",
+          "subject": "San Jose Scheduled Maintenance - 2024-12-11",
+          "status": "ongoing",
+          "start_date": "2024-12-05T17:34:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2024-12-05T17:34:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Silicon Valley location during the following scheduled maintenance window. \r\n\r\nStart Time: 2024-12-11 07:00:00 UTC\r\nEnd Time: 2024-12-11 11:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Silicon Valley instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        }
+      ]
     },
     "sgp": {
       "location": "Singapore",
