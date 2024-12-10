@@ -207,7 +207,7 @@
         {
           "id": "3b311811-0f92-4312-b8a6-3358ff8caeed",
           "subject": "Stockholm Scheduled Maintenance - 2024-12-09",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2024-12-02T22:13:00+00:00",
           "updated_at": "",
           "entries": [
