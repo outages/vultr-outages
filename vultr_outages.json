@@ -47,7 +47,7 @@
         {
           "id": "66f68b16-1c52-4b03-b713-44a40cc0c43b",
           "subject": "Dallas Scheduled Maintenance - 2024-12-11",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2024-12-04T22:39:00+00:00",
           "updated_at": "",
           "entries": [
@@ -181,7 +181,7 @@
         {
           "id": "fa2a26ca-d965-4028-8335-fe2f4420f429",
           "subject": "San Jose Scheduled Maintenance - 2024-12-11",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2024-12-05T17:34:00+00:00",
           "updated_at": "",
           "entries": [
