@@ -5,7 +5,21 @@
       "location": "Amsterdam",
       "country": "NL",
       "country_name": "Netherlands",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "cf01254d-3d8a-4f4a-bd94-63ea86180b3f",
+          "subject": "Amsterdam Outage",
+          "status": "ongoing",
+          "start_date": "2024-12-20T05:15:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2024-12-20T05:15:00+00:00",
+              "message": "We are currently experiencing a partial outage in our Amsterdam location. Our System Administrators are actively working with our onsite technicians to restore service as quickly as possible."
+            }
+          ]
+        }
+      ]
     },
     "atl": {
       "location": "Atlanta",
