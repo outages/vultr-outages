@@ -159,7 +159,7 @@
         {
           "id": "3be34131-566b-4380-8970-703afd6ab992",
           "subject": "Singapore Object Storage Outage - 2024-12-25",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2024-12-25T09:44:00+00:00",
           "updated_at": "",
           "entries": [
