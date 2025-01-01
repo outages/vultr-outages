@@ -23,7 +23,21 @@
       "location": "Chicago",
       "country": "US",
       "country_name": "United States",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "964a84e2-dab9-4cb9-8ea8-82eed04689f3",
+          "subject": "Partial Outage",
+          "status": "ongoing",
+          "start_date": "2025-01-01T08:00:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2025-01-01T08:00:00+00:00",
+              "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
+            }
+          ]
+        }
+      ]
     },
     "dfw": {
       "location": "Dallas",
