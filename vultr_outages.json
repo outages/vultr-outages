@@ -137,7 +137,7 @@
         {
           "id": "b9b9f4ff-dc0a-4292-a49e-f22780582ca4",
           "subject": "Paris Outage",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2025-01-09T09:59:00+00:00",
           "updated_at": "",
           "entries": [
