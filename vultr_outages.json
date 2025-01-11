@@ -119,21 +119,7 @@
       "location": "Paris",
       "country": "FR",
       "country_name": "France",
-      "alerts": [
-        {
-          "id": "b9b9f4ff-dc0a-4292-a49e-f22780582ca4",
-          "subject": "Paris Outage",
-          "status": "resolved",
-          "start_date": "2025-01-09T09:59:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2025-01-09T09:59:00+00:00",
-              "message": "We are currently experiencing a partial outage in our Paris location. Our System Administrators are actively working with our onsite technicians to restore service as quickly as possible."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "scl": {
       "location": "Santiago",
