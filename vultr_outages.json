@@ -69,7 +69,7 @@
         {
           "id": "35da8301-c774-43fd-baf0-3045e59b729b",
           "subject": "Los Angeles Scheduled Maintenance - 2025-01-22",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2025-01-13T20:15:00+00:00",
           "updated_at": "",
           "entries": [
