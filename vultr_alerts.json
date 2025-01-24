@@ -1,20 +1,6 @@
 {
   "service_alerts": [
     {
-      "id": "d6e46f59-19ce-4d7a-a366-b6312f09a993",
-      "region": "sgp",
-      "subject": "Partial Outage",
-      "start_date": "2025-01-21T16:39:00+00:00",
-      "updated_at": "",
-      "status": "ongoing",
-      "entries": [
-        {
-          "updated_at": "2025-01-21T16:39:00+00:00",
-          "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
-        }
-      ]
-    },
-    {
       "id": "590959f4-9dbe-497c-bff3-45cc7b3d32c5",
       "region": "sgp",
       "subject": "Singapore Scheduled Maintenance - 2025-01-22",
