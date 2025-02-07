@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "0dc0796e-ed90-44ac-ac33-ae8b6959c392",
+      "region": "global",
+      "subject": "New DBaaS Deployments Temporarily Disabled",
+      "start_date": "2025-02-07T15:28:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2025-02-07T15:28:00+00:00",
+          "message": "New DBaaS deployments have been temporarily halted as we troubleshoot an issue with new DBaaS subscriptions. This is being actively worked on by our engineers."
+        }
+      ]
+    },
+    {
       "id": "c79501db-32db-49b6-a8bb-46c0529f3452",
       "region": "tlv",
       "subject": "Potential service disruption in Tel Aviv",
