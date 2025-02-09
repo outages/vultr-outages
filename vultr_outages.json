@@ -1,26 +1,6 @@
 {
   "service_alerts": [],
   "regions": {
-    "global": {
-      "location": "All Locations",
-      "country": "ALL",
-      "country_name": "Global",
-      "alerts": [
-        {
-          "id": "0dc0796e-ed90-44ac-ac33-ae8b6959c392",
-          "subject": "New DBaaS Deployments Temporarily Disabled",
-          "status": "resolved",
-          "start_date": "2025-02-07T15:28:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2025-02-07T15:28:00+00:00",
-              "message": "New DBaaS deployments have been temporarily halted as we troubleshoot an issue with new DBaaS subscriptions. This is being actively worked on by our engineers."
-            }
-          ]
-        }
-      ]
-    },
     "ams": {
       "location": "Amsterdam",
       "country": "NL",
