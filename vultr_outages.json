@@ -193,21 +193,7 @@
       "location": "Tel Aviv",
       "country": "IL",
       "country_name": "Israel",
-      "alerts": [
-        {
-          "id": "c79501db-32db-49b6-a8bb-46c0529f3452",
-          "subject": "Potential service disruption in Tel Aviv",
-          "status": "resolved",
-          "start_date": "2023-10-17T16:18:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2023-10-17T16:18:00+00:00",
-              "message": "The Constant Company, creator of Vultr, is aware of and following the situation in Israel. At this time we do not expect any disruption of service in our Tel Aviv location.  We will continue to closely monitor services as the situation evolves, and we will advise our customers of any changes which have the potential to impact service delivery.\r\n\r\nWe believe this is a crucial time to remind our customers about the importance of the 3-2-1 Backup Strategy for safeguarding all critical data. Please see the case study here for more information: https://www.vultr.com/docs/case-study-use-a-321-backup-strategy-at-vultr/\r\n\r\nPlease note that Vultr Snapshots and Backups are stored in the same location as the instance they are made from, however when you deploy a new instance from them in a different location, they will be automatically transferred and stored in the new location as well."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "nrt": {
       "location": "Tokyo",
