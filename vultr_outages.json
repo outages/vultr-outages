@@ -1,6 +1,26 @@
 {
   "service_alerts": [],
   "regions": {
+    "global": {
+      "location": "All Locations",
+      "country": "ALL",
+      "country_name": "Global",
+      "alerts": [
+        {
+          "id": "2e8937db-df24-41bb-b45e-ddccc099e15c",
+          "subject": "my.vultr.com authentication failure",
+          "status": "resolved",
+          "start_date": "2025-02-13T23:48:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2025-02-13T23:48:00+00:00",
+              "message": "Some customers are currently experiencing trouble authenticating with my.vultr.com.  We have confirmed this problem for some authentication methods and expect resolution shortly."
+            }
+          ]
+        }
+      ]
+    },
     "ams": {
       "location": "Amsterdam",
       "country": "NL",
