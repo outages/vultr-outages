@@ -57,16 +57,7 @@
       "location": "Dallas",
       "country": "US",
       "country_name": "United States",
-      "alerts": [
-        {
-          "id": "fa9a7282-2ada-4995-9287-3036e88f0fea",
-          "subject": "Dallas Outage",
-          "status": "resolved",
-          "start_date": "2025-03-01T10:00:00+00:00",
-          "updated_at": "",
-          "entries": []
-        }
-      ]
+      "alerts": []
     },
     "del": {
       "location": "Delhi NCR",

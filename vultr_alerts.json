@@ -1,15 +1,6 @@
 {
   "service_alerts": [
     {
-      "id": "fa9a7282-2ada-4995-9287-3036e88f0fea",
-      "region": "dfw",
-      "subject": "Dallas Outage",
-      "start_date": "2025-03-01T10:00:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": []
-    },
-    {
       "id": "a2d8a6e4-b167-4030-9e74-0e842599997c",
       "region": "ams",
       "subject": "Amsterdam Scheduled Maintenance - 2025-03-19",
