@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "4bc77809-6e0c-4fbc-a2ce-9c75fec3cce7",
+      "region": "ewr",
+      "subject": "New Jersey Scheduled Maintenance - 2025-03-13",
+      "start_date": "2025-03-03T16:21:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2025-03-03T16:21:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the New Jersey location during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-03-13 04:00:00 UTC\r\nEnd Time: 2025-03-13 08:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to New Jersey instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+        }
+      ]
+    },
+    {
       "id": "a2d8a6e4-b167-4030-9e74-0e842599997c",
       "region": "ams",
       "subject": "Amsterdam Scheduled Maintenance - 2025-03-19",
