@@ -137,6 +137,19 @@
       "country_name": "United States",
       "alerts": [
         {
+          "id": "b2281776-e0dc-40b3-a278-db281deb9c16",
+          "subject": "New Jersey Emergency Maintenance - 2025-03-18",
+          "status": "ongoing",
+          "start_date": "2025-03-14T20:32:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2025-03-14T20:32:00+00:00",
+              "message": "Event Type: Network Emergency\r\n\r\nWe are performing system changes in the New Jersey location during the following emergency maintenance window. \r\n\r\nStart Time: 2025-03-18 06:00:00 UTC\r\nEnd Time: 2025-03-18 10:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, New Jersey instances may be unreachable for some, or all, of the emergency maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        },
+        {
           "id": "4bc77809-6e0c-4fbc-a2ce-9c75fec3cce7",
           "subject": "New Jersey Scheduled Maintenance - 2025-03-13",
           "status": "resolved",
