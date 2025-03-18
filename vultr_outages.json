@@ -51,7 +51,47 @@
       "location": "Chicago",
       "country": "US",
       "country_name": "United States",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "04c49308-4ce8-4502-90a0-0d5fb8f58897",
+          "subject": "Chicago NVMe Storage Maintenance - 2025-03-25",
+          "status": "ongoing",
+          "start_date": "2025-03-18T12:32:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2025-03-18T12:32:00+00:00",
+              "message": "Event Type: NVMe Storage Infrastructure Maintenance\r\nStart Time: 2025-03-25 13:00:00 UTC\r\nEnd Time: 2025-03-25 15:00:00 UTC\r\n\r\nOur Cloud Storage team will be performing maitneance on our Chicago NVMe storage infrastructure starting at 2025-03-25 13:00:00 UTC. During this maintenance window, creating, attaching, resizing, and deletion of NVMe block storage volumes, Vultr Filesystems, and Object Storage may be temporarily unavailable.\r\n\r\nPreviously deployed NVMe Storage in Chicago will remain online."
+            }
+          ]
+        },
+        {
+          "id": "04c49308-4ce8-4502-90a0-0d5fb8f58897",
+          "subject": "Chicago NVMe Storage Maintenance - 2025-03-25",
+          "status": "ongoing",
+          "start_date": "2025-03-18T12:32:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2025-03-18T12:32:00+00:00",
+              "message": "Event Type: NVMe Storage Infrastructure Maintenance\r\nStart Time: 2025-03-25 13:00:00 UTC\r\nEnd Time: 2025-03-25 15:00:00 UTC\r\n\r\nOur Cloud Storage team will be performing maitneance on our Chicago NVMe storage infrastructure starting at 2025-03-25 13:00:00 UTC. During this maintenance window, creating, attaching, resizing, and deletion of NVMe block storage volumes, Vultr Filesystems, and Object Storage may be temporarily unavailable.\r\n\r\nPreviously deployed NVMe Storage in Chicago will remain online."
+            }
+          ]
+        },
+        {
+          "id": "04c49308-4ce8-4502-90a0-0d5fb8f58897",
+          "subject": "Chicago NVMe Storage Maintenance - 2025-03-25",
+          "status": "ongoing",
+          "start_date": "2025-03-18T12:32:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2025-03-18T12:32:00+00:00",
+              "message": "Event Type: NVMe Storage Infrastructure Maintenance\r\nStart Time: 2025-03-25 13:00:00 UTC\r\nEnd Time: 2025-03-25 15:00:00 UTC\r\n\r\nOur Cloud Storage team will be performing maitneance on our Chicago NVMe storage infrastructure starting at 2025-03-25 13:00:00 UTC. During this maintenance window, creating, attaching, resizing, and deletion of NVMe block storage volumes, Vultr Filesystems, and Object Storage may be temporarily unavailable.\r\n\r\nPreviously deployed NVMe Storage in Chicago will remain online."
+            }
+          ]
+        }
+      ]
     },
     "dfw": {
       "location": "Dallas",
