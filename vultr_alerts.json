@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "2b334efc-327b-407c-a5f4-c6dd40a95344",
+      "region": "mia",
+      "subject": "Miami Degraded Network Performance",
+      "start_date": "2025-03-20T11:04:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2025-03-20T11:04:00+00:00",
+          "message": "We are currently experiencing degraded network performance in our Miami location. Our network engineers are actively working with our upstream providers to resolve the issue as quickly as possible."
+        }
+      ]
+    },
+    {
       "id": "3d0d01b9-cc5f-40d3-bfec-f62122643ca4",
       "region": "fra",
       "subject": "Frankfurt Outage",
