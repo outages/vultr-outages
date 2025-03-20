@@ -83,7 +83,21 @@
       "location": "Dallas",
       "country": "US",
       "country_name": "United States",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "08a5d239-2141-43f3-8eb9-03ea84d0513e",
+          "subject": "Dallas Outage",
+          "status": "ongoing",
+          "start_date": "2025-03-20T22:58:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2025-03-20T22:58:00+00:00",
+              "message": "We are currently experiencing a partial outage in our Dallas location. Our System Administrators are actively working with our onsite technicians to restore service as quickly as possible."
+            }
+          ]
+        }
+      ]
     },
     "del": {
       "location": "Delhi NCR",
@@ -195,7 +209,7 @@
         {
           "id": "2b334efc-327b-407c-a5f4-c6dd40a95344",
           "subject": "Miami Degraded Network Performance",
-          "status": "resolved",
+          "status": "ongoing",
           "start_date": "2025-03-20T11:04:00+00:00",
           "updated_at": "",
           "entries": [
