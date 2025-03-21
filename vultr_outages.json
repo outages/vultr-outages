@@ -87,7 +87,7 @@
         {
           "id": "08a5d239-2141-43f3-8eb9-03ea84d0513e",
           "subject": "Dallas Outage",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2025-03-20T22:58:00+00:00",
           "updated_at": "",
           "entries": [
