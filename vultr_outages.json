@@ -263,7 +263,7 @@
         {
           "id": "ec66e598-8ac0-42fa-be63-beddf690503c",
           "subject": "Silicon Valley Outage",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2025-03-23T18:16:00+00:00",
           "updated_at": "",
           "entries": [
