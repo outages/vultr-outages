@@ -99,21 +99,7 @@
       "location": "Honolulu",
       "country": "US",
       "country_name": "United States",
-      "alerts": [
-        {
-          "id": "7ed523a3-161e-484a-acd3-fb4155c15bd1",
-          "subject": "Honolulu Scheduled Maintenance - 2025-03-24",
-          "status": "resolved",
-          "start_date": "2025-03-17T19:07:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2025-03-17T19:07:00+00:00",
-              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Honolulu location during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-03-24 11:00:00 UTC\r\nEnd Time: 2025-03-24 15:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Honolulu instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "jnb": {
       "location": "Johannesburg",
