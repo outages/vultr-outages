@@ -1,20 +1,6 @@
 {
   "service_alerts": [
     {
-      "id": "328f5568-0934-4d56-881e-fe58006bb336",
-      "region": "global",
-      "subject": "Silicon Valley Container Registry Outage - 2025-03-26",
-      "start_date": "2025-03-26T21:53:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2025-03-26T21:53:00+00:00",
-          "message": "Event Type: Service Degraded Performance and Availability\r\n\r\nOur Cloud Native team is investigating a partial outage scenario with our Container Registry infrastructure.\r\n\r\nWe are working quickly to restore service to its optimal state."
-        }
-      ]
-    },
-    {
       "id": "2b334efc-327b-407c-a5f4-c6dd40a95344",
       "region": "mia",
       "subject": "Miami Degraded Network Performance",
