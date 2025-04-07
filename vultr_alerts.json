@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "03f5c581-82e9-4d72-ad27-d19547011108",
+      "region": "nrt",
+      "subject": "Tokyo Degraded Network Performance",
+      "start_date": "2025-04-07T13:18:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2025-04-07T13:18:00+00:00",
+          "message": "We are currently experiencing degraded network performance in our Tokyo location. Our network engineers are actively working with our upstream providers to resolve the issue as quickly as possible."
+        }
+      ]
+    },
+    {
       "id": "dc1bf39c-c8b5-48ea-84d5-b89e204dd112",
       "region": "cdg",
       "subject": "Paris Scheduled Maintenance - 2025-04-09",
