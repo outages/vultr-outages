@@ -1,6 +1,26 @@
 {
   "service_alerts": [],
   "regions": {
+    "global": {
+      "location": "All Locations",
+      "country": "ALL",
+      "country_name": "Global",
+      "alerts": [
+        {
+          "id": "14b1c3a4-bd60-4429-92e2-a8066633f80e",
+          "subject": "CDN Outage",
+          "status": "ongoing",
+          "start_date": "2025-04-07T15:01:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2025-04-07T15:01:00+00:00",
+              "message": "We are currently experiencing a partial outage in Vultr CDN. Our Engineers are actively working to restore service as quickly as possible."
+            }
+          ]
+        }
+      ]
+    },
     "ams": {
       "location": "Amsterdam",
       "country": "NL",
