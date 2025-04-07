@@ -73,7 +73,21 @@
       "location": "Johannesburg",
       "country": "ZA",
       "country_name": "South Africa",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "6de15883-8761-4f69-96f4-f5e531c4da68",
+          "subject": "Johannesburg Scheduled Maintenance - 2025-04-17",
+          "status": "ongoing",
+          "start_date": "2025-04-07T17:40:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2025-04-07T17:40:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Johannesburg location during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-04-17 23:00:00 UTC\r\nEnd Time: 2025-04-18 03:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Johannesburg instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        }
+      ]
     },
     "lhr": {
       "location": "London",
