@@ -199,7 +199,7 @@
         {
           "id": "dc1bf39c-c8b5-48ea-84d5-b89e204dd112",
           "subject": "Paris Scheduled Maintenance - 2025-04-09",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2025-04-03T14:22:00+00:00",
           "updated_at": "",
           "entries": [
