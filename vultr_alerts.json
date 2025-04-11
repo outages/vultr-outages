@@ -43,6 +43,20 @@
       ]
     },
     {
+      "id": "1811d2fa-3e3a-47d1-b3e6-6ebdae65ec21",
+      "region": "fra",
+      "subject": "Frankfurt Scheduled Maintenance - 2025-04-16",
+      "start_date": "2025-04-07T17:30:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2025-04-07T17:30:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Frankfurt location during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-04-16 23:00:00 UTC\r\nEnd Time: 2025-04-17 03:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Frankfurt instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
       "id": "61da652e-1144-4e48-a44a-6bb55fa0b4b4",
       "region": "ord",
       "subject": "Chicago Scheduled Maintenance - 2025-04-15",
