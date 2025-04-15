@@ -9,7 +9,7 @@
         {
           "id": "14b1c3a4-bd60-4429-92e2-a8066633f80e",
           "subject": "CDN Outage",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2025-04-07T15:01:00+00:00",
           "updated_at": "",
           "entries": [
