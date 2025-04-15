@@ -47,7 +47,7 @@
         {
           "id": "61da652e-1144-4e48-a44a-6bb55fa0b4b4",
           "subject": "Chicago Scheduled Maintenance - 2025-04-15",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2025-04-07T16:52:00+00:00",
           "updated_at": "",
           "entries": [
