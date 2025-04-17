@@ -79,7 +79,7 @@
         {
           "id": "1811d2fa-3e3a-47d1-b3e6-6ebdae65ec21",
           "subject": "Frankfurt Scheduled Maintenance - 2025-04-16",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2025-04-07T17:30:00+00:00",
           "updated_at": "",
           "entries": [
