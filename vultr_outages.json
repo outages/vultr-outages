@@ -259,7 +259,7 @@
         {
           "id": "d393df95-8fab-4d30-8814-fc7a5ba27d18",
           "subject": "Toronto Scheduled Maintenance - 2025-04-22",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2025-04-08T17:15:00+00:00",
           "updated_at": "",
           "entries": [
