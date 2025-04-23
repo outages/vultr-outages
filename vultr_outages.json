@@ -113,7 +113,7 @@
         {
           "id": "8fdb256e-39ee-4818-b2d3-ec38e5b81a99",
           "subject": "Miami Scheduled Maintenance - 2025-04-23",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2025-04-17T20:36:00+00:00",
           "updated_at": "",
           "entries": [
