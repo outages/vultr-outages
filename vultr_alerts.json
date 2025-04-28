@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "fa8fb0ce-3e76-4526-9250-0831b16afa28",
+      "region": "mad",
+      "subject": "Madrid Power Event - 2025-04-28",
+      "start_date": "2025-04-28T17:59:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2025-04-28T17:59:00+00:00",
+          "message": "Event Type: Power Outage\r\n\r\nWe are aware of ongoing power issues in the Madrid region. At this time, there is no impact to Vultr's operations in Madrid. \r\n\r\nWe will continue to monitor the situation and update if anything changes. \r\n\r\nThis alert will be removed once the power issues have been resolved."
+        }
+      ]
+    },
+    {
       "id": "846f6ed0-0123-4bcb-9071-6dff94cfcb1e",
       "region": "yto",
       "subject": "Toronto Scheduled Maintenance - 2025-04-29",
