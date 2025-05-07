@@ -164,7 +164,21 @@
       "location": "Melbourne",
       "country": "AU",
       "country_name": "Australia",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "17b6e25e-821c-4281-aaee-5ce8cbc53ccd",
+          "subject": "Melbourne Scheduled Maintenance - 2025-05-15",
+          "status": "ongoing",
+          "start_date": "2025-05-07T14:59:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2025-05-07T14:59:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Melbourne location during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-05-15 14:00:00 UTC\r\nEnd Time: 2025-05-15 20:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Melbourne instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        }
+      ]
     },
     "mex": {
       "location": "Mexico City",
