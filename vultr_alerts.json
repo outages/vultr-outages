@@ -1,20 +1,6 @@
 {
   "service_alerts": [
     {
-      "id": "5419c45e-76b0-4e2d-95c0-fbd1088c5f09",
-      "region": "del",
-      "subject": "Delhi NCR Network Outage",
-      "start_date": "2025-05-11T13:42:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2025-05-11T13:42:00+00:00",
-          "message": "We are currently experiencing a partial outage in our Delhi NCR location. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible."
-        }
-      ]
-    },
-    {
       "id": "90f527f2-0ab6-4eaf-a9b4-6fe7f772725e",
       "region": "sao",
       "subject": "São Paulo Scheduled Maintenance - 2025-05-15",

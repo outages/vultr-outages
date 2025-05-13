@@ -63,21 +63,7 @@
       "location": "Delhi NCR",
       "country": "IN",
       "country_name": "India",
-      "alerts": [
-        {
-          "id": "5419c45e-76b0-4e2d-95c0-fbd1088c5f09",
-          "subject": "Delhi NCR Network Outage",
-          "status": "resolved",
-          "start_date": "2025-05-11T13:42:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2025-05-11T13:42:00+00:00",
-              "message": "We are currently experiencing a partial outage in our Delhi NCR location. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "fra": {
       "location": "Frankfurt",
