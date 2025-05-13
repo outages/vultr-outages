@@ -264,7 +264,7 @@
         {
           "id": "c936300f-7860-421f-8fb2-a28a07e01f7a",
           "subject": "Seattle Scheduled Maintenance - 2025-05-13",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2025-05-06T15:16:00+00:00",
           "updated_at": "",
           "entries": [
