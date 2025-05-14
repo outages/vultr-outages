@@ -413,7 +413,7 @@
         {
           "id": "bd43b500-6a4f-4ad8-b00f-5489d2007656",
           "subject": "Tokyo Scheduled Maintenance - 2025-05-14",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2025-05-06T15:14:00+00:00",
           "updated_at": "",
           "entries": [
