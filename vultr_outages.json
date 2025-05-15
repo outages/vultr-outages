@@ -304,7 +304,7 @@
         {
           "id": "90f527f2-0ab6-4eaf-a9b4-6fe7f772725e",
           "subject": "São Paulo Scheduled Maintenance - 2025-05-15",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2025-05-09T17:06:00+00:00",
           "updated_at": "",
           "entries": [
