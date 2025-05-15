@@ -242,7 +242,7 @@
         {
           "id": "17b6e25e-821c-4281-aaee-5ce8cbc53ccd",
           "subject": "Melbourne Scheduled Maintenance - 2025-05-15",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2025-05-07T14:59:00+00:00",
           "updated_at": "",
           "entries": [
