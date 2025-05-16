@@ -15,6 +15,20 @@
       ]
     },
     {
+      "id": "172e7150-3baf-41e1-b7e3-4673756b1966",
+      "region": "atl",
+      "subject": "Atlanta Scheduled Maintenance - 2025-05-30",
+      "start_date": "2025-05-14T12:55:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2025-05-14T12:55:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Atlanta location during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-05-30 07:00:00 UTC\r\nEnd Time: 2025-05-30 11:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Atlanta instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
       "id": "ad513a51-589a-43c3-906d-379f8da07060",
       "region": "dfw",
       "subject": "Dallas Scheduled Maintenance - 2025-05-29",
@@ -43,20 +57,6 @@
       ]
     },
     {
-      "id": "172e7150-3baf-41e1-b7e3-4673756b1966",
-      "region": "atl",
-      "subject": "Atlanta Scheduled Maintenance - 2025-05-30",
-      "start_date": "2025-05-14T12:55:00+00:00",
-      "updated_at": "",
-      "status": "ongoing",
-      "entries": [
-        {
-          "updated_at": "2025-05-14T12:55:00+00:00",
-          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Atlanta location during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-05-30 07:00:00 UTC\r\nEnd Time: 2025-05-30 11:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Atlanta instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-        }
-      ]
-    },
-    {
       "id": "51428e53-afbf-4a4c-857f-a3531717b6f5",
       "region": "sjc",
       "subject": "Silicon Valley Scheduled Maintenance - 2025-05-23",
@@ -71,16 +71,16 @@
       ]
     },
     {
-      "id": "8bfc2861-0496-4d06-94a4-7fe30206b889",
-      "region": "sjc",
-      "subject": "Silicon Valley Scheduled Maintenance - 2025-05-21",
+      "id": "354ded75-e421-4094-92d3-b24399958eee",
+      "region": "lax",
+      "subject": "Los Angeles Scheduled Maintenance - 2025-05-21",
       "start_date": "2025-05-14T12:54:00+00:00",
       "updated_at": "",
       "status": "ongoing",
       "entries": [
         {
           "updated_at": "2025-05-14T12:54:00+00:00",
-          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Silicon Valley location during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-05-21 10:00:00 UTC\r\nEnd Time: 2025-05-21 14:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Silicon Valley instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Los Angeles location during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-05-21 10:00:00 UTC\r\nEnd Time: 2025-05-21 14:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Los Angeles instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
         }
       ]
     },
@@ -99,16 +99,16 @@
       ]
     },
     {
-      "id": "354ded75-e421-4094-92d3-b24399958eee",
-      "region": "lax",
-      "subject": "Los Angeles Scheduled Maintenance - 2025-05-21",
+      "id": "8bfc2861-0496-4d06-94a4-7fe30206b889",
+      "region": "sjc",
+      "subject": "Silicon Valley Scheduled Maintenance - 2025-05-21",
       "start_date": "2025-05-14T12:54:00+00:00",
       "updated_at": "",
       "status": "ongoing",
       "entries": [
         {
           "updated_at": "2025-05-14T12:54:00+00:00",
-          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Los Angeles location during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-05-21 10:00:00 UTC\r\nEnd Time: 2025-05-21 14:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Los Angeles instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Silicon Valley location during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-05-21 10:00:00 UTC\r\nEnd Time: 2025-05-21 14:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Silicon Valley instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
         }
       ]
     },
@@ -137,20 +137,6 @@
         {
           "updated_at": "2025-05-09T17:06:00+00:00",
           "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the São Paulo location during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-05-15 04:00:00 UTC\r\nEnd Time: 2025-05-15 08:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, São Paulo instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-        }
-      ]
-    },
-    {
-      "id": "6519900f-466a-420d-a2b1-4e764cf12648",
-      "region": "sao",
-      "subject": "São Paulo Scheduled Maintenance - 2025-05-14",
-      "start_date": "2025-05-08T21:34:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2025-05-08T21:34:00+00:00",
-          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the São Paulo location during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-05-14 04:00:00 UTC\r\nEnd Time: 2025-05-14 08:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, São Paulo instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
         }
       ]
     },
