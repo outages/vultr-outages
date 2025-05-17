@@ -153,20 +153,6 @@
           "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Los Angeles location during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-05-16 10:00:00 UTC\r\nEnd Time: 2025-05-16 14:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Los Angeles instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
         }
       ]
-    },
-    {
-      "id": "382d4c1b-d04f-4cbe-b2f8-75f157d890ab",
-      "region": "ord",
-      "subject": "Chicago Scheduled Maintenance - 2025-05-15",
-      "start_date": "2025-05-06T14:35:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2025-05-06T14:35:00+00:00",
-          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Chicago location during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-05-15 05:00:00 UTC\r\nEnd Time: 2025-05-15 09:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Chicago instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
-        }
-      ]
     }
   ]
 }
