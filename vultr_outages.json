@@ -273,21 +273,7 @@
       "location": "São Paulo",
       "country": "BR",
       "country_name": "Brazil",
-      "alerts": [
-        {
-          "id": "90f527f2-0ab6-4eaf-a9b4-6fe7f772725e",
-          "subject": "São Paulo Scheduled Maintenance - 2025-05-15",
-          "status": "resolved",
-          "start_date": "2025-05-09T17:06:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2025-05-09T17:06:00+00:00",
-              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the São Paulo location during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-05-15 04:00:00 UTC\r\nEnd Time: 2025-05-15 08:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, São Paulo instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "sea": {
       "location": "Seattle",
