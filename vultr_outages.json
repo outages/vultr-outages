@@ -152,19 +152,6 @@
               "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Los Angeles location during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-05-20 10:00:00 UTC\r\nEnd Time: 2025-05-20 14:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Los Angeles instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
             }
           ]
-        },
-        {
-          "id": "5eb3e13f-edcb-4242-a9b9-b2fcc17ce9f6",
-          "subject": "Los Angeles Scheduled Maintenance - 2025-05-16",
-          "status": "resolved",
-          "start_date": "2025-05-06T15:32:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2025-05-06T15:32:00+00:00",
-              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Los Angeles location during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-05-16 10:00:00 UTC\r\nEnd Time: 2025-05-16 14:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Los Angeles instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-            }
-          ]
         }
       ]
     },
