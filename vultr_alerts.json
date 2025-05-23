@@ -71,20 +71,6 @@
       ]
     },
     {
-      "id": "354ded75-e421-4094-92d3-b24399958eee",
-      "region": "lax",
-      "subject": "Los Angeles Scheduled Maintenance - 2025-05-21",
-      "start_date": "2025-05-14T12:54:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2025-05-14T12:54:00+00:00",
-          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Los Angeles location during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-05-21 10:00:00 UTC\r\nEnd Time: 2025-05-21 14:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Los Angeles instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-        }
-      ]
-    },
-    {
       "id": "f6817b29-28d3-494d-8a94-8a090cf23eea",
       "region": "sjc",
       "subject": "Silicon Valley Scheduled Maintenance - 2025-05-22",
@@ -95,20 +81,6 @@
         {
           "updated_at": "2025-05-14T12:54:00+00:00",
           "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Silicon Valley location during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-05-22 10:00:00 UTC\r\nEnd Time: 2025-05-22 14:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Silicon Valley instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-        }
-      ]
-    },
-    {
-      "id": "8bfc2861-0496-4d06-94a4-7fe30206b889",
-      "region": "sjc",
-      "subject": "Silicon Valley Scheduled Maintenance - 2025-05-21",
-      "start_date": "2025-05-14T12:54:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2025-05-14T12:54:00+00:00",
-          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Silicon Valley location during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-05-21 10:00:00 UTC\r\nEnd Time: 2025-05-21 14:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Silicon Valley instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
         }
       ]
     }
