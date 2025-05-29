@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "d7806dc1-aae1-4101-97e1-e86483383006",
+      "region": "global",
+      "subject": "Portal Maintenance",
+      "start_date": "2025-05-29T19:13:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2025-05-29T19:13:00+00:00",
+          "message": "Several of our internal platforms will undergo an upgrade this evening.\r\n\r\nWe do not anticipate any impact to customer production systems.\r\n\r\nUsers may experience intermittent trouble with various functions within the my.Vultr.com portal during this maintenance."
+        }
+      ]
+    },
+    {
       "id": "1d87de2f-cc5d-4bc5-9fae-ecf388950596",
       "region": "lhr",
       "subject": "London Scheduled Maintenance - 2025-05-29",
