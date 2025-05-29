@@ -117,10 +117,14 @@
         {
           "id": "21ba7af3-33b9-4f59-8ecc-053da02e4bae",
           "subject": "London Scheduled Maintenance - 2025-05-28",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2025-05-21T21:57:00+00:00",
-          "updated_at": "",
+          "updated_at": "2025-05-29T04:27:00+00:00",
           "entries": [
+            {
+              "updated_at": "2025-05-29T04:27:00+00:00",
+              "message": "Lon3 to lon4 migration was completed successfully all traffic is now using lon4 ER's and transit circuits."
+            },
             {
               "updated_at": "2025-05-21T21:57:00+00:00",
               "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the London location during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-05-28 23:00:00 UTC\r\nEnd Time: 2025-05-29 03:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, London instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
