@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "d6cb2515-2309-4e45-a059-47e675a99abb",
+      "region": "bom",
+      "subject": "Mumbai Scheduled Maintenance - 2025-06-10",
+      "start_date": "2025-06-02T14:26:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2025-06-02T14:26:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Mumbai location during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-06-10 18:30:00 UTC\r\nEnd Time: 2025-06-11 00:30:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Mumbai instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+        }
+      ]
+    },
+    {
       "id": "52a412e2-e2ee-4019-b70c-e06b4622c05d",
       "region": "ewr",
       "subject": "New Jersey Scheduled Maintenance - 2025-06-19",
