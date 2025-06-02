@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "c164d32d-7df7-4d21-add9-cae6932ab830",
+      "region": "global",
+      "subject": "VKE Outage - 2025-06-02",
+      "start_date": "2025-06-02T14:36:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2025-06-02T14:36:00+00:00",
+          "message": "Event Type: Service Degraded Performance and Availability\r\n\r\nOur Cloud Native team is investigating a partial outage situation with our VKE infrastructure. The following services may be impacted by this event:\r\n\r\n- Retrieving new copies of cluster kubeconfig files \r\n\r\nWe are working quickly to restore service to its optimal state."
+        }
+      ]
+    },
+    {
       "id": "d6cb2515-2309-4e45-a059-47e675a99abb",
       "region": "bom",
       "subject": "Mumbai Scheduled Maintenance - 2025-06-10",
