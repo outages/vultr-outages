@@ -167,7 +167,21 @@
       "location": "Paris",
       "country": "FR",
       "country_name": "France",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "326e2223-0398-4ade-9d84-7119afabe67f",
+          "subject": "Partial Outage",
+          "status": "ongoing",
+          "start_date": "2025-06-04T08:52:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2025-06-04T08:52:00+00:00",
+              "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
+            }
+          ]
+        }
+      ]
     },
     "scl": {
       "location": "Santiago",
