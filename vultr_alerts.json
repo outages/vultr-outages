@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "1ba0ad20-6260-479c-8a8d-578ecd442968",
+      "region": "dfw",
+      "subject": "Dallas Network Outage",
+      "start_date": "2025-06-04T11:54:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2025-06-04T11:54:00+00:00",
+          "message": "We are currently experiencing a partial outage in our Dallas location. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible."
+        }
+      ]
+    },
+    {
       "id": "46184837-9e5a-4cdf-b0c6-460bf3de0e9d",
       "region": "ewr",
       "subject": "Partial Outage",
