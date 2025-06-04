@@ -15,20 +15,6 @@
       ]
     },
     {
-      "id": "326e2223-0398-4ade-9d84-7119afabe67f",
-      "region": "cdg",
-      "subject": "Partial Outage",
-      "start_date": "2025-06-04T08:52:00+00:00",
-      "updated_at": "",
-      "status": "ongoing",
-      "entries": [
-        {
-          "updated_at": "2025-06-04T08:52:00+00:00",
-          "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
-        }
-      ]
-    },
-    {
       "id": "c164d32d-7df7-4d21-add9-cae6932ab830",
       "region": "global",
       "subject": "VKE Outage - 2025-06-02",
