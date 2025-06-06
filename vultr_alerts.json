@@ -1,20 +1,6 @@
 {
   "service_alerts": [
     {
-      "id": "1ba0ad20-6260-479c-8a8d-578ecd442968",
-      "region": "dfw",
-      "subject": "Dallas Network Outage",
-      "start_date": "2025-06-04T11:54:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2025-06-04T11:54:00+00:00",
-          "message": "We are currently experiencing a partial outage in our Dallas location. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible."
-        }
-      ]
-    },
-    {
       "id": "d6cb2515-2309-4e45-a059-47e675a99abb",
       "region": "bom",
       "subject": "Mumbai Scheduled Maintenance - 2025-06-10",
