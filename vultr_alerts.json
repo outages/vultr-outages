@@ -15,20 +15,6 @@
       ]
     },
     {
-      "id": "7c215644-9435-4a36-9bb8-218ab04f2e52",
-      "region": "global",
-      "subject": "Block Storage Outage - 2025-06-13",
-      "start_date": "2025-06-13T17:37:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2025-06-13T17:37:00+00:00",
-          "message": "Event Type: Service Degraded Performance and Availability\r\n\r\nOur Cloud Storage team is investigating a partial outage scenario with our Block Storage infrastructure. The following services may be impacted by this event:\r\n\r\n- Attach / Detach to VPS instance\r\n\r\nWe are working quickly to restore service to its optimal state."
-        }
-      ]
-    },
-    {
       "id": "c4d3a598-3fbf-4e6b-9031-efba21005b2b",
       "region": "ord",
       "subject": "Chicago Scheduled Maintenance - 2025-06-18",
