@@ -1,20 +1,6 @@
 {
   "service_alerts": [
     {
-      "id": "bcb39e76-9ef9-4e56-9139-a829a82931e9",
-      "region": "sgp",
-      "subject": "Singapore Degraded Network Performance",
-      "start_date": "2025-06-15T11:40:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2025-06-15T11:40:00+00:00",
-          "message": "We are currently experiencing degraded network performance in our Singapore location. Our network engineers are actively working with our upstream providers to resolve the issue as quickly as possible."
-        }
-      ]
-    },
-    {
       "id": "c4d3a598-3fbf-4e6b-9031-efba21005b2b",
       "region": "ord",
       "subject": "Chicago Scheduled Maintenance - 2025-06-18",
