@@ -139,7 +139,7 @@
         {
           "id": "a8f8e53a-3384-4c74-a0fc-3b3d77f55f39",
           "subject": "New Jersey Network Outage",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2025-06-24T17:53:00+00:00",
           "updated_at": "",
           "entries": [
