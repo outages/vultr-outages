@@ -41,7 +41,21 @@
       "location": "Frankfurt",
       "country": "DE",
       "country_name": "Germany",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "57dc8413-c403-4122-bf24-98dc6de2f9f9",
+          "subject": "Frankfurt Degraded Network Performance",
+          "status": "ongoing",
+          "start_date": "2025-07-08T19:07:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2025-07-08T19:07:00+00:00",
+              "message": "We are currently experiencing degraded network performance in our Frankfurt location. Our network engineers are actively working with our upstream providers to resolve the issue as quickly as possible."
+            }
+          ]
+        }
+      ]
     },
     "hnl": {
       "location": "Honolulu",
