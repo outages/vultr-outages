@@ -17,7 +17,21 @@
       "location": "Bangalore",
       "country": "IN",
       "country_name": "India",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "04f198dc-f82a-4a87-8a5d-d0bdc7304aad",
+          "subject": "Bangalore Degraded Network Performance",
+          "status": "ongoing",
+          "start_date": "2025-07-11T18:47:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2025-07-11T18:47:00+00:00",
+              "message": "We are currently experiencing degraded network performance in our Bangalore location. Our network engineers are actively working with our upstream providers to resolve the issue as quickly as possible."
+            }
+          ]
+        }
+      ]
     },
     "ord": {
       "location": "Chicago",
