@@ -1,6 +1,26 @@
 {
   "service_alerts": [],
   "regions": {
+    "global": {
+      "location": "All Locations",
+      "country": "ALL",
+      "country_name": "Global",
+      "alerts": [
+        {
+          "id": "099736ec-28d5-4193-9a15-0d721c553ff0",
+          "subject": "VKE Deployment Delays",
+          "status": "ongoing",
+          "start_date": "2025-07-23T18:53:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2025-07-23T18:53:00+00:00",
+              "message": "Some customers are currently experiencing slower than normal cluster deployment times. Our engineering team is aware of this issue and is working diligently to resolve this as quickly as possible."
+            }
+          ]
+        }
+      ]
+    },
     "ams": {
       "location": "Amsterdam",
       "country": "NL",
