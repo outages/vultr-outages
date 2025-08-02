@@ -107,21 +107,7 @@
       "location": "New Jersey",
       "country": "US",
       "country_name": "United States",
-      "alerts": [
-        {
-          "id": "c01115ee-7505-4395-9b72-463d87a71492",
-          "subject": "New Jersey Scheduled Maintenance - 2025-07-31",
-          "status": "resolved",
-          "start_date": "2025-07-25T21:39:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2025-07-25T21:39:00+00:00",
-              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the New Jersey location during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-07-31 04:05:00 UTC\r\nEnd Time: 2025-07-31 06:05:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, New Jersey instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "itm": {
       "location": "Osaka",
