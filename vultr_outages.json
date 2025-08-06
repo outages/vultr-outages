@@ -93,7 +93,7 @@
         {
           "id": "e18eb27a-e859-40c6-a833-5fe3bab2dfd1",
           "subject": "Mexico City Network Outage",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2025-08-06T04:29:00+00:00",
           "updated_at": "",
           "entries": [
