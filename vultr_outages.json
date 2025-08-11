@@ -5,7 +5,21 @@
       "location": "Amsterdam",
       "country": "NL",
       "country_name": "Netherlands",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "63e8faac-7744-4329-8b29-7a49f7fd9134",
+          "subject": "Amsterdam, Frankfurt, Johannesburg, Madrid, Paris, Stockholm, Warsaw Scheduled Maintenance - 2025-08-12",
+          "status": "ongoing",
+          "start_date": "2025-08-11T21:35:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2025-08-11T21:35:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Amsterdam, Frankfurt, Johannesburg, Madrid, Paris, Stockholm, Warsaw locations during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-08-12 00:00:00 UTC\r\nEnd Time: 2025-08-12 03:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Amsterdam, Frankfurt, Johannesburg, Madrid, Paris, Stockholm, Warsaw instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        }
+      ]
     },
     "atl": {
       "location": "Atlanta",
@@ -83,7 +97,21 @@
       "location": "Frankfurt",
       "country": "DE",
       "country_name": "Germany",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "63e8faac-7744-4329-8b29-7a49f7fd9134",
+          "subject": "Amsterdam, Frankfurt, Johannesburg, Madrid, Paris, Stockholm, Warsaw Scheduled Maintenance - 2025-08-12",
+          "status": "ongoing",
+          "start_date": "2025-08-11T21:35:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2025-08-11T21:35:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Amsterdam, Frankfurt, Johannesburg, Madrid, Paris, Stockholm, Warsaw locations during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-08-12 00:00:00 UTC\r\nEnd Time: 2025-08-12 03:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Amsterdam, Frankfurt, Johannesburg, Madrid, Paris, Stockholm, Warsaw instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        }
+      ]
     },
     "hnl": {
       "location": "Honolulu",
@@ -95,13 +123,41 @@
       "location": "Johannesburg",
       "country": "ZA",
       "country_name": "South Africa",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "63e8faac-7744-4329-8b29-7a49f7fd9134",
+          "subject": "Amsterdam, Frankfurt, Johannesburg, Madrid, Paris, Stockholm, Warsaw Scheduled Maintenance - 2025-08-12",
+          "status": "ongoing",
+          "start_date": "2025-08-11T21:35:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2025-08-11T21:35:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Amsterdam, Frankfurt, Johannesburg, Madrid, Paris, Stockholm, Warsaw locations during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-08-12 00:00:00 UTC\r\nEnd Time: 2025-08-12 03:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Amsterdam, Frankfurt, Johannesburg, Madrid, Paris, Stockholm, Warsaw instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        }
+      ]
     },
     "lhr": {
       "location": "London",
       "country": "GB",
       "country_name": "United Kingdom",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "3d9c5d0a-24a7-42f6-b61d-a5d49a7a41c3",
+          "subject": "London, Manchester Scheduled Maintenance - 2025-08-12",
+          "status": "ongoing",
+          "start_date": "2025-08-11T21:36:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2025-08-11T21:36:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the London, Manchester locations during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-08-12 01:00:00 UTC\r\nEnd Time: 2025-08-12 04:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, London, Manchester instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        }
+      ]
     },
     "lax": {
       "location": "Los Angeles",
@@ -113,13 +169,41 @@
       "location": "Madrid",
       "country": "ES",
       "country_name": "Spain",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "63e8faac-7744-4329-8b29-7a49f7fd9134",
+          "subject": "Amsterdam, Frankfurt, Johannesburg, Madrid, Paris, Stockholm, Warsaw Scheduled Maintenance - 2025-08-12",
+          "status": "ongoing",
+          "start_date": "2025-08-11T21:35:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2025-08-11T21:35:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Amsterdam, Frankfurt, Johannesburg, Madrid, Paris, Stockholm, Warsaw locations during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-08-12 00:00:00 UTC\r\nEnd Time: 2025-08-12 03:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Amsterdam, Frankfurt, Johannesburg, Madrid, Paris, Stockholm, Warsaw instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        }
+      ]
     },
     "man": {
       "location": "Manchester",
       "country": "GB",
       "country_name": "United Kingdom",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "3d9c5d0a-24a7-42f6-b61d-a5d49a7a41c3",
+          "subject": "London, Manchester Scheduled Maintenance - 2025-08-12",
+          "status": "ongoing",
+          "start_date": "2025-08-11T21:36:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2025-08-11T21:36:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the London, Manchester locations during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-08-12 01:00:00 UTC\r\nEnd Time: 2025-08-12 04:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, London, Manchester instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        }
+      ]
     },
     "mel": {
       "location": "Melbourne",
@@ -202,7 +286,21 @@
       "location": "Paris",
       "country": "FR",
       "country_name": "France",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "63e8faac-7744-4329-8b29-7a49f7fd9134",
+          "subject": "Amsterdam, Frankfurt, Johannesburg, Madrid, Paris, Stockholm, Warsaw Scheduled Maintenance - 2025-08-12",
+          "status": "ongoing",
+          "start_date": "2025-08-11T21:35:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2025-08-11T21:35:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Amsterdam, Frankfurt, Johannesburg, Madrid, Paris, Stockholm, Warsaw locations during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-08-12 00:00:00 UTC\r\nEnd Time: 2025-08-12 03:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Amsterdam, Frankfurt, Johannesburg, Madrid, Paris, Stockholm, Warsaw instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        }
+      ]
     },
     "scl": {
       "location": "Santiago",
@@ -215,6 +313,19 @@
       "country": "BR",
       "country_name": "Brazil",
       "alerts": [
+        {
+          "id": "b6231bab-8424-47f1-8c80-8260bde1c806",
+          "subject": "São Paulo Scheduled Maintenance - 2025-08-12",
+          "status": "ongoing",
+          "start_date": "2025-08-11T21:41:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2025-08-11T21:41:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the São Paulo location during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-08-12 05:00:00 UTC\r\nEnd Time: 2025-08-12 08:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, São Paulo instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        },
         {
           "id": "98eb1b28-6212-4356-9528-d942737a7fce",
           "subject": "São Paulo Scheduled Maintenance - 2025-08-12",
@@ -286,7 +397,21 @@
       "location": "Stockholm",
       "country": "SE",
       "country_name": "Sweden",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "63e8faac-7744-4329-8b29-7a49f7fd9134",
+          "subject": "Amsterdam, Frankfurt, Johannesburg, Madrid, Paris, Stockholm, Warsaw Scheduled Maintenance - 2025-08-12",
+          "status": "ongoing",
+          "start_date": "2025-08-11T21:35:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2025-08-11T21:35:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Amsterdam, Frankfurt, Johannesburg, Madrid, Paris, Stockholm, Warsaw locations during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-08-12 00:00:00 UTC\r\nEnd Time: 2025-08-12 03:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Amsterdam, Frankfurt, Johannesburg, Madrid, Paris, Stockholm, Warsaw instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        }
+      ]
     },
     "syd": {
       "location": "Sydney",
@@ -358,7 +483,21 @@
       "location": "Warsaw",
       "country": "PL",
       "country_name": "Poland",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "63e8faac-7744-4329-8b29-7a49f7fd9134",
+          "subject": "Amsterdam, Frankfurt, Johannesburg, Madrid, Paris, Stockholm, Warsaw Scheduled Maintenance - 2025-08-12",
+          "status": "ongoing",
+          "start_date": "2025-08-11T21:35:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2025-08-11T21:35:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Amsterdam, Frankfurt, Johannesburg, Madrid, Paris, Stockholm, Warsaw locations during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-08-12 00:00:00 UTC\r\nEnd Time: 2025-08-12 03:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Amsterdam, Frankfurt, Johannesburg, Madrid, Paris, Stockholm, Warsaw instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        }
+      ]
     }
   }
 }
