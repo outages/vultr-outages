@@ -320,6 +320,19 @@
       "country_name": "United States",
       "alerts": [
         {
+          "id": "b13e3b46-4fee-4ad3-b824-782b209b912e",
+          "subject": "Partial Outage",
+          "status": "ongoing",
+          "start_date": "2025-08-12T12:49:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2025-08-12T12:49:00+00:00",
+              "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
+            }
+          ]
+        },
+        {
           "id": "5b9061a8-9979-4146-8364-72c0b399c772",
           "subject": "Atlanta, Miami, New Jersey, Santiago, Toronto Scheduled Maintenance - 2025-08-12",
           "status": "ongoing",
