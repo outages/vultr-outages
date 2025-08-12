@@ -62,7 +62,7 @@
         {
           "id": "11bffa49-33b3-4d14-a50f-0413857a52fb",
           "subject": "Bangalore, Delhi NCR, Mumbai Scheduled Maintenance - 2025-08-11",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2025-08-11T20:32:00+00:00",
           "updated_at": "",
           "entries": [
@@ -122,7 +122,7 @@
         {
           "id": "11bffa49-33b3-4d14-a50f-0413857a52fb",
           "subject": "Bangalore, Delhi NCR, Mumbai Scheduled Maintenance - 2025-08-11",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2025-08-11T20:32:00+00:00",
           "updated_at": "",
           "entries": [
@@ -342,7 +342,7 @@
         {
           "id": "11bffa49-33b3-4d14-a50f-0413857a52fb",
           "subject": "Bangalore, Delhi NCR, Mumbai Scheduled Maintenance - 2025-08-11",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2025-08-11T20:32:00+00:00",
           "updated_at": "",
           "entries": [
@@ -593,7 +593,7 @@
         {
           "id": "ba187451-ef79-4b29-a48e-f5fa36f6dc7f",
           "subject": "Tel Aviv Scheduled Maintenance - 2025-08-11",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2025-08-11T20:59:00+00:00",
           "updated_at": "",
           "entries": [
