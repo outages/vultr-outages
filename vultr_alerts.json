@@ -1,12 +1,180 @@
 {
   "service_alerts": [
     {
+      "id": "905fb62c-adc5-46c6-80c2-6f15d7afe83f",
+      "region": "hnl",
+      "subject": "Honolulu Scheduled Maintenance - 2025-08-12",
+      "start_date": "2025-08-12T00:37:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2025-08-12T00:37:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Honolulu location during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-08-12 23:00:00 UTC\r\nEnd Time: 2025-08-13 03:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Honolulu instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
+      "id": "5e3d5c67-6ad1-49ba-801c-e5037068141d",
+      "region": "sea",
+      "subject": "Los Angeles, Seattle, Silicon Valley Scheduled Maintenance - 2025-08-12",
+      "start_date": "2025-08-12T00:36:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2025-08-12T00:36:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Los Angeles, Seattle, Silicon Valley locations during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-08-12 09:00:00 UTC\r\nEnd Time: 2025-08-12 12:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Los Angeles, Seattle, Silicon Valley instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
+      "id": "5e3d5c67-6ad1-49ba-801c-e5037068141d",
+      "region": "sjc",
+      "subject": "Los Angeles, Seattle, Silicon Valley Scheduled Maintenance - 2025-08-12",
+      "start_date": "2025-08-12T00:36:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2025-08-12T00:36:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Los Angeles, Seattle, Silicon Valley locations during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-08-12 09:00:00 UTC\r\nEnd Time: 2025-08-12 12:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Los Angeles, Seattle, Silicon Valley instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
+      "id": "5e3d5c67-6ad1-49ba-801c-e5037068141d",
+      "region": "lax",
+      "subject": "Los Angeles, Seattle, Silicon Valley Scheduled Maintenance - 2025-08-12",
+      "start_date": "2025-08-12T00:36:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2025-08-12T00:36:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Los Angeles, Seattle, Silicon Valley locations during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-08-12 09:00:00 UTC\r\nEnd Time: 2025-08-12 12:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Los Angeles, Seattle, Silicon Valley instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
+      "id": "b77ed095-aea7-4b29-8b88-a53bab74c6c5",
+      "region": "mex",
+      "subject": "Mexico City Scheduled Maintenance - 2025-08-12",
+      "start_date": "2025-08-12T00:33:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2025-08-12T00:33:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Mexico City location during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-08-12 08:00:00 UTC\r\nEnd Time: 2025-08-12 11:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Mexico City instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
+      "id": "ab61c4bb-b791-48a2-9386-fe86e9ff397d",
+      "region": "ord",
+      "subject": "Chicago, Dallas Scheduled Maintenance - 2025-08-12",
+      "start_date": "2025-08-12T00:29:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2025-08-12T00:29:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Chicago, Dallas locations during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-08-12 07:00:00 UTC\r\nEnd Time: 2025-08-12 10:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Chicago, Dallas instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
+      "id": "ab61c4bb-b791-48a2-9386-fe86e9ff397d",
+      "region": "dfw",
+      "subject": "Chicago, Dallas Scheduled Maintenance - 2025-08-12",
+      "start_date": "2025-08-12T00:29:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2025-08-12T00:29:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Chicago, Dallas locations during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-08-12 07:00:00 UTC\r\nEnd Time: 2025-08-12 10:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Chicago, Dallas instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
+      "id": "5b9061a8-9979-4146-8364-72c0b399c772",
+      "region": "scl",
+      "subject": "Atlanta, Miami, New Jersey, Santiago, Toronto Scheduled Maintenance - 2025-08-12",
+      "start_date": "2025-08-12T00:28:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2025-08-12T00:28:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Atlanta, Miami, New Jersey, Santiago, Toronto locations during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-08-12 06:00:00 UTC\r\nEnd Time: 2025-08-12 09:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Atlanta, Miami, New Jersey, Santiago, Toronto instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
+      "id": "5b9061a8-9979-4146-8364-72c0b399c772",
+      "region": "mia",
+      "subject": "Atlanta, Miami, New Jersey, Santiago, Toronto Scheduled Maintenance - 2025-08-12",
+      "start_date": "2025-08-12T00:28:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2025-08-12T00:28:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Atlanta, Miami, New Jersey, Santiago, Toronto locations during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-08-12 06:00:00 UTC\r\nEnd Time: 2025-08-12 09:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Atlanta, Miami, New Jersey, Santiago, Toronto instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
+      "id": "5b9061a8-9979-4146-8364-72c0b399c772",
+      "region": "atl",
+      "subject": "Atlanta, Miami, New Jersey, Santiago, Toronto Scheduled Maintenance - 2025-08-12",
+      "start_date": "2025-08-12T00:28:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2025-08-12T00:28:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Atlanta, Miami, New Jersey, Santiago, Toronto locations during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-08-12 06:00:00 UTC\r\nEnd Time: 2025-08-12 09:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Atlanta, Miami, New Jersey, Santiago, Toronto instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
+      "id": "5b9061a8-9979-4146-8364-72c0b399c772",
+      "region": "ewr",
+      "subject": "Atlanta, Miami, New Jersey, Santiago, Toronto Scheduled Maintenance - 2025-08-12",
+      "start_date": "2025-08-12T00:28:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2025-08-12T00:28:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Atlanta, Miami, New Jersey, Santiago, Toronto locations during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-08-12 06:00:00 UTC\r\nEnd Time: 2025-08-12 09:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Atlanta, Miami, New Jersey, Santiago, Toronto instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
+      "id": "5b9061a8-9979-4146-8364-72c0b399c772",
+      "region": "yto",
+      "subject": "Atlanta, Miami, New Jersey, Santiago, Toronto Scheduled Maintenance - 2025-08-12",
+      "start_date": "2025-08-12T00:28:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2025-08-12T00:28:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Atlanta, Miami, New Jersey, Santiago, Toronto locations during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-08-12 06:00:00 UTC\r\nEnd Time: 2025-08-12 09:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Atlanta, Miami, New Jersey, Santiago, Toronto instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
       "id": "7e02bbd6-c716-414c-a02f-5cec18c4abf2",
-      "region": "nrt",
+      "region": "sgp",
       "subject": "Melbourne, Singapore, Sydney, Tokyo VPC Network Outage",
       "start_date": "2025-08-11T22:04:00+00:00",
       "updated_at": "",
-      "status": "ongoing",
+      "status": "resolved",
       "entries": [
         {
           "updated_at": "2025-08-11T22:04:00+00:00",
@@ -20,7 +188,7 @@
       "subject": "Melbourne, Singapore, Sydney, Tokyo VPC Network Outage",
       "start_date": "2025-08-11T22:04:00+00:00",
       "updated_at": "",
-      "status": "ongoing",
+      "status": "resolved",
       "entries": [
         {
           "updated_at": "2025-08-11T22:04:00+00:00",
@@ -30,11 +198,11 @@
     },
     {
       "id": "7e02bbd6-c716-414c-a02f-5cec18c4abf2",
-      "region": "sgp",
+      "region": "nrt",
       "subject": "Melbourne, Singapore, Sydney, Tokyo VPC Network Outage",
       "start_date": "2025-08-11T22:04:00+00:00",
       "updated_at": "",
-      "status": "ongoing",
+      "status": "resolved",
       "entries": [
         {
           "updated_at": "2025-08-11T22:04:00+00:00",
@@ -48,7 +216,7 @@
       "subject": "Melbourne, Singapore, Sydney, Tokyo VPC Network Outage",
       "start_date": "2025-08-11T22:04:00+00:00",
       "updated_at": "",
-      "status": "ongoing",
+      "status": "resolved",
       "entries": [
         {
           "updated_at": "2025-08-11T22:04:00+00:00",
@@ -100,34 +268,6 @@
     },
     {
       "id": "63e8faac-7744-4329-8b29-7a49f7fd9134",
-      "region": "ams",
-      "subject": "Amsterdam, Frankfurt, Johannesburg, Madrid, Paris, Stockholm, Warsaw Scheduled Maintenance - 2025-08-12",
-      "start_date": "2025-08-11T21:35:00+00:00",
-      "updated_at": "",
-      "status": "ongoing",
-      "entries": [
-        {
-          "updated_at": "2025-08-11T21:35:00+00:00",
-          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Amsterdam, Frankfurt, Johannesburg, Madrid, Paris, Stockholm, Warsaw locations during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-08-12 00:00:00 UTC\r\nEnd Time: 2025-08-12 03:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Amsterdam, Frankfurt, Johannesburg, Madrid, Paris, Stockholm, Warsaw instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-        }
-      ]
-    },
-    {
-      "id": "63e8faac-7744-4329-8b29-7a49f7fd9134",
-      "region": "cdg",
-      "subject": "Amsterdam, Frankfurt, Johannesburg, Madrid, Paris, Stockholm, Warsaw Scheduled Maintenance - 2025-08-12",
-      "start_date": "2025-08-11T21:35:00+00:00",
-      "updated_at": "",
-      "status": "ongoing",
-      "entries": [
-        {
-          "updated_at": "2025-08-11T21:35:00+00:00",
-          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Amsterdam, Frankfurt, Johannesburg, Madrid, Paris, Stockholm, Warsaw locations during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-08-12 00:00:00 UTC\r\nEnd Time: 2025-08-12 03:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Amsterdam, Frankfurt, Johannesburg, Madrid, Paris, Stockholm, Warsaw instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-        }
-      ]
-    },
-    {
-      "id": "63e8faac-7744-4329-8b29-7a49f7fd9134",
       "region": "sto",
       "subject": "Amsterdam, Frankfurt, Johannesburg, Madrid, Paris, Stockholm, Warsaw Scheduled Maintenance - 2025-08-12",
       "start_date": "2025-08-11T21:35:00+00:00",
@@ -142,7 +282,35 @@
     },
     {
       "id": "63e8faac-7744-4329-8b29-7a49f7fd9134",
+      "region": "ams",
+      "subject": "Amsterdam, Frankfurt, Johannesburg, Madrid, Paris, Stockholm, Warsaw Scheduled Maintenance - 2025-08-12",
+      "start_date": "2025-08-11T21:35:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2025-08-11T21:35:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Amsterdam, Frankfurt, Johannesburg, Madrid, Paris, Stockholm, Warsaw locations during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-08-12 00:00:00 UTC\r\nEnd Time: 2025-08-12 03:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Amsterdam, Frankfurt, Johannesburg, Madrid, Paris, Stockholm, Warsaw instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
+      "id": "63e8faac-7744-4329-8b29-7a49f7fd9134",
       "region": "waw",
+      "subject": "Amsterdam, Frankfurt, Johannesburg, Madrid, Paris, Stockholm, Warsaw Scheduled Maintenance - 2025-08-12",
+      "start_date": "2025-08-11T21:35:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2025-08-11T21:35:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Amsterdam, Frankfurt, Johannesburg, Madrid, Paris, Stockholm, Warsaw locations during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-08-12 00:00:00 UTC\r\nEnd Time: 2025-08-12 03:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Amsterdam, Frankfurt, Johannesburg, Madrid, Paris, Stockholm, Warsaw instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
+      "id": "63e8faac-7744-4329-8b29-7a49f7fd9134",
+      "region": "cdg",
       "subject": "Amsterdam, Frankfurt, Johannesburg, Madrid, Paris, Stockholm, Warsaw Scheduled Maintenance - 2025-08-12",
       "start_date": "2025-08-11T21:35:00+00:00",
       "updated_at": "",
@@ -226,20 +394,6 @@
     },
     {
       "id": "11bffa49-33b3-4d14-a50f-0413857a52fb",
-      "region": "bom",
-      "subject": "Bangalore, Delhi NCR, Mumbai Scheduled Maintenance - 2025-08-11",
-      "start_date": "2025-08-11T20:32:00+00:00",
-      "updated_at": "",
-      "status": "ongoing",
-      "entries": [
-        {
-          "updated_at": "2025-08-11T20:32:00+00:00",
-          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Bangalore, Delhi NCR, Mumbai locations during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-08-11 21:00:00 UTC\r\nEnd Time: 2025-08-12 01:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Bangalore, Delhi NCR, Mumbai instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-        }
-      ]
-    },
-    {
-      "id": "11bffa49-33b3-4d14-a50f-0413857a52fb",
       "region": "del",
       "subject": "Bangalore, Delhi NCR, Mumbai Scheduled Maintenance - 2025-08-11",
       "start_date": "2025-08-11T20:32:00+00:00",
@@ -255,6 +409,20 @@
     {
       "id": "11bffa49-33b3-4d14-a50f-0413857a52fb",
       "region": "blr",
+      "subject": "Bangalore, Delhi NCR, Mumbai Scheduled Maintenance - 2025-08-11",
+      "start_date": "2025-08-11T20:32:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2025-08-11T20:32:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Bangalore, Delhi NCR, Mumbai locations during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-08-11 21:00:00 UTC\r\nEnd Time: 2025-08-12 01:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Bangalore, Delhi NCR, Mumbai instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
+      "id": "11bffa49-33b3-4d14-a50f-0413857a52fb",
+      "region": "bom",
       "subject": "Bangalore, Delhi NCR, Mumbai Scheduled Maintenance - 2025-08-11",
       "start_date": "2025-08-11T20:32:00+00:00",
       "updated_at": "",
