@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "efaecec8-26a1-4ca5-b4f4-1656a7317f2a",
+      "region": "syd",
+      "subject": "Sydney Emergency Maintenance - 2025-08-14",
+      "start_date": "2025-08-12T21:02:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2025-08-12T21:02:00+00:00",
+          "message": "Event Type: Network Emergency\r\n\r\nWe are performing system changes in the Sydney location during the following emergency maintenance window. \r\n\r\nStart Time: 2025-08-14 14:00:00 UTC\r\nEnd Time: 2025-08-14 15:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Sydney instances may be unreachable for some, or all, of the emergency maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
       "id": "905fb62c-adc5-46c6-80c2-6f15d7afe83f",
       "region": "hnl",
       "subject": "Honolulu Scheduled Maintenance - 2025-08-12",
@@ -11,6 +25,20 @@
         {
           "updated_at": "2025-08-12T00:37:00+00:00",
           "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Honolulu location during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-08-12 23:00:00 UTC\r\nEnd Time: 2025-08-13 03:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Honolulu instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
+      "id": "5e3d5c67-6ad1-49ba-801c-e5037068141d",
+      "region": "lax",
+      "subject": "Los Angeles, Seattle, Silicon Valley Scheduled Maintenance - 2025-08-12",
+      "start_date": "2025-08-12T00:36:00+00:00",
+      "updated_at": "",
+      "status": "resolved",
+      "entries": [
+        {
+          "updated_at": "2025-08-12T00:36:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Los Angeles, Seattle, Silicon Valley locations during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-08-12 09:00:00 UTC\r\nEnd Time: 2025-08-12 12:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Los Angeles, Seattle, Silicon Valley instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
         }
       ]
     },
@@ -31,20 +59,6 @@
     {
       "id": "5e3d5c67-6ad1-49ba-801c-e5037068141d",
       "region": "sjc",
-      "subject": "Los Angeles, Seattle, Silicon Valley Scheduled Maintenance - 2025-08-12",
-      "start_date": "2025-08-12T00:36:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2025-08-12T00:36:00+00:00",
-          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Los Angeles, Seattle, Silicon Valley locations during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-08-12 09:00:00 UTC\r\nEnd Time: 2025-08-12 12:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Los Angeles, Seattle, Silicon Valley instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-        }
-      ]
-    },
-    {
-      "id": "5e3d5c67-6ad1-49ba-801c-e5037068141d",
-      "region": "lax",
       "subject": "Los Angeles, Seattle, Silicon Valley Scheduled Maintenance - 2025-08-12",
       "start_date": "2025-08-12T00:36:00+00:00",
       "updated_at": "",
@@ -100,21 +114,7 @@
     },
     {
       "id": "5b9061a8-9979-4146-8364-72c0b399c772",
-      "region": "scl",
-      "subject": "Atlanta, Miami, New Jersey, Santiago, Toronto Scheduled Maintenance - 2025-08-12",
-      "start_date": "2025-08-12T00:28:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2025-08-12T00:28:00+00:00",
-          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Atlanta, Miami, New Jersey, Santiago, Toronto locations during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-08-12 06:00:00 UTC\r\nEnd Time: 2025-08-12 09:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Atlanta, Miami, New Jersey, Santiago, Toronto instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-        }
-      ]
-    },
-    {
-      "id": "5b9061a8-9979-4146-8364-72c0b399c772",
-      "region": "mia",
+      "region": "ewr",
       "subject": "Atlanta, Miami, New Jersey, Santiago, Toronto Scheduled Maintenance - 2025-08-12",
       "start_date": "2025-08-12T00:28:00+00:00",
       "updated_at": "",
@@ -142,7 +142,21 @@
     },
     {
       "id": "5b9061a8-9979-4146-8364-72c0b399c772",
-      "region": "ewr",
+      "region": "mia",
+      "subject": "Atlanta, Miami, New Jersey, Santiago, Toronto Scheduled Maintenance - 2025-08-12",
+      "start_date": "2025-08-12T00:28:00+00:00",
+      "updated_at": "",
+      "status": "resolved",
+      "entries": [
+        {
+          "updated_at": "2025-08-12T00:28:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Atlanta, Miami, New Jersey, Santiago, Toronto locations during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-08-12 06:00:00 UTC\r\nEnd Time: 2025-08-12 09:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Atlanta, Miami, New Jersey, Santiago, Toronto instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
+      "id": "5b9061a8-9979-4146-8364-72c0b399c772",
+      "region": "scl",
       "subject": "Atlanta, Miami, New Jersey, Santiago, Toronto Scheduled Maintenance - 2025-08-12",
       "start_date": "2025-08-12T00:28:00+00:00",
       "updated_at": "",
@@ -184,6 +198,20 @@
     },
     {
       "id": "7e02bbd6-c716-414c-a02f-5cec18c4abf2",
+      "region": "mel",
+      "subject": "Melbourne, Singapore, Sydney, Tokyo VPC Network Outage",
+      "start_date": "2025-08-11T22:04:00+00:00",
+      "updated_at": "",
+      "status": "resolved",
+      "entries": [
+        {
+          "updated_at": "2025-08-11T22:04:00+00:00",
+          "message": "We are currently experiencing a partial outage in our Melbourne, Singapore, Sydney, Tokyo location, relating to VPC Networking. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible."
+        }
+      ]
+    },
+    {
+      "id": "7e02bbd6-c716-414c-a02f-5cec18c4abf2",
       "region": "syd",
       "subject": "Melbourne, Singapore, Sydney, Tokyo VPC Network Outage",
       "start_date": "2025-08-11T22:04:00+00:00",
@@ -211,20 +239,6 @@
       ]
     },
     {
-      "id": "7e02bbd6-c716-414c-a02f-5cec18c4abf2",
-      "region": "mel",
-      "subject": "Melbourne, Singapore, Sydney, Tokyo VPC Network Outage",
-      "start_date": "2025-08-11T22:04:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2025-08-11T22:04:00+00:00",
-          "message": "We are currently experiencing a partial outage in our Melbourne, Singapore, Sydney, Tokyo location, relating to VPC Networking. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible."
-        }
-      ]
-    },
-    {
       "id": "b6231bab-8424-47f1-8c80-8260bde1c806",
       "region": "sao",
       "subject": "São Paulo Scheduled Maintenance - 2025-08-12",
@@ -240,7 +254,7 @@
     },
     {
       "id": "3d9c5d0a-24a7-42f6-b61d-a5d49a7a41c3",
-      "region": "lhr",
+      "region": "man",
       "subject": "London, Manchester Scheduled Maintenance - 2025-08-12",
       "start_date": "2025-08-11T21:36:00+00:00",
       "updated_at": "",
@@ -254,7 +268,7 @@
     },
     {
       "id": "3d9c5d0a-24a7-42f6-b61d-a5d49a7a41c3",
-      "region": "man",
+      "region": "lhr",
       "subject": "London, Manchester Scheduled Maintenance - 2025-08-12",
       "start_date": "2025-08-11T21:36:00+00:00",
       "updated_at": "",
