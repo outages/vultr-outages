@@ -9,7 +9,7 @@
         {
           "id": "63e8faac-7744-4329-8b29-7a49f7fd9134",
           "subject": "Amsterdam, Frankfurt, Johannesburg, Madrid, Paris, Stockholm, Warsaw Scheduled Maintenance - 2025-08-12",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2025-08-11T21:35:00+00:00",
           "updated_at": "",
           "entries": [
@@ -29,7 +29,7 @@
         {
           "id": "5b9061a8-9979-4146-8364-72c0b399c772",
           "subject": "Atlanta, Miami, New Jersey, Santiago, Toronto Scheduled Maintenance - 2025-08-12",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2025-08-12T00:28:00+00:00",
           "updated_at": "",
           "entries": [
@@ -82,7 +82,7 @@
         {
           "id": "ab61c4bb-b791-48a2-9386-fe86e9ff397d",
           "subject": "Chicago, Dallas Scheduled Maintenance - 2025-08-12",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2025-08-12T00:29:00+00:00",
           "updated_at": "",
           "entries": [
@@ -102,7 +102,7 @@
         {
           "id": "ab61c4bb-b791-48a2-9386-fe86e9ff397d",
           "subject": "Chicago, Dallas Scheduled Maintenance - 2025-08-12",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2025-08-12T00:29:00+00:00",
           "updated_at": "",
           "entries": [
@@ -142,7 +142,7 @@
         {
           "id": "63e8faac-7744-4329-8b29-7a49f7fd9134",
           "subject": "Amsterdam, Frankfurt, Johannesburg, Madrid, Paris, Stockholm, Warsaw Scheduled Maintenance - 2025-08-12",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2025-08-11T21:35:00+00:00",
           "updated_at": "",
           "entries": [
@@ -182,7 +182,7 @@
         {
           "id": "63e8faac-7744-4329-8b29-7a49f7fd9134",
           "subject": "Amsterdam, Frankfurt, Johannesburg, Madrid, Paris, Stockholm, Warsaw Scheduled Maintenance - 2025-08-12",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2025-08-11T21:35:00+00:00",
           "updated_at": "",
           "entries": [
@@ -202,7 +202,7 @@
         {
           "id": "3d9c5d0a-24a7-42f6-b61d-a5d49a7a41c3",
           "subject": "London, Manchester Scheduled Maintenance - 2025-08-12",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2025-08-11T21:36:00+00:00",
           "updated_at": "",
           "entries": [
@@ -242,7 +242,7 @@
         {
           "id": "63e8faac-7744-4329-8b29-7a49f7fd9134",
           "subject": "Amsterdam, Frankfurt, Johannesburg, Madrid, Paris, Stockholm, Warsaw Scheduled Maintenance - 2025-08-12",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2025-08-11T21:35:00+00:00",
           "updated_at": "",
           "entries": [
@@ -262,7 +262,7 @@
         {
           "id": "3d9c5d0a-24a7-42f6-b61d-a5d49a7a41c3",
           "subject": "London, Manchester Scheduled Maintenance - 2025-08-12",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2025-08-11T21:36:00+00:00",
           "updated_at": "",
           "entries": [
@@ -302,7 +302,7 @@
         {
           "id": "b77ed095-aea7-4b29-8b88-a53bab74c6c5",
           "subject": "Mexico City Scheduled Maintenance - 2025-08-12",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2025-08-12T00:33:00+00:00",
           "updated_at": "",
           "entries": [
@@ -322,7 +322,7 @@
         {
           "id": "5b9061a8-9979-4146-8364-72c0b399c772",
           "subject": "Atlanta, Miami, New Jersey, Santiago, Toronto Scheduled Maintenance - 2025-08-12",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2025-08-12T00:28:00+00:00",
           "updated_at": "",
           "entries": [
@@ -375,7 +375,7 @@
         {
           "id": "5b9061a8-9979-4146-8364-72c0b399c772",
           "subject": "Atlanta, Miami, New Jersey, Santiago, Toronto Scheduled Maintenance - 2025-08-12",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2025-08-12T00:28:00+00:00",
           "updated_at": "",
           "entries": [
@@ -401,7 +401,7 @@
         {
           "id": "63e8faac-7744-4329-8b29-7a49f7fd9134",
           "subject": "Amsterdam, Frankfurt, Johannesburg, Madrid, Paris, Stockholm, Warsaw Scheduled Maintenance - 2025-08-12",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2025-08-11T21:35:00+00:00",
           "updated_at": "",
           "entries": [
@@ -421,7 +421,7 @@
         {
           "id": "5b9061a8-9979-4146-8364-72c0b399c772",
           "subject": "Atlanta, Miami, New Jersey, Santiago, Toronto Scheduled Maintenance - 2025-08-12",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2025-08-12T00:28:00+00:00",
           "updated_at": "",
           "entries": [
@@ -441,7 +441,7 @@
         {
           "id": "b6231bab-8424-47f1-8c80-8260bde1c806",
           "subject": "São Paulo Scheduled Maintenance - 2025-08-12",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2025-08-11T21:41:00+00:00",
           "updated_at": "",
           "entries": [
@@ -553,7 +553,7 @@
         {
           "id": "63e8faac-7744-4329-8b29-7a49f7fd9134",
           "subject": "Amsterdam, Frankfurt, Johannesburg, Madrid, Paris, Stockholm, Warsaw Scheduled Maintenance - 2025-08-12",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2025-08-11T21:35:00+00:00",
           "updated_at": "",
           "entries": [
@@ -633,7 +633,7 @@
         {
           "id": "5b9061a8-9979-4146-8364-72c0b399c772",
           "subject": "Atlanta, Miami, New Jersey, Santiago, Toronto Scheduled Maintenance - 2025-08-12",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2025-08-12T00:28:00+00:00",
           "updated_at": "",
           "entries": [
@@ -653,7 +653,7 @@
         {
           "id": "63e8faac-7744-4329-8b29-7a49f7fd9134",
           "subject": "Amsterdam, Frankfurt, Johannesburg, Madrid, Paris, Stockholm, Warsaw Scheduled Maintenance - 2025-08-12",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2025-08-11T21:35:00+00:00",
           "updated_at": "",
           "entries": [
