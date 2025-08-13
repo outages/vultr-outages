@@ -188,7 +188,7 @@
       "subject": "London, Manchester Scheduled Maintenance - 2025-08-13",
       "start_date": "2025-08-12T22:34:00+00:00",
       "updated_at": "",
-      "status": "ongoing",
+      "status": "resolved",
       "entries": [
         {
           "updated_at": "2025-08-12T22:34:00+00:00",
@@ -202,7 +202,7 @@
       "subject": "London, Manchester Scheduled Maintenance - 2025-08-13",
       "start_date": "2025-08-12T22:34:00+00:00",
       "updated_at": "",
-      "status": "ongoing",
+      "status": "resolved",
       "entries": [
         {
           "updated_at": "2025-08-12T22:34:00+00:00",
@@ -216,7 +216,7 @@
       "subject": "Amsterdam, Frankfurt, Madrid, Paris, Stockholm, Warsaw Scheduled Maintenance - 2025-08-13",
       "start_date": "2025-08-12T22:33:00+00:00",
       "updated_at": "",
-      "status": "ongoing",
+      "status": "resolved",
       "entries": [
         {
           "updated_at": "2025-08-12T22:33:00+00:00",
@@ -230,7 +230,7 @@
       "subject": "Amsterdam, Frankfurt, Madrid, Paris, Stockholm, Warsaw Scheduled Maintenance - 2025-08-13",
       "start_date": "2025-08-12T22:33:00+00:00",
       "updated_at": "",
-      "status": "ongoing",
+      "status": "resolved",
       "entries": [
         {
           "updated_at": "2025-08-12T22:33:00+00:00",
@@ -244,7 +244,7 @@
       "subject": "Amsterdam, Frankfurt, Madrid, Paris, Stockholm, Warsaw Scheduled Maintenance - 2025-08-13",
       "start_date": "2025-08-12T22:33:00+00:00",
       "updated_at": "",
-      "status": "ongoing",
+      "status": "resolved",
       "entries": [
         {
           "updated_at": "2025-08-12T22:33:00+00:00",
@@ -258,7 +258,7 @@
       "subject": "Amsterdam, Frankfurt, Madrid, Paris, Stockholm, Warsaw Scheduled Maintenance - 2025-08-13",
       "start_date": "2025-08-12T22:33:00+00:00",
       "updated_at": "",
-      "status": "ongoing",
+      "status": "resolved",
       "entries": [
         {
           "updated_at": "2025-08-12T22:33:00+00:00",
@@ -272,7 +272,7 @@
       "subject": "Amsterdam, Frankfurt, Madrid, Paris, Stockholm, Warsaw Scheduled Maintenance - 2025-08-13",
       "start_date": "2025-08-12T22:33:00+00:00",
       "updated_at": "",
-      "status": "ongoing",
+      "status": "resolved",
       "entries": [
         {
           "updated_at": "2025-08-12T22:33:00+00:00",
@@ -286,7 +286,7 @@
       "subject": "Amsterdam, Frankfurt, Madrid, Paris, Stockholm, Warsaw Scheduled Maintenance - 2025-08-13",
       "start_date": "2025-08-12T22:33:00+00:00",
       "updated_at": "",
-      "status": "ongoing",
+      "status": "resolved",
       "entries": [
         {
           "updated_at": "2025-08-12T22:33:00+00:00",
@@ -328,7 +328,7 @@
       "subject": "Honolulu Scheduled Maintenance - 2025-08-12",
       "start_date": "2025-08-12T00:37:00+00:00",
       "updated_at": "",
-      "status": "ongoing",
+      "status": "resolved",
       "entries": [
         {
           "updated_at": "2025-08-12T00:37:00+00:00",
