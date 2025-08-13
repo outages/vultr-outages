@@ -108,7 +108,7 @@
         {
           "id": "95be0348-68c8-4fc7-8e38-28dba2ae23ad",
           "subject": "Chicago, Dallas Scheduled Maintenance - 2025-08-13",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2025-08-12T22:41:00+00:00",
           "updated_at": "",
           "entries": [
@@ -141,7 +141,7 @@
         {
           "id": "95be0348-68c8-4fc7-8e38-28dba2ae23ad",
           "subject": "Chicago, Dallas Scheduled Maintenance - 2025-08-13",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2025-08-12T22:41:00+00:00",
           "updated_at": "",
           "entries": [
@@ -227,7 +227,7 @@
         {
           "id": "77811dd7-f749-4664-b829-d29cbf5a6a99",
           "subject": "Honolulu Scheduled Maintenance - 2025-08-13",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2025-08-12T22:45:00+00:00",
           "updated_at": "",
           "entries": [
