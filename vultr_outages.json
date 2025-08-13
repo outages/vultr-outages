@@ -42,7 +42,7 @@
         {
           "id": "b5cb7100-6479-4b83-baa6-6eb4aa9c62b5",
           "subject": "Atlanta, Miami, New Jersey, Santiago, Toronto Scheduled Maintenance - 2025-08-13",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2025-08-12T22:40:00+00:00",
           "updated_at": "",
           "entries": [
@@ -313,7 +313,7 @@
         {
           "id": "10349881-c2d8-482d-843a-f18a914ad2e9",
           "subject": "Los Angeles, Seattle, Silicon Valley Scheduled Maintenance - 2025-08-13",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2025-08-12T22:44:00+00:00",
           "updated_at": "",
           "entries": [
@@ -432,7 +432,7 @@
         {
           "id": "53129224-2e77-47d2-8d4e-34a1159e111a",
           "subject": "Mexico City Scheduled Maintenance - 2025-08-13",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2025-08-12T22:43:00+00:00",
           "updated_at": "",
           "entries": [
@@ -465,7 +465,7 @@
         {
           "id": "b5cb7100-6479-4b83-baa6-6eb4aa9c62b5",
           "subject": "Atlanta, Miami, New Jersey, Santiago, Toronto Scheduled Maintenance - 2025-08-13",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2025-08-12T22:40:00+00:00",
           "updated_at": "",
           "entries": [
@@ -531,7 +531,7 @@
         {
           "id": "b5cb7100-6479-4b83-baa6-6eb4aa9c62b5",
           "subject": "Atlanta, Miami, New Jersey, Santiago, Toronto Scheduled Maintenance - 2025-08-13",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2025-08-12T22:40:00+00:00",
           "updated_at": "",
           "entries": [
@@ -603,7 +603,7 @@
         {
           "id": "b5cb7100-6479-4b83-baa6-6eb4aa9c62b5",
           "subject": "Atlanta, Miami, New Jersey, Santiago, Toronto Scheduled Maintenance - 2025-08-13",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2025-08-12T22:40:00+00:00",
           "updated_at": "",
           "entries": [
@@ -682,7 +682,7 @@
         {
           "id": "10349881-c2d8-482d-843a-f18a914ad2e9",
           "subject": "Los Angeles, Seattle, Silicon Valley Scheduled Maintenance - 2025-08-13",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2025-08-12T22:44:00+00:00",
           "updated_at": "",
           "entries": [
@@ -721,7 +721,7 @@
         {
           "id": "10349881-c2d8-482d-843a-f18a914ad2e9",
           "subject": "Los Angeles, Seattle, Silicon Valley Scheduled Maintenance - 2025-08-13",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2025-08-12T22:44:00+00:00",
           "updated_at": "",
           "entries": [
@@ -906,7 +906,7 @@
         {
           "id": "b5cb7100-6479-4b83-baa6-6eb4aa9c62b5",
           "subject": "Atlanta, Miami, New Jersey, Santiago, Toronto Scheduled Maintenance - 2025-08-13",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2025-08-12T22:40:00+00:00",
           "updated_at": "",
           "entries": [
