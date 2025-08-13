@@ -818,6 +818,19 @@
       "country_name": "Australia",
       "alerts": [
         {
+          "id": "a94fe2a7-b112-42c0-b42e-aeb51842c572",
+          "subject": "Sydney Emergency Maintenance - 2025-08-13",
+          "status": "ongoing",
+          "start_date": "2025-08-13T14:04:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2025-08-13T14:04:00+00:00",
+              "message": "Event Type: Network Emergency\r\n\r\nWe are performing system changes in the Sydney location during the following emergency maintenance window. \r\n\r\nStart Time: 2025-08-13 15:15:00 UTC\r\nEnd Time: 2025-08-13 16:15:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Sydney instances may be unreachable for some, or all, of the emergency maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        },
+        {
           "id": "efaecec8-26a1-4ca5-b4f4-1656a7317f2a",
           "subject": "Sydney Emergency Maintenance - 2025-08-14",
           "status": "resolved",
