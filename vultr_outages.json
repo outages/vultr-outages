@@ -222,19 +222,6 @@
               "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Los Angeles, Seattle, Silicon Valley locations during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-08-13 09:00:00 UTC\r\nEnd Time: 2025-08-13 12:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Los Angeles, Seattle, Silicon Valley instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
             }
           ]
-        },
-        {
-          "id": "5e3d5c67-6ad1-49ba-801c-e5037068141d",
-          "subject": "Los Angeles, Seattle, Silicon Valley Scheduled Maintenance - 2025-08-12",
-          "status": "resolved",
-          "start_date": "2025-08-12T00:36:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2025-08-12T00:36:00+00:00",
-              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Los Angeles, Seattle, Silicon Valley locations during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-08-12 09:00:00 UTC\r\nEnd Time: 2025-08-12 12:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Los Angeles, Seattle, Silicon Valley instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-            }
-          ]
         }
       ]
     },
@@ -447,19 +434,6 @@
               "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Los Angeles, Seattle, Silicon Valley locations during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-08-13 09:00:00 UTC\r\nEnd Time: 2025-08-13 12:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Los Angeles, Seattle, Silicon Valley instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
             }
           ]
-        },
-        {
-          "id": "5e3d5c67-6ad1-49ba-801c-e5037068141d",
-          "subject": "Los Angeles, Seattle, Silicon Valley Scheduled Maintenance - 2025-08-12",
-          "status": "resolved",
-          "start_date": "2025-08-12T00:36:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2025-08-12T00:36:00+00:00",
-              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Los Angeles, Seattle, Silicon Valley locations during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-08-12 09:00:00 UTC\r\nEnd Time: 2025-08-12 12:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Los Angeles, Seattle, Silicon Valley instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-            }
-          ]
         }
       ]
     },
@@ -484,19 +458,6 @@
             {
               "updated_at": "2025-08-12T22:44:00+00:00",
               "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Los Angeles, Seattle, Silicon Valley locations during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-08-13 09:00:00 UTC\r\nEnd Time: 2025-08-13 12:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Los Angeles, Seattle, Silicon Valley instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-            }
-          ]
-        },
-        {
-          "id": "5e3d5c67-6ad1-49ba-801c-e5037068141d",
-          "subject": "Los Angeles, Seattle, Silicon Valley Scheduled Maintenance - 2025-08-12",
-          "status": "resolved",
-          "start_date": "2025-08-12T00:36:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2025-08-12T00:36:00+00:00",
-              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Los Angeles, Seattle, Silicon Valley locations during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-08-12 09:00:00 UTC\r\nEnd Time: 2025-08-12 12:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Los Angeles, Seattle, Silicon Valley instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
             }
           ]
         },
