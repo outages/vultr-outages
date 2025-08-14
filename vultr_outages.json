@@ -84,21 +84,7 @@
       "location": "Bangalore",
       "country": "IN",
       "country_name": "India",
-      "alerts": [
-        {
-          "id": "11bffa49-33b3-4d14-a50f-0413857a52fb",
-          "subject": "Bangalore, Delhi NCR, Mumbai Scheduled Maintenance - 2025-08-11",
-          "status": "resolved",
-          "start_date": "2025-08-11T20:32:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2025-08-11T20:32:00+00:00",
-              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Bangalore, Delhi NCR, Mumbai locations during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-08-11 21:00:00 UTC\r\nEnd Time: 2025-08-12 01:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Bangalore, Delhi NCR, Mumbai instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "ord": {
       "location": "Chicago",
@@ -170,21 +156,7 @@
       "location": "Delhi NCR",
       "country": "IN",
       "country_name": "India",
-      "alerts": [
-        {
-          "id": "11bffa49-33b3-4d14-a50f-0413857a52fb",
-          "subject": "Bangalore, Delhi NCR, Mumbai Scheduled Maintenance - 2025-08-11",
-          "status": "resolved",
-          "start_date": "2025-08-11T20:32:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2025-08-11T20:32:00+00:00",
-              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Bangalore, Delhi NCR, Mumbai locations during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-08-11 21:00:00 UTC\r\nEnd Time: 2025-08-12 01:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Bangalore, Delhi NCR, Mumbai instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "fra": {
       "location": "Frankfurt",
@@ -481,19 +453,6 @@
       "country": "IN",
       "country_name": "India",
       "alerts": [
-        {
-          "id": "11bffa49-33b3-4d14-a50f-0413857a52fb",
-          "subject": "Bangalore, Delhi NCR, Mumbai Scheduled Maintenance - 2025-08-11",
-          "status": "resolved",
-          "start_date": "2025-08-11T20:32:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2025-08-11T20:32:00+00:00",
-              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Bangalore, Delhi NCR, Mumbai locations during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-08-11 21:00:00 UTC\r\nEnd Time: 2025-08-12 01:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Bangalore, Delhi NCR, Mumbai instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-            }
-          ]
-        },
         {
           "id": "28415c06-ac42-461b-919a-1da270d3ebb9",
           "subject": "Mumbai Scheduled Maintenance - 2025-08-18",
@@ -832,19 +791,6 @@
             {
               "updated_at": "2025-08-12T22:31:00+00:00",
               "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Tel Aviv location during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-08-12 23:00:00 UTC\r\nEnd Time: 2025-08-13 02:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Tel Aviv instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-            }
-          ]
-        },
-        {
-          "id": "ba187451-ef79-4b29-a48e-f5fa36f6dc7f",
-          "subject": "Tel Aviv Scheduled Maintenance - 2025-08-11",
-          "status": "resolved",
-          "start_date": "2025-08-11T20:59:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2025-08-11T20:59:00+00:00",
-              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Tel Aviv location during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-08-11 23:00:00 UTC\r\nEnd Time: 2025-08-12 02:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Tel Aviv instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
             }
           ]
         }
