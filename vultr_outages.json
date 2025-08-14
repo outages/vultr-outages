@@ -408,21 +408,7 @@
       "location": "Melbourne",
       "country": "AU",
       "country_name": "Australia",
-      "alerts": [
-        {
-          "id": "7e02bbd6-c716-414c-a02f-5cec18c4abf2",
-          "subject": "Melbourne, Singapore, Sydney, Tokyo VPC Network Outage",
-          "status": "resolved",
-          "start_date": "2025-08-11T22:04:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2025-08-11T22:04:00+00:00",
-              "message": "We are currently experiencing a partial outage in our Melbourne, Singapore, Sydney, Tokyo location, relating to VPC Networking. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "mex": {
       "location": "Mexico City",
@@ -763,21 +749,7 @@
       "location": "Singapore",
       "country": "SG",
       "country_name": "Singapore",
-      "alerts": [
-        {
-          "id": "7e02bbd6-c716-414c-a02f-5cec18c4abf2",
-          "subject": "Melbourne, Singapore, Sydney, Tokyo VPC Network Outage",
-          "status": "resolved",
-          "start_date": "2025-08-11T22:04:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2025-08-11T22:04:00+00:00",
-              "message": "We are currently experiencing a partial outage in our Melbourne, Singapore, Sydney, Tokyo location, relating to VPC Networking. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "sto": {
       "location": "Stockholm",
@@ -842,19 +814,6 @@
               "message": "Event Type: Network Emergency\r\n\r\nWe are performing system changes in the Sydney location during the following emergency maintenance window. \r\n\r\nStart Time: 2025-08-14 14:00:00 UTC\r\nEnd Time: 2025-08-14 15:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Sydney instances may be unreachable for some, or all, of the emergency maintenance window as we perform network, firmware, or host upgrades."
             }
           ]
-        },
-        {
-          "id": "7e02bbd6-c716-414c-a02f-5cec18c4abf2",
-          "subject": "Melbourne, Singapore, Sydney, Tokyo VPC Network Outage",
-          "status": "resolved",
-          "start_date": "2025-08-11T22:04:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2025-08-11T22:04:00+00:00",
-              "message": "We are currently experiencing a partial outage in our Melbourne, Singapore, Sydney, Tokyo location, relating to VPC Networking. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible."
-            }
-          ]
         }
       ]
     },
@@ -895,21 +854,7 @@
       "location": "Tokyo",
       "country": "JP",
       "country_name": "Japan",
-      "alerts": [
-        {
-          "id": "7e02bbd6-c716-414c-a02f-5cec18c4abf2",
-          "subject": "Melbourne, Singapore, Sydney, Tokyo VPC Network Outage",
-          "status": "resolved",
-          "start_date": "2025-08-11T22:04:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2025-08-11T22:04:00+00:00",
-              "message": "We are currently experiencing a partial outage in our Melbourne, Singapore, Sydney, Tokyo location, relating to VPC Networking. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "yto": {
       "location": "Toronto",
