@@ -248,7 +248,7 @@
         {
           "id": "d293d513-c4d1-498b-96d1-333b8e17bf37",
           "subject": "Singapore Network Outage",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2025-08-15T12:30:00+00:00",
           "updated_at": "",
           "entries": [
