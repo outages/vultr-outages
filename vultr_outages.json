@@ -7,6 +7,19 @@
       "country_name": "Global",
       "alerts": [
         {
+          "id": "991f18b3-8f9e-4a67-b51b-3d90a93b29c9",
+          "subject": "Global Intermittent DNS Issues",
+          "status": "ongoing",
+          "start_date": "2025-08-15T14:20:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2025-08-15T14:20:00+00:00",
+              "message": "We are currently experiencing intermittent DNS issues in all locations. Our engineers are actively working to resolve the issue as quickly as possible."
+            }
+          ]
+        },
+        {
           "id": "5321712b-696d-4421-bf57-e7c284df532a",
           "subject": "Network Outage",
           "status": "resolved",
@@ -171,7 +184,21 @@
       "location": "Miami",
       "country": "US",
       "country_name": "United States",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "232e4405-5535-4100-a47c-420f2d7c01bf",
+          "subject": "Miami Degraded Network Performance",
+          "status": "ongoing",
+          "start_date": "2025-08-15T14:12:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2025-08-15T14:12:00+00:00",
+              "message": "We are currently experiencing degraded network performance in our Miami location. Our network engineers are actively working with our upstream providers to resolve the issue as quickly as possible."
+            }
+          ]
+        }
+      ]
     },
     "bom": {
       "location": "Mumbai",
