@@ -70,41 +70,13 @@
       "location": "Chicago",
       "country": "US",
       "country_name": "United States",
-      "alerts": [
-        {
-          "id": "95be0348-68c8-4fc7-8e38-28dba2ae23ad",
-          "subject": "Chicago, Dallas Scheduled Maintenance - 2025-08-13",
-          "status": "resolved",
-          "start_date": "2025-08-12T22:41:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2025-08-12T22:41:00+00:00",
-              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Chicago, Dallas locations during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-08-13 07:00:00 UTC\r\nEnd Time: 2025-08-13 10:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Chicago, Dallas instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "dfw": {
       "location": "Dallas",
       "country": "US",
       "country_name": "United States",
-      "alerts": [
-        {
-          "id": "95be0348-68c8-4fc7-8e38-28dba2ae23ad",
-          "subject": "Chicago, Dallas Scheduled Maintenance - 2025-08-13",
-          "status": "resolved",
-          "start_date": "2025-08-12T22:41:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2025-08-12T22:41:00+00:00",
-              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Chicago, Dallas locations during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-08-13 07:00:00 UTC\r\nEnd Time: 2025-08-13 10:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Chicago, Dallas instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "del": {
       "location": "Delhi NCR",
@@ -122,21 +94,7 @@
       "location": "Honolulu",
       "country": "US",
       "country_name": "United States",
-      "alerts": [
-        {
-          "id": "77811dd7-f749-4664-b829-d29cbf5a6a99",
-          "subject": "Honolulu Scheduled Maintenance - 2025-08-13",
-          "status": "resolved",
-          "start_date": "2025-08-12T22:45:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2025-08-12T22:45:00+00:00",
-              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Honolulu location during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-08-13 12:00:00 UTC\r\nEnd Time: 2025-08-13 15:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Honolulu instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "jnb": {
       "location": "Johannesburg",
