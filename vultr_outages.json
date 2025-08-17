@@ -129,21 +129,7 @@
       "location": "Miami",
       "country": "US",
       "country_name": "United States",
-      "alerts": [
-        {
-          "id": "232e4405-5535-4100-a47c-420f2d7c01bf",
-          "subject": "Miami Degraded Network Performance",
-          "status": "resolved",
-          "start_date": "2025-08-15T14:12:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2025-08-15T14:12:00+00:00",
-              "message": "We are currently experiencing degraded network performance in our Miami location. Our network engineers are actively working with our upstream providers to resolve the issue as quickly as possible."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "bom": {
       "location": "Mumbai",

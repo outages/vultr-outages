@@ -15,20 +15,6 @@
       ]
     },
     {
-      "id": "232e4405-5535-4100-a47c-420f2d7c01bf",
-      "region": "mia",
-      "subject": "Miami Degraded Network Performance",
-      "start_date": "2025-08-15T14:12:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2025-08-15T14:12:00+00:00",
-          "message": "We are currently experiencing degraded network performance in our Miami location. Our network engineers are actively working with our upstream providers to resolve the issue as quickly as possible."
-        }
-      ]
-    },
-    {
       "id": "265eae9b-b006-49ec-b676-33cebff9d445",
       "region": "atl",
       "subject": "Atlanta Scheduled Maintenance - 2025-08-19",
