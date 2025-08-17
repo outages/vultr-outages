@@ -43,20 +43,6 @@
       ]
     },
     {
-      "id": "5321712b-696d-4421-bf57-e7c284df532a",
-      "region": "global",
-      "subject": "Network Outage",
-      "start_date": "2025-08-14T19:15:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2025-08-14T19:15:00+00:00",
-          "message": "We are currently experiencing a partial outage. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible."
-        }
-      ]
-    },
-    {
       "id": "265eae9b-b006-49ec-b676-33cebff9d445",
       "region": "atl",
       "subject": "Atlanta Scheduled Maintenance - 2025-08-19",
