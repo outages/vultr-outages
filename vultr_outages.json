@@ -31,7 +31,21 @@
       "location": "Bangalore",
       "country": "IN",
       "country_name": "India",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "1019b21a-c8b3-4bba-b959-e848fa54fb17",
+          "subject": "Bangalore Scheduled Maintenance - 2025-08-25",
+          "status": "ongoing",
+          "start_date": "2025-08-18T18:04:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2025-08-18T18:04:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Bangalore location during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-08-25 18:30:00 UTC\r\nEnd Time: 2025-08-25 19:30:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Bangalore instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+            }
+          ]
+        }
+      ]
     },
     "ord": {
       "location": "Chicago",
