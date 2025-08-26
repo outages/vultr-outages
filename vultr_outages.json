@@ -244,6 +244,19 @@
       "country_name": "France",
       "alerts": [
         {
+          "id": "aa83b334-1a99-4c5b-9d03-2452c1435ec9",
+          "subject": "Paris Scheduled Maintenance - 2025-09-03",
+          "status": "ongoing",
+          "start_date": "2025-08-26T19:13:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2025-08-26T19:13:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Paris location during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-09-02 22:00:00 UTC\r\nEnd Time: 2025-09-03 04:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Paris instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        },
+        {
           "id": "2c9fdf72-535c-4313-b232-ccb54a7443f1",
           "subject": "Paris Scheduled Maintenance - 2025-09-01",
           "status": "resolved",
@@ -349,7 +362,7 @@
         {
           "id": "ec830f28-b03e-4647-af49-5bb0ffde5487",
           "subject": "Sydney Scheduled Maintenance - 2025-08-26",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2025-08-22T19:36:00+00:00",
           "updated_at": "",
           "entries": [
