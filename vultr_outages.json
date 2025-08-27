@@ -124,6 +124,19 @@
       "country_name": "Germany",
       "alerts": [
         {
+          "id": "cc94c562-aa51-4120-99d6-e866905cfae0",
+          "subject": "Frankfurt Scheduled Maintenance - 2025-09-03",
+          "status": "ongoing",
+          "start_date": "2025-08-27T18:36:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2025-08-27T18:36:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Frankfurt location during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-09-03 22:05:00 UTC\r\nEnd Time: 2025-09-04 02:05:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Frankfurt instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        },
+        {
           "id": "7ffe0ac3-350c-4c8b-9502-15fce50aee96",
           "subject": "Frankfurt, London, Madrid Scheduled Maintenance - 2025-08-29",
           "status": "ongoing",
@@ -346,7 +359,21 @@
       "location": "Singapore",
       "country": "SG",
       "country_name": "Singapore",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "ba32cebe-1dfb-4b04-ae3e-b084aec7924e",
+          "subject": "Singapore Scheduled Maintenance - 2025-09-03",
+          "status": "ongoing",
+          "start_date": "2025-08-27T18:32:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2025-08-27T18:32:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Singapore location during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-09-03 16:05:00 UTC\r\nEnd Time: 2025-09-03 20:05:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Singapore instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        }
+      ]
     },
     "sto": {
       "location": "Stockholm",
