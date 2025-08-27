@@ -310,7 +310,7 @@
         {
           "id": "a4004306-165d-4db0-8811-26a0582a1e7c",
           "subject": "Seoul, Tokyo Scheduled Maintenance - 2025-08-27",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2025-08-22T19:39:00+00:00",
           "updated_at": "",
           "entries": [
@@ -415,7 +415,7 @@
         {
           "id": "a4004306-165d-4db0-8811-26a0582a1e7c",
           "subject": "Seoul, Tokyo Scheduled Maintenance - 2025-08-27",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2025-08-22T19:39:00+00:00",
           "updated_at": "",
           "entries": [
