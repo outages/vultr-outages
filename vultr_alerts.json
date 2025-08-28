@@ -72,7 +72,7 @@
     },
     {
       "id": "cca3d35e-25dd-4e26-bec8-99096c2b0654",
-      "region": "sjc",
+      "region": "atl",
       "subject": "Atlanta, Dallas, Silicon Valley, Toronto Scheduled Maintenance - 2025-09-03",
       "start_date": "2025-08-22T19:50:00+00:00",
       "updated_at": "",
@@ -86,7 +86,7 @@
     },
     {
       "id": "cca3d35e-25dd-4e26-bec8-99096c2b0654",
-      "region": "atl",
+      "region": "sjc",
       "subject": "Atlanta, Dallas, Silicon Valley, Toronto Scheduled Maintenance - 2025-09-03",
       "start_date": "2025-08-22T19:50:00+00:00",
       "updated_at": "",
@@ -128,7 +128,7 @@
     },
     {
       "id": "7ffe0ac3-350c-4c8b-9502-15fce50aee96",
-      "region": "fra",
+      "region": "lhr",
       "subject": "Frankfurt, London, Madrid Scheduled Maintenance - 2025-08-29",
       "start_date": "2025-08-22T19:43:00+00:00",
       "updated_at": "",
@@ -142,7 +142,7 @@
     },
     {
       "id": "7ffe0ac3-350c-4c8b-9502-15fce50aee96",
-      "region": "lhr",
+      "region": "fra",
       "subject": "Frankfurt, London, Madrid Scheduled Maintenance - 2025-08-29",
       "start_date": "2025-08-22T19:43:00+00:00",
       "updated_at": "",
@@ -221,20 +221,6 @@
         {
           "updated_at": "2025-08-20T20:25:00+00:00",
           "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Paris location during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-09-01 22:00:00 UTC\r\nEnd Time: 2025-09-02 04:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Paris instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-        }
-      ]
-    },
-    {
-      "id": "ca19f611-c95f-4174-98c6-787f725a75b8",
-      "region": "atl",
-      "subject": "Atlanta Scheduled Maintenance - 2025-08-26",
-      "start_date": "2025-08-19T15:25:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2025-08-19T15:25:00+00:00",
-          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Atlanta location during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-08-26 03:55:00 UTC\r\nEnd Time: 2025-08-26 09:55:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Atlanta instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
         }
       ]
     },
