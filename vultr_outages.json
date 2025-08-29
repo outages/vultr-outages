@@ -267,21 +267,7 @@
       "location": "Seoul",
       "country": "KR",
       "country_name": "Korea, Republic of",
-      "alerts": [
-        {
-          "id": "a4004306-165d-4db0-8811-26a0582a1e7c",
-          "subject": "Seoul, Tokyo Scheduled Maintenance - 2025-08-27",
-          "status": "resolved",
-          "start_date": "2025-08-22T19:39:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2025-08-22T19:39:00+00:00",
-              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Seoul, Tokyo locations during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-08-27 17:00:00 UTC\r\nEnd Time: 2025-08-27 21:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Seoul, Tokyo instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "sjc": {
       "location": "Silicon Valley",
@@ -358,21 +344,7 @@
       "location": "Tokyo",
       "country": "JP",
       "country_name": "Japan",
-      "alerts": [
-        {
-          "id": "a4004306-165d-4db0-8811-26a0582a1e7c",
-          "subject": "Seoul, Tokyo Scheduled Maintenance - 2025-08-27",
-          "status": "resolved",
-          "start_date": "2025-08-22T19:39:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2025-08-22T19:39:00+00:00",
-              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Seoul, Tokyo locations during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-08-27 17:00:00 UTC\r\nEnd Time: 2025-08-27 21:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Seoul, Tokyo instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "yto": {
       "location": "Toronto",

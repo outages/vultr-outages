@@ -169,34 +169,6 @@
       ]
     },
     {
-      "id": "a4004306-165d-4db0-8811-26a0582a1e7c",
-      "region": "icn",
-      "subject": "Seoul, Tokyo Scheduled Maintenance - 2025-08-27",
-      "start_date": "2025-08-22T19:39:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2025-08-22T19:39:00+00:00",
-          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Seoul, Tokyo locations during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-08-27 17:00:00 UTC\r\nEnd Time: 2025-08-27 21:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Seoul, Tokyo instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
-        }
-      ]
-    },
-    {
-      "id": "a4004306-165d-4db0-8811-26a0582a1e7c",
-      "region": "nrt",
-      "subject": "Seoul, Tokyo Scheduled Maintenance - 2025-08-27",
-      "start_date": "2025-08-22T19:39:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2025-08-22T19:39:00+00:00",
-          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Seoul, Tokyo locations during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-08-27 17:00:00 UTC\r\nEnd Time: 2025-08-27 21:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Seoul, Tokyo instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
-        }
-      ]
-    },
-    {
       "id": "47c11cf2-e5a4-42f2-8cbe-eb6f1d32a6af",
       "region": "sjc",
       "subject": "Silicon Valley Scheduled Maintenance - 2025-09-02",
