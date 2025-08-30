@@ -1,20 +1,6 @@
 {
   "service_alerts": [
     {
-      "id": "65144824-cd85-4c70-9ef4-d87dd8036d1a",
-      "region": "ord",
-      "subject": "Chicago NVMe Block Storage Outage - 2025-08-27",
-      "start_date": "2025-08-28T01:27:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2025-08-28T01:27:00+00:00",
-          "message": "Event Type: Service Degraded Performance and Availability\r\n\r\nOur Cloud Storage team is investigating a partial outage scenario with our NVMe Block Storage infrastructure. The following services may be impacted by this event:\r\n\r\n- Volume creation\r\n- Volume resizing\r\n- Volume deletion\r\n- Attach / Detach to VPS instance\r\n\r\nWe are working quickly to restore service to its optimal state."
-        }
-      ]
-    },
-    {
       "id": "cc94c562-aa51-4120-99d6-e866905cfae0",
       "region": "fra",
       "subject": "Frankfurt Scheduled Maintenance - 2025-09-03",
