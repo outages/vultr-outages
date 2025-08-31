@@ -95,19 +95,6 @@
               "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Frankfurt location during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-09-03 22:05:00 UTC\r\nEnd Time: 2025-09-04 02:05:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Frankfurt instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
             }
           ]
-        },
-        {
-          "id": "7ffe0ac3-350c-4c8b-9502-15fce50aee96",
-          "subject": "Frankfurt, London, Madrid Scheduled Maintenance - 2025-08-29",
-          "status": "resolved",
-          "start_date": "2025-08-22T19:43:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2025-08-22T19:43:00+00:00",
-              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Frankfurt, London, Madrid locations during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-08-29 01:00:00 UTC\r\nEnd Time: 2025-08-29 05:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Frankfurt, London, Madrid instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
-            }
-          ]
         }
       ]
     },
@@ -127,21 +114,7 @@
       "location": "London",
       "country": "GB",
       "country_name": "United Kingdom",
-      "alerts": [
-        {
-          "id": "7ffe0ac3-350c-4c8b-9502-15fce50aee96",
-          "subject": "Frankfurt, London, Madrid Scheduled Maintenance - 2025-08-29",
-          "status": "resolved",
-          "start_date": "2025-08-22T19:43:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2025-08-22T19:43:00+00:00",
-              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Frankfurt, London, Madrid locations during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-08-29 01:00:00 UTC\r\nEnd Time: 2025-08-29 05:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Frankfurt, London, Madrid instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "lax": {
       "location": "Los Angeles",
@@ -153,21 +126,7 @@
       "location": "Madrid",
       "country": "ES",
       "country_name": "Spain",
-      "alerts": [
-        {
-          "id": "7ffe0ac3-350c-4c8b-9502-15fce50aee96",
-          "subject": "Frankfurt, London, Madrid Scheduled Maintenance - 2025-08-29",
-          "status": "resolved",
-          "start_date": "2025-08-22T19:43:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2025-08-22T19:43:00+00:00",
-              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Frankfurt, London, Madrid locations during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-08-29 01:00:00 UTC\r\nEnd Time: 2025-08-29 05:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Frankfurt, London, Madrid instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "man": {
       "location": "Manchester",
