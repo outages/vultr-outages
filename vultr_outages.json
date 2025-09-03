@@ -86,7 +86,7 @@
         {
           "id": "cc94c562-aa51-4120-99d6-e866905cfae0",
           "subject": "Frankfurt Scheduled Maintenance - 2025-09-03",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2025-08-27T18:36:00+00:00",
           "updated_at": "",
           "entries": [
