@@ -255,7 +255,7 @@
         {
           "id": "ba32cebe-1dfb-4b04-ae3e-b084aec7924e",
           "subject": "Singapore Scheduled Maintenance - 2025-09-03",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2025-08-27T18:32:00+00:00",
           "updated_at": "",
           "entries": [
