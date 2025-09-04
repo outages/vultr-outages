@@ -15,7 +15,7 @@
         {
           "id": "cc7fd5b6-adf8-47c3-a5f6-10608283f9b2",
           "subject": "Atlanta Scheduled Maintenance - Deploying new switch",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2025-08-26T17:20:00+00:00",
           "updated_at": "",
           "entries": [
