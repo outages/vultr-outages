@@ -15,20 +15,6 @@
       ]
     },
     {
-      "id": "ba32cebe-1dfb-4b04-ae3e-b084aec7924e",
-      "region": "sgp",
-      "subject": "Singapore Scheduled Maintenance - 2025-09-03",
-      "start_date": "2025-08-27T18:32:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2025-08-27T18:32:00+00:00",
-          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Singapore location during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-09-03 16:05:00 UTC\r\nEnd Time: 2025-09-03 20:05:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Singapore instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-        }
-      ]
-    },
-    {
       "id": "cc7fd5b6-adf8-47c3-a5f6-10608283f9b2",
       "region": "atl",
       "subject": "Atlanta Scheduled Maintenance - Deploying new switch",
