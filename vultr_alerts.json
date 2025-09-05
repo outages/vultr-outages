@@ -43,20 +43,6 @@
       ]
     },
     {
-      "id": "cc94c562-aa51-4120-99d6-e866905cfae0",
-      "region": "fra",
-      "subject": "Frankfurt Scheduled Maintenance - 2025-09-03",
-      "start_date": "2025-08-27T18:36:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2025-08-27T18:36:00+00:00",
-          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Frankfurt location during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-09-03 22:05:00 UTC\r\nEnd Time: 2025-09-04 02:05:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Frankfurt instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-        }
-      ]
-    },
-    {
       "id": "cc7fd5b6-adf8-47c3-a5f6-10608283f9b2",
       "region": "atl",
       "subject": "Atlanta Scheduled Maintenance - Deploying new switch",
