@@ -31,7 +31,21 @@
       "location": "Bangalore",
       "country": "IN",
       "country_name": "India",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "09f5b34e-5f2d-472d-848f-b55d6ce37ff2",
+          "subject": "Bangalore, Delhi NCR, Mumbai Network Outage",
+          "status": "ongoing",
+          "start_date": "2025-09-05T23:25:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2025-09-05T23:25:00+00:00",
+              "message": "We are currently experiencing a partial outage in our Bangalore, Delhi NCR, Mumbai location. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible."
+            }
+          ]
+        }
+      ]
     },
     "ord": {
       "location": "Chicago",
@@ -49,7 +63,21 @@
       "location": "Delhi NCR",
       "country": "IN",
       "country_name": "India",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "09f5b34e-5f2d-472d-848f-b55d6ce37ff2",
+          "subject": "Bangalore, Delhi NCR, Mumbai Network Outage",
+          "status": "ongoing",
+          "start_date": "2025-09-05T23:25:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2025-09-05T23:25:00+00:00",
+              "message": "We are currently experiencing a partial outage in our Bangalore, Delhi NCR, Mumbai location. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible."
+            }
+          ]
+        }
+      ]
     },
     "fra": {
       "location": "Frankfurt",
@@ -129,7 +157,21 @@
       "location": "Mumbai",
       "country": "IN",
       "country_name": "India",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "09f5b34e-5f2d-472d-848f-b55d6ce37ff2",
+          "subject": "Bangalore, Delhi NCR, Mumbai Network Outage",
+          "status": "ongoing",
+          "start_date": "2025-09-05T23:25:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2025-09-05T23:25:00+00:00",
+              "message": "We are currently experiencing a partial outage in our Bangalore, Delhi NCR, Mumbai location. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible."
+            }
+          ]
+        }
+      ]
     },
     "ewr": {
       "location": "New Jersey",
