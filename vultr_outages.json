@@ -174,21 +174,7 @@
       "location": "Paris",
       "country": "FR",
       "country_name": "France",
-      "alerts": [
-        {
-          "id": "aa83b334-1a99-4c5b-9d03-2452c1435ec9",
-          "subject": "Paris Scheduled Maintenance - 2025-09-03",
-          "status": "resolved",
-          "start_date": "2025-08-26T19:13:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2025-08-26T19:13:00+00:00",
-              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Paris location during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-09-02 22:00:00 UTC\r\nEnd Time: 2025-09-03 04:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Paris instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "scl": {
       "location": "Santiago",
