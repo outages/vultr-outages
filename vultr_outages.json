@@ -35,7 +35,7 @@
         {
           "id": "09f5b34e-5f2d-472d-848f-b55d6ce37ff2",
           "subject": "Bangalore, Delhi NCR, Mumbai Network Outage",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2025-09-05T23:25:00+00:00",
           "updated_at": "",
           "entries": [
@@ -67,7 +67,7 @@
         {
           "id": "09f5b34e-5f2d-472d-848f-b55d6ce37ff2",
           "subject": "Bangalore, Delhi NCR, Mumbai Network Outage",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2025-09-05T23:25:00+00:00",
           "updated_at": "",
           "entries": [
@@ -147,7 +147,7 @@
         {
           "id": "09f5b34e-5f2d-472d-848f-b55d6ce37ff2",
           "subject": "Bangalore, Delhi NCR, Mumbai Network Outage",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2025-09-05T23:25:00+00:00",
           "updated_at": "",
           "entries": [
