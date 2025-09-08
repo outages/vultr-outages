@@ -17,7 +17,21 @@
       "location": "Bangalore",
       "country": "IN",
       "country_name": "India",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "1db41340-2c6c-4e92-accd-577377a11420",
+          "subject": "Bangalore Degraded Network Performance",
+          "status": "ongoing",
+          "start_date": "2025-09-08T19:06:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2025-09-08T19:06:00+00:00",
+              "message": "We are currently experiencing degraded network performance in our Bangalore location with international connectivity to India.  You may experience slower speeds or intermittent connectivity across all of our upstream transit providers. We will provide updates as more information becomes available."
+            }
+          ]
+        }
+      ]
     },
     "ord": {
       "location": "Chicago",
