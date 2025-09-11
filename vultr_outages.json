@@ -51,41 +51,13 @@
       "location": "Chicago",
       "country": "US",
       "country_name": "United States",
-      "alerts": [
-        {
-          "id": "c91f18b9-2957-4d82-ac01-701e500c826f",
-          "subject": "Chicago, Dallas, Frankfurt, London, Los Angeles, Seoul, Singapore, Sydney, Tokyo, Toronto Network Outage",
-          "status": "resolved",
-          "start_date": "2025-09-09T04:07:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2025-09-09T04:07:00+00:00",
-              "message": "We are currently experiencing a partial outage in our Chicago, Dallas, Frankfurt, London, Los Angeles, Seoul, Singapore, Sydney, Tokyo, Toronto location. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible.  This has been effecting DNS resolution and overall network connectivity at this time."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "dfw": {
       "location": "Dallas",
       "country": "US",
       "country_name": "United States",
-      "alerts": [
-        {
-          "id": "c91f18b9-2957-4d82-ac01-701e500c826f",
-          "subject": "Chicago, Dallas, Frankfurt, London, Los Angeles, Seoul, Singapore, Sydney, Tokyo, Toronto Network Outage",
-          "status": "resolved",
-          "start_date": "2025-09-09T04:07:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2025-09-09T04:07:00+00:00",
-              "message": "We are currently experiencing a partial outage in our Chicago, Dallas, Frankfurt, London, Los Angeles, Seoul, Singapore, Sydney, Tokyo, Toronto location. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible.  This has been effecting DNS resolution and overall network connectivity at this time."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "del": {
       "location": "Delhi NCR",
@@ -111,21 +83,7 @@
       "location": "Frankfurt",
       "country": "DE",
       "country_name": "Germany",
-      "alerts": [
-        {
-          "id": "c91f18b9-2957-4d82-ac01-701e500c826f",
-          "subject": "Chicago, Dallas, Frankfurt, London, Los Angeles, Seoul, Singapore, Sydney, Tokyo, Toronto Network Outage",
-          "status": "resolved",
-          "start_date": "2025-09-09T04:07:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2025-09-09T04:07:00+00:00",
-              "message": "We are currently experiencing a partial outage in our Chicago, Dallas, Frankfurt, London, Los Angeles, Seoul, Singapore, Sydney, Tokyo, Toronto location. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible.  This has been effecting DNS resolution and overall network connectivity at this time."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "hnl": {
       "location": "Honolulu",
@@ -143,41 +101,13 @@
       "location": "London",
       "country": "GB",
       "country_name": "United Kingdom",
-      "alerts": [
-        {
-          "id": "c91f18b9-2957-4d82-ac01-701e500c826f",
-          "subject": "Chicago, Dallas, Frankfurt, London, Los Angeles, Seoul, Singapore, Sydney, Tokyo, Toronto Network Outage",
-          "status": "resolved",
-          "start_date": "2025-09-09T04:07:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2025-09-09T04:07:00+00:00",
-              "message": "We are currently experiencing a partial outage in our Chicago, Dallas, Frankfurt, London, Los Angeles, Seoul, Singapore, Sydney, Tokyo, Toronto location. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible.  This has been effecting DNS resolution and overall network connectivity at this time."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "lax": {
       "location": "Los Angeles",
       "country": "US",
       "country_name": "United States",
-      "alerts": [
-        {
-          "id": "c91f18b9-2957-4d82-ac01-701e500c826f",
-          "subject": "Chicago, Dallas, Frankfurt, London, Los Angeles, Seoul, Singapore, Sydney, Tokyo, Toronto Network Outage",
-          "status": "resolved",
-          "start_date": "2025-09-09T04:07:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2025-09-09T04:07:00+00:00",
-              "message": "We are currently experiencing a partial outage in our Chicago, Dallas, Frankfurt, London, Los Angeles, Seoul, Singapore, Sydney, Tokyo, Toronto location. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible.  This has been effecting DNS resolution and overall network connectivity at this time."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "mad": {
       "location": "Madrid",
@@ -283,21 +213,7 @@
       "location": "Seoul",
       "country": "KR",
       "country_name": "Korea, Republic of",
-      "alerts": [
-        {
-          "id": "c91f18b9-2957-4d82-ac01-701e500c826f",
-          "subject": "Chicago, Dallas, Frankfurt, London, Los Angeles, Seoul, Singapore, Sydney, Tokyo, Toronto Network Outage",
-          "status": "resolved",
-          "start_date": "2025-09-09T04:07:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2025-09-09T04:07:00+00:00",
-              "message": "We are currently experiencing a partial outage in our Chicago, Dallas, Frankfurt, London, Los Angeles, Seoul, Singapore, Sydney, Tokyo, Toronto location. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible.  This has been effecting DNS resolution and overall network connectivity at this time."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "sjc": {
       "location": "Silicon Valley",
@@ -309,21 +225,7 @@
       "location": "Singapore",
       "country": "SG",
       "country_name": "Singapore",
-      "alerts": [
-        {
-          "id": "c91f18b9-2957-4d82-ac01-701e500c826f",
-          "subject": "Chicago, Dallas, Frankfurt, London, Los Angeles, Seoul, Singapore, Sydney, Tokyo, Toronto Network Outage",
-          "status": "resolved",
-          "start_date": "2025-09-09T04:07:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2025-09-09T04:07:00+00:00",
-              "message": "We are currently experiencing a partial outage in our Chicago, Dallas, Frankfurt, London, Los Angeles, Seoul, Singapore, Sydney, Tokyo, Toronto location. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible.  This has been effecting DNS resolution and overall network connectivity at this time."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "sto": {
       "location": "Stockholm",
@@ -335,21 +237,7 @@
       "location": "Sydney",
       "country": "AU",
       "country_name": "Australia",
-      "alerts": [
-        {
-          "id": "c91f18b9-2957-4d82-ac01-701e500c826f",
-          "subject": "Chicago, Dallas, Frankfurt, London, Los Angeles, Seoul, Singapore, Sydney, Tokyo, Toronto Network Outage",
-          "status": "resolved",
-          "start_date": "2025-09-09T04:07:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2025-09-09T04:07:00+00:00",
-              "message": "We are currently experiencing a partial outage in our Chicago, Dallas, Frankfurt, London, Los Angeles, Seoul, Singapore, Sydney, Tokyo, Toronto location. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible.  This has been effecting DNS resolution and overall network connectivity at this time."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "tlv": {
       "location": "Tel Aviv",
@@ -361,41 +249,13 @@
       "location": "Tokyo",
       "country": "JP",
       "country_name": "Japan",
-      "alerts": [
-        {
-          "id": "c91f18b9-2957-4d82-ac01-701e500c826f",
-          "subject": "Chicago, Dallas, Frankfurt, London, Los Angeles, Seoul, Singapore, Sydney, Tokyo, Toronto Network Outage",
-          "status": "resolved",
-          "start_date": "2025-09-09T04:07:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2025-09-09T04:07:00+00:00",
-              "message": "We are currently experiencing a partial outage in our Chicago, Dallas, Frankfurt, London, Los Angeles, Seoul, Singapore, Sydney, Tokyo, Toronto location. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible.  This has been effecting DNS resolution and overall network connectivity at this time."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "yto": {
       "location": "Toronto",
       "country": "CA",
       "country_name": "Canada",
-      "alerts": [
-        {
-          "id": "c91f18b9-2957-4d82-ac01-701e500c826f",
-          "subject": "Chicago, Dallas, Frankfurt, London, Los Angeles, Seoul, Singapore, Sydney, Tokyo, Toronto Network Outage",
-          "status": "resolved",
-          "start_date": "2025-09-09T04:07:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2025-09-09T04:07:00+00:00",
-              "message": "We are currently experiencing a partial outage in our Chicago, Dallas, Frankfurt, London, Los Angeles, Seoul, Singapore, Sydney, Tokyo, Toronto location. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible.  This has been effecting DNS resolution and overall network connectivity at this time."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "waw": {
       "location": "Warsaw",
