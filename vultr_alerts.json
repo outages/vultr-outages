@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "e4b221f7-88bb-437a-93cc-1b4c15a7ae8f",
+      "region": "global",
+      "subject": "VKE Deployment Delays",
+      "start_date": "2025-09-12T19:05:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2025-09-12T19:05:00+00:00",
+          "message": "Some customers are currently experiencing slower than normal VKE deployment times. Our engineering team is aware of this issue and is working diligently to resolve this as quickly as possible."
+        }
+      ]
+    },
+    {
       "id": "eb257866-f6bc-4965-b059-65d0f7626dd5",
       "region": "atl",
       "subject": "Atlanta Scheduled Maintenance - 2025-09-25",
