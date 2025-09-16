@@ -142,7 +142,7 @@
         {
           "id": "a2c03e49-a464-42f1-913f-73708812387e",
           "subject": "Melbourne Outage",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2025-09-16T15:08:00+00:00",
           "updated_at": "",
           "entries": [
