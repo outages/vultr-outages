@@ -307,7 +307,7 @@
         {
           "id": "af470471-20e0-427a-92d5-49c7d855a39d",
           "subject": "Tokyo Outage",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2025-09-21T04:57:00+00:00",
           "updated_at": "",
           "entries": [
