@@ -15,20 +15,6 @@
       ]
     },
     {
-      "id": "af470471-20e0-427a-92d5-49c7d855a39d",
-      "region": "nrt",
-      "subject": "Tokyo Outage",
-      "start_date": "2025-09-21T04:57:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2025-09-21T04:57:00+00:00",
-          "message": "We are currently experiencing a partial outage in our Tokyo location. Our System Administrators are actively working with our onsite technicians to restore service as quickly as possible."
-        }
-      ]
-    },
-    {
       "id": "03a8beaa-a335-44be-819f-e592833fc45c",
       "region": "fra",
       "subject": "Frankfurt Scheduled Maintenance - 2025-09-24",
