@@ -181,6 +181,45 @@
       "country_name": "Australia",
       "alerts": [
         {
+          "id": "f3fcc041-0313-4d5f-813b-2d55b8a037c4",
+          "subject": "Partial Outage",
+          "status": "ongoing",
+          "start_date": "2025-09-24T20:52:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2025-09-24T20:52:00+00:00",
+              "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
+            }
+          ]
+        },
+        {
+          "id": "3c91abbb-3e70-43ae-b5df-fbbbe077a4af",
+          "subject": "Partial Outage",
+          "status": "ongoing",
+          "start_date": "2025-09-24T20:45:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2025-09-24T20:45:00+00:00",
+              "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
+            }
+          ]
+        },
+        {
+          "id": "85aabdbf-7929-4802-9349-e7f5897007b6",
+          "subject": "Partial Outage",
+          "status": "ongoing",
+          "start_date": "2025-09-24T20:47:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2025-09-24T20:47:00+00:00",
+              "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
+            }
+          ]
+        },
+        {
           "id": "7ba11e43-1abb-4925-9f1f-d01cb61048ea",
           "subject": "Partial Outage",
           "status": "ongoing",
