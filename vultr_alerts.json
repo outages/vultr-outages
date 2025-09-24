@@ -1,6 +1,62 @@
 {
   "service_alerts": [
     {
+      "id": "b97bd26f-72fd-4ca4-a830-04949fa3ab6f",
+      "region": "waw",
+      "subject": "Partial Outage",
+      "start_date": "2025-09-24T22:59:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2025-09-24T22:59:00+00:00",
+          "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
+        }
+      ]
+    },
+    {
+      "id": "74909c12-6fc2-4ad7-a060-11c5cd860040",
+      "region": "waw",
+      "subject": "Partial Outage",
+      "start_date": "2025-09-24T22:58:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2025-09-24T22:58:00+00:00",
+          "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
+        }
+      ]
+    },
+    {
+      "id": "38401f0a-c31d-49e8-89ee-6dbb86101061",
+      "region": "waw",
+      "subject": "Partial Outage",
+      "start_date": "2025-09-24T22:56:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2025-09-24T22:56:00+00:00",
+          "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
+        }
+      ]
+    },
+    {
+      "id": "20ee8855-971c-4099-b5bb-a945113c0531",
+      "region": "waw",
+      "subject": "Partial Outage",
+      "start_date": "2025-09-24T22:55:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2025-09-24T22:55:00+00:00",
+          "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
+        }
+      ]
+    },
+    {
       "id": "f3fcc041-0313-4d5f-813b-2d55b8a037c4",
       "region": "mel",
       "subject": "Partial Outage",
@@ -183,12 +239,12 @@
       ]
     },
     {
-      "id": "1db41340-2c6c-4e92-accd-577377a11420",
-      "region": "blr",
-      "subject": "Bangalore Degraded Network Performance",
+      "id": "eff0a7fc-3e34-4386-9ca7-27c93ef7dc43",
+      "region": "bom",
+      "subject": "Mumbai Degraded Network Performance",
       "start_date": "2025-09-08T19:06:00+00:00",
       "updated_at": "",
-      "status": "resolved",
+      "status": "ongoing",
       "entries": [
         {
           "updated_at": "2025-09-08T19:06:00+00:00",
@@ -197,12 +253,12 @@
       ]
     },
     {
-      "id": "eff0a7fc-3e34-4386-9ca7-27c93ef7dc43",
-      "region": "bom",
-      "subject": "Mumbai Degraded Network Performance",
+      "id": "1db41340-2c6c-4e92-accd-577377a11420",
+      "region": "blr",
+      "subject": "Bangalore Degraded Network Performance",
       "start_date": "2025-09-08T19:06:00+00:00",
       "updated_at": "",
-      "status": "ongoing",
+      "status": "resolved",
       "entries": [
         {
           "updated_at": "2025-09-08T19:06:00+00:00",
