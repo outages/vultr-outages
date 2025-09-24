@@ -1,6 +1,34 @@
 {
   "service_alerts": [
     {
+      "id": "07429bf1-edf6-4ac4-a643-a0c5ca7c4e4b",
+      "region": "itm",
+      "subject": "Partial Outage",
+      "start_date": "2025-09-24T20:24:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2025-09-24T20:24:00+00:00",
+          "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
+        }
+      ]
+    },
+    {
+      "id": "1a8a7268-05b5-4e3c-ae3e-0a8230341601",
+      "region": "itm",
+      "subject": "Partial Outage",
+      "start_date": "2025-09-24T20:15:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2025-09-24T20:15:00+00:00",
+          "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
+        }
+      ]
+    },
+    {
       "id": "28d6efc2-4f43-4ad6-be9b-d0c721a6fd87",
       "region": "syd",
       "subject": "Sydney Outage",
@@ -104,7 +132,7 @@
       "subject": "Bangalore Degraded Network Performance",
       "start_date": "2025-09-08T19:06:00+00:00",
       "updated_at": "",
-      "status": "ongoing",
+      "status": "resolved",
       "entries": [
         {
           "updated_at": "2025-09-08T19:06:00+00:00",
@@ -132,7 +160,7 @@
       "subject": "Delhi NCR Degraded Network Performance",
       "start_date": "2025-09-08T19:05:00+00:00",
       "updated_at": "",
-      "status": "ongoing",
+      "status": "resolved",
       "entries": [
         {
           "updated_at": "2025-09-08T19:05:00+00:00",
