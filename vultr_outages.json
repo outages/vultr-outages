@@ -520,6 +520,71 @@
       "country_name": "United States",
       "alerts": [
         {
+          "id": "cf9be4b8-9d5a-4f84-b47a-557e2d6021df",
+          "subject": "Partial Outage",
+          "status": "ongoing",
+          "start_date": "2025-09-25T05:45:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2025-09-25T05:45:00+00:00",
+              "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
+            }
+          ]
+        },
+        {
+          "id": "1478fa99-f8c9-45bd-9307-7733a5753b8f",
+          "subject": "Partial Outage",
+          "status": "ongoing",
+          "start_date": "2025-09-25T05:43:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2025-09-25T05:43:00+00:00",
+              "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
+            }
+          ]
+        },
+        {
+          "id": "c9658968-2d35-4d36-bcee-854318b3e189",
+          "subject": "Partial Outage",
+          "status": "ongoing",
+          "start_date": "2025-09-25T05:44:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2025-09-25T05:44:00+00:00",
+              "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
+            }
+          ]
+        },
+        {
+          "id": "6f071cb4-6844-4249-ac14-8eae1a5a1709",
+          "subject": "Partial Outage",
+          "status": "ongoing",
+          "start_date": "2025-09-25T05:41:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2025-09-25T05:41:00+00:00",
+              "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
+            }
+          ]
+        },
+        {
+          "id": "6dc62608-66dd-4e0a-b06d-eb166926d799",
+          "subject": "Partial Outage",
+          "status": "ongoing",
+          "start_date": "2025-09-25T05:42:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2025-09-25T05:42:00+00:00",
+              "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
+            }
+          ]
+        },
+        {
           "id": "b9417b53-f255-46c0-8b17-51126beadad0",
           "subject": "Partial Outage",
           "status": "ongoing",
@@ -528,6 +593,19 @@
           "entries": [
             {
               "updated_at": "2025-09-25T05:22:00+00:00",
+              "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
+            }
+          ]
+        },
+        {
+          "id": "33a67432-48de-4d59-be04-83e317a99851",
+          "subject": "Partial Outage",
+          "status": "ongoing",
+          "start_date": "2025-09-25T05:39:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2025-09-25T05:39:00+00:00",
               "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
             }
           ]
