@@ -1004,7 +1004,86 @@
       "location": "Stockholm",
       "country": "SE",
       "country_name": "Sweden",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "b7c13c40-7335-4aac-9cb2-35d663ce6208",
+          "subject": "Partial Outage",
+          "status": "ongoing",
+          "start_date": "2025-09-25T09:18:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2025-09-25T09:18:00+00:00",
+              "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
+            }
+          ]
+        },
+        {
+          "id": "9e004f46-8149-4f26-bc9b-6386fb5a50a3",
+          "subject": "Partial Outage",
+          "status": "ongoing",
+          "start_date": "2025-09-25T09:18:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2025-09-25T09:18:00+00:00",
+              "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
+            }
+          ]
+        },
+        {
+          "id": "c08c3e66-2e9f-4d2c-85f3-4aae88066bef",
+          "subject": "Partial Outage",
+          "status": "ongoing",
+          "start_date": "2025-09-25T09:17:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2025-09-25T09:17:00+00:00",
+              "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
+            }
+          ]
+        },
+        {
+          "id": "4b6b6f3a-a803-4e12-97b0-f4b607cbd3bb",
+          "subject": "Partial Outage",
+          "status": "ongoing",
+          "start_date": "2025-09-25T09:16:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2025-09-25T09:16:00+00:00",
+              "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
+            }
+          ]
+        },
+        {
+          "id": "32336174-d31b-425d-8672-49ab966123d2",
+          "subject": "Partial Outage",
+          "status": "ongoing",
+          "start_date": "2025-09-25T09:15:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2025-09-25T09:15:00+00:00",
+              "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
+            }
+          ]
+        },
+        {
+          "id": "ca2bbdcf-ff7c-425c-a92d-9def677dc387",
+          "subject": "Partial Outage",
+          "status": "ongoing",
+          "start_date": "2025-09-25T09:14:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2025-09-25T09:14:00+00:00",
+              "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
+            }
+          ]
+        }
+      ]
     },
     "syd": {
       "location": "Sydney",
