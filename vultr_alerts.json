@@ -71,20 +71,6 @@
       ]
     },
     {
-      "id": "fe3c7eda-1496-4b8c-ae08-6d89bcb3d8ab",
-      "region": "lhr",
-      "subject": "Partial Outage",
-      "start_date": "2025-09-24T23:50:00+00:00",
-      "updated_at": "",
-      "status": "ongoing",
-      "entries": [
-        {
-          "updated_at": "2025-09-24T23:50:00+00:00",
-          "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
-        }
-      ]
-    },
-    {
       "id": "9496c9f5-ec72-4d84-993f-ed8156839663",
       "region": "lhr",
       "subject": "Partial Outage",
@@ -99,15 +85,15 @@
       ]
     },
     {
-      "id": "2c9b56de-c42f-43ab-8f4d-be0abc2282de",
+      "id": "fe3c7eda-1496-4b8c-ae08-6d89bcb3d8ab",
       "region": "lhr",
       "subject": "Partial Outage",
-      "start_date": "2025-09-24T23:49:00+00:00",
+      "start_date": "2025-09-24T23:50:00+00:00",
       "updated_at": "",
       "status": "ongoing",
       "entries": [
         {
-          "updated_at": "2025-09-24T23:49:00+00:00",
+          "updated_at": "2025-09-24T23:50:00+00:00",
           "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
         }
       ]
@@ -127,7 +113,21 @@
       ]
     },
     {
-      "id": "26253224-e37e-42ce-bec3-7ff42a04f83d",
+      "id": "2c9b56de-c42f-43ab-8f4d-be0abc2282de",
+      "region": "lhr",
+      "subject": "Partial Outage",
+      "start_date": "2025-09-24T23:49:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2025-09-24T23:49:00+00:00",
+          "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
+        }
+      ]
+    },
+    {
+      "id": "f7157457-8664-4487-b836-6d1896fc8f7e",
       "region": "lhr",
       "subject": "Partial Outage",
       "start_date": "2025-09-24T23:48:00+00:00",
@@ -141,7 +141,7 @@
       ]
     },
     {
-      "id": "f7157457-8664-4487-b836-6d1896fc8f7e",
+      "id": "26253224-e37e-42ce-bec3-7ff42a04f83d",
       "region": "lhr",
       "subject": "Partial Outage",
       "start_date": "2025-09-24T23:48:00+00:00",
@@ -211,7 +211,7 @@
       ]
     },
     {
-      "id": "560f5e5d-be7c-4309-a367-4e0fd5529675",
+      "id": "ab7126b1-d7b8-424c-9016-98e3f5a6ee2a",
       "region": "lhr",
       "subject": "Partial Outage",
       "start_date": "2025-09-24T23:45:00+00:00",
@@ -225,7 +225,7 @@
       ]
     },
     {
-      "id": "ab7126b1-d7b8-424c-9016-98e3f5a6ee2a",
+      "id": "560f5e5d-be7c-4309-a367-4e0fd5529675",
       "region": "lhr",
       "subject": "Partial Outage",
       "start_date": "2025-09-24T23:45:00+00:00",
@@ -445,20 +445,6 @@
         {
           "updated_at": "2025-09-18T19:53:00+00:00",
           "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Frankfurt location during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-09-24 22:00:00 UTC\r\nEnd Time: 2025-09-25 02:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Frankfurt instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-        }
-      ]
-    },
-    {
-      "id": "2531697a-2fdc-462b-8570-8883c2a68fb4",
-      "region": "ord",
-      "subject": "Chicago Network Outage",
-      "start_date": "2025-09-18T05:50:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2025-09-18T05:50:00+00:00",
-          "message": "We are currently experiencing a partial outage in our Chicago location. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible.  If you are noticing any issues with your subscriptions, please reach out to our support team."
         }
       ]
     },
