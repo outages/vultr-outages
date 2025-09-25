@@ -520,6 +520,97 @@
       "country_name": "United States",
       "alerts": [
         {
+          "id": "b9417b53-f255-46c0-8b17-51126beadad0",
+          "subject": "Partial Outage",
+          "status": "ongoing",
+          "start_date": "2025-09-25T05:22:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2025-09-25T05:22:00+00:00",
+              "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
+            }
+          ]
+        },
+        {
+          "id": "30049ac3-3954-44ea-a334-74b60682756a",
+          "subject": "Partial Outage",
+          "status": "ongoing",
+          "start_date": "2025-09-25T05:20:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2025-09-25T05:20:00+00:00",
+              "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
+            }
+          ]
+        },
+        {
+          "id": "57dada0b-c53a-45f9-92bf-4b472d4e7754",
+          "subject": "Partial Outage",
+          "status": "ongoing",
+          "start_date": "2025-09-25T05:20:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2025-09-25T05:20:00+00:00",
+              "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
+            }
+          ]
+        },
+        {
+          "id": "f566c754-4b78-4847-8267-726ca878139e",
+          "subject": "Partial Outage",
+          "status": "ongoing",
+          "start_date": "2025-09-25T05:18:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2025-09-25T05:18:00+00:00",
+              "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
+            }
+          ]
+        },
+        {
+          "id": "d6f5e652-8a33-44e3-a4ee-c18ca9e28402",
+          "subject": "Partial Outage",
+          "status": "ongoing",
+          "start_date": "2025-09-25T05:17:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2025-09-25T05:17:00+00:00",
+              "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
+            }
+          ]
+        },
+        {
+          "id": "5085f445-945a-4e88-9a08-cf524d1541e3",
+          "subject": "Partial Outage",
+          "status": "ongoing",
+          "start_date": "2025-09-25T05:17:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2025-09-25T05:17:00+00:00",
+              "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
+            }
+          ]
+        },
+        {
+          "id": "13397f1c-764d-474b-92dd-3b9b1a6b92a6",
+          "subject": "Partial Outage",
+          "status": "ongoing",
+          "start_date": "2025-09-25T05:15:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2025-09-25T05:15:00+00:00",
+              "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
+            }
+          ]
+        },
+        {
           "id": "b2153266-2fe6-4a40-a84a-2d81ad46e9da",
           "subject": "Miami Scheduled Maintenance - 2025-09-30",
           "status": "ongoing",
