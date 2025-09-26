@@ -1,20 +1,6 @@
 {
   "service_alerts": [
     {
-      "id": "28d6efc2-4f43-4ad6-be9b-d0c721a6fd87",
-      "region": "syd",
-      "subject": "Sydney Outage",
-      "start_date": "2025-09-24T07:05:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2025-09-24T07:05:00+00:00",
-          "message": "We are currently experiencing a partial outage in our Sydney location. Our System Administrators are actively working with our onsite technicians to restore service as quickly as possible."
-        }
-      ]
-    },
-    {
       "id": "03a8beaa-a335-44be-819f-e592833fc45c",
       "region": "fra",
       "subject": "Frankfurt Scheduled Maintenance - 2025-09-24",

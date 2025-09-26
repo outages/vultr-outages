@@ -264,21 +264,7 @@
       "location": "Sydney",
       "country": "AU",
       "country_name": "Australia",
-      "alerts": [
-        {
-          "id": "28d6efc2-4f43-4ad6-be9b-d0c721a6fd87",
-          "subject": "Sydney Outage",
-          "status": "resolved",
-          "start_date": "2025-09-24T07:05:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2025-09-24T07:05:00+00:00",
-              "message": "We are currently experiencing a partial outage in our Sydney location. Our System Administrators are actively working with our onsite technicians to restore service as quickly as possible."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "tlv": {
       "location": "Tel Aviv",
