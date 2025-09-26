@@ -31,21 +31,7 @@
       "location": "Bangalore",
       "country": "IN",
       "country_name": "India",
-      "alerts": [
-        {
-          "id": "1db41340-2c6c-4e92-accd-577377a11420",
-          "subject": "Bangalore Degraded Network Performance",
-          "status": "resolved",
-          "start_date": "2025-09-08T19:06:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2025-09-08T19:06:00+00:00",
-              "message": "We are currently experiencing degraded network performance in our Bangalore location with international connectivity to India.  You may experience slower speeds or intermittent connectivity across all of our upstream transit providers. We will provide updates as more information becomes available."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "ord": {
       "location": "Chicago",
@@ -63,21 +49,7 @@
       "location": "Delhi NCR",
       "country": "IN",
       "country_name": "India",
-      "alerts": [
-        {
-          "id": "e8b0682a-139e-4480-9e8f-b3d16ede124d",
-          "subject": "Delhi NCR Degraded Network Performance",
-          "status": "resolved",
-          "start_date": "2025-09-08T19:05:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2025-09-08T19:05:00+00:00",
-              "message": "We are currently experiencing degraded network performance in our Bangalore location with international connectivity to India.  You may experience slower speeds or intermittent connectivity across all of our upstream transit providers. We will provide updates as more information becomes available."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "fra": {
       "location": "Frankfurt",
