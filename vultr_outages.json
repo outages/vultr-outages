@@ -23,21 +23,7 @@
       "location": "Chicago",
       "country": "US",
       "country_name": "United States",
-      "alerts": [
-        {
-          "id": "d3c9c767-4286-4d6d-ad6e-4c69adb3a189",
-          "subject": "Chicago Network Outage",
-          "status": "resolved",
-          "start_date": "2025-09-27T16:41:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2025-09-27T16:41:00+00:00",
-              "message": "We are currently experiencing a partial outage in our Chicago location. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "dfw": {
       "location": "Dallas",

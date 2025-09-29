@@ -15,20 +15,6 @@
       ]
     },
     {
-      "id": "d3c9c767-4286-4d6d-ad6e-4c69adb3a189",
-      "region": "ord",
-      "subject": "Chicago Network Outage",
-      "start_date": "2025-09-27T16:41:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2025-09-27T16:41:00+00:00",
-          "message": "We are currently experiencing a partial outage in our Chicago location. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible."
-        }
-      ]
-    },
-    {
       "id": "b2153266-2fe6-4a40-a84a-2d81ad46e9da",
       "region": "mia",
       "subject": "Miami Scheduled Maintenance - 2025-09-30",
