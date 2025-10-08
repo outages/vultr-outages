@@ -127,8 +127,12 @@
           "subject": "New Jersey Deployment Delays",
           "status": "ongoing",
           "start_date": "2025-10-08T16:17:00+00:00",
-          "updated_at": "",
+          "updated_at": "2025-10-08T16:44:00+00:00",
           "entries": [
+            {
+              "updated_at": "2025-10-08T16:44:00+00:00",
+              "message": "The scope of impact for this New Jersey issue has widened.   Currently affected products include not only new deployments, but HDD Block Storage and new VPS backup captures as well.   We are actively working on the cause and will post further updates as the situation evolves.\r\n\r\nThank you for your patience and understanding."
+            },
             {
               "updated_at": "2025-10-08T16:17:00+00:00",
               "message": "Some customers are currently experiencing slower than normal instance deployment times in our New Jersey location. Our engineering team is aware of this issue and is working diligently to resolve this as quickly as possible."
