@@ -5,9 +5,13 @@
       "region": "ewr",
       "subject": "New Jersey Deployment Delays",
       "start_date": "2025-10-08T16:17:00+00:00",
-      "updated_at": "2025-10-08T16:44:00+00:00",
+      "updated_at": "2025-10-08T18:20:00+00:00",
       "status": "ongoing",
       "entries": [
+        {
+          "updated_at": "2025-10-08T18:20:00+00:00",
+          "message": "Efforts are still on-going to fully normalize the affected New Jersey services.   Significant progress has been made, and is expected to continue accelerating.  Investigation into the root cause has simultaneously and independently begun.\r\n\r\nThank you for your patience and understanding."
+        },
         {
           "updated_at": "2025-10-08T16:44:00+00:00",
           "message": "The scope of impact for this New Jersey issue has widened.   Currently affected products include not only new deployments, but HDD Block Storage and new VPS backup captures as well.   We are actively working on the cause and will post further updates as the situation evolves.\r\n\r\nThank you for your patience and understanding."
