@@ -127,8 +127,12 @@
           "subject": "New Jersey Deployment Delays",
           "status": "ongoing",
           "start_date": "2025-10-08T16:17:00+00:00",
-          "updated_at": "2025-10-08T18:20:00+00:00",
+          "updated_at": "2025-10-08T19:56:00+00:00",
           "entries": [
+            {
+              "updated_at": "2025-10-08T19:56:00+00:00",
+              "message": "Affected services, including New Jersey deployments, HDD Block Storage, and VPS snapshot captures, are now in recovery.   Performance should continue to return to normal over time.   Further investigation is proceeding as planned."
+            },
             {
               "updated_at": "2025-10-08T18:20:00+00:00",
               "message": "Efforts are still on-going to fully normalize the affected New Jersey services.   Significant progress has been made, and is expected to continue accelerating.  Investigation into the root cause has simultaneously and independently begun.\r\n\r\nThank you for your patience and understanding."
