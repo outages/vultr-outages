@@ -191,21 +191,7 @@
       "location": "Seattle",
       "country": "US",
       "country_name": "United States",
-      "alerts": [
-        {
-          "id": "485b504c-07f3-45a8-9141-5ffb5e87b0a7",
-          "subject": "Seattle Degraded Network Performance",
-          "status": "resolved",
-          "start_date": "2025-10-07T17:16:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2025-10-07T17:16:00+00:00",
-              "message": "We are currently experiencing degraded network performance in our Sattle location. Our network engineers are actively working with our upstream providers to resolve the issue as quickly as possible."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "icn": {
       "location": "Seoul",
