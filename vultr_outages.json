@@ -46,7 +46,7 @@
         {
           "id": "cdf89d7d-4a0d-4352-b758-21a50f0744f5",
           "subject": "Dallas Scheduled Maintenance - 2025-10-16",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2025-10-10T20:24:00+00:00",
           "updated_at": "",
           "entries": [
