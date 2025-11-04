@@ -155,7 +155,7 @@
         {
           "id": "fb567270-6eac-4ba6-aa2c-aa4b5b6a53cb",
           "subject": "Seattle Outage",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2025-11-04T09:09:00+00:00",
           "updated_at": "",
           "entries": [
