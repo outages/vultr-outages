@@ -1,20 +1,6 @@
 {
   "service_alerts": [
     {
-      "id": "fb567270-6eac-4ba6-aa2c-aa4b5b6a53cb",
-      "region": "sea",
-      "subject": "Seattle Outage",
-      "start_date": "2025-11-04T09:09:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2025-11-04T09:09:00+00:00",
-          "message": "We are currently experiencing a partial outage in our Seattle location. Our System Administrators are actively working with our onsite technicians to restore service as quickly as possible."
-        }
-      ]
-    },
-    {
       "id": "eff0a7fc-3e34-4386-9ca7-27c93ef7dc43",
       "region": "bom",
       "subject": "Mumbai Degraded Network Performance",
