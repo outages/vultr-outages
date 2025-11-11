@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "5e14cac1-7916-4e5b-b7d3-49d59e2865d7",
+      "region": "global",
+      "subject": "Vultr Deployment Delays",
+      "start_date": "2025-11-11T18:34:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2025-11-11T18:34:00+00:00",
+          "message": "Some customers are currently experiencing slower than normal instance deployment times in our locations. Our engineering team is aware of this issue and is working diligently to resolve this as quickly as possible."
+        }
+      ]
+    },
+    {
       "id": "eff0a7fc-3e34-4386-9ca7-27c93ef7dc43",
       "region": "bom",
       "subject": "Mumbai Degraded Network Performance",
