@@ -9,7 +9,7 @@
         {
           "id": "937a8ae9-717d-459e-9384-894b8062f21f",
           "subject": "Vultr services are being impacted as a result of the Cloudflare outage",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2025-11-18T14:08:00+00:00",
           "updated_at": "",
           "entries": [
