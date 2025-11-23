@@ -1,24 +1,6 @@
 {
   "service_alerts": [
     {
-      "id": "2aba81da-7eda-45e5-9505-28f0746f987b",
-      "region": "sgp",
-      "subject": "Singapore Degraded Network Performance",
-      "start_date": "2025-11-21T12:22:00+00:00",
-      "updated_at": "2025-11-21T12:42:00+00:00",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2025-11-21T12:42:00+00:00",
-          "message": "Issue with Arelion recovered on it's own.\r\n\r\nFollow up message for any customers still lingering:\r\n\r\n\"We are seeing resolution and stability in the regions transit provider that was causing issues with network traffic for some of our clients. Our network engineers will continue to monitor the situation for further issues. If you are still experiencing connectivity issues, please let us know.\""
-        },
-        {
-          "updated_at": "2025-11-21T12:22:00+00:00",
-          "message": "We are currently experiencing degraded network performance in our Singapore location. Our network engineers are actively working with our upstream providers to resolve the issue as quickly as possible."
-        }
-      ]
-    },
-    {
       "id": "a89e4a59-db1f-4c8a-ae50-6a15b63c1ee8",
       "region": "ewr",
       "subject": "New Jersey Object Storage Maintenance - 2025-12-03",
