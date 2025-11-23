@@ -65,7 +65,21 @@
       "location": "Los Angeles",
       "country": "US",
       "country_name": "United States",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "f9d8d5e8-6058-4e7a-be35-bcfd9f2caf49",
+          "subject": "Los Angeles Outage",
+          "status": "ongoing",
+          "start_date": "2025-11-23T10:42:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2025-11-23T10:42:00+00:00",
+              "message": "We are currently experiencing a partial outage in our Los Angeles location. Our System Administrators are actively working with our onsite technicians to restore service as quickly as possible."
+            }
+          ]
+        }
+      ]
     },
     "mad": {
       "location": "Madrid",
