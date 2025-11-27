@@ -63,7 +63,7 @@
         {
           "id": "07ba6a3a-007e-4575-a353-e3fee42a294a",
           "subject": "London Network Outage",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2025-11-27T14:36:00+00:00",
           "updated_at": "",
           "entries": [
