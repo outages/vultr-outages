@@ -201,7 +201,7 @@
         {
           "id": "fc604cd3-3796-4905-a02e-a6290c6c8c25",
           "subject": "Singapore Outage",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2025-12-02T08:15:00+00:00",
           "updated_at": "",
           "entries": [
