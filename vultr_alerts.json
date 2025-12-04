@@ -1,6 +1,34 @@
 {
   "service_alerts": [
     {
+      "id": "642a8b5a-adc7-4cfd-9424-5599dbe2a146",
+      "region": "syd",
+      "subject": "Melbourne, Sydney Degraded Network Performance",
+      "start_date": "2025-12-04T04:06:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2025-12-04T04:06:00+00:00",
+          "message": "We are currently experiencing degraded network performance in our Melbourne, Sydney location. Our network engineers are actively working with our upstream providers to resolve the issue as quickly as possible."
+        }
+      ]
+    },
+    {
+      "id": "642a8b5a-adc7-4cfd-9424-5599dbe2a146",
+      "region": "mel",
+      "subject": "Melbourne, Sydney Degraded Network Performance",
+      "start_date": "2025-12-04T04:06:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2025-12-04T04:06:00+00:00",
+          "message": "We are currently experiencing degraded network performance in our Melbourne, Sydney location. Our network engineers are actively working with our upstream providers to resolve the issue as quickly as possible."
+        }
+      ]
+    },
+    {
       "id": "27c8fba6-a04e-4016-a444-fdab78835081",
       "region": "bom",
       "subject": "Mumbai Scheduled Maintenance - 2025-12-10",
