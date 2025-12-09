@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "cddd1d91-2444-4162-8adc-b4218bf94c39",
+      "region": "sjc",
+      "subject": "Partial Outage",
+      "start_date": "2025-12-09T17:11:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2025-12-09T17:11:00+00:00",
+          "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
+        }
+      ]
+    },
+    {
       "id": "faa645c1-37e1-4b08-bfa1-4adfd94733e2",
       "region": "ord",
       "subject": "Chicago Scheduled Maintenance - 2025-12-11",
