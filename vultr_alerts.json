@@ -85,20 +85,6 @@
       ]
     },
     {
-      "id": "27c8fba6-a04e-4016-a444-fdab78835081",
-      "region": "bom",
-      "subject": "Mumbai Scheduled Maintenance - 2025-12-10",
-      "start_date": "2025-12-03T17:14:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2025-12-03T17:14:00+00:00",
-          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Mumbai location during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-12-10 18:25:00 UTC\r\nEnd Time: 2025-12-10 23:25:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Mumbai instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
-        }
-      ]
-    },
-    {
       "id": "eff0a7fc-3e34-4386-9ca7-27c93ef7dc43",
       "region": "bom",
       "subject": "Mumbai Degraded Network Performance",
