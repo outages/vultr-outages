@@ -29,20 +29,6 @@
       ]
     },
     {
-      "id": "faa645c1-37e1-4b08-bfa1-4adfd94733e2",
-      "region": "ord",
-      "subject": "Chicago Scheduled Maintenance - 2025-12-11",
-      "start_date": "2025-12-05T21:44:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2025-12-05T21:44:00+00:00",
-          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Chicago location during the following scheduled maintenance window. \r\n\r\nStart Time: 2025-12-11 05:00:00 UTC\r\nEnd Time: 2025-12-11 12:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Chicago instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
-        }
-      ]
-    },
-    {
       "id": "3797cc32-427f-467b-9b95-fcd6584cb0a9",
       "region": "sea",
       "subject": "Seattle Scheduled Maintenance - 2025-12-11",
