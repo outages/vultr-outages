@@ -101,7 +101,7 @@
         {
           "id": "642a8b5a-adc7-4cfd-9424-5599dbe2a146",
           "subject": "Melbourne, Sydney Degraded Network Performance",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2025-12-04T04:06:00+00:00",
           "updated_at": "",
           "entries": [
@@ -227,7 +227,7 @@
         {
           "id": "642a8b5a-adc7-4cfd-9424-5599dbe2a146",
           "subject": "Melbourne, Sydney Degraded Network Performance",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2025-12-04T04:06:00+00:00",
           "updated_at": "",
           "entries": [
