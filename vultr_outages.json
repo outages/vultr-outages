@@ -115,21 +115,7 @@
       "location": "Mumbai",
       "country": "IN",
       "country_name": "India",
-      "alerts": [
-        {
-          "id": "eff0a7fc-3e34-4386-9ca7-27c93ef7dc43",
-          "subject": "Mumbai Degraded Network Performance",
-          "status": "resolved",
-          "start_date": "2025-09-08T19:06:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2025-09-08T19:06:00+00:00",
-              "message": "We are currently experiencing degraded network performance in our Bangalore location with international connectivity to India.  You may experience slower speeds or intermittent connectivity across all of our upstream transit providers. We will provide updates as more information becomes available."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "ewr": {
       "location": "New Jersey",
