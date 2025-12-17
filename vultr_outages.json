@@ -213,21 +213,7 @@
       "location": "Toronto",
       "country": "CA",
       "country_name": "Canada",
-      "alerts": [
-        {
-          "id": "d049ff04-13df-4f8d-86bd-9edf09a8f23c",
-          "subject": "Toronto Emergency Maintenance - 2025-12-15",
-          "status": "resolved",
-          "start_date": "2025-12-15T16:46:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2025-12-15T16:46:00+00:00",
-              "message": "Event Type: Network Emergency\r\n\r\nWe are performing system changes in the Toronto location during the following emergency maintenance window. \r\n\r\nStart Time: 2025-12-15 16:45:00 UTC\r\nEnd Time: 2025-12-15 20:45:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Toronto instances may be unreachable for some, or all, of the emergency maintenance window as we perform network, firmware, or host upgrades."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "waw": {
       "location": "Warsaw",
