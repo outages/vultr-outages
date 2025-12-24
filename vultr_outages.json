@@ -17,21 +17,7 @@
       "location": "Bangalore",
       "country": "IN",
       "country_name": "India",
-      "alerts": [
-        {
-          "id": "cd7d1501-5a4f-40e1-8f38-51edbe232777",
-          "subject": "Bangalore Outage",
-          "status": "resolved",
-          "start_date": "2025-12-21T14:07:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2025-12-21T14:07:00+00:00",
-              "message": "We are currently experiencing a partial outage in our Bangalore location. Our System Administrators are actively working with our onsite technicians to restore service as quickly as possible."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "ord": {
       "location": "Chicago",
