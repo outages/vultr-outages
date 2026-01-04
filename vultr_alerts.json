@@ -1,16 +1,16 @@
 {
   "service_alerts": [
     {
-      "id": "6331d2f4-3e5d-4112-ba88-7b54db311aa4",
+      "id": "afffb0f1-0603-43f6-a499-0bf29b86f9ca",
       "region": "sto",
-      "subject": "Stockholm Network Outage",
-      "start_date": "2026-01-04T05:29:00+00:00",
+      "subject": "Stockholm Degraded Network Performance",
+      "start_date": "2026-01-04T05:53:00+00:00",
       "updated_at": "",
       "status": "ongoing",
       "entries": [
         {
-          "updated_at": "2026-01-04T05:29:00+00:00",
-          "message": "We are currently experiencing a partial outage in our Stockholm location. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible."
+          "updated_at": "2026-01-04T05:53:00+00:00",
+          "message": "We are currently experiencing degraded network performance in our Stockholm location. Our network engineers are actively working with our upstream providers to resolve the issue as quickly as possible."
         }
       ]
     },
