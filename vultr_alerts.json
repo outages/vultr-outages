@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "6331d2f4-3e5d-4112-ba88-7b54db311aa4",
+      "region": "sto",
+      "subject": "Stockholm Network Outage",
+      "start_date": "2026-01-04T05:29:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-01-04T05:29:00+00:00",
+          "message": "We are currently experiencing a partial outage in our Stockholm location. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible."
+        }
+      ]
+    },
+    {
       "id": "3d29989c-7f20-449e-8bda-63247a8cd98b",
       "region": "syd",
       "subject": "Sydney Scheduled Maintenance - 2026-01-08",

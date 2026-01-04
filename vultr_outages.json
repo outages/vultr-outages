@@ -161,7 +161,21 @@
       "location": "Stockholm",
       "country": "SE",
       "country_name": "Sweden",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "6331d2f4-3e5d-4112-ba88-7b54db311aa4",
+          "subject": "Stockholm Network Outage",
+          "status": "ongoing",
+          "start_date": "2026-01-04T05:29:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-01-04T05:29:00+00:00",
+              "message": "We are currently experiencing a partial outage in our Stockholm location. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible."
+            }
+          ]
+        }
+      ]
     },
     "syd": {
       "location": "Sydney",
