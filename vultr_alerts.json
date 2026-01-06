@@ -29,24 +29,6 @@
       ]
     },
     {
-      "id": "afffb0f1-0603-43f6-a499-0bf29b86f9ca",
-      "region": "sto",
-      "subject": "Stockholm Degraded Network Performance",
-      "start_date": "2026-01-04T05:53:00+00:00",
-      "updated_at": "2026-01-04T07:42:00+00:00",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2026-01-04T07:42:00+00:00",
-          "message": "Issue was resolved and no new alerts."
-        },
-        {
-          "updated_at": "2026-01-04T05:53:00+00:00",
-          "message": "We are currently experiencing degraded network performance in our Stockholm location. Our network engineers are actively working with our upstream providers to resolve the issue as quickly as possible."
-        }
-      ]
-    },
-    {
       "id": "3d29989c-7f20-449e-8bda-63247a8cd98b",
       "region": "syd",
       "subject": "Sydney Scheduled Maintenance - 2026-01-08",
