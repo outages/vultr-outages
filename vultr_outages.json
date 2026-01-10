@@ -195,21 +195,7 @@
       "location": "Sydney",
       "country": "AU",
       "country_name": "Australia",
-      "alerts": [
-        {
-          "id": "3d29989c-7f20-449e-8bda-63247a8cd98b",
-          "subject": "Sydney Scheduled Maintenance - 2026-01-08",
-          "status": "resolved",
-          "start_date": "2026-01-02T21:40:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2026-01-02T21:40:00+00:00",
-              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Sydney location during the following scheduled maintenance window. \r\n\r\nStart Time: 2026-01-08 13:00:00 UTC\r\nEnd Time: 2026-01-08 18:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Sydney instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "tlv": {
       "location": "Tel Aviv",
