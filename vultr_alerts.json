@@ -1,20 +1,6 @@
 {
   "service_alerts": [
     {
-      "id": "33ce9aa1-ff05-4b30-9ef7-48e9922282ad",
-      "region": "sea",
-      "subject": "Partial Outage",
-      "start_date": "2026-01-16T06:18:00+00:00",
-      "updated_at": "",
-      "status": "ongoing",
-      "entries": [
-        {
-          "updated_at": "2026-01-16T06:18:00+00:00",
-          "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
-        }
-      ]
-    },
-    {
       "id": "2b1db7c5-ebb1-4d79-8ebc-8617c968c084",
       "region": "yto",
       "subject": "Toronto Scheduled Maintenance - 2026-01-26",

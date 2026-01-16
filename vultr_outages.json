@@ -151,21 +151,7 @@
       "location": "Seattle",
       "country": "US",
       "country_name": "United States",
-      "alerts": [
-        {
-          "id": "33ce9aa1-ff05-4b30-9ef7-48e9922282ad",
-          "subject": "Partial Outage",
-          "status": "ongoing",
-          "start_date": "2026-01-16T06:18:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2026-01-16T06:18:00+00:00",
-              "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "icn": {
       "location": "Seoul",
