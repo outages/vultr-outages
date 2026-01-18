@@ -71,21 +71,7 @@
       "location": "Madrid",
       "country": "ES",
       "country_name": "Spain",
-      "alerts": [
-        {
-          "id": "c629560d-c6aa-40ce-b923-c3086391efa8",
-          "subject": "Madrid Scheduled Maintenance - 2026-01-15",
-          "status": "resolved",
-          "start_date": "2026-01-05T20:52:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2026-01-05T20:52:00+00:00",
-              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Madrid location during the following scheduled maintenance window. \r\n\r\nStart Time: 2026-01-15 23:00:00 UTC\r\nEnd Time: 2026-01-16 04:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Madrid instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "man": {
       "location": "Manchester",
