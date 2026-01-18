@@ -1,20 +1,6 @@
 {
   "service_alerts": [
     {
-      "id": "9fc293de-0a9c-4ea7-b967-f813d676ec18",
-      "region": "sgp",
-      "subject": "Singapore Degraded Network Performance",
-      "start_date": "2026-01-16T15:07:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2026-01-16T15:07:00+00:00",
-          "message": "We are currently experiencing degraded network performance in our Singapore location. Our network engineers are actively working with our upstream providers to resolve the issue as quickly as possible."
-        }
-      ]
-    },
-    {
       "id": "2b1db7c5-ebb1-4d79-8ebc-8617c968c084",
       "region": "yto",
       "subject": "Toronto Scheduled Maintenance - 2026-01-26",
