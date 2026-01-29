@@ -285,23 +285,6 @@
               "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Amsterdam, Frankfurt, London, Paris, Stockholm locations during the following scheduled maintenance window. \r\n\r\nStart Time: 2026-02-13 00:00:00 UTC\r\nEnd Time: 2026-02-13 04:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Amsterdam, Frankfurt, London, Paris, Stockholm instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
             }
           ]
-        },
-        {
-          "id": "3ceda4db-aca9-42f9-ae28-6f3e82883b00",
-          "subject": "Stockholm Scheduled Maintenance - 2026-01-26",
-          "status": "resolved",
-          "start_date": "2026-01-21T16:00:00+00:00",
-          "updated_at": "2026-01-27T11:34:00+00:00",
-          "entries": [
-            {
-              "updated_at": "2026-01-27T11:34:00+00:00",
-              "message": "reschedule"
-            },
-            {
-              "updated_at": "2026-01-21T16:00:00+00:00",
-              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Stockholm location during the following scheduled maintenance window. \r\n\r\nStart Time: 2026-01-26 22:55:00 UTC\r\nEnd Time: 2026-01-27 04:55:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Stockholm instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
-            }
-          ]
         }
       ]
     },
