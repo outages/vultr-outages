@@ -39,19 +39,6 @@
       "country_name": "United States",
       "alerts": [
         {
-          "id": "afeb260f-3027-4a08-9466-0c8fcb4ccaac",
-          "subject": "Partial Outage",
-          "status": "ongoing",
-          "start_date": "2026-01-30T08:10:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2026-01-30T08:10:00+00:00",
-              "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
-            }
-          ]
-        },
-        {
           "id": "adff01f1-73b0-4fac-9056-4e4b20069215",
           "subject": "Chicago Scheduled Maintenance - 2026-02-10",
           "status": "ongoing",
