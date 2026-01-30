@@ -135,6 +135,19 @@
       "country_name": "United Kingdom",
       "alerts": [
         {
+          "id": "f2441a0a-16e8-4150-bec4-c7d919c44fa4",
+          "subject": "Manchester Scheduled Maintenance - 2026-02-06",
+          "status": "ongoing",
+          "start_date": "2026-01-30T19:14:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-01-30T19:14:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Manchester location during the following scheduled maintenance window. \r\n\r\nStart Time: 2026-02-06 00:00:00 UTC\r\nEnd Time: 2026-02-06 05:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Manchester instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        },
+        {
           "id": "35b92397-8083-44d9-8020-defb1443fe0c",
           "subject": "Manchester Scheduled Maintenance - 2026-01-29",
           "status": "resolved",
