@@ -29,20 +29,6 @@
       ]
     },
     {
-      "id": "f2441a0a-16e8-4150-bec4-c7d919c44fa4",
-      "region": "man",
-      "subject": "Manchester Scheduled Maintenance - 2026-02-06",
-      "start_date": "2026-01-30T19:14:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2026-01-30T19:14:00+00:00",
-          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Manchester location during the following scheduled maintenance window. \r\n\r\nStart Time: 2026-02-06 00:00:00 UTC\r\nEnd Time: 2026-02-06 05:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Manchester instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-        }
-      ]
-    },
-    {
       "id": "8685f586-f946-4800-b843-4bc47e2ea411",
       "region": "ewr",
       "subject": "New Jersey Scheduled Maintenance - 2026-02-19",
