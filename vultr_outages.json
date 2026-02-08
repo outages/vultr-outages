@@ -252,7 +252,21 @@
       "location": "Singapore",
       "country": "SG",
       "country_name": "Singapore",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "c7d8ef81-d008-46ab-9a98-db20990a9018",
+          "subject": "Singapore Network Outage",
+          "status": "ongoing",
+          "start_date": "2026-02-08T15:50:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-02-08T15:50:00+00:00",
+              "message": "We are currently experiencing a partial outage in our Singapore location. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible."
+            }
+          ]
+        }
+      ]
     },
     "sto": {
       "location": "Stockholm",
