@@ -256,7 +256,7 @@
         {
           "id": "c7d8ef81-d008-46ab-9a98-db20990a9018",
           "subject": "Singapore Network Outage",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2026-02-08T15:50:00+00:00",
           "updated_at": "",
           "entries": [
