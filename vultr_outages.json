@@ -56,8 +56,12 @@
           "subject": "Chicago Scheduled Maintenance - 2026-02-10",
           "status": "ongoing",
           "start_date": "2026-01-26T19:13:00+00:00",
-          "updated_at": "",
+          "updated_at": "2026-02-09T18:17:00+00:00",
           "entries": [
+            {
+              "updated_at": "2026-02-09T18:17:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nThe following scheduled maintenance window in the Chicago location during the following scheduled maintenance window has been cancelled. This will be rescheduled in the future.\r\n\r\nStart Time: 2026-02-10 06:05:00 UTC\r\nEnd Time: 2026-02-10 10:05:00 UTC\r\n\r\nIf you have any questions or concerns, please submit a request to Support and we will assist you."
+            },
             {
               "updated_at": "2026-01-26T19:13:00+00:00",
               "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Chicago location during the following scheduled maintenance window. \r\n\r\nStart Time: 2026-02-10 06:05:00 UTC\r\nEnd Time: 2026-02-10 10:05:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Chicago instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
