@@ -1,20 +1,6 @@
 {
   "service_alerts": [
     {
-      "id": "c7d8ef81-d008-46ab-9a98-db20990a9018",
-      "region": "sgp",
-      "subject": "Singapore Network Outage",
-      "start_date": "2026-02-08T15:50:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2026-02-08T15:50:00+00:00",
-          "message": "We are currently experiencing a partial outage in our Singapore location. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible."
-        }
-      ]
-    },
-    {
       "id": "09a2087e-4b0a-4719-b101-e63029331327",
       "region": "ams",
       "subject": "Amsterdam Scheduled Maintenance - 2026-02-12",
