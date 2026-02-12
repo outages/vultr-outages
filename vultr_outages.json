@@ -22,7 +22,7 @@
         {
           "id": "7a862364-3808-49f5-88e8-5d9ac94bd31f",
           "subject": "Amsterdam, Frankfurt, London, Paris, Stockholm Scheduled Maintenance - 2026-02-13",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2026-01-26T20:48:00+00:00",
           "updated_at": "",
           "entries": [
@@ -104,7 +104,7 @@
         {
           "id": "7a862364-3808-49f5-88e8-5d9ac94bd31f",
           "subject": "Amsterdam, Frankfurt, London, Paris, Stockholm Scheduled Maintenance - 2026-02-13",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2026-01-26T20:48:00+00:00",
           "updated_at": "",
           "entries": [
@@ -149,7 +149,7 @@
         {
           "id": "7a862364-3808-49f5-88e8-5d9ac94bd31f",
           "subject": "Amsterdam, Frankfurt, London, Paris, Stockholm Scheduled Maintenance - 2026-02-13",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2026-01-26T20:48:00+00:00",
           "updated_at": "",
           "entries": [
@@ -251,7 +251,7 @@
         {
           "id": "7a862364-3808-49f5-88e8-5d9ac94bd31f",
           "subject": "Amsterdam, Frankfurt, London, Paris, Stockholm Scheduled Maintenance - 2026-02-13",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2026-01-26T20:48:00+00:00",
           "updated_at": "",
           "entries": [
@@ -307,7 +307,7 @@
         {
           "id": "7a862364-3808-49f5-88e8-5d9ac94bd31f",
           "subject": "Amsterdam, Frankfurt, London, Paris, Stockholm Scheduled Maintenance - 2026-02-13",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2026-01-26T20:48:00+00:00",
           "updated_at": "",
           "entries": [
