@@ -107,8 +107,12 @@
           "subject": "London Emergency Maintenance - 2026-02-17",
           "status": "ongoing",
           "start_date": "2026-02-17T08:57:00+00:00",
-          "updated_at": "",
+          "updated_at": "2026-02-17T21:17:00+00:00",
           "entries": [
+            {
+              "updated_at": "2026-02-17T21:17:00+00:00",
+              "message": "Set to \"Send Email On Resolved\" => no because this alert was linked with the entire DC."
+            },
             {
               "updated_at": "2026-02-17T08:57:00+00:00",
               "message": "Event Type: Network Emergency\r\n\r\nWe are performing system changes in the London location during the following emergency maintenance window. \r\n\r\nStart Time: 2026-02-20 08:50:00 UTC\r\nEnd Time: 2026-02-20 12:50:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, London instances may be unreachable for some, or all, of the emergency maintenance window as we perform network, firmware, or host upgrades."
