@@ -55,7 +55,7 @@
         {
           "id": "47aaac60-2923-40aa-a2b0-005675239ba0",
           "subject": "Chicago Scheduled Maintenance - 2026-02-18",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2026-02-12T20:48:00+00:00",
           "updated_at": "",
           "entries": [
