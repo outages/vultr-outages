@@ -77,21 +77,7 @@
       "location": "Delhi NCR",
       "country": "IN",
       "country_name": "India",
-      "alerts": [
-        {
-          "id": "7a4f5de7-9780-4fac-9695-54b07dc517f4",
-          "subject": "Partial Outage",
-          "status": "ongoing",
-          "start_date": "2026-02-18T13:29:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2026-02-18T13:29:00+00:00",
-              "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "fra": {
       "location": "Frankfurt",

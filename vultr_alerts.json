@@ -1,20 +1,6 @@
 {
   "service_alerts": [
     {
-      "id": "7a4f5de7-9780-4fac-9695-54b07dc517f4",
-      "region": "del",
-      "subject": "Partial Outage",
-      "start_date": "2026-02-18T13:29:00+00:00",
-      "updated_at": "",
-      "status": "ongoing",
-      "entries": [
-        {
-          "updated_at": "2026-02-18T13:29:00+00:00",
-          "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
-        }
-      ]
-    },
-    {
       "id": "80e0d0dc-347c-4696-97a6-409a1ab3c601",
       "region": "ams",
       "subject": "Amsterdam Scheduled Maintenance - 2026-02-26",
