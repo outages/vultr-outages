@@ -77,7 +77,21 @@
       "location": "Delhi NCR",
       "country": "IN",
       "country_name": "India",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "7a4f5de7-9780-4fac-9695-54b07dc517f4",
+          "subject": "Partial Outage",
+          "status": "ongoing",
+          "start_date": "2026-02-18T13:29:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-02-18T13:29:00+00:00",
+              "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
+            }
+          ]
+        }
+      ]
     },
     "fra": {
       "location": "Frankfurt",
@@ -105,14 +119,10 @@
         {
           "id": "39116e6e-d30a-4d8e-b95e-85a81f6dd874",
           "subject": "London Emergency Maintenance - 2026-02-17",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2026-02-17T08:57:00+00:00",
-          "updated_at": "2026-02-17T21:17:00+00:00",
+          "updated_at": "",
           "entries": [
-            {
-              "updated_at": "2026-02-17T21:17:00+00:00",
-              "message": "Set to \"Send Email On Resolved\" => no because this alert was linked with the entire DC."
-            },
             {
               "updated_at": "2026-02-17T08:57:00+00:00",
               "message": "Event Type: Network Emergency\r\n\r\nWe are performing system changes in the London location during the following emergency maintenance window. \r\n\r\nStart Time: 2026-02-20 08:50:00 UTC\r\nEnd Time: 2026-02-20 12:50:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, London instances may be unreachable for some, or all, of the emergency maintenance window as we perform network, firmware, or host upgrades."
