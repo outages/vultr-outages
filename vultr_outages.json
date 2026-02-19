@@ -1,6 +1,26 @@
 {
   "service_alerts": [],
   "regions": {
+    "global": {
+      "location": "All Locations",
+      "country": "ALL",
+      "country_name": "Global",
+      "alerts": [
+        {
+          "id": "4f634573-460d-4b4a-bf58-d8b188138b95",
+          "subject": "Scheduled Maintenance - 2026-02-24",
+          "status": "ongoing",
+          "start_date": "2026-02-10T15:34:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-02-10T15:34:00+00:00",
+              "message": "Event Type: Software Upgrade\r\nStart Time: 2026-02-24 18:30:00 UTC\r\nEnd Time: 2026-02-24 19:30:00 UTC\r\n\r\nWe will be performing software upgrades in this location as part of an ongoing effort to maintain an ideal hosting environment. During the course of this maintenance window, the load-balancer service will be restarted; this should result in only a few moments of traffic interruption. Your instances will remain powered on and their local services will be unaffected, so no action on your part is required."
+            }
+          ]
+        }
+      ]
+    },
     "ams": {
       "location": "Amsterdam",
       "country": "NL",
