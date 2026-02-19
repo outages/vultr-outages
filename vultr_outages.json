@@ -51,21 +51,7 @@
       "location": "Bangalore",
       "country": "IN",
       "country_name": "India",
-      "alerts": [
-        {
-          "id": "a6897c56-b4c7-4e28-9137-57026de7b87a",
-          "subject": "Bangalore, London, Los Angeles, Sydney, Tokyo Storage Infrastructure Maintenance - 2026-02-17",
-          "status": "resolved",
-          "start_date": "2026-02-10T18:55:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2026-02-10T18:55:00+00:00",
-              "message": "Event Type: Storage Infrastructure Maintenance\r\nStart Time: 2026-02-17 14:00:00 UTC\r\nEnd Time: 2026-02-17 18:00:00 UTC\r\n\r\nOur Cloud Storage team will be performing maintenance to our Bangalore, London, Los Angeles, Sydney, Tokyo Storage infrastructure starting at 2026-02-17 14:00:00 UTC. During this maintenance window, creating, attaching, resizing, and deletion of Object Storage (performance and accelerated tiers) and Storage Gateway subscriptions may be temporarily unavailable."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "ord": {
       "location": "Chicago",
@@ -148,19 +134,6 @@
               "message": "Event Type: Network Emergency\r\n\r\nWe are performing system changes in the London location during the following emergency maintenance window. \r\n\r\nStart Time: 2026-02-20 08:50:00 UTC\r\nEnd Time: 2026-02-20 12:50:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, London instances may be unreachable for some, or all, of the emergency maintenance window as we perform network, firmware, or host upgrades."
             }
           ]
-        },
-        {
-          "id": "a6897c56-b4c7-4e28-9137-57026de7b87a",
-          "subject": "Bangalore, London, Los Angeles, Sydney, Tokyo Storage Infrastructure Maintenance - 2026-02-17",
-          "status": "resolved",
-          "start_date": "2026-02-10T18:55:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2026-02-10T18:55:00+00:00",
-              "message": "Event Type: Storage Infrastructure Maintenance\r\nStart Time: 2026-02-17 14:00:00 UTC\r\nEnd Time: 2026-02-17 18:00:00 UTC\r\n\r\nOur Cloud Storage team will be performing maintenance to our Bangalore, London, Los Angeles, Sydney, Tokyo Storage infrastructure starting at 2026-02-17 14:00:00 UTC. During this maintenance window, creating, attaching, resizing, and deletion of Object Storage (performance and accelerated tiers) and Storage Gateway subscriptions may be temporarily unavailable."
-            }
-          ]
         }
       ]
     },
@@ -168,21 +141,7 @@
       "location": "Los Angeles",
       "country": "US",
       "country_name": "United States",
-      "alerts": [
-        {
-          "id": "a6897c56-b4c7-4e28-9137-57026de7b87a",
-          "subject": "Bangalore, London, Los Angeles, Sydney, Tokyo Storage Infrastructure Maintenance - 2026-02-17",
-          "status": "resolved",
-          "start_date": "2026-02-10T18:55:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2026-02-10T18:55:00+00:00",
-              "message": "Event Type: Storage Infrastructure Maintenance\r\nStart Time: 2026-02-17 14:00:00 UTC\r\nEnd Time: 2026-02-17 18:00:00 UTC\r\n\r\nOur Cloud Storage team will be performing maintenance to our Bangalore, London, Los Angeles, Sydney, Tokyo Storage infrastructure starting at 2026-02-17 14:00:00 UTC. During this maintenance window, creating, attaching, resizing, and deletion of Object Storage (performance and accelerated tiers) and Storage Gateway subscriptions may be temporarily unavailable."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "mad": {
       "location": "Madrid",
@@ -298,21 +257,7 @@
       "location": "Sydney",
       "country": "AU",
       "country_name": "Australia",
-      "alerts": [
-        {
-          "id": "a6897c56-b4c7-4e28-9137-57026de7b87a",
-          "subject": "Bangalore, London, Los Angeles, Sydney, Tokyo Storage Infrastructure Maintenance - 2026-02-17",
-          "status": "resolved",
-          "start_date": "2026-02-10T18:55:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2026-02-10T18:55:00+00:00",
-              "message": "Event Type: Storage Infrastructure Maintenance\r\nStart Time: 2026-02-17 14:00:00 UTC\r\nEnd Time: 2026-02-17 18:00:00 UTC\r\n\r\nOur Cloud Storage team will be performing maintenance to our Bangalore, London, Los Angeles, Sydney, Tokyo Storage infrastructure starting at 2026-02-17 14:00:00 UTC. During this maintenance window, creating, attaching, resizing, and deletion of Object Storage (performance and accelerated tiers) and Storage Gateway subscriptions may be temporarily unavailable."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "tlv": {
       "location": "Tel Aviv",
@@ -324,21 +269,7 @@
       "location": "Tokyo",
       "country": "JP",
       "country_name": "Japan",
-      "alerts": [
-        {
-          "id": "a6897c56-b4c7-4e28-9137-57026de7b87a",
-          "subject": "Bangalore, London, Los Angeles, Sydney, Tokyo Storage Infrastructure Maintenance - 2026-02-17",
-          "status": "resolved",
-          "start_date": "2026-02-10T18:55:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2026-02-10T18:55:00+00:00",
-              "message": "Event Type: Storage Infrastructure Maintenance\r\nStart Time: 2026-02-17 14:00:00 UTC\r\nEnd Time: 2026-02-17 18:00:00 UTC\r\n\r\nOur Cloud Storage team will be performing maintenance to our Bangalore, London, Los Angeles, Sydney, Tokyo Storage infrastructure starting at 2026-02-17 14:00:00 UTC. During this maintenance window, creating, attaching, resizing, and deletion of Object Storage (performance and accelerated tiers) and Storage Gateway subscriptions may be temporarily unavailable."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "yto": {
       "location": "Toronto",
