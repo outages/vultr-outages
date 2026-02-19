@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "420b6cef-724e-437f-bc70-091b07a6cda4",
+      "region": "fra",
+      "subject": "Frankfurt Network Outage",
+      "start_date": "2026-02-19T12:56:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-02-19T12:56:00+00:00",
+          "message": "We are currently experiencing a partial outage in our Frankfurt location. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible."
+        }
+      ]
+    },
+    {
       "id": "80e0d0dc-347c-4696-97a6-409a1ab3c601",
       "region": "ams",
       "subject": "Amsterdam Scheduled Maintenance - 2026-02-26",

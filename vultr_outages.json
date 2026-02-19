@@ -83,7 +83,21 @@
       "location": "Frankfurt",
       "country": "DE",
       "country_name": "Germany",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "420b6cef-724e-437f-bc70-091b07a6cda4",
+          "subject": "Frankfurt Network Outage",
+          "status": "ongoing",
+          "start_date": "2026-02-19T12:56:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-02-19T12:56:00+00:00",
+              "message": "We are currently experiencing a partial outage in our Frankfurt location. Our network engineers are actively working with our upstream providers to restore connectivity as quickly as possible."
+            }
+          ]
+        }
+      ]
     },
     "hnl": {
       "location": "Honolulu",
