@@ -4,7 +4,7 @@ This is an *unofficial* repository that provides a Git history of outages at [Vu
 
 ## How to use
 
-- Visit the [history for the `vultr_outages.json`](https://github.com/outages/vultr-outages/commits/master/vultr_outages.json) file.
+- Visit the [history for the `vultr_outages.json`](https://github.com/outages/vultr-outages/commits/main/vultr_outages.json) file.
 
 ## Credits
 
