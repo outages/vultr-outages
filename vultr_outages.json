@@ -59,7 +59,7 @@
         {
           "id": "420b6cef-724e-437f-bc70-091b07a6cda4",
           "subject": "Frankfurt Network Outage",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2026-02-19T12:56:00+00:00",
           "updated_at": "",
           "entries": [
