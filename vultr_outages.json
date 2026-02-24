@@ -39,6 +39,19 @@
       "country_name": "United States",
       "alerts": [
         {
+          "id": "df010575-58c1-4a8b-ac22-58825fc865a9",
+          "subject": "Scheduled Maintenance - 2026-03-24",
+          "status": "ongoing",
+          "start_date": "2026-02-24T21:36:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-02-24T21:36:00+00:00",
+              "message": "Event Type: Software Upgrade\r\nStart Time: 2026-03-24 05:05:00 UTC\r\nEnd Time: 2026-03-24 09:05:00 UTC\r\n\r\nWe will be performing software upgrades in this location as part of an ongoing effort to maintain an ideal hosting environment. During the course of this maintenance window, your instance will be rebooted, and will be unavailable for approximately one hour.  Please be aware that as we do not have access to your filesystem, this reboot will not be as clean as if it were done from within your OS, so preparing your software/filesystem with a graceful shutdown of services and the VPS itself would be advised.  Note that, if you decide to perform a clean shutdown yourself, it will be necessary for you to start your VPS yourself at the conclusion of the maintenance event."
+            }
+          ]
+        },
+        {
           "id": "ea97be24-dfd4-45e4-949d-c227ca875c7c",
           "subject": "Chicago Scheduled Maintenance - 2026-03-24",
           "status": "ongoing",
@@ -58,6 +71,19 @@
       "country": "US",
       "country_name": "United States",
       "alerts": [
+        {
+          "id": "a4918285-d50f-47b7-98c7-2655f5841fc5",
+          "subject": "Dallas Scheduled Maintenance - 2026-03-18",
+          "status": "ongoing",
+          "start_date": "2026-02-24T21:42:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-02-24T21:42:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Dallas location during the following scheduled maintenance window. \r\n\r\nStart Time: 2026-03-18 05:05:00 UTC\r\nEnd Time: 2026-03-18 09:05:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Dallas instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+            }
+          ]
+        },
         {
           "id": "1ac3848c-02d5-48d3-927a-013d2a50b795",
           "subject": "Dallas Scheduled Maintenance - 2026-03-18",
@@ -248,6 +274,19 @@
       "country": "US",
       "country_name": "United States",
       "alerts": [
+        {
+          "id": "cf39885e-4e50-4200-bafe-38f679834938",
+          "subject": "Silicon Valley Scheduled Maintenance - 2026-03-11",
+          "status": "ongoing",
+          "start_date": "2026-02-24T21:44:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-02-24T21:44:00+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Silicon Valley location during the following scheduled maintenance window. \r\n\r\nStart Time: 2026-03-11 07:05:00 UTC\r\nEnd Time: 2026-03-11 11:05:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Silicon Valley instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+            }
+          ]
+        },
         {
           "id": "4d579e83-c617-438c-9439-408fe90f11e2",
           "subject": "Silicon Valley Scheduled Maintenance - 2026-03-11",
