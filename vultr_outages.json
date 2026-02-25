@@ -54,7 +54,7 @@
         {
           "id": "ea97be24-dfd4-45e4-949d-c227ca875c7c",
           "subject": "Chicago Scheduled Maintenance - 2026-03-24",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2026-02-24T17:17:00+00:00",
           "updated_at": "",
           "entries": [
@@ -87,7 +87,7 @@
         {
           "id": "1ac3848c-02d5-48d3-927a-013d2a50b795",
           "subject": "Dallas Scheduled Maintenance - 2026-03-18",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2026-02-24T18:14:00+00:00",
           "updated_at": "",
           "entries": [
@@ -290,7 +290,7 @@
         {
           "id": "4d579e83-c617-438c-9439-408fe90f11e2",
           "subject": "Silicon Valley Scheduled Maintenance - 2026-03-11",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2026-02-24T17:19:00+00:00",
           "updated_at": "",
           "entries": [
