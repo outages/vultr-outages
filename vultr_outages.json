@@ -171,7 +171,7 @@
         {
           "id": "ff6ec1de-8900-4916-96a7-6c3c81a3331c",
           "subject": "Madrid Scheduled Maintenance - 2026-02-25",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2026-02-20T16:24:00+00:00",
           "updated_at": "",
           "entries": [
