@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "4ca61c8e-345e-4966-9d4d-911bb53ea3c8",
+      "region": "yto",
+      "subject": "Toronto Scheduled Maintenance - 2026-03-05",
+      "start_date": "2026-02-27T20:09:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-02-27T20:09:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Toronto location during the following scheduled maintenance window. \r\n\r\nStart Time: 2026-03-05 05:05:00 UTC\r\nEnd Time: 2026-03-05 09:05:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Toronto instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+        }
+      ]
+    },
+    {
       "id": "824e31cf-265f-4250-ba07-733c7503ea6e",
       "region": "waw",
       "subject": "Warsaw Scheduled Maintenance - 2026-03-19",
@@ -11,6 +25,20 @@
         {
           "updated_at": "2026-02-27T16:30:00+00:00",
           "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Warsaw location during the following scheduled maintenance window. \r\n\r\nStart Time: 2026-03-19 23:00:00 UTC\r\nEnd Time: 2026-03-20 03:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Warsaw instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
+      "id": "672925f4-4074-467f-bac3-d6266a2c4250",
+      "region": "cdg",
+      "subject": "Paris Scheduled Maintenance - 2026-03-11",
+      "start_date": "2026-02-27T16:18:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-02-27T16:18:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Paris location during the following scheduled maintenance window. \r\n\r\nStart Time: 2026-03-11 23:00:00 UTC\r\nEnd Time: 2026-03-12 03:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Paris instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
         }
       ]
     },
