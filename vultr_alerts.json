@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "3beed8d8-4a72-4a73-bc9f-791f3ad9f6b4",
+      "region": "ewr",
+      "subject": "New Jersey Emergency Maintenance - 2026-02-27",
+      "start_date": "2026-02-27T05:03:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-02-27T05:03:00+00:00",
+          "message": "Event Type: Network Emergency\r\n\r\nWe are performing system changes in the New Jersey location during the following emergency maintenance window. \r\n\r\nStart Time: 2026-02-27 05:15:00 UTC\r\nEnd Time: 2026-02-27 09:15:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, New Jersey instances may be unreachable for some, or all, of the emergency maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
       "id": "189bc84d-1671-4603-a502-9ae5f646c556",
       "region": "lax",
       "subject": "Los Angeles Scheduled Maintenance - 2026-03-31",
