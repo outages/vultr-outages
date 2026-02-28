@@ -141,20 +141,6 @@
       ]
     },
     {
-      "id": "ff6ec1de-8900-4916-96a7-6c3c81a3331c",
-      "region": "mad",
-      "subject": "Madrid Scheduled Maintenance - 2026-02-25",
-      "start_date": "2026-02-20T16:24:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2026-02-20T16:24:00+00:00",
-          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Madrid location during the following scheduled maintenance window. \r\n\r\nStart Time: 2026-02-25 23:00:00 UTC\r\nEnd Time: 2026-02-26 03:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Madrid instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-        }
-      ]
-    },
-    {
       "id": "80e0d0dc-347c-4696-97a6-409a1ab3c601",
       "region": "ams",
       "subject": "Amsterdam Scheduled Maintenance - 2026-02-26",
