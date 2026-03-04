@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "90dcafd8-7b4d-4d8f-9ca7-85ea07116e77",
+      "region": "ord",
+      "subject": "Chicago Scheduled Maintenance - 2026-03-10",
+      "start_date": "2026-03-04T17:22:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-03-04T17:22:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Chicago location during the following scheduled maintenance window. \r\n\r\nStart Time: 2026-03-10 05:00:00 UTC\r\nEnd Time: 2026-03-10 09:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Chicago instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
       "id": "0e8bf4b6-ea21-4848-bbc3-d729739561b3",
       "region": "syd",
       "subject": "Sydney Degraded Network Performance",
