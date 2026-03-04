@@ -29,20 +29,6 @@
       ]
     },
     {
-      "id": "88bd636b-755f-4eb7-a9c0-d74c697dd2bf",
-      "region": "mia",
-      "subject": "Miami Emergency Maintenance - 2026-03-02",
-      "start_date": "2026-03-02T18:25:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2026-03-02T18:25:00+00:00",
-          "message": "Event Type: Network Emergency\r\n\r\nWe are performing system changes in the Miami location during the following emergency maintenance window. \r\n\r\nStart Time: 2026-03-02 18:15:00 UTC\r\nEnd Time: 2026-03-02 22:15:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Miami instances may be unreachable for some, or all, of the emergency maintenance window as we perform network, firmware, or host upgrades."
-        }
-      ]
-    },
-    {
       "id": "4ca61c8e-345e-4966-9d4d-911bb53ea3c8",
       "region": "yto",
       "subject": "Toronto Scheduled Maintenance - 2026-03-05",
