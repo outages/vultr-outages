@@ -244,7 +244,7 @@
         {
           "id": "bfdcb3a4-d3fb-480d-bd4d-d34ba12db21d",
           "subject": "Seoul Scheduled Maintenance - 2026-03-10",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2026-02-24T19:30:00+00:00",
           "updated_at": "",
           "entries": [
