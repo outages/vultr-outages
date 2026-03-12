@@ -219,7 +219,7 @@
         {
           "id": "672925f4-4074-467f-bac3-d6266a2c4250",
           "subject": "Paris Scheduled Maintenance - 2026-03-11",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2026-02-27T16:18:00+00:00",
           "updated_at": "",
           "entries": [
