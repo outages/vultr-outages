@@ -1,12 +1,26 @@
 {
   "service_alerts": [
     {
+      "id": "6ee2d18a-dbb8-4d25-b7ff-ccc344f0d014",
+      "region": "global",
+      "subject": "Chicago Degraded Network Performance",
+      "start_date": "2026-03-12T13:32:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-03-12T13:32:00+00:00",
+          "message": "We are currently experiencing degraded network performance in our Chicago location. Our network engineers are actively working with our upstream providers to resolve the issue as quickly as possible."
+        }
+      ]
+    },
+    {
       "id": "067a754b-7b13-4156-b1bf-828741b2f00a",
       "region": "ord",
       "subject": "Chicago Scheduled Maintenance - 2026-03-11",
       "start_date": "2026-03-11T20:01:00+00:00",
       "updated_at": "",
-      "status": "ongoing",
+      "status": "resolved",
       "entries": [
         {
           "updated_at": "2026-03-11T20:01:00+00:00",
