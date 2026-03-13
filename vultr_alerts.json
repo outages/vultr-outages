@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "eb1f0b8c-71b6-4031-882f-e74167f56e81",
+      "region": "mia",
+      "subject": "Partial Outage",
+      "start_date": "2026-03-13T13:37:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-03-13T13:37:00+00:00",
+          "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
+        }
+      ]
+    },
+    {
       "id": "e44df7bf-d805-4e23-817b-319920ea3d47",
       "region": "fra",
       "subject": "Frankfurt Scheduled Maintenance - 2026-03-24",

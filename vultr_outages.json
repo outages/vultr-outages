@@ -212,7 +212,21 @@
       "location": "Miami",
       "country": "US",
       "country_name": "United States",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "eb1f0b8c-71b6-4031-882f-e74167f56e81",
+          "subject": "Partial Outage",
+          "status": "ongoing",
+          "start_date": "2026-03-13T13:37:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-03-13T13:37:00+00:00",
+              "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
+            }
+          ]
+        }
+      ]
     },
     "bom": {
       "location": "Mumbai",
