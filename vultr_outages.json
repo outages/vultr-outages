@@ -269,7 +269,7 @@
         {
           "id": "344e5eeb-5bb9-4900-b848-7c777d02fc57",
           "subject": "Sydney Scheduled Maintenance - 2026-03-16",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2026-02-24T19:30:00+00:00",
           "updated_at": "",
           "entries": [
