@@ -61,7 +61,7 @@
         {
           "id": "a4918285-d50f-47b7-98c7-2655f5841fc5",
           "subject": "Dallas Scheduled Maintenance - 2026-03-18",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2026-02-24T21:42:00+00:00",
           "updated_at": "",
           "entries": [
