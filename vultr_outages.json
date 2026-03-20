@@ -293,7 +293,7 @@
         {
           "id": "824e31cf-265f-4250-ba07-733c7503ea6e",
           "subject": "Warsaw Scheduled Maintenance - 2026-03-19",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2026-02-27T16:30:00+00:00",
           "updated_at": "",
           "entries": [
