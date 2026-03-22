@@ -261,21 +261,7 @@
       "location": "Warsaw",
       "country": "PL",
       "country_name": "Poland",
-      "alerts": [
-        {
-          "id": "824e31cf-265f-4250-ba07-733c7503ea6e",
-          "subject": "Warsaw Scheduled Maintenance - 2026-03-19",
-          "status": "resolved",
-          "start_date": "2026-02-27T16:30:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2026-02-27T16:30:00+00:00",
-              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Warsaw location during the following scheduled maintenance window. \r\n\r\nStart Time: 2026-03-19 23:00:00 UTC\r\nEnd Time: 2026-03-20 03:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Warsaw instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     }
   }
 }
