@@ -1,6 +1,48 @@
 {
   "service_alerts": [
     {
+      "id": "f67fb270-71b7-4230-ac61-c208f60ad88f",
+      "region": "sao",
+      "subject": "São Paulo Scheduled Maintenance - 2026-04-08",
+      "start_date": "2026-03-25T19:29:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-03-25T19:29:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the São Paulo location during the following scheduled maintenance window. \r\n\r\nStart Time: 2026-04-08 03:00:00 UTC\r\nEnd Time: 2026-04-08 07:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, São Paulo instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
+      "id": "825b5975-680d-48be-be7a-d9b9af12e68d",
+      "region": "scl",
+      "subject": "Santiago Scheduled Maintenance - 2026-04-06",
+      "start_date": "2026-03-25T19:24:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-03-25T19:24:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Santiago location during the following scheduled maintenance window. \r\n\r\nStart Time: 2026-04-06 04:00:00 UTC\r\nEnd Time: 2026-04-06 08:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Santiago instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
+      "id": "6e815f4b-77c1-4e58-a653-6c69acf9d6e5",
+      "region": "man",
+      "subject": "Manchester Scheduled Maintenance - 2026-04-03",
+      "start_date": "2026-03-25T19:08:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-03-25T19:08:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Manchester location during the following scheduled maintenance window. \r\n\r\nStart Time: 2026-04-03 00:00:00 UTC\r\nEnd Time: 2026-04-03 04:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Manchester instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
       "id": "f1d362bc-24a4-4e5b-b5cd-f968dbd61001",
       "region": "sjc",
       "subject": "Silicon Valley Scheduled Maintenance - 2026-03-30",
