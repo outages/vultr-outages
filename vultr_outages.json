@@ -159,7 +159,7 @@
         {
           "id": "80fa2028-d71f-49d1-80e3-3df5a75c591c",
           "subject": "Osaka Scheduled Maintenance - 2026-03-25",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2026-03-03T17:06:00+00:00",
           "updated_at": "",
           "entries": [
