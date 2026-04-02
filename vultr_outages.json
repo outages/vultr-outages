@@ -39,7 +39,7 @@
         {
           "id": "7b4a4ad9-e8ff-4207-b8e0-b3aee4ae3338",
           "subject": "Scheduled Maintenance - 2026-04-01",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2026-03-24T19:04:00+00:00",
           "updated_at": "",
           "entries": [
