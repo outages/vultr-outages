@@ -227,7 +227,7 @@
         {
           "id": "e11183b1-e693-40ea-9545-12beb287ad3e",
           "subject": "Sydney Network Outage",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2026-04-02T13:00:00+00:00",
           "updated_at": "",
           "entries": [
