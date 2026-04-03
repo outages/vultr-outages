@@ -95,7 +95,7 @@
         {
           "id": "6e815f4b-77c1-4e58-a653-6c69acf9d6e5",
           "subject": "Manchester Scheduled Maintenance - 2026-04-03",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2026-03-25T19:08:00+00:00",
           "updated_at": "",
           "entries": [
