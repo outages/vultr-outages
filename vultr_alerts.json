@@ -1,6 +1,34 @@
 {
   "service_alerts": [
     {
+      "id": "e87a1c4e-2dc4-444b-b66c-e458c037d713",
+      "region": "dfw",
+      "subject": "Dallas Emergency Maintenance - 2026-04-21",
+      "start_date": "2026-04-06T15:59:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-04-06T15:59:00+00:00",
+          "message": "Event Type: Network Emergency\r\n\r\nWe are performing system changes in the Dallas location during the following emergency maintenance window. \r\n\r\nStart Time: 2026-04-21 05:00:00 UTC\r\nEnd Time: 2026-04-21 10:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Dallas instances may be unreachable for some, or all, of the emergency maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
+      "id": "1cec8bef-5d1d-40b5-8365-c3262cc89671",
+      "region": "sea",
+      "subject": "Maintenance is completed",
+      "start_date": "2026-04-06T15:43:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-04-06T15:43:00+00:00",
+          "message": "This maintenance is now complete.\r\n\r\nPlease submit a support ticket in the my.vultr.com portal if you are still experiencing any issues."
+        }
+      ]
+    },
+    {
       "id": "f67fb270-71b7-4230-ac61-c208f60ad88f",
       "region": "sao",
       "subject": "São Paulo Scheduled Maintenance - 2026-04-08",
