@@ -1,20 +1,6 @@
 {
   "service_alerts": [
     {
-      "id": "9c697bcb-42f2-4e7e-8caa-8526bb628101",
-      "region": "mel",
-      "subject": "Partial Outage",
-      "start_date": "2026-04-08T01:55:00+00:00",
-      "updated_at": "",
-      "status": "ongoing",
-      "entries": [
-        {
-          "updated_at": "2026-04-08T01:55:00+00:00",
-          "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
-        }
-      ]
-    },
-    {
       "id": "e87a1c4e-2dc4-444b-b66c-e458c037d713",
       "region": "dfw",
       "subject": "Dallas Emergency Maintenance - 2026-04-21",
