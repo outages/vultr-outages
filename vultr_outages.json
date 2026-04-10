@@ -1,6 +1,26 @@
 {
   "service_alerts": [],
   "regions": {
+    "global": {
+      "location": "All Locations",
+      "country": "ALL",
+      "country_name": "Global",
+      "alerts": [
+        {
+          "id": "f19749d8-e225-40ec-95bc-87be228bbfad",
+          "subject": "Global HA VKE Deployment Issues",
+          "status": "ongoing",
+          "start_date": "2026-04-10T20:58:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-04-10T20:58:00+00:00",
+              "message": "Customers are currently experiencing errors when deploying new Highly Available VKE clusters in all our locations. Our engineering team is aware of this issue and is working diligently to resolve this as quickly as possible."
+            }
+          ]
+        }
+      ]
+    },
     "ams": {
       "location": "Amsterdam",
       "country": "NL",
