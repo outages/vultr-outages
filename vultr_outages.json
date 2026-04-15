@@ -155,7 +155,7 @@
         {
           "id": "1cec8bef-5d1d-40b5-8365-c3262cc89671",
           "subject": "Maintenance is completed",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2026-04-06T15:43:00+00:00",
           "updated_at": "",
           "entries": [
