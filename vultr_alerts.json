@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "0f72ffce-6549-4a4e-9617-dec87fe3eace",
+      "region": "sjc",
+      "subject": "Line Card Maintenance",
+      "start_date": "2026-04-16T00:34:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-04-16T00:34:00+00:00",
+          "message": "Reset a line card to try to recover a faulty port."
+        }
+      ]
+    },
+    {
       "id": "e87a1c4e-2dc4-444b-b66c-e458c037d713",
       "region": "dfw",
       "subject": "Dallas Emergency Maintenance - 2026-04-21",
