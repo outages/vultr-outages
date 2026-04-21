@@ -111,6 +111,12 @@
       "country_name": "United States",
       "alerts": []
     },
+    "mxp": {
+      "location": "Milan",
+      "country": "IT",
+      "country_name": "Italy",
+      "alerts": []
+    },
     "bom": {
       "location": "Mumbai",
       "country": "IN",
