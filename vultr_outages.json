@@ -221,7 +221,7 @@
         {
           "id": "c35ef712-446b-476a-84f7-bb9e226be233",
           "subject": "Singapore Outage",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2026-05-03T07:34:00+00:00",
           "updated_at": "",
           "entries": [
