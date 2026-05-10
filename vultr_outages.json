@@ -119,7 +119,7 @@
         {
           "id": "78233559-6caa-40c8-b241-dc30de169a26",
           "subject": "Deployment Service Degradation – New York (NJ) and Milan",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2026-05-09T17:36:00+00:00",
           "updated_at": "",
           "entries": [
@@ -145,7 +145,7 @@
         {
           "id": "78233559-6caa-40c8-b241-dc30de169a26",
           "subject": "Deployment Service Degradation – New York (NJ) and Milan",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2026-05-09T17:36:00+00:00",
           "updated_at": "",
           "entries": [
