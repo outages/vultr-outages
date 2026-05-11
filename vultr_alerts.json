@@ -1,8 +1,64 @@
 {
   "service_alerts": [
     {
+      "id": "52a91c56-b007-470a-9731-c6158bfbda0d",
+      "region": "dfw",
+      "subject": "Dallas Scheduled Maintenance - 2026-05-27",
+      "start_date": "2026-05-11T19:38:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-05-11T19:38:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Dallas location during the following scheduled maintenance window. \r\n\r\nStart Time: 2026-05-27 05:00:00 UTC\r\nEnd Time: 2026-05-27 10:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Dallas instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
+      "id": "5b7965f0-6c24-4861-b862-c20fa9fbe708",
+      "region": "sea",
+      "subject": "Seattle Scheduled Maintenance - 2026-05-25",
+      "start_date": "2026-05-11T19:36:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-05-11T19:36:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Seattle location during the following scheduled maintenance window. \r\n\r\nStart Time: 2026-05-25 07:00:00 UTC\r\nEnd Time: 2026-05-25 12:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Seattle instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
+      "id": "6909b7e5-514c-4bcf-b24f-9441ce27c05a",
+      "region": "dfw",
+      "subject": "Dallas Scheduled Maintenance - 2026-05-20",
+      "start_date": "2026-05-11T19:32:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-05-11T19:32:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Dallas location during the following scheduled maintenance window. \r\n\r\nStart Time: 2026-05-20 05:00:00 UTC\r\nEnd Time: 2026-05-20 10:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Dallas instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
+      "id": "1321fc18-d9d3-4023-91a1-5600ba935ddd",
+      "region": "sea",
+      "subject": "Seattle Scheduled Maintenance - 2026-05-18",
+      "start_date": "2026-05-11T19:27:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-05-11T19:27:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Seattle location during the following scheduled maintenance window. \r\n\r\nStart Time: 2026-05-18 07:00:00 UTC\r\nEnd Time: 2026-05-18 12:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Seattle instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
       "id": "78233559-6caa-40c8-b241-dc30de169a26",
-      "region": "ewr",
+      "region": "mxp",
       "subject": "Deployment Service Degradation – New York (NJ) and Milan",
       "start_date": "2026-05-09T17:36:00+00:00",
       "updated_at": "",
@@ -16,7 +72,7 @@
     },
     {
       "id": "78233559-6caa-40c8-b241-dc30de169a26",
-      "region": "mxp",
+      "region": "ewr",
       "subject": "Deployment Service Degradation – New York (NJ) and Milan",
       "start_date": "2026-05-09T17:36:00+00:00",
       "updated_at": "",
