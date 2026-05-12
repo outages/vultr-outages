@@ -57,34 +57,6 @@
       ]
     },
     {
-      "id": "78233559-6caa-40c8-b241-dc30de169a26",
-      "region": "mxp",
-      "subject": "Deployment Service Degradation – New York (NJ) and Milan",
-      "start_date": "2026-05-09T17:36:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2026-05-09T17:36:00+00:00",
-          "message": "We are currently experiencing an issue affecting deployments in our New York (NJ) and Milan datacenters. Our engineering team is actively investigating and working diligently to restore normal deployment functionality as quickly as possible.\r\n\r\nAt this time, we do not have an estimated time for resolution (ETA). We will continue to provide updates as more information becomes available.\r\n\r\nWe appreciate your patience and understanding."
-        }
-      ]
-    },
-    {
-      "id": "78233559-6caa-40c8-b241-dc30de169a26",
-      "region": "ewr",
-      "subject": "Deployment Service Degradation – New York (NJ) and Milan",
-      "start_date": "2026-05-09T17:36:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2026-05-09T17:36:00+00:00",
-          "message": "We are currently experiencing an issue affecting deployments in our New York (NJ) and Milan datacenters. Our engineering team is actively investigating and working diligently to restore normal deployment functionality as quickly as possible.\r\n\r\nAt this time, we do not have an estimated time for resolution (ETA). We will continue to provide updates as more information becomes available.\r\n\r\nWe appreciate your patience and understanding."
-        }
-      ]
-    },
-    {
       "id": "0e6aa359-74c1-47a1-b2cc-cab2f1b969cd",
       "region": "lax",
       "subject": "Los Angeles Scheduled Maintenance - 2026-05-12",

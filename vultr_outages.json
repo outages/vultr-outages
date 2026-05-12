@@ -142,21 +142,7 @@
       "location": "Milan",
       "country": "IT",
       "country_name": "Italy",
-      "alerts": [
-        {
-          "id": "78233559-6caa-40c8-b241-dc30de169a26",
-          "subject": "Deployment Service Degradation – New York (NJ) and Milan",
-          "status": "resolved",
-          "start_date": "2026-05-09T17:36:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2026-05-09T17:36:00+00:00",
-              "message": "We are currently experiencing an issue affecting deployments in our New York (NJ) and Milan datacenters. Our engineering team is actively investigating and working diligently to restore normal deployment functionality as quickly as possible.\r\n\r\nAt this time, we do not have an estimated time for resolution (ETA). We will continue to provide updates as more information becomes available.\r\n\r\nWe appreciate your patience and understanding."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "bom": {
       "location": "Mumbai",
@@ -168,21 +154,7 @@
       "location": "New Jersey",
       "country": "US",
       "country_name": "United States",
-      "alerts": [
-        {
-          "id": "78233559-6caa-40c8-b241-dc30de169a26",
-          "subject": "Deployment Service Degradation – New York (NJ) and Milan",
-          "status": "resolved",
-          "start_date": "2026-05-09T17:36:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2026-05-09T17:36:00+00:00",
-              "message": "We are currently experiencing an issue affecting deployments in our New York (NJ) and Milan datacenters. Our engineering team is actively investigating and working diligently to restore normal deployment functionality as quickly as possible.\r\n\r\nAt this time, we do not have an estimated time for resolution (ETA). We will continue to provide updates as more information becomes available.\r\n\r\nWe appreciate your patience and understanding."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "itm": {
       "location": "Osaka",
