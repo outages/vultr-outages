@@ -71,20 +71,6 @@
       ]
     },
     {
-      "id": "74e17473-0532-4405-a04d-a639c07801d1",
-      "region": "scl",
-      "subject": "Santiago Scheduled Maintenance - 2026-05-12",
-      "start_date": "2026-04-28T20:51:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2026-04-28T20:51:00+00:00",
-          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Santiago location during the following scheduled maintenance window. \r\n\r\nStart Time: 2026-05-12 04:00:00 UTC\r\nEnd Time: 2026-05-12 09:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Santiago instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-        }
-      ]
-    },
-    {
       "id": "eff05840-dff4-4c93-a865-7b533fc708c9",
       "region": "sjc",
       "subject": "Silicon Valley Scheduled Maintenance - 2026-06-04",
