@@ -187,7 +187,7 @@
         {
           "id": "1321fc18-d9d3-4023-91a1-5600ba935ddd",
           "subject": "Seattle Scheduled Maintenance - 2026-05-18",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2026-05-11T19:27:00+00:00",
           "updated_at": "",
           "entries": [
