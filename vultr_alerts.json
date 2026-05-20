@@ -1,20 +1,6 @@
 {
   "service_alerts": [
     {
-      "id": "10dbde2e-32a5-4569-832b-c1123353612e",
-      "region": "dfw",
-      "subject": "Partial Outage",
-      "start_date": "2026-05-20T05:26:00+00:00",
-      "updated_at": "",
-      "status": "ongoing",
-      "entries": [
-        {
-          "updated_at": "2026-05-20T05:26:00+00:00",
-          "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
-        }
-      ]
-    },
-    {
       "id": "52a91c56-b007-470a-9731-c6158bfbda0d",
       "region": "dfw",
       "subject": "Dallas Scheduled Maintenance - 2026-05-27",
@@ -48,7 +34,7 @@
       "subject": "Dallas Scheduled Maintenance - 2026-05-20",
       "start_date": "2026-05-11T19:32:00+00:00",
       "updated_at": "",
-      "status": "ongoing",
+      "status": "resolved",
       "entries": [
         {
           "updated_at": "2026-05-11T19:32:00+00:00",
