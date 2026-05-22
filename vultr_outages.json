@@ -57,19 +57,6 @@
       "country_name": "Germany",
       "alerts": [
         {
-          "id": "30de9997-b2d0-4a2a-af6c-a8a5439343a3",
-          "subject": "Frankfurt Emergency Maintenance - 2026-05-20",
-          "status": "resolved",
-          "start_date": "2026-05-20T14:39:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2026-05-20T14:39:00+00:00",
-              "message": "Event Type: Network Emergency\r\n\r\nWe are performing system changes in the Frankfurt location during the following emergency maintenance window. \r\n\r\nStart Time: 2026-05-20 16:30:00 UTC\r\nEnd Time: 2026-05-20 20:30:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Frankfurt instances may be unreachable for some, or all, of the emergency maintenance window as we perform network, firmware, or host upgrades."
-            }
-          ]
-        },
-        {
           "id": "179fa87e-e2b5-48de-badb-2b71526833ae",
           "subject": "Frankfurt Scheduled Maintenance - 2026-06-09",
           "status": "ongoing",
