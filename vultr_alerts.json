@@ -20,7 +20,7 @@
       "subject": "Silicon Valley Scheduled Maintenance - 2026-05-26",
       "start_date": "2026-05-20T16:24:00+00:00",
       "updated_at": "",
-      "status": "ongoing",
+      "status": "resolved",
       "entries": [
         {
           "updated_at": "2026-05-20T16:24:00+00:00",
@@ -76,7 +76,7 @@
       "subject": "Seattle Scheduled Maintenance - 2026-05-25",
       "start_date": "2026-05-11T19:36:00+00:00",
       "updated_at": "",
-      "status": "ongoing",
+      "status": "resolved",
       "entries": [
         {
           "updated_at": "2026-05-11T19:36:00+00:00",

@@ -189,7 +189,7 @@
         {
           "id": "5b7965f0-6c24-4861-b862-c20fa9fbe708",
           "subject": "Seattle Scheduled Maintenance - 2026-05-25",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2026-05-11T19:36:00+00:00",
           "updated_at": "",
           "entries": [
@@ -215,7 +215,7 @@
         {
           "id": "c6e96088-a300-4e5d-9b94-553b3be81ac7",
           "subject": "Silicon Valley Scheduled Maintenance - 2026-05-26",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2026-05-20T16:24:00+00:00",
           "updated_at": "",
           "entries": [
