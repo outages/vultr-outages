@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "13b67895-6631-4b62-8960-a35174f31f95",
+      "region": "fra",
+      "subject": "Partial Outage",
+      "start_date": "2026-05-28T22:22:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-05-28T22:22:00+00:00",
+          "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
+        }
+      ]
+    },
+    {
       "id": "f4086894-d6a6-4d28-a7ec-9b986af7888c",
       "region": "yto",
       "subject": "Toronto Scheduled Maintenance - 2026-06-02",
