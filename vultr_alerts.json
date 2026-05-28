@@ -71,20 +71,6 @@
       ]
     },
     {
-      "id": "fb1787e2-0554-483c-9750-c33d972a888d",
-      "region": "ams",
-      "subject": "Amsterdam Degraded Network Performance",
-      "start_date": "2026-05-25T07:31:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2026-05-25T07:31:00+00:00",
-          "message": "We are currently experiencing degraded network performance in our Amsterdam location. Our network engineers are actively working with our upstream providers to resolve the issue as quickly as possible."
-        }
-      ]
-    },
-    {
       "id": "83bdd30b-4e3e-4680-a75f-a40dd9f1d5c4",
       "region": "nrt",
       "subject": "Tokyo Scheduled Maintenance - 2026-06-08",
