@@ -57,19 +57,6 @@
       "country_name": "Germany",
       "alerts": [
         {
-          "id": "13b67895-6631-4b62-8960-a35174f31f95",
-          "subject": "Partial Outage",
-          "status": "ongoing",
-          "start_date": "2026-05-28T22:22:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2026-05-28T22:22:00+00:00",
-              "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
-            }
-          ]
-        },
-        {
           "id": "179fa87e-e2b5-48de-badb-2b71526833ae",
           "subject": "Frankfurt Scheduled Maintenance - 2026-06-09",
           "status": "ongoing",
