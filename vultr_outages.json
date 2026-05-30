@@ -43,6 +43,19 @@
       "country_name": "Germany",
       "alerts": [
         {
+          "id": "3bbffb8c-304f-4409-9800-9e700e0a1c65",
+          "subject": "Baremetal Controls and Console Outage",
+          "status": "ongoing",
+          "start_date": "2026-05-29T22:55:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-05-29T22:55:00+00:00",
+              "message": "We are currently experiencing an issue with the service which sends commands to Baremetal servers. The servers remain online but sending any commands from the console.vultr.com portal and the direct access console itself will not work. You may still access and reboot your servers via SSH if necessary during this time.\r\n\r\nWe greatly appreciate your patience in this matter.\r\n\r\nThank you\r\nThe Vultr.com Team"
+            }
+          ]
+        },
+        {
           "id": "179fa87e-e2b5-48de-badb-2b71526833ae",
           "subject": "Frankfurt Scheduled Maintenance - 2026-06-09",
           "status": "ongoing",

@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "3bbffb8c-304f-4409-9800-9e700e0a1c65",
+      "region": "fra",
+      "subject": "Baremetal Controls and Console Outage",
+      "start_date": "2026-05-29T22:55:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-05-29T22:55:00+00:00",
+          "message": "We are currently experiencing an issue with the service which sends commands to Baremetal servers. The servers remain online but sending any commands from the console.vultr.com portal and the direct access console itself will not work. You may still access and reboot your servers via SSH if necessary during this time.\r\n\r\nWe greatly appreciate your patience in this matter.\r\n\r\nThank you\r\nThe Vultr.com Team"
+        }
+      ]
+    },
+    {
       "id": "f4086894-d6a6-4d28-a7ec-9b986af7888c",
       "region": "yto",
       "subject": "Toronto Scheduled Maintenance - 2026-06-02",
