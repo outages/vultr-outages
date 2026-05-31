@@ -45,7 +45,7 @@
         {
           "id": "3bbffb8c-304f-4409-9800-9e700e0a1c65",
           "subject": "Baremetal Controls and Console Outage",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2026-05-29T22:55:00+00:00",
           "updated_at": "",
           "entries": [
