@@ -29,20 +29,6 @@
       ]
     },
     {
-      "id": "f4086894-d6a6-4d28-a7ec-9b986af7888c",
-      "region": "yto",
-      "subject": "Toronto Scheduled Maintenance - 2026-06-02",
-      "start_date": "2026-05-27T18:43:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2026-05-27T18:43:00+00:00",
-          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Toronto location during the following scheduled maintenance window. \r\n\r\nStart Time: 2026-06-02 04:00:00 UTC\r\nEnd Time: 2026-06-02 09:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Toronto instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-        }
-      ]
-    },
-    {
       "id": "1128ddae-93ac-473a-92c6-4b718ce0215e",
       "region": "mia",
       "subject": "Miami Scheduled Maintenance - 2026-06-15",
