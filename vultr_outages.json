@@ -41,7 +41,7 @@
         {
           "id": "acec3995-82d9-4792-a2df-0cd4d205805d",
           "subject": "Chicago Network Outage",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2026-06-06T00:22:00+00:00",
           "updated_at": "",
           "entries": [
