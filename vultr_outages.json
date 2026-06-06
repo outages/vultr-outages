@@ -241,21 +241,7 @@
       "location": "Seattle",
       "country": "US",
       "country_name": "United States",
-      "alerts": [
-        {
-          "id": "c8f74f0b-775c-4376-aa37-56c88927cffd",
-          "subject": "Seattle Scheduled Maintenance - 2026-06-04",
-          "status": "resolved",
-          "start_date": "2026-05-27T18:16:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2026-05-27T18:16:00+00:00",
-              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Seattle location during the following scheduled maintenance window. \r\n\r\nStart Time: 2026-06-04 07:00:00 UTC\r\nEnd Time: 2026-06-04 12:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Seattle instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "icn": {
       "location": "Seoul",
@@ -267,21 +253,7 @@
       "location": "Silicon Valley",
       "country": "US",
       "country_name": "United States",
-      "alerts": [
-        {
-          "id": "eff05840-dff4-4c93-a865-7b533fc708c9",
-          "subject": "Silicon Valley Scheduled Maintenance - 2026-06-04",
-          "status": "resolved",
-          "start_date": "2026-04-21T17:10:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2026-04-21T17:10:00+00:00",
-              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Silicon Valley location during the following scheduled maintenance window. \r\n\r\nStart Time: 2026-06-04 07:05:00 UTC\r\nEnd Time: 2026-06-04 11:05:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Silicon Valley instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "sgp": {
       "location": "Singapore",
