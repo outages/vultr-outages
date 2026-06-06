@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "e0b17ffa-f936-4e7b-9afa-fe87bcffab80",
+      "region": "fra",
+      "subject": "Partial Outage",
+      "start_date": "2026-06-06T11:34:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-06-06T11:34:00+00:00",
+          "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
+        }
+      ]
+    },
+    {
       "id": "acec3995-82d9-4792-a2df-0cd4d205805d",
       "region": "ord",
       "subject": "Chicago Network Outage",
