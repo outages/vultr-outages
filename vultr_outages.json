@@ -59,7 +59,7 @@
         {
           "id": "179fa87e-e2b5-48de-badb-2b71526833ae",
           "subject": "Frankfurt Scheduled Maintenance - 2026-06-09",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2026-05-19T21:10:00+00:00",
           "updated_at": "",
           "entries": [
