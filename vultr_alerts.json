@@ -62,25 +62,11 @@
       "subject": "Mexico City Scheduled Maintenance - 2026-06-10",
       "start_date": "2026-05-27T18:31:00+00:00",
       "updated_at": "",
-      "status": "ongoing",
+      "status": "resolved",
       "entries": [
         {
           "updated_at": "2026-05-27T18:31:00+00:00",
           "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Mexico City location during the following scheduled maintenance window. \r\n\r\nStart Time: 2026-06-10 06:00:00 UTC\r\nEnd Time: 2026-06-10 11:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Mexico City instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-        }
-      ]
-    },
-    {
-      "id": "11ce1b56-c1ae-451f-9211-97851a408e14",
-      "region": "lax",
-      "subject": "Los Angeles Scheduled Maintenance - 2026-06-08",
-      "start_date": "2026-05-27T18:23:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2026-05-27T18:23:00+00:00",
-          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Los Angeles location during the following scheduled maintenance window. \r\n\r\nStart Time: 2026-06-08 07:00:00 UTC\r\nEnd Time: 2026-06-08 12:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Los Angeles instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
         }
       ]
     },
