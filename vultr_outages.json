@@ -257,6 +257,19 @@
       "country_name": "Japan",
       "alerts": [
         {
+          "id": "4726c5f2-a24f-47c5-8217-9af18de98784",
+          "subject": "Scheduled Maintenance - 2026-06-17",
+          "status": "ongoing",
+          "start_date": "2026-06-11T22:33:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-06-11T22:33:00+00:00",
+              "message": "Event Type: Software Upgrade\r\nStart Time: 2026-06-17 15:00:00 UTC\r\nEnd Time: 2026-06-17 21:00:00 UTC\r\n\r\nWe will be performing software upgrades in this location as part of an ongoing effort to maintain an ideal hosting environment. During the course of this maintenance window, your instance will be rebooted, and will be unavailable for approximately one hour.  Please be aware that as we do not have access to your filesystem, this reboot will not be as clean as if it were done from within your OS, so preparing your software/filesystem with a graceful shutdown of services and the VPS itself would be advised.  Note that, if you decide to perform a clean shutdown yourself, it will be necessary for you to start your VPS yourself at the conclusion of the maintenance event."
+            }
+          ]
+        },
+        {
           "id": "8f5a434d-7974-46f0-8042-8cc929337622",
           "subject": "Tokyo Scheduled Maintenance - 2026-06-29",
           "status": "ongoing",
