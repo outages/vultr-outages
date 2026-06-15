@@ -99,7 +99,7 @@
         {
           "id": "1128ddae-93ac-473a-92c6-4b718ce0215e",
           "subject": "Miami Scheduled Maintenance - 2026-06-15",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2026-05-27T18:35:00+00:00",
           "updated_at": "",
           "entries": [
