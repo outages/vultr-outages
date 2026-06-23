@@ -76,7 +76,7 @@
         {
           "id": "010ecc17-836c-4be8-872f-24b89e33ada3",
           "subject": "London Scheduled Maintenance - 2026-06-22",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2026-06-04T18:30:00+00:00",
           "updated_at": "",
           "entries": [
