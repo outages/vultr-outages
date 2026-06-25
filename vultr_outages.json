@@ -292,7 +292,7 @@
         {
           "id": "fb0cb339-cdba-4b7b-936c-c86882b1fd5d",
           "subject": "Toronto Scheduled Maintenance - 2026-06-25",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2026-06-11T21:30:00+00:00",
           "updated_at": "",
           "entries": [
