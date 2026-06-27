@@ -71,20 +71,6 @@
       ]
     },
     {
-      "id": "74792f9e-a00a-41b6-bd67-92db655386b7",
-      "region": "lhr",
-      "subject": "London Object Storage Upgrades - 2026-06-25",
-      "start_date": "2026-06-18T16:51:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2026-06-18T16:51:00+00:00",
-          "message": "Event Type: Object Storage Infrastructure Maintenance\r\nStart Time: 2026-06-25 18:00:00 UTC\r\nEnd Time: 2026-06-25 20:00:00 UTC\r\n\r\nOur Cloud Storage team will be performing upgrades to our London Object Storage infrastructure starting at 2026-06-25 18:00:00 UTC. During this maintenance window, creating, attaching, resizing, and deletion of Object Storage subscriptions may be temporarily unavailable.\r\n\r\nPreviously deployed Object Storage subscriptions in London will remain online without interruption and will not be impacted by this event."
-        }
-      ]
-    },
-    {
       "id": "8f5a434d-7974-46f0-8042-8cc929337622",
       "region": "nrt",
       "subject": "Tokyo Scheduled Maintenance - 2026-06-29",
