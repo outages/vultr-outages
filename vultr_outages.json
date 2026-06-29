@@ -258,7 +258,7 @@
         {
           "id": "8f5a434d-7974-46f0-8042-8cc929337622",
           "subject": "Tokyo Scheduled Maintenance - 2026-06-29",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2026-06-09T17:18:00+00:00",
           "updated_at": "",
           "entries": [
