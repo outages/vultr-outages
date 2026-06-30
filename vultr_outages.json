@@ -83,7 +83,7 @@
         {
           "id": "c62a8c11-f51c-44ed-9558-28d708784f2a",
           "subject": "Los Angeles Scheduled Maintenance - 2026-07-01",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2026-06-25T20:02:00+00:00",
           "updated_at": "",
           "entries": [
