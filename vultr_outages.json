@@ -163,7 +163,21 @@
       "location": "Seoul",
       "country": "KR",
       "country_name": "Korea, Republic of",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "8a58107a-550e-4c22-ab81-24d35dafcedf",
+          "subject": "Partial Outage",
+          "status": "ongoing",
+          "start_date": "2026-07-03T14:39:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-07-03T14:39:00+00:00",
+              "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
+            }
+          ]
+        }
+      ]
     },
     "sjc": {
       "location": "Silicon Valley",
