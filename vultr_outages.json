@@ -99,32 +99,6 @@
       "country_name": "United States",
       "alerts": [
         {
-          "id": "e359a146-c92d-47a3-a95e-396de8fd008c",
-          "subject": "Partial Outage",
-          "status": "ongoing",
-          "start_date": "2026-08-07T05:48:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2026-08-07T05:48:00+00:00",
-              "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
-            }
-          ]
-        },
-        {
-          "id": "a72c936a-d98c-46a0-9585-a0e43c4ab365",
-          "subject": "Partial Outage",
-          "status": "ongoing",
-          "start_date": "2026-08-07T05:12:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2026-08-07T05:12:00+00:00",
-              "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
-            }
-          ]
-        },
-        {
           "id": "27c51470-6ded-4d7b-a6af-9189d367a0cb",
           "subject": "Partial Outage",
           "status": "ongoing",
@@ -138,14 +112,14 @@
           ]
         },
         {
-          "id": "3bf5a7a4-7ff1-4c9c-ae72-e88b160119b4",
+          "id": "e359a146-c92d-47a3-a95e-396de8fd008c",
           "subject": "Partial Outage",
           "status": "ongoing",
-          "start_date": "2026-08-07T01:58:00+00:00",
+          "start_date": "2026-08-07T05:48:00+00:00",
           "updated_at": "",
           "entries": [
             {
-              "updated_at": "2026-08-07T01:58:00+00:00",
+              "updated_at": "2026-08-07T05:48:00+00:00",
               "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
             }
           ]
@@ -164,14 +138,14 @@
           ]
         },
         {
-          "id": "6a5743c5-56b6-4979-b380-c0838b7f80a7",
+          "id": "a72c936a-d98c-46a0-9585-a0e43c4ab365",
           "subject": "Partial Outage",
           "status": "ongoing",
-          "start_date": "2026-08-07T06:02:00+00:00",
+          "start_date": "2026-08-07T05:12:00+00:00",
           "updated_at": "",
           "entries": [
             {
-              "updated_at": "2026-08-07T06:02:00+00:00",
+              "updated_at": "2026-08-07T05:12:00+00:00",
               "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
             }
           ]
@@ -190,14 +164,14 @@
           ]
         },
         {
-          "id": "ac46ec2e-17ec-473d-a0f0-adc3194da9f2",
+          "id": "31ad69bb-d796-466d-b38d-772514d8c075",
           "subject": "Partial Outage",
           "status": "ongoing",
-          "start_date": "2026-08-07T04:01:00+00:00",
+          "start_date": "2026-08-07T02:07:00+00:00",
           "updated_at": "",
           "entries": [
             {
-              "updated_at": "2026-08-07T04:01:00+00:00",
+              "updated_at": "2026-08-07T02:07:00+00:00",
               "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
             }
           ]
@@ -216,14 +190,14 @@
           ]
         },
         {
-          "id": "98661d50-f705-445c-a0b3-34d63ae6d375",
+          "id": "6a5743c5-56b6-4979-b380-c0838b7f80a7",
           "subject": "Partial Outage",
           "status": "ongoing",
-          "start_date": "2026-08-07T02:52:00+00:00",
+          "start_date": "2026-08-07T06:02:00+00:00",
           "updated_at": "",
           "entries": [
             {
-              "updated_at": "2026-08-07T02:52:00+00:00",
+              "updated_at": "2026-08-07T06:02:00+00:00",
               "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
             }
           ]
@@ -237,6 +211,32 @@
           "entries": [
             {
               "updated_at": "2026-08-07T03:45:00+00:00",
+              "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
+            }
+          ]
+        },
+        {
+          "id": "ac46ec2e-17ec-473d-a0f0-adc3194da9f2",
+          "subject": "Partial Outage",
+          "status": "ongoing",
+          "start_date": "2026-08-07T04:01:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-08-07T04:01:00+00:00",
+              "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
+            }
+          ]
+        },
+        {
+          "id": "98661d50-f705-445c-a0b3-34d63ae6d375",
+          "subject": "Partial Outage",
+          "status": "ongoing",
+          "start_date": "2026-08-07T02:52:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-08-07T02:52:00+00:00",
               "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
             }
           ]
@@ -263,19 +263,6 @@
           "entries": [
             {
               "updated_at": "2026-08-07T02:19:00+00:00",
-              "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
-            }
-          ]
-        },
-        {
-          "id": "31ad69bb-d796-466d-b38d-772514d8c075",
-          "subject": "Partial Outage",
-          "status": "ongoing",
-          "start_date": "2026-08-07T02:07:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2026-08-07T02:07:00+00:00",
               "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
             }
           ]
@@ -372,15 +359,15 @@
           ]
         },
         {
-          "id": "c3e71a53-40a4-4093-b5db-37c2bc614806",
-          "subject": "Vultr Filesystem (VFS) Chicago Outage - 2026-08-05",
-          "status": "resolved",
-          "start_date": "2026-08-05T14:51:00+00:00",
+          "id": "3bf5a7a4-7ff1-4c9c-ae72-e88b160119b4",
+          "subject": "Partial Outage",
+          "status": "ongoing",
+          "start_date": "2026-08-07T01:58:00+00:00",
           "updated_at": "",
           "entries": [
             {
-              "updated_at": "2026-08-05T14:51:00+00:00",
-              "message": "Event Type: Service Degraded Performance and Availability\r\n\r\nOur Cloud Storage team is investigating a partial outage scenario with our VFS infrastructure. The following services may be impacted by this event:\r\n\r\n- Filesytem creation\r\n- Filesytem deletion\r\n- Attach / Detach to VPS instance\r\n- Accessing Filesystem contents\r\n\r\nWe are working quickly to restore service to its optimal state."
+              "updated_at": "2026-08-07T01:58:00+00:00",
+              "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
             }
           ]
         }

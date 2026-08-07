@@ -323,20 +323,6 @@
       ]
     },
     {
-      "id": "c3e71a53-40a4-4093-b5db-37c2bc614806",
-      "region": "ord",
-      "subject": "Vultr Filesystem (VFS) Chicago Outage - 2026-08-05",
-      "start_date": "2026-08-05T14:51:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2026-08-05T14:51:00+00:00",
-          "message": "Event Type: Service Degraded Performance and Availability\r\n\r\nOur Cloud Storage team is investigating a partial outage scenario with our VFS infrastructure. The following services may be impacted by this event:\r\n\r\n- Filesytem creation\r\n- Filesytem deletion\r\n- Attach / Detach to VPS instance\r\n- Accessing Filesystem contents\r\n\r\nWe are working quickly to restore service to its optimal state."
-        }
-      ]
-    },
-    {
       "id": "1a1099a5-e5de-4758-aad4-cc775db53210",
       "region": "atl",
       "subject": "ATL Storage Infrastructure Upgrades - 2026-08-06",
