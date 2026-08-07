@@ -1,100 +1,338 @@
 {
   "service_alerts": [
     {
-      "id": "a4eeab98-4483-4435-a860-1c41fcaf212e",
-      "region": "sgp",
-      "subject": "Singapore Emergency Maintenance - 2026-07-06",
-      "start_date": "2026-07-06T19:25:00+00:00",
+      "id": "7b94af23-4b10-495b-882d-c138e1f4b56e",
+      "region": "global",
+      "subject": "Intermittent Deployment Issues",
+      "start_date": "2026-08-06T15:24:00+00:00",
       "updated_at": "",
       "status": "resolved",
       "entries": [
         {
-          "updated_at": "2026-07-06T19:25:00+00:00",
-          "message": "Event Type: Network Emergency\r\n\r\nWe are performing system changes in the Singapore location during the following emergency maintenance window. \r\n\r\nStart Time: 2026-07-06 19:30:00 UTC\r\nEnd Time: 2026-07-06 20:30:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Singapore instances may be unreachable for some, or all, of the emergency maintenance window as we perform network, firmware, or host upgrades."
+          "updated_at": "2026-08-06T15:24:00+00:00",
+          "message": "Description:\r\nWe have detected intermittent new service deployment failures from console.vultr.com and the Vultr API\r\nWhat you might experience:\r\n\r\nInability to deploy\r\nSubscriptions reporting down in console.vultr.com - these subscriptions are up and functional on hosts\r\nInability to access our API\r\n\r\nOur engineering teams are actively engaged in identifying and working to resolve the issue"
         }
       ]
     },
     {
-      "id": "a205bb84-5aeb-4843-b737-242e54e8d365",
-      "region": "hnl",
-      "subject": "Honolulu Scheduled Maintenance - 2026-07-27",
-      "start_date": "2026-07-06T18:37:00+00:00",
-      "updated_at": "",
-      "status": "ongoing",
-      "entries": [
-        {
-          "updated_at": "2026-07-06T18:37:00+00:00",
-          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Honolulu location during the following scheduled maintenance window. \r\n\r\nStart Time: 2026-07-27 10:00:00 UTC\r\nEnd Time: 2026-07-27 15:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Honolulu instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-        }
-      ]
-    },
-    {
-      "id": "d8f1cf53-4a63-4b7a-959c-16b0345d279f",
+      "id": "8d8473fa-e66a-4d30-8d02-0876f42ef16f",
       "region": "ord",
-      "subject": "Chicago Scheduled Maintenance - 2026-07-22",
-      "start_date": "2026-07-06T18:22:00+00:00",
+      "subject": "Partial Outage",
+      "start_date": "2026-08-06T09:39:00+00:00",
       "updated_at": "",
       "status": "ongoing",
       "entries": [
         {
-          "updated_at": "2026-07-06T18:22:00+00:00",
-          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Chicago location during the following scheduled maintenance window. \r\n\r\nStart Time: 2026-07-22 05:00:00 UTC\r\nEnd Time: 2026-07-22 10:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Chicago instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+          "updated_at": "2026-08-06T09:39:00+00:00",
+          "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
         }
       ]
     },
     {
-      "id": "dc5834eb-50b8-4bb3-99fc-014088a082ec",
+      "id": "b2ece877-5811-4d83-9a54-d9ea1c8a07b7",
       "region": "ord",
-      "subject": "Chicago Scheduled Maintenance - 2026-07-20",
-      "start_date": "2026-07-06T18:19:00+00:00",
+      "subject": "Partial Outage",
+      "start_date": "2026-08-06T09:36:00+00:00",
       "updated_at": "",
       "status": "ongoing",
       "entries": [
         {
-          "updated_at": "2026-07-06T18:19:00+00:00",
-          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Chicago location during the following scheduled maintenance window. \r\n\r\nStart Time: 2026-07-20 05:00:00 UTC\r\nEnd Time: 2026-07-20 09:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Chicago instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+          "updated_at": "2026-08-06T09:36:00+00:00",
+          "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
         }
       ]
     },
     {
-      "id": "baec594d-a906-4b00-a00e-8b987e0978d0",
+      "id": "a51f2bac-174c-432a-9ef9-5bd800e0a20c",
       "region": "ord",
-      "subject": "Chicago Scheduled Maintenance - 2026-07-15",
-      "start_date": "2026-07-06T18:16:00+00:00",
+      "subject": "Partial Outage",
+      "start_date": "2026-08-06T09:26:00+00:00",
       "updated_at": "",
       "status": "ongoing",
       "entries": [
         {
-          "updated_at": "2026-07-06T18:16:00+00:00",
-          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Chicago location during the following scheduled maintenance window. \r\n\r\nStart Time: 2026-07-15 04:00:00 UTC\r\nEnd Time: 2026-07-15 09:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Chicago instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+          "updated_at": "2026-08-06T09:26:00+00:00",
+          "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
         }
       ]
     },
     {
-      "id": "f15e4978-5ea7-4c62-b820-ea97fcae147d",
-      "region": "mia",
-      "subject": "Miami Scheduled Maintenance - 2026-07-13",
-      "start_date": "2026-07-06T18:07:00+00:00",
+      "id": "4dc9f017-568d-47ac-a334-198d829f1b16",
+      "region": "ord",
+      "subject": "Partial Outage",
+      "start_date": "2026-08-06T09:24:00+00:00",
       "updated_at": "",
       "status": "ongoing",
       "entries": [
         {
-          "updated_at": "2026-07-06T18:07:00+00:00",
-          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Miami location during the following scheduled maintenance window. \r\n\r\nStart Time: 2026-07-13 04:00:00 UTC\r\nEnd Time: 2026-07-13 09:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Miami instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+          "updated_at": "2026-08-06T09:24:00+00:00",
+          "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
         }
       ]
     },
     {
-      "id": "7ea521ad-386e-49ed-82ef-f24f5503413e",
-      "region": "lax",
-      "subject": "Network Line Card Replacement",
-      "start_date": "2026-07-02T01:33:00+00:00",
+      "id": "bbc6ec2b-22e7-4f06-a58f-b729c8aea58a",
+      "region": "ord",
+      "subject": "Partial Outage",
+      "start_date": "2026-08-06T09:02:00+00:00",
       "updated_at": "",
       "status": "ongoing",
       "entries": [
         {
-          "updated_at": "2026-07-02T01:33:00+00:00",
-          "message": "Event Type: Network Line Card Replacement\r\n\r\nWe are performing system changes in the Los Angeles location during the following scheduled maintenance window. \r\n\r\nStart Time: 2026-07-09 07:00:00 UTC\r\nEnd Time: 2026-07-09 13:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Los Angeles instances may be unreachable for some of the scheduled maintenance window as we perform a network card replacement."
+          "updated_at": "2026-08-06T09:02:00+00:00",
+          "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
+        }
+      ]
+    },
+    {
+      "id": "7a7750e4-265c-4071-af2b-7004bbb2276b",
+      "region": "ord",
+      "subject": "Partial Outage",
+      "start_date": "2026-08-06T08:57:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-08-06T08:57:00+00:00",
+          "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
+        }
+      ]
+    },
+    {
+      "id": "30ecfb91-8849-4ab9-90d6-2024e793c20f",
+      "region": "ord",
+      "subject": "Partial Outage",
+      "start_date": "2026-08-06T08:54:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-08-06T08:54:00+00:00",
+          "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
+        }
+      ]
+    },
+    {
+      "id": "5f9cb183-d255-4cb3-beb1-bac1ef59b2fe",
+      "region": "ord",
+      "subject": "Partial Outage",
+      "start_date": "2026-08-06T07:26:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-08-06T07:26:00+00:00",
+          "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
+        }
+      ]
+    },
+    {
+      "id": "346039ec-6e39-49ef-8673-523b5c2d8690",
+      "region": "ord",
+      "subject": "Partial Outage",
+      "start_date": "2026-08-06T07:22:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-08-06T07:22:00+00:00",
+          "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
+        }
+      ]
+    },
+    {
+      "id": "3984c893-27ae-4df8-924a-6a29eca29213",
+      "region": "ord",
+      "subject": "Partial Outage",
+      "start_date": "2026-08-06T07:17:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-08-06T07:17:00+00:00",
+          "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
+        }
+      ]
+    },
+    {
+      "id": "66c703ec-1538-4bac-80b7-1f5b449c2410",
+      "region": "ord",
+      "subject": "Partial Outage",
+      "start_date": "2026-08-06T07:08:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-08-06T07:08:00+00:00",
+          "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
+        }
+      ]
+    },
+    {
+      "id": "2ab39b00-866a-4563-b4c5-557910da0da2",
+      "region": "ams",
+      "subject": "Amsterdam Scheduled Maintenance - 2026-08-12",
+      "start_date": "2026-08-05T15:45:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-08-05T15:45:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Amsterdam location during the following scheduled maintenance window. \r\n\r\nStart Time: 2026-08-12 22:00:00 UTC\r\nEnd Time: 2026-08-13 03:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Amsterdam instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
+      "id": "c3e71a53-40a4-4093-b5db-37c2bc614806",
+      "region": "ord",
+      "subject": "Vultr Filesystem (VFS) Chicago Outage - 2026-08-05",
+      "start_date": "2026-08-05T14:51:00+00:00",
+      "updated_at": "",
+      "status": "resolved",
+      "entries": [
+        {
+          "updated_at": "2026-08-05T14:51:00+00:00",
+          "message": "Event Type: Service Degraded Performance and Availability\r\n\r\nOur Cloud Storage team is investigating a partial outage scenario with our VFS infrastructure. The following services may be impacted by this event:\r\n\r\n- Filesytem creation\r\n- Filesytem deletion\r\n- Attach / Detach to VPS instance\r\n- Accessing Filesystem contents\r\n\r\nWe are working quickly to restore service to its optimal state."
+        }
+      ]
+    },
+    {
+      "id": "1a1099a5-e5de-4758-aad4-cc775db53210",
+      "region": "atl",
+      "subject": "ATL Storage Infrastructure Upgrades - 2026-08-06",
+      "start_date": "2026-07-31T18:20:00+00:00",
+      "updated_at": "",
+      "status": "resolved",
+      "entries": [
+        {
+          "updated_at": "2026-07-31T18:20:00+00:00",
+          "message": "Event Type: Storage Cluster Upgrade\r\nStart Time: 2026-08-06 13:00:00 UTC\r\nEnd Time: 2026-08-06 15:00:00 UTC\r\n\r\nOur Cloud Storage team will be performing maintenance to storage located in Atlanta. During this maintenance window, creating, attaching, resizing, and deletion of storage and storage gateways may be unavailable. Vultr Filesystem and storage gateways subscriptions may notice brief service interruptions as they are shifted to new hosts.\r\n\r\nThe storage team will monitor cluster health, node status, and workload recovery throughout the maintenance window."
+        }
+      ]
+    },
+    {
+      "id": "1a1099a5-e5de-4758-aad4-cc775db53210",
+      "region": "atl",
+      "subject": "ATL Storage Infrastructure Upgrades - 2026-08-06",
+      "start_date": "2026-07-31T18:20:00+00:00",
+      "updated_at": "",
+      "status": "resolved",
+      "entries": [
+        {
+          "updated_at": "2026-07-31T18:20:00+00:00",
+          "message": "Event Type: Storage Cluster Upgrade\r\nStart Time: 2026-08-06 13:00:00 UTC\r\nEnd Time: 2026-08-06 15:00:00 UTC\r\n\r\nOur Cloud Storage team will be performing maintenance to storage located in Atlanta. During this maintenance window, creating, attaching, resizing, and deletion of storage and storage gateways may be unavailable. Vultr Filesystem and storage gateways subscriptions may notice brief service interruptions as they are shifted to new hosts.\r\n\r\nThe storage team will monitor cluster health, node status, and workload recovery throughout the maintenance window."
+        }
+      ]
+    },
+    {
+      "id": "1a1099a5-e5de-4758-aad4-cc775db53210",
+      "region": "atl",
+      "subject": "ATL Storage Infrastructure Upgrades - 2026-08-06",
+      "start_date": "2026-07-31T18:20:00+00:00",
+      "updated_at": "",
+      "status": "resolved",
+      "entries": [
+        {
+          "updated_at": "2026-07-31T18:20:00+00:00",
+          "message": "Event Type: Storage Cluster Upgrade\r\nStart Time: 2026-08-06 13:00:00 UTC\r\nEnd Time: 2026-08-06 15:00:00 UTC\r\n\r\nOur Cloud Storage team will be performing maintenance to storage located in Atlanta. During this maintenance window, creating, attaching, resizing, and deletion of storage and storage gateways may be unavailable. Vultr Filesystem and storage gateways subscriptions may notice brief service interruptions as they are shifted to new hosts.\r\n\r\nThe storage team will monitor cluster health, node status, and workload recovery throughout the maintenance window."
+        }
+      ]
+    },
+    {
+      "id": "090a3076-d601-4b27-b787-41cad24ba84b",
+      "region": "mxp",
+      "subject": "Milan Scheduled Maintenance - 2026-08-05",
+      "start_date": "2026-07-29T16:18:00+00:00",
+      "updated_at": "",
+      "status": "resolved",
+      "entries": [
+        {
+          "updated_at": "2026-07-29T16:18:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Milan location during the following scheduled maintenance window. \r\n\r\nStart Time: 2026-08-05 22:00:00 UTC\r\nEnd Time: 2026-08-06 04:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Milan instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+        }
+      ]
+    },
+    {
+      "id": "b720a042-d1df-4e8f-94d1-eb89f25eb447",
+      "region": "jnb",
+      "subject": "Johannesburg Scheduled Maintenance - 2026-08-05",
+      "start_date": "2026-07-29T15:30:00+00:00",
+      "updated_at": "",
+      "status": "resolved",
+      "entries": [
+        {
+          "updated_at": "2026-07-29T15:30:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Johannesburg location during the following scheduled maintenance window. \r\n\r\nStart Time: 2026-08-05 22:00:00 UTC\r\nEnd Time: 2026-08-06 04:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Johannesburg instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+        }
+      ]
+    },
+    {
+      "id": "d227712e-b607-4055-a632-2f5494825aaa",
+      "region": "jnb",
+      "subject": "Johannesburg Scheduled Maintenance - 2026-08-19",
+      "start_date": "2026-07-28T16:04:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-07-28T16:04:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Johannesburg location during the following scheduled maintenance window. \r\n\r\nStart Time: 2026-08-19 22:00:00 UTC\r\nEnd Time: 2026-08-20 03:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Johannesburg instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+        }
+      ]
+    },
+    {
+      "id": "90a227ed-7319-4662-bce0-4bf798607c83",
+      "region": "ewr",
+      "subject": "New Jersey Scheduled Maintenance - 2026-09-02",
+      "start_date": "2026-07-28T16:00:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-07-28T16:00:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the New Jersey location during the following scheduled maintenance window. \r\n\r\nStart Time: 2026-09-02 04:00:00 UTC\r\nEnd Time: 2026-09-02 09:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to New Jersey instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+        }
+      ]
+    },
+    {
+      "id": "7f431f02-1317-458e-ad7f-0092391e3cd4",
+      "region": "ewr",
+      "subject": "New Jersey Scheduled Maintenance - 2026-08-24",
+      "start_date": "2026-07-28T15:55:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-07-28T15:55:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the New Jersey location during the following scheduled maintenance window. \r\n\r\nStart Time: 2026-08-24 04:00:00 UTC\r\nEnd Time: 2026-08-24 09:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to New Jersey instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+        }
+      ]
+    },
+    {
+      "id": "0b1a50fa-3da8-4449-a27b-c2d5d4317531",
+      "region": "ewr",
+      "subject": "New Jersey Scheduled Maintenance - 2026-08-10",
+      "start_date": "2026-07-28T15:52:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-07-28T15:52:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the New Jersey location during the following scheduled maintenance window. \r\n\r\nStart Time: 2026-08-10 04:00:00 UTC\r\nEnd Time: 2026-08-10 09:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to New Jersey instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
+        }
+      ]
+    },
+    {
+      "id": "678aebdc-ce94-408c-9d9c-1e326315e185",
+      "region": "atl",
+      "subject": "Atlanta Scheduled Maintenance - 2026-08-05",
+      "start_date": "2026-07-28T15:45:00+00:00",
+      "updated_at": "",
+      "status": "resolved",
+      "entries": [
+        {
+          "updated_at": "2026-07-28T15:45:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Atlanta location during the following scheduled maintenance window. \r\n\r\nStart Time: 2026-08-05 04:00:00 UTC\r\nEnd Time: 2026-08-05 09:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to reduce impact to customer infrastructure. Our engineers make every effort to minimize system impact, however, network reachability to Atlanta instances may be affected for some, or all, of the scheduled maintenance window as we perform this work. While it’s important to be aware of start and end times of the maintenance window, due to our redundant network architecture, our engineers expect that you may see little to no impact at all while the work is performed."
         }
       ]
     }
