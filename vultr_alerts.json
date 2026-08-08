@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "d2aa6f4a-5693-4336-833d-4c61339ccd53",
+      "region": "ord",
+      "subject": "Chicago - Intermittent Power Loss Investigation",
+      "start_date": "2026-08-07T23:58:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-08-07T23:58:00+00:00",
+          "message": "We are currently investigating intermittent power loss events affecting one of our Chicago data centers. This may cause unexpected instance reboots or intermittent connectivity loss for a subset of our instance types. Our team is actively working with the facility to identify and resolve the underlying cause. Affected customers do not need to reboot their instances."
+        }
+      ]
+    },
+    {
       "id": "52d8ac76-0385-4a10-b424-5524bb55589f",
       "region": "ord",
       "subject": "Partial Outage",
