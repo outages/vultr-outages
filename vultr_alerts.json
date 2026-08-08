@@ -197,34 +197,6 @@
       ]
     },
     {
-      "id": "b9cf338d-fe1c-4409-8ad3-90051dc867c2",
-      "region": "ord",
-      "subject": "Partial Outage",
-      "start_date": "2026-08-07T04:08:00+00:00",
-      "updated_at": "",
-      "status": "ongoing",
-      "entries": [
-        {
-          "updated_at": "2026-08-07T04:08:00+00:00",
-          "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
-        }
-      ]
-    },
-    {
-      "id": "ac46ec2e-17ec-473d-a0f0-adc3194da9f2",
-      "region": "ord",
-      "subject": "Partial Outage",
-      "start_date": "2026-08-07T04:01:00+00:00",
-      "updated_at": "",
-      "status": "ongoing",
-      "entries": [
-        {
-          "updated_at": "2026-08-07T04:01:00+00:00",
-          "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
-        }
-      ]
-    },
-    {
       "id": "7b94af23-4b10-495b-882d-c138e1f4b56e",
       "region": "global",
       "subject": "Intermittent Deployment Issues",
