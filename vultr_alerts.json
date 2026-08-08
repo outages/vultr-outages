@@ -99,20 +99,6 @@
       ]
     },
     {
-      "id": "7b94af23-4b10-495b-882d-c138e1f4b56e",
-      "region": "global",
-      "subject": "Intermittent Deployment Issues",
-      "start_date": "2026-08-06T15:24:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2026-08-06T15:24:00+00:00",
-          "message": "Description:\r\nWe have detected intermittent new service deployment failures from console.vultr.com and the Vultr API\r\nWhat you might experience:\r\n\r\nInability to deploy\r\nSubscriptions reporting down in console.vultr.com - these subscriptions are up and functional on hosts\r\nInability to access our API\r\n\r\nOur engineering teams are actively engaged in identifying and working to resolve the issue"
-        }
-      ]
-    },
-    {
       "id": "2ab39b00-866a-4563-b4c5-557910da0da2",
       "region": "ams",
       "subject": "Amsterdam Scheduled Maintenance - 2026-08-12",

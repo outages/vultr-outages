@@ -1,26 +1,6 @@
 {
   "service_alerts": [],
   "regions": {
-    "global": {
-      "location": "All Locations",
-      "country": "ALL",
-      "country_name": "Global",
-      "alerts": [
-        {
-          "id": "7b94af23-4b10-495b-882d-c138e1f4b56e",
-          "subject": "Intermittent Deployment Issues",
-          "status": "resolved",
-          "start_date": "2026-08-06T15:24:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2026-08-06T15:24:00+00:00",
-              "message": "Description:\r\nWe have detected intermittent new service deployment failures from console.vultr.com and the Vultr API\r\nWhat you might experience:\r\n\r\nInability to deploy\r\nSubscriptions reporting down in console.vultr.com - these subscriptions are up and functional on hosts\r\nInability to access our API\r\n\r\nOur engineering teams are actively engaged in identifying and working to resolve the issue"
-            }
-          ]
-        }
-      ]
-    },
     "ams": {
       "location": "Amsterdam",
       "country": "NL",
