@@ -71,34 +71,6 @@
       ]
     },
     {
-      "id": "0141918b-5c7d-49e8-8ca4-acb2f51a5c70",
-      "region": "ord",
-      "subject": "Partial Outage",
-      "start_date": "2026-08-07T05:55:00+00:00",
-      "updated_at": "",
-      "status": "ongoing",
-      "entries": [
-        {
-          "updated_at": "2026-08-07T05:55:00+00:00",
-          "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
-        }
-      ]
-    },
-    {
-      "id": "700122f7-d647-4478-8c72-2249b31c5b0e",
-      "region": "ord",
-      "subject": "Partial Outage",
-      "start_date": "2026-08-07T05:51:00+00:00",
-      "updated_at": "",
-      "status": "ongoing",
-      "entries": [
-        {
-          "updated_at": "2026-08-07T05:51:00+00:00",
-          "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
-        }
-      ]
-    },
-    {
       "id": "2ab39b00-866a-4563-b4c5-557910da0da2",
       "region": "ams",
       "subject": "Amsterdam Scheduled Maintenance - 2026-08-12",

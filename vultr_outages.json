@@ -102,32 +102,6 @@
               "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
             }
           ]
-        },
-        {
-          "id": "0141918b-5c7d-49e8-8ca4-acb2f51a5c70",
-          "subject": "Partial Outage",
-          "status": "ongoing",
-          "start_date": "2026-08-07T05:55:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2026-08-07T05:55:00+00:00",
-              "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
-            }
-          ]
-        },
-        {
-          "id": "700122f7-d647-4478-8c72-2249b31c5b0e",
-          "subject": "Partial Outage",
-          "status": "ongoing",
-          "start_date": "2026-08-07T05:51:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2026-08-07T05:51:00+00:00",
-              "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
-            }
-          ]
         }
       ]
     },
