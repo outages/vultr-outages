@@ -187,6 +187,12 @@
       "country_name": "Italy",
       "alerts": []
     },
+    "msp": {
+      "location": "Minneapolis",
+      "country": "US",
+      "country_name": "United States",
+      "alerts": []
+    },
     "bom": {
       "location": "Mumbai",
       "country": "IN",
@@ -212,6 +218,12 @@
           ]
         }
       ]
+    },
+    "cmh": {
+      "location": "Ohio",
+      "country": "US",
+      "country_name": "United States",
+      "alerts": []
     },
     "itm": {
       "location": "Osaka",
@@ -273,6 +285,12 @@
       "location": "Singapore",
       "country": "SG",
       "country_name": "Singapore",
+      "alerts": []
+    },
+    "stl": {
+      "location": "St. Louis",
+      "country": "US",
+      "country_name": "United States",
       "alerts": []
     },
     "sto": {
