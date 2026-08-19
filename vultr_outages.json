@@ -5,21 +5,7 @@
       "location": "Amsterdam",
       "country": "NL",
       "country_name": "Netherlands",
-      "alerts": [
-        {
-          "id": "7f545478-00c8-48d3-aa2c-b075137299b3",
-          "subject": "Amsterdam, Bangalore, Delhi NCR, New Jersey, Silicon Valley Object Storage Upgrades - 2026-08-17",
-          "status": "resolved",
-          "start_date": "2026-08-11T13:00:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2026-08-11T13:00:00+00:00",
-              "message": "Event Type: Object Storage Infrastructure Maintenance\r\nStart Time: 2026-08-17 13:00:00 UTC\r\nEnd Time: 2026-08-17 17:00:00 UTC\r\n\r\nOur Cloud Storage team will be performing upgrades to our Amsterdam, Bangalore, Delhi NCR, New Jersey, Silicon Valley Object Storage infrastructure. During this maintenance window, creating, attaching, resizing, and deletion of Object Storage subscriptions may be temporarily unavailable.\r\n\r\nPreviously deployed Object Storage subscriptions in Amsterdam, Bangalore, Delhi NCR, New Jersey, Silicon Valley will remain online but some requests may experience interruptions as backend services are restarted."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "atl": {
       "location": "Atlanta",
@@ -45,21 +31,7 @@
       "location": "Bangalore",
       "country": "IN",
       "country_name": "India",
-      "alerts": [
-        {
-          "id": "7f545478-00c8-48d3-aa2c-b075137299b3",
-          "subject": "Amsterdam, Bangalore, Delhi NCR, New Jersey, Silicon Valley Object Storage Upgrades - 2026-08-17",
-          "status": "resolved",
-          "start_date": "2026-08-11T13:00:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2026-08-11T13:00:00+00:00",
-              "message": "Event Type: Object Storage Infrastructure Maintenance\r\nStart Time: 2026-08-17 13:00:00 UTC\r\nEnd Time: 2026-08-17 17:00:00 UTC\r\n\r\nOur Cloud Storage team will be performing upgrades to our Amsterdam, Bangalore, Delhi NCR, New Jersey, Silicon Valley Object Storage infrastructure. During this maintenance window, creating, attaching, resizing, and deletion of Object Storage subscriptions may be temporarily unavailable.\r\n\r\nPreviously deployed Object Storage subscriptions in Amsterdam, Bangalore, Delhi NCR, New Jersey, Silicon Valley will remain online but some requests may experience interruptions as backend services are restarted."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "ord": {
       "location": "Chicago",
@@ -91,21 +63,7 @@
       "location": "Delhi NCR",
       "country": "IN",
       "country_name": "India",
-      "alerts": [
-        {
-          "id": "7f545478-00c8-48d3-aa2c-b075137299b3",
-          "subject": "Amsterdam, Bangalore, Delhi NCR, New Jersey, Silicon Valley Object Storage Upgrades - 2026-08-17",
-          "status": "resolved",
-          "start_date": "2026-08-11T13:00:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2026-08-11T13:00:00+00:00",
-              "message": "Event Type: Object Storage Infrastructure Maintenance\r\nStart Time: 2026-08-17 13:00:00 UTC\r\nEnd Time: 2026-08-17 17:00:00 UTC\r\n\r\nOur Cloud Storage team will be performing upgrades to our Amsterdam, Bangalore, Delhi NCR, New Jersey, Silicon Valley Object Storage infrastructure. During this maintenance window, creating, attaching, resizing, and deletion of Object Storage subscriptions may be temporarily unavailable.\r\n\r\nPreviously deployed Object Storage subscriptions in Amsterdam, Bangalore, Delhi NCR, New Jersey, Silicon Valley will remain online but some requests may experience interruptions as backend services are restarted."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "fra": {
       "location": "Frankfurt",
@@ -203,21 +161,7 @@
       "location": "New Jersey",
       "country": "US",
       "country_name": "United States",
-      "alerts": [
-        {
-          "id": "7f545478-00c8-48d3-aa2c-b075137299b3",
-          "subject": "Amsterdam, Bangalore, Delhi NCR, New Jersey, Silicon Valley Object Storage Upgrades - 2026-08-17",
-          "status": "resolved",
-          "start_date": "2026-08-11T13:00:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2026-08-11T13:00:00+00:00",
-              "message": "Event Type: Object Storage Infrastructure Maintenance\r\nStart Time: 2026-08-17 13:00:00 UTC\r\nEnd Time: 2026-08-17 17:00:00 UTC\r\n\r\nOur Cloud Storage team will be performing upgrades to our Amsterdam, Bangalore, Delhi NCR, New Jersey, Silicon Valley Object Storage infrastructure. During this maintenance window, creating, attaching, resizing, and deletion of Object Storage subscriptions may be temporarily unavailable.\r\n\r\nPreviously deployed Object Storage subscriptions in Amsterdam, Bangalore, Delhi NCR, New Jersey, Silicon Valley will remain online but some requests may experience interruptions as backend services are restarted."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "cmh": {
       "location": "Ohio",
@@ -265,21 +209,7 @@
       "location": "Silicon Valley",
       "country": "US",
       "country_name": "United States",
-      "alerts": [
-        {
-          "id": "7f545478-00c8-48d3-aa2c-b075137299b3",
-          "subject": "Amsterdam, Bangalore, Delhi NCR, New Jersey, Silicon Valley Object Storage Upgrades - 2026-08-17",
-          "status": "resolved",
-          "start_date": "2026-08-11T13:00:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2026-08-11T13:00:00+00:00",
-              "message": "Event Type: Object Storage Infrastructure Maintenance\r\nStart Time: 2026-08-17 13:00:00 UTC\r\nEnd Time: 2026-08-17 17:00:00 UTC\r\n\r\nOur Cloud Storage team will be performing upgrades to our Amsterdam, Bangalore, Delhi NCR, New Jersey, Silicon Valley Object Storage infrastructure. During this maintenance window, creating, attaching, resizing, and deletion of Object Storage subscriptions may be temporarily unavailable.\r\n\r\nPreviously deployed Object Storage subscriptions in Amsterdam, Bangalore, Delhi NCR, New Jersey, Silicon Valley will remain online but some requests may experience interruptions as backend services are restarted."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "sgp": {
       "location": "Singapore",
