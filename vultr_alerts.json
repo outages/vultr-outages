@@ -15,20 +15,6 @@
       ]
     },
     {
-      "id": "8483814e-a8ac-477f-8950-3c4f7b6e462a",
-      "region": "atl",
-      "subject": "Atlanta Object Storage Upgrades - 2026-08-18",
-      "start_date": "2026-08-11T13:06:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2026-08-11T13:06:00+00:00",
-          "message": "Event Type: Object Storage Infrastructure Maintenance\r\nStart Time: 2026-08-18 13:00:00 UTC\r\nEnd Time: 2026-08-18 14:00:00 UTC\r\n\r\nOur Cloud Storage team will be performing upgrades to our Atlanta Object Storage infrastructure (atl2.vultrobjects.com). During this maintenance window, creating, attaching, resizing, and deletion of Object Storage subscriptions may be temporarily unavailable.\r\n\r\nPreviously deployed Object Storage subscriptions in Atlanta will remain online but some requests may experience interruptions as backend services are restarted."
-        }
-      ]
-    },
-    {
       "id": "d2aa6f4a-5693-4336-833d-4c61339ccd53",
       "region": "ord",
       "subject": "Chicago - Intermittent Power Loss Investigation",
