@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "96c1106d-dd16-4549-9ed4-05cac09ca1bf",
+      "region": "nrt",
+      "subject": "Tokyo Degraded Network Performance",
+      "start_date": "2026-08-22T20:01:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-08-22T20:01:00+00:00",
+          "message": "We are currently experiencing degraded network performance in our Tokyo location. Our network engineers are actively working with our upstream providers to resolve the issue as quickly as possible."
+        }
+      ]
+    },
+    {
       "id": "b63c3a48-1f83-4ad1-83de-ceaeab935935",
       "region": "syd",
       "subject": "Sydney Scheduled Maintenance - 2026-08-20",
