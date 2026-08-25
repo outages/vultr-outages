@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "69aa72b8-eff9-4eb9-b7af-958fc7dee406",
+      "region": "global",
+      "subject": "Scheduled Vultr Control Plane Maintenance – August 27, 2026",
+      "start_date": "2026-08-25T15:57:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-08-25T15:57:00+00:00",
+          "message": "Vultr will perform critical maintenance on Thursday, August 27, 2026, beginning at 6:00 AM EDT (10:00 UTC), to improve platform performance and stability. \r\n\r\nWhat will be affected:\r\n\r\nDuring the maintenance window, you may encounter errors when using the Vultr Console or API to deploy new instances and/or perform management actions on your existing infrastructure.\r\n\r\nWhat will not be affected:\r\n\r\nInstances already running in production will remain available throughout the maintenance. This work targets the Vultr control plane; your running workloads will not be impacted.\r\n\r\nWe expect to conclude the maintenance after 10 minutes, and will provide updates once the maintenance is complete."
+        }
+      ]
+    },
+    {
       "id": "96c1106d-dd16-4549-9ed4-05cac09ca1bf",
       "region": "nrt",
       "subject": "Tokyo Degraded Network Performance",
