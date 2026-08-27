@@ -9,7 +9,7 @@
         {
           "id": "69aa72b8-eff9-4eb9-b7af-958fc7dee406",
           "subject": "Scheduled Vultr Control Plane Maintenance – August 27, 2026",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2026-08-25T15:57:00+00:00",
           "updated_at": "",
           "entries": [
@@ -47,7 +47,7 @@
         {
           "id": "d2aa6f4a-5693-4336-833d-4c61339ccd53",
           "subject": "Chicago - Intermittent Power Loss Investigation",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2026-08-07T23:58:00+00:00",
           "updated_at": "",
           "entries": [
