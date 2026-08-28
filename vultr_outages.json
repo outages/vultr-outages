@@ -35,7 +35,7 @@
         {
           "id": "79acd04a-f85f-4adb-b10a-d2d83ab3728e",
           "subject": "Atlanta Scheduled Maintenance - 2026-08-28",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2026-08-27T21:54:00+00:00",
           "updated_at": "",
           "entries": [
@@ -251,21 +251,7 @@
       "location": "Tokyo",
       "country": "JP",
       "country_name": "Japan",
-      "alerts": [
-        {
-          "id": "96c1106d-dd16-4549-9ed4-05cac09ca1bf",
-          "subject": "Tokyo Degraded Network Performance",
-          "status": "resolved",
-          "start_date": "2026-08-22T20:01:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2026-08-22T20:01:00+00:00",
-              "message": "We are currently experiencing degraded network performance in our Tokyo location. Our network engineers are actively working with our upstream providers to resolve the issue as quickly as possible."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "yto": {
       "location": "Toronto",
