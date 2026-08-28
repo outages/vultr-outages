@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "79acd04a-f85f-4adb-b10a-d2d83ab3728e",
+      "region": "atl",
+      "subject": "Atlanta Scheduled Maintenance - 2026-08-28",
+      "start_date": "2026-08-27T21:54:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-08-27T21:54:00+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Atlanta location during the following scheduled maintenance window. \r\n\r\nStart Time: 2026-08-28 04:05:00 UTC\r\nEnd Time: 2026-08-28 06:05:00 UTC\r\n\r\nWe have scheduled a 2 hour window, though we expect the work to be much shorter. We have left time in the event that we need to troubleshoot the changes or revert back.  There is no expected impact with the work being done, but felt it was important to let our customers know we are making changes."
+        }
+      ]
+    },
+    {
       "id": "69aa72b8-eff9-4eb9-b7af-958fc7dee406",
       "region": "global",
       "subject": "Scheduled Vultr Control Plane Maintenance – August 27, 2026",
