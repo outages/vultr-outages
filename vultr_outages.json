@@ -37,21 +37,7 @@
       "location": "Chicago",
       "country": "US",
       "country_name": "United States",
-      "alerts": [
-        {
-          "id": "d2aa6f4a-5693-4336-833d-4c61339ccd53",
-          "subject": "Chicago - Intermittent Power Loss Investigation",
-          "status": "resolved",
-          "start_date": "2026-08-07T23:58:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2026-08-07T23:58:00+00:00",
-              "message": "We are currently investigating intermittent power loss events affecting one of our Chicago data centers. This may cause unexpected instance reboots or intermittent connectivity loss for a subset of our instance types. Our team is actively working with the facility to identify and resolve the underlying cause. Affected customers do not need to reboot their instances."
-            }
-          ]
-        }
-      ]
+      "alerts": []
     },
     "dfw": {
       "location": "Dallas",
