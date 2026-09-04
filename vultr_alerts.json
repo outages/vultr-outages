@@ -15,24 +15,6 @@
       ]
     },
     {
-      "id": "af462e62-18b0-4b2e-9329-8c1fea09a079",
-      "region": "cdg",
-      "subject": "Paris - Server management impacted",
-      "start_date": "2026-09-02T18:17:00+00:00",
-      "updated_at": "2026-09-02T22:41:00+00:00",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2026-09-02T22:41:00+00:00",
-          "message": "Issue has been resolved."
-        },
-        {
-          "updated_at": "2026-09-02T18:17:00+00:00",
-          "message": "We are currently investigating an issue affecting servicers in our Paris location. Nodes are online, however the ability to manage servers and the noNVC console may not be available. We are working to restore management ability as soon as possible."
-        }
-      ]
-    },
-    {
       "id": "8be39f65-ccd3-4133-8cf2-3022007ea60c",
       "region": "lax",
       "subject": "Partial Outage",
