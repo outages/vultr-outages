@@ -1,6 +1,20 @@
 {
   "service_alerts": [
     {
+      "id": "46eb05bf-5ed7-420c-9563-3ad83e3be28e",
+      "region": "nrt",
+      "subject": "Tokyo Provisioning Anomaly Detected",
+      "start_date": "2026-09-06T07:47:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-09-06T07:47:00+00:00",
+          "message": "We are currently addressing an anomaly affecting provisioning in our Tokyo location. Our System Administrators are working with onsite technicians to identify the cause and restore affected services as quickly as possible."
+        }
+      ]
+    },
+    {
       "id": "233daa99-0bcf-4726-a57d-7706f25e3612",
       "region": "ord",
       "subject": "Chicago Scheduled Maintenance - 2026-09-10",
@@ -11,20 +25,6 @@
         {
           "updated_at": "2026-09-03T20:41:00+00:00",
           "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Chicago location during the following scheduled maintenance window. \r\n\r\nStart Time: 2026-09-10 05:00:00 UTC\r\nEnd Time: 2026-09-10 08:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Chicago instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
-        }
-      ]
-    },
-    {
-      "id": "8be39f65-ccd3-4133-8cf2-3022007ea60c",
-      "region": "lax",
-      "subject": "Partial Outage",
-      "start_date": "2026-09-02T14:51:00+00:00",
-      "updated_at": "",
-      "status": "ongoing",
-      "entries": [
-        {
-          "updated_at": "2026-09-02T14:51:00+00:00",
-          "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
         }
       ]
     }
