@@ -9,7 +9,7 @@
         {
           "id": "14f1e598-d39c-461f-8422-770d14697407",
           "subject": "Vultr API Outage",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2026-09-06T13:17:00+00:00",
           "updated_at": "2026-09-06T14:13:00+00:00",
           "entries": [
@@ -227,7 +227,7 @@
         {
           "id": "46eb05bf-5ed7-420c-9563-3ad83e3be28e",
           "subject": "Tokyo Provisioning Anomaly Detected",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2026-09-06T07:47:00+00:00",
           "updated_at": "2026-09-06T13:51:00+00:00",
           "entries": [

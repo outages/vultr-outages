@@ -6,7 +6,7 @@
       "subject": "Vultr API Outage",
       "start_date": "2026-09-06T13:17:00+00:00",
       "updated_at": "2026-09-06T14:13:00+00:00",
-      "status": "ongoing",
+      "status": "resolved",
       "entries": [
         {
           "updated_at": "2026-09-06T14:13:00+00:00",
@@ -24,7 +24,7 @@
       "subject": "Tokyo Provisioning Anomaly Detected",
       "start_date": "2026-09-06T07:47:00+00:00",
       "updated_at": "2026-09-06T13:51:00+00:00",
-      "status": "ongoing",
+      "status": "resolved",
       "entries": [
         {
           "updated_at": "2026-09-06T13:51:00+00:00",
