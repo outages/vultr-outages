@@ -1,13 +1,35 @@
 {
   "service_alerts": [
     {
+      "id": "14f1e598-d39c-461f-8422-770d14697407",
+      "region": "global",
+      "subject": "Vultr API Outage",
+      "start_date": "2026-09-06T13:17:00+00:00",
+      "updated_at": "2026-09-06T14:13:00+00:00",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-09-06T14:13:00+00:00",
+          "message": "Our engineering team has identified the issue affecting our API and is actively working toward a full resolution. Performance has been restored, and we’re continuing to closely monitor the situation and make adjustments as needed.\r\n\r\nThank you for your patience and understanding while we work to ensure everything is running smoothly."
+        },
+        {
+          "updated_at": "2026-09-06T13:17:00+00:00",
+          "message": "We are currently addressing an issue affecting services utilizing our API. \r\n\r\nOur teams are working to identify the cause and restore affected services as quickly as possible.\r\n\r\nCustomers may have issues running commands utilizing the API. This currently disrupts provisioning of servers over the API."
+        }
+      ]
+    },
+    {
       "id": "46eb05bf-5ed7-420c-9563-3ad83e3be28e",
       "region": "nrt",
       "subject": "Tokyo Provisioning Anomaly Detected",
       "start_date": "2026-09-06T07:47:00+00:00",
-      "updated_at": "",
+      "updated_at": "2026-09-06T13:51:00+00:00",
       "status": "ongoing",
       "entries": [
+        {
+          "updated_at": "2026-09-06T13:51:00+00:00",
+          "message": "We are investigating an issue affecting new deployments in our Tokyo (NRT) region. Our engineering team has identified the affected network segment and is actively working to resolve it. Existing services and previously deployed instances are not impacted and continue to function normally. We will provide updates as more information becomes available."
+        },
         {
           "updated_at": "2026-09-06T07:47:00+00:00",
           "message": "We are currently addressing an anomaly affecting provisioning in our Tokyo location. Our System Administrators are working with onsite technicians to identify the cause and restore affected services as quickly as possible."
