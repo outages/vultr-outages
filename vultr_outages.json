@@ -167,7 +167,21 @@
       "location": "Stockholm",
       "country": "SE",
       "country_name": "Sweden",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "9281e164-a143-4a4f-ac89-2e34e82b6f9f",
+          "subject": "Stockholm Emergency Maintenance - 2026-09-16",
+          "status": "ongoing",
+          "start_date": "2026-09-16T00:35:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-09-16T00:35:00+00:00",
+              "message": "Event Type: Network Emergency\r\n\r\nWe are performing system changes in the Stockholm location during the following emergency maintenance window. \r\n\r\nStart Time: 2026-09-16 03:00:00 UTC\r\nEnd Time: 2026-09-16 05:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Stockholm instances may be unreachable for some, or all, of the emergency maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        }
+      ]
     },
     "syd": {
       "location": "Sydney",
