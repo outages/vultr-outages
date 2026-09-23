@@ -2,7 +2,7 @@
   "service_alerts": [
     {
       "id": "1e72f638-07a7-4187-b587-c57819181529",
-      "region": "blr",
+      "region": "del",
       "subject": "Bangalore, Delhi NCR, Mumbai Degraded Network Performance",
       "start_date": "2026-09-22T13:41:00+00:00",
       "updated_at": "",
@@ -16,7 +16,7 @@
     },
     {
       "id": "1e72f638-07a7-4187-b587-c57819181529",
-      "region": "del",
+      "region": "blr",
       "subject": "Bangalore, Delhi NCR, Mumbai Degraded Network Performance",
       "start_date": "2026-09-22T13:41:00+00:00",
       "updated_at": "",
@@ -39,48 +39,6 @@
         {
           "updated_at": "2026-09-22T13:41:00+00:00",
           "message": "We are currently experiencing degraded network performance in our Bangalore, Delhi NCR, Mumbai location. Our network engineers are actively working with our upstream providers to resolve the issue as quickly as possible."
-        }
-      ]
-    },
-    {
-      "id": "6b96fa1a-7927-418a-b56f-3b6bd8eda0dc",
-      "region": "atl",
-      "subject": "Atlanta High Perf Storage Outage - 2026-09-20",
-      "start_date": "2026-09-20T16:40:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2026-09-20T16:40:00+00:00",
-          "message": "Event Type: Service Degraded Performance and Availability\r\n\r\nOur Cloud Storage team is investigating a partial outage scenario with our High Performance Storage infrastructure. The following services may be impacted by this event:\r\n\r\n- NVMe Block Storage\r\n- VFS\r\n- Storage Gateways\r\n- Performance/Accelerated Object Storage\r\n\r\nWe are working quickly to restore service to its optimal state."
-        }
-      ]
-    },
-    {
-      "id": "6b96fa1a-7927-418a-b56f-3b6bd8eda0dc",
-      "region": "atl",
-      "subject": "Atlanta High Perf Storage Outage - 2026-09-20",
-      "start_date": "2026-09-20T16:40:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2026-09-20T16:40:00+00:00",
-          "message": "Event Type: Service Degraded Performance and Availability\r\n\r\nOur Cloud Storage team is investigating a partial outage scenario with our High Performance Storage infrastructure. The following services may be impacted by this event:\r\n\r\n- NVMe Block Storage\r\n- VFS\r\n- Storage Gateways\r\n- Performance/Accelerated Object Storage\r\n\r\nWe are working quickly to restore service to its optimal state."
-        }
-      ]
-    },
-    {
-      "id": "6b96fa1a-7927-418a-b56f-3b6bd8eda0dc",
-      "region": "atl",
-      "subject": "Atlanta High Perf Storage Outage - 2026-09-20",
-      "start_date": "2026-09-20T16:40:00+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2026-09-20T16:40:00+00:00",
-          "message": "Event Type: Service Degraded Performance and Availability\r\n\r\nOur Cloud Storage team is investigating a partial outage scenario with our High Performance Storage infrastructure. The following services may be impacted by this event:\r\n\r\n- NVMe Block Storage\r\n- VFS\r\n- Storage Gateways\r\n- Performance/Accelerated Object Storage\r\n\r\nWe are working quickly to restore service to its optimal state."
         }
       ]
     },
