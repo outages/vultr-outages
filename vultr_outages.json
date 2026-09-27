@@ -175,7 +175,21 @@
       "location": "Singapore",
       "country": "SG",
       "country_name": "Singapore",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "b7008751-8ea6-4b2e-8b19-3018f439df90",
+          "subject": "Singapore Network Outage",
+          "status": "ongoing",
+          "start_date": "2026-09-24T14:31:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-09-24T14:31:00+00:00",
+              "message": "We are aware of an issue affecting services in our Singapore location. The cause is due to inclement weather involving Typhoon Dujuan which resulted in a global sub-sea cable cut. \r\nOur engineers will continue to monitor the status of this outage until it is resolved."
+            }
+          ]
+        }
+      ]
     },
     "sto": {
       "location": "Stockholm",
