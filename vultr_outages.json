@@ -9,7 +9,7 @@
         {
           "id": "83f18bf2-1876-496b-9d89-027e4a3fee08",
           "subject": "Intermittent DNS Resolver Service Disruption",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2026-10-02T10:40:00+00:00",
           "updated_at": "",
           "entries": [
@@ -141,7 +141,21 @@
       "location": "Mumbai",
       "country": "IN",
       "country_name": "India",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "31e364ab-aafe-4d80-8079-51318e0e6a7f",
+          "subject": "Mumbai Network Outage",
+          "status": "ongoing",
+          "start_date": "2026-10-02T16:25:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-10-02T16:25:00+00:00",
+              "message": "We are currently addressing an issue affecting services in our Mumbai location. Our network engineers are working with onsite technicians to identify the cause and restore affected services as quickly as possible."
+            }
+          ]
+        }
+      ]
     },
     "ewr": {
       "location": "New Jersey",
