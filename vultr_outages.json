@@ -1,6 +1,26 @@
 {
   "service_alerts": [],
   "regions": {
+    "global": {
+      "location": "All Locations",
+      "country": "ALL",
+      "country_name": "Global",
+      "alerts": [
+        {
+          "id": "83f18bf2-1876-496b-9d89-027e4a3fee08",
+          "subject": "Intermittent DNS Resolver Service Disruption",
+          "status": "ongoing",
+          "start_date": "2026-10-02T10:40:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-10-02T10:40:00+00:00",
+              "message": "We are currently investigating intermittent DNS resolution failures affecting some requests.\r\n\r\nOur team is actively working to identify the cause and restore consistent resolver performance. We will provide additional updates as more information becomes available.\r\n\r\nWe apologize for the disruption and appreciate your patience while we investigate."
+            }
+          ]
+        }
+      ]
+    },
     "ams": {
       "location": "Amsterdam",
       "country": "NL",
