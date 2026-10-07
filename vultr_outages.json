@@ -5,13 +5,40 @@
       "location": "Amsterdam",
       "country": "NL",
       "country_name": "Netherlands",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "16455e19-6b12-4018-aaf9-b0fea166425e",
+          "subject": "Scheduled Maintenance - 2026-10-12",
+          "status": "ongoing",
+          "start_date": "2026-09-28T15:58:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-09-28T15:58:00+00:00",
+              "message": "Event Type: Software Upgrade\r\nStart Time: 2026-10-12 15:45:00 UTC\r\nEnd Time: 2026-10-12 19:45:00 UTC\r\n\r\nWe will be performing software upgrades in this location as part of an ongoing effort to maintain an ideal hosting environment. During the course of this maintenance window, Vultr Container Registry may not be available."
+            }
+          ]
+        }
+      ]
     },
     "atl": {
       "location": "Atlanta",
       "country": "US",
       "country_name": "United States",
       "alerts": [
+        {
+          "id": "16455e19-6b12-4018-aaf9-b0fea166425e",
+          "subject": "Scheduled Maintenance - 2026-10-12",
+          "status": "ongoing",
+          "start_date": "2026-09-28T15:58:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-09-28T15:58:00+00:00",
+              "message": "Event Type: Software Upgrade\r\nStart Time: 2026-10-12 15:45:00 UTC\r\nEnd Time: 2026-10-12 19:45:00 UTC\r\n\r\nWe will be performing software upgrades in this location as part of an ongoing effort to maintain an ideal hosting environment. During the course of this maintenance window, Vultr Container Registry may not be available."
+            }
+          ]
+        },
         {
           "id": "aacbf09c-1bb7-443e-bc33-c49dcbdea0d6",
           "subject": "Partial Outage",
@@ -31,13 +58,41 @@
       "location": "Bangalore",
       "country": "IN",
       "country_name": "India",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "16455e19-6b12-4018-aaf9-b0fea166425e",
+          "subject": "Scheduled Maintenance - 2026-10-12",
+          "status": "ongoing",
+          "start_date": "2026-09-28T15:58:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-09-28T15:58:00+00:00",
+              "message": "Event Type: Software Upgrade\r\nStart Time: 2026-10-12 15:45:00 UTC\r\nEnd Time: 2026-10-12 19:45:00 UTC\r\n\r\nWe will be performing software upgrades in this location as part of an ongoing effort to maintain an ideal hosting environment. During the course of this maintenance window, Vultr Container Registry may not be available."
+            }
+          ]
+        }
+      ]
     },
     "ord": {
       "location": "Chicago",
       "country": "US",
       "country_name": "United States",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "16455e19-6b12-4018-aaf9-b0fea166425e",
+          "subject": "Scheduled Maintenance - 2026-10-12",
+          "status": "ongoing",
+          "start_date": "2026-09-28T15:58:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-09-28T15:58:00+00:00",
+              "message": "Event Type: Software Upgrade\r\nStart Time: 2026-10-12 15:45:00 UTC\r\nEnd Time: 2026-10-12 19:45:00 UTC\r\n\r\nWe will be performing software upgrades in this location as part of an ongoing effort to maintain an ideal hosting environment. During the course of this maintenance window, Vultr Container Registry may not be available."
+            }
+          ]
+        }
+      ]
     },
     "dfw": {
       "location": "Dallas",
@@ -49,13 +104,41 @@
       "location": "Delhi NCR",
       "country": "IN",
       "country_name": "India",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "16455e19-6b12-4018-aaf9-b0fea166425e",
+          "subject": "Scheduled Maintenance - 2026-10-12",
+          "status": "ongoing",
+          "start_date": "2026-09-28T15:58:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-09-28T15:58:00+00:00",
+              "message": "Event Type: Software Upgrade\r\nStart Time: 2026-10-12 15:45:00 UTC\r\nEnd Time: 2026-10-12 19:45:00 UTC\r\n\r\nWe will be performing software upgrades in this location as part of an ongoing effort to maintain an ideal hosting environment. During the course of this maintenance window, Vultr Container Registry may not be available."
+            }
+          ]
+        }
+      ]
     },
     "fra": {
       "location": "Frankfurt",
       "country": "DE",
       "country_name": "Germany",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "16455e19-6b12-4018-aaf9-b0fea166425e",
+          "subject": "Scheduled Maintenance - 2026-10-12",
+          "status": "ongoing",
+          "start_date": "2026-09-28T15:58:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-09-28T15:58:00+00:00",
+              "message": "Event Type: Software Upgrade\r\nStart Time: 2026-10-12 15:45:00 UTC\r\nEnd Time: 2026-10-12 19:45:00 UTC\r\n\r\nWe will be performing software upgrades in this location as part of an ongoing effort to maintain an ideal hosting environment. During the course of this maintenance window, Vultr Container Registry may not be available."
+            }
+          ]
+        }
+      ]
     },
     "hnl": {
       "location": "Honolulu",
@@ -73,13 +156,41 @@
       "location": "London",
       "country": "GB",
       "country_name": "United Kingdom",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "16455e19-6b12-4018-aaf9-b0fea166425e",
+          "subject": "Scheduled Maintenance - 2026-10-12",
+          "status": "ongoing",
+          "start_date": "2026-09-28T15:58:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-09-28T15:58:00+00:00",
+              "message": "Event Type: Software Upgrade\r\nStart Time: 2026-10-12 15:45:00 UTC\r\nEnd Time: 2026-10-12 19:45:00 UTC\r\n\r\nWe will be performing software upgrades in this location as part of an ongoing effort to maintain an ideal hosting environment. During the course of this maintenance window, Vultr Container Registry may not be available."
+            }
+          ]
+        }
+      ]
     },
     "lax": {
       "location": "Los Angeles",
       "country": "US",
       "country_name": "United States",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "16455e19-6b12-4018-aaf9-b0fea166425e",
+          "subject": "Scheduled Maintenance - 2026-10-12",
+          "status": "ongoing",
+          "start_date": "2026-09-28T15:58:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-09-28T15:58:00+00:00",
+              "message": "Event Type: Software Upgrade\r\nStart Time: 2026-10-12 15:45:00 UTC\r\nEnd Time: 2026-10-12 19:45:00 UTC\r\n\r\nWe will be performing software upgrades in this location as part of an ongoing effort to maintain an ideal hosting environment. During the course of this maintenance window, Vultr Container Registry may not be available."
+            }
+          ]
+        }
+      ]
     },
     "mad": {
       "location": "Madrid",
@@ -127,7 +238,21 @@
       "location": "New Jersey",
       "country": "US",
       "country_name": "United States",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "16455e19-6b12-4018-aaf9-b0fea166425e",
+          "subject": "Scheduled Maintenance - 2026-10-12",
+          "status": "ongoing",
+          "start_date": "2026-09-28T15:58:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-09-28T15:58:00+00:00",
+              "message": "Event Type: Software Upgrade\r\nStart Time: 2026-10-12 15:45:00 UTC\r\nEnd Time: 2026-10-12 19:45:00 UTC\r\n\r\nWe will be performing software upgrades in this location as part of an ongoing effort to maintain an ideal hosting environment. During the course of this maintenance window, Vultr Container Registry may not be available."
+            }
+          ]
+        }
+      ]
     },
     "itm": {
       "location": "Osaka",
@@ -157,25 +282,80 @@
       "location": "Seattle",
       "country": "US",
       "country_name": "United States",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "16455e19-6b12-4018-aaf9-b0fea166425e",
+          "subject": "Scheduled Maintenance - 2026-10-12",
+          "status": "ongoing",
+          "start_date": "2026-09-28T15:58:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-09-28T15:58:00+00:00",
+              "message": "Event Type: Software Upgrade\r\nStart Time: 2026-10-12 15:45:00 UTC\r\nEnd Time: 2026-10-12 19:45:00 UTC\r\n\r\nWe will be performing software upgrades in this location as part of an ongoing effort to maintain an ideal hosting environment. During the course of this maintenance window, Vultr Container Registry may not be available."
+            }
+          ]
+        }
+      ]
     },
     "icn": {
       "location": "Seoul",
       "country": "KR",
       "country_name": "Korea, Republic of",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "16455e19-6b12-4018-aaf9-b0fea166425e",
+          "subject": "Scheduled Maintenance - 2026-10-12",
+          "status": "ongoing",
+          "start_date": "2026-09-28T15:58:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-09-28T15:58:00+00:00",
+              "message": "Event Type: Software Upgrade\r\nStart Time: 2026-10-12 15:45:00 UTC\r\nEnd Time: 2026-10-12 19:45:00 UTC\r\n\r\nWe will be performing software upgrades in this location as part of an ongoing effort to maintain an ideal hosting environment. During the course of this maintenance window, Vultr Container Registry may not be available."
+            }
+          ]
+        }
+      ]
     },
     "sjc": {
       "location": "Silicon Valley",
       "country": "US",
       "country_name": "United States",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "16455e19-6b12-4018-aaf9-b0fea166425e",
+          "subject": "Scheduled Maintenance - 2026-10-12",
+          "status": "ongoing",
+          "start_date": "2026-09-28T15:58:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-09-28T15:58:00+00:00",
+              "message": "Event Type: Software Upgrade\r\nStart Time: 2026-10-12 15:45:00 UTC\r\nEnd Time: 2026-10-12 19:45:00 UTC\r\n\r\nWe will be performing software upgrades in this location as part of an ongoing effort to maintain an ideal hosting environment. During the course of this maintenance window, Vultr Container Registry may not be available."
+            }
+          ]
+        }
+      ]
     },
     "sgp": {
       "location": "Singapore",
       "country": "SG",
       "country_name": "Singapore",
       "alerts": [
+        {
+          "id": "16455e19-6b12-4018-aaf9-b0fea166425e",
+          "subject": "Scheduled Maintenance - 2026-10-12",
+          "status": "ongoing",
+          "start_date": "2026-09-28T15:58:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-09-28T15:58:00+00:00",
+              "message": "Event Type: Software Upgrade\r\nStart Time: 2026-10-12 15:45:00 UTC\r\nEnd Time: 2026-10-12 19:45:00 UTC\r\n\r\nWe will be performing software upgrades in this location as part of an ongoing effort to maintain an ideal hosting environment. During the course of this maintenance window, Vultr Container Registry may not be available."
+            }
+          ]
+        },
         {
           "id": "b7008751-8ea6-4b2e-8b19-3018f439df90",
           "subject": "Singapore Network Outage",
@@ -201,7 +381,21 @@
       "location": "Sydney",
       "country": "AU",
       "country_name": "Australia",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "16455e19-6b12-4018-aaf9-b0fea166425e",
+          "subject": "Scheduled Maintenance - 2026-10-12",
+          "status": "ongoing",
+          "start_date": "2026-09-28T15:58:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-09-28T15:58:00+00:00",
+              "message": "Event Type: Software Upgrade\r\nStart Time: 2026-10-12 15:45:00 UTC\r\nEnd Time: 2026-10-12 19:45:00 UTC\r\n\r\nWe will be performing software upgrades in this location as part of an ongoing effort to maintain an ideal hosting environment. During the course of this maintenance window, Vultr Container Registry may not be available."
+            }
+          ]
+        }
+      ]
     },
     "tlv": {
       "location": "Tel Aviv",
@@ -213,7 +407,21 @@
       "location": "Tokyo",
       "country": "JP",
       "country_name": "Japan",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "16455e19-6b12-4018-aaf9-b0fea166425e",
+          "subject": "Scheduled Maintenance - 2026-10-12",
+          "status": "ongoing",
+          "start_date": "2026-09-28T15:58:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-09-28T15:58:00+00:00",
+              "message": "Event Type: Software Upgrade\r\nStart Time: 2026-10-12 15:45:00 UTC\r\nEnd Time: 2026-10-12 19:45:00 UTC\r\n\r\nWe will be performing software upgrades in this location as part of an ongoing effort to maintain an ideal hosting environment. During the course of this maintenance window, Vultr Container Registry may not be available."
+            }
+          ]
+        }
+      ]
     },
     "yto": {
       "location": "Toronto",

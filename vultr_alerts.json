@@ -1,6 +1,216 @@
 {
   "service_alerts": [
     {
+      "id": "16455e19-6b12-4018-aaf9-b0fea166425e",
+      "region": "ams",
+      "subject": "Scheduled Maintenance - 2026-10-12",
+      "start_date": "2026-09-28T15:58:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-09-28T15:58:00+00:00",
+          "message": "Event Type: Software Upgrade\r\nStart Time: 2026-10-12 15:45:00 UTC\r\nEnd Time: 2026-10-12 19:45:00 UTC\r\n\r\nWe will be performing software upgrades in this location as part of an ongoing effort to maintain an ideal hosting environment. During the course of this maintenance window, Vultr Container Registry may not be available."
+        }
+      ]
+    },
+    {
+      "id": "16455e19-6b12-4018-aaf9-b0fea166425e",
+      "region": "ewr",
+      "subject": "Scheduled Maintenance - 2026-10-12",
+      "start_date": "2026-09-28T15:58:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-09-28T15:58:00+00:00",
+          "message": "Event Type: Software Upgrade\r\nStart Time: 2026-10-12 15:45:00 UTC\r\nEnd Time: 2026-10-12 19:45:00 UTC\r\n\r\nWe will be performing software upgrades in this location as part of an ongoing effort to maintain an ideal hosting environment. During the course of this maintenance window, Vultr Container Registry may not be available."
+        }
+      ]
+    },
+    {
+      "id": "16455e19-6b12-4018-aaf9-b0fea166425e",
+      "region": "syd",
+      "subject": "Scheduled Maintenance - 2026-10-12",
+      "start_date": "2026-09-28T15:58:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-09-28T15:58:00+00:00",
+          "message": "Event Type: Software Upgrade\r\nStart Time: 2026-10-12 15:45:00 UTC\r\nEnd Time: 2026-10-12 19:45:00 UTC\r\n\r\nWe will be performing software upgrades in this location as part of an ongoing effort to maintain an ideal hosting environment. During the course of this maintenance window, Vultr Container Registry may not be available."
+        }
+      ]
+    },
+    {
+      "id": "16455e19-6b12-4018-aaf9-b0fea166425e",
+      "region": "sgp",
+      "subject": "Scheduled Maintenance - 2026-10-12",
+      "start_date": "2026-09-28T15:58:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-09-28T15:58:00+00:00",
+          "message": "Event Type: Software Upgrade\r\nStart Time: 2026-10-12 15:45:00 UTC\r\nEnd Time: 2026-10-12 19:45:00 UTC\r\n\r\nWe will be performing software upgrades in this location as part of an ongoing effort to maintain an ideal hosting environment. During the course of this maintenance window, Vultr Container Registry may not be available."
+        }
+      ]
+    },
+    {
+      "id": "16455e19-6b12-4018-aaf9-b0fea166425e",
+      "region": "sjc",
+      "subject": "Scheduled Maintenance - 2026-10-12",
+      "start_date": "2026-09-28T15:58:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-09-28T15:58:00+00:00",
+          "message": "Event Type: Software Upgrade\r\nStart Time: 2026-10-12 15:45:00 UTC\r\nEnd Time: 2026-10-12 19:45:00 UTC\r\n\r\nWe will be performing software upgrades in this location as part of an ongoing effort to maintain an ideal hosting environment. During the course of this maintenance window, Vultr Container Registry may not be available."
+        }
+      ]
+    },
+    {
+      "id": "16455e19-6b12-4018-aaf9-b0fea166425e",
+      "region": "icn",
+      "subject": "Scheduled Maintenance - 2026-10-12",
+      "start_date": "2026-09-28T15:58:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-09-28T15:58:00+00:00",
+          "message": "Event Type: Software Upgrade\r\nStart Time: 2026-10-12 15:45:00 UTC\r\nEnd Time: 2026-10-12 19:45:00 UTC\r\n\r\nWe will be performing software upgrades in this location as part of an ongoing effort to maintain an ideal hosting environment. During the course of this maintenance window, Vultr Container Registry may not be available."
+        }
+      ]
+    },
+    {
+      "id": "16455e19-6b12-4018-aaf9-b0fea166425e",
+      "region": "sea",
+      "subject": "Scheduled Maintenance - 2026-10-12",
+      "start_date": "2026-09-28T15:58:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-09-28T15:58:00+00:00",
+          "message": "Event Type: Software Upgrade\r\nStart Time: 2026-10-12 15:45:00 UTC\r\nEnd Time: 2026-10-12 19:45:00 UTC\r\n\r\nWe will be performing software upgrades in this location as part of an ongoing effort to maintain an ideal hosting environment. During the course of this maintenance window, Vultr Container Registry may not be available."
+        }
+      ]
+    },
+    {
+      "id": "16455e19-6b12-4018-aaf9-b0fea166425e",
+      "region": "lax",
+      "subject": "Scheduled Maintenance - 2026-10-12",
+      "start_date": "2026-09-28T15:58:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-09-28T15:58:00+00:00",
+          "message": "Event Type: Software Upgrade\r\nStart Time: 2026-10-12 15:45:00 UTC\r\nEnd Time: 2026-10-12 19:45:00 UTC\r\n\r\nWe will be performing software upgrades in this location as part of an ongoing effort to maintain an ideal hosting environment. During the course of this maintenance window, Vultr Container Registry may not be available."
+        }
+      ]
+    },
+    {
+      "id": "16455e19-6b12-4018-aaf9-b0fea166425e",
+      "region": "atl",
+      "subject": "Scheduled Maintenance - 2026-10-12",
+      "start_date": "2026-09-28T15:58:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-09-28T15:58:00+00:00",
+          "message": "Event Type: Software Upgrade\r\nStart Time: 2026-10-12 15:45:00 UTC\r\nEnd Time: 2026-10-12 19:45:00 UTC\r\n\r\nWe will be performing software upgrades in this location as part of an ongoing effort to maintain an ideal hosting environment. During the course of this maintenance window, Vultr Container Registry may not be available."
+        }
+      ]
+    },
+    {
+      "id": "16455e19-6b12-4018-aaf9-b0fea166425e",
+      "region": "lhr",
+      "subject": "Scheduled Maintenance - 2026-10-12",
+      "start_date": "2026-09-28T15:58:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-09-28T15:58:00+00:00",
+          "message": "Event Type: Software Upgrade\r\nStart Time: 2026-10-12 15:45:00 UTC\r\nEnd Time: 2026-10-12 19:45:00 UTC\r\n\r\nWe will be performing software upgrades in this location as part of an ongoing effort to maintain an ideal hosting environment. During the course of this maintenance window, Vultr Container Registry may not be available."
+        }
+      ]
+    },
+    {
+      "id": "16455e19-6b12-4018-aaf9-b0fea166425e",
+      "region": "fra",
+      "subject": "Scheduled Maintenance - 2026-10-12",
+      "start_date": "2026-09-28T15:58:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-09-28T15:58:00+00:00",
+          "message": "Event Type: Software Upgrade\r\nStart Time: 2026-10-12 15:45:00 UTC\r\nEnd Time: 2026-10-12 19:45:00 UTC\r\n\r\nWe will be performing software upgrades in this location as part of an ongoing effort to maintain an ideal hosting environment. During the course of this maintenance window, Vultr Container Registry may not be available."
+        }
+      ]
+    },
+    {
+      "id": "16455e19-6b12-4018-aaf9-b0fea166425e",
+      "region": "del",
+      "subject": "Scheduled Maintenance - 2026-10-12",
+      "start_date": "2026-09-28T15:58:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-09-28T15:58:00+00:00",
+          "message": "Event Type: Software Upgrade\r\nStart Time: 2026-10-12 15:45:00 UTC\r\nEnd Time: 2026-10-12 19:45:00 UTC\r\n\r\nWe will be performing software upgrades in this location as part of an ongoing effort to maintain an ideal hosting environment. During the course of this maintenance window, Vultr Container Registry may not be available."
+        }
+      ]
+    },
+    {
+      "id": "16455e19-6b12-4018-aaf9-b0fea166425e",
+      "region": "ord",
+      "subject": "Scheduled Maintenance - 2026-10-12",
+      "start_date": "2026-09-28T15:58:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-09-28T15:58:00+00:00",
+          "message": "Event Type: Software Upgrade\r\nStart Time: 2026-10-12 15:45:00 UTC\r\nEnd Time: 2026-10-12 19:45:00 UTC\r\n\r\nWe will be performing software upgrades in this location as part of an ongoing effort to maintain an ideal hosting environment. During the course of this maintenance window, Vultr Container Registry may not be available."
+        }
+      ]
+    },
+    {
+      "id": "16455e19-6b12-4018-aaf9-b0fea166425e",
+      "region": "blr",
+      "subject": "Scheduled Maintenance - 2026-10-12",
+      "start_date": "2026-09-28T15:58:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-09-28T15:58:00+00:00",
+          "message": "Event Type: Software Upgrade\r\nStart Time: 2026-10-12 15:45:00 UTC\r\nEnd Time: 2026-10-12 19:45:00 UTC\r\n\r\nWe will be performing software upgrades in this location as part of an ongoing effort to maintain an ideal hosting environment. During the course of this maintenance window, Vultr Container Registry may not be available."
+        }
+      ]
+    },
+    {
+      "id": "16455e19-6b12-4018-aaf9-b0fea166425e",
+      "region": "nrt",
+      "subject": "Scheduled Maintenance - 2026-10-12",
+      "start_date": "2026-09-28T15:58:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-09-28T15:58:00+00:00",
+          "message": "Event Type: Software Upgrade\r\nStart Time: 2026-10-12 15:45:00 UTC\r\nEnd Time: 2026-10-12 19:45:00 UTC\r\n\r\nWe will be performing software upgrades in this location as part of an ongoing effort to maintain an ideal hosting environment. During the course of this maintenance window, Vultr Container Registry may not be available."
+        }
+      ]
+    },
+    {
       "id": "b7008751-8ea6-4b2e-8b19-3018f439df90",
       "region": "sgp",
       "subject": "Singapore Network Outage",
