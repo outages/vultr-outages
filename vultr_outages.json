@@ -5,13 +5,40 @@
       "location": "Amsterdam",
       "country": "NL",
       "country_name": "Netherlands",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "21748b69-a8db-4afd-936f-7b43550190dd",
+          "subject": "Scheduled Maintenance - 2026-10-19",
+          "status": "ongoing",
+          "start_date": "2026-09-28T16:25:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-09-28T16:25:00+00:00",
+              "message": "Event Type: Software Upgrade\r\nStart Time: 2026-10-19 16:15:00 UTC\r\nEnd Time: 2026-10-19 20:15:00 UTC\r\n\r\nWe will be performing high priority software upgrades in this location as part of an ongoing effort to maintain an ideal hosting environment."
+            }
+          ]
+        }
+      ]
     },
     "atl": {
       "location": "Atlanta",
       "country": "US",
       "country_name": "United States",
       "alerts": [
+        {
+          "id": "21748b69-a8db-4afd-936f-7b43550190dd",
+          "subject": "Scheduled Maintenance - 2026-10-19",
+          "status": "ongoing",
+          "start_date": "2026-09-28T16:25:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-09-28T16:25:00+00:00",
+              "message": "Event Type: Software Upgrade\r\nStart Time: 2026-10-19 16:15:00 UTC\r\nEnd Time: 2026-10-19 20:15:00 UTC\r\n\r\nWe will be performing high priority software upgrades in this location as part of an ongoing effort to maintain an ideal hosting environment."
+            }
+          ]
+        },
         {
           "id": "aacbf09c-1bb7-443e-bc33-c49dcbdea0d6",
           "subject": "Partial Outage",
@@ -31,151 +58,500 @@
       "location": "Bangalore",
       "country": "IN",
       "country_name": "India",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "21748b69-a8db-4afd-936f-7b43550190dd",
+          "subject": "Scheduled Maintenance - 2026-10-19",
+          "status": "ongoing",
+          "start_date": "2026-09-28T16:25:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-09-28T16:25:00+00:00",
+              "message": "Event Type: Software Upgrade\r\nStart Time: 2026-10-19 16:15:00 UTC\r\nEnd Time: 2026-10-19 20:15:00 UTC\r\n\r\nWe will be performing high priority software upgrades in this location as part of an ongoing effort to maintain an ideal hosting environment."
+            }
+          ]
+        }
+      ]
     },
     "ord": {
       "location": "Chicago",
       "country": "US",
       "country_name": "United States",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "21748b69-a8db-4afd-936f-7b43550190dd",
+          "subject": "Scheduled Maintenance - 2026-10-19",
+          "status": "ongoing",
+          "start_date": "2026-09-28T16:25:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-09-28T16:25:00+00:00",
+              "message": "Event Type: Software Upgrade\r\nStart Time: 2026-10-19 16:15:00 UTC\r\nEnd Time: 2026-10-19 20:15:00 UTC\r\n\r\nWe will be performing high priority software upgrades in this location as part of an ongoing effort to maintain an ideal hosting environment."
+            }
+          ]
+        }
+      ]
     },
     "dfw": {
       "location": "Dallas",
       "country": "US",
       "country_name": "United States",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "21748b69-a8db-4afd-936f-7b43550190dd",
+          "subject": "Scheduled Maintenance - 2026-10-19",
+          "status": "ongoing",
+          "start_date": "2026-09-28T16:25:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-09-28T16:25:00+00:00",
+              "message": "Event Type: Software Upgrade\r\nStart Time: 2026-10-19 16:15:00 UTC\r\nEnd Time: 2026-10-19 20:15:00 UTC\r\n\r\nWe will be performing high priority software upgrades in this location as part of an ongoing effort to maintain an ideal hosting environment."
+            }
+          ]
+        }
+      ]
     },
     "del": {
       "location": "Delhi NCR",
       "country": "IN",
       "country_name": "India",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "21748b69-a8db-4afd-936f-7b43550190dd",
+          "subject": "Scheduled Maintenance - 2026-10-19",
+          "status": "ongoing",
+          "start_date": "2026-09-28T16:25:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-09-28T16:25:00+00:00",
+              "message": "Event Type: Software Upgrade\r\nStart Time: 2026-10-19 16:15:00 UTC\r\nEnd Time: 2026-10-19 20:15:00 UTC\r\n\r\nWe will be performing high priority software upgrades in this location as part of an ongoing effort to maintain an ideal hosting environment."
+            }
+          ]
+        }
+      ]
     },
     "fra": {
       "location": "Frankfurt",
       "country": "DE",
       "country_name": "Germany",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "21748b69-a8db-4afd-936f-7b43550190dd",
+          "subject": "Scheduled Maintenance - 2026-10-19",
+          "status": "ongoing",
+          "start_date": "2026-09-28T16:25:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-09-28T16:25:00+00:00",
+              "message": "Event Type: Software Upgrade\r\nStart Time: 2026-10-19 16:15:00 UTC\r\nEnd Time: 2026-10-19 20:15:00 UTC\r\n\r\nWe will be performing high priority software upgrades in this location as part of an ongoing effort to maintain an ideal hosting environment."
+            }
+          ]
+        }
+      ]
     },
     "hnl": {
       "location": "Honolulu",
       "country": "US",
       "country_name": "United States",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "21748b69-a8db-4afd-936f-7b43550190dd",
+          "subject": "Scheduled Maintenance - 2026-10-19",
+          "status": "ongoing",
+          "start_date": "2026-09-28T16:25:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-09-28T16:25:00+00:00",
+              "message": "Event Type: Software Upgrade\r\nStart Time: 2026-10-19 16:15:00 UTC\r\nEnd Time: 2026-10-19 20:15:00 UTC\r\n\r\nWe will be performing high priority software upgrades in this location as part of an ongoing effort to maintain an ideal hosting environment."
+            }
+          ]
+        }
+      ]
     },
     "jnb": {
       "location": "Johannesburg",
       "country": "ZA",
       "country_name": "South Africa",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "21748b69-a8db-4afd-936f-7b43550190dd",
+          "subject": "Scheduled Maintenance - 2026-10-19",
+          "status": "ongoing",
+          "start_date": "2026-09-28T16:25:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-09-28T16:25:00+00:00",
+              "message": "Event Type: Software Upgrade\r\nStart Time: 2026-10-19 16:15:00 UTC\r\nEnd Time: 2026-10-19 20:15:00 UTC\r\n\r\nWe will be performing high priority software upgrades in this location as part of an ongoing effort to maintain an ideal hosting environment."
+            }
+          ]
+        }
+      ]
     },
     "lhr": {
       "location": "London",
       "country": "GB",
       "country_name": "United Kingdom",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "21748b69-a8db-4afd-936f-7b43550190dd",
+          "subject": "Scheduled Maintenance - 2026-10-19",
+          "status": "ongoing",
+          "start_date": "2026-09-28T16:25:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-09-28T16:25:00+00:00",
+              "message": "Event Type: Software Upgrade\r\nStart Time: 2026-10-19 16:15:00 UTC\r\nEnd Time: 2026-10-19 20:15:00 UTC\r\n\r\nWe will be performing high priority software upgrades in this location as part of an ongoing effort to maintain an ideal hosting environment."
+            }
+          ]
+        }
+      ]
     },
     "lax": {
       "location": "Los Angeles",
       "country": "US",
       "country_name": "United States",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "21748b69-a8db-4afd-936f-7b43550190dd",
+          "subject": "Scheduled Maintenance - 2026-10-19",
+          "status": "ongoing",
+          "start_date": "2026-09-28T16:25:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-09-28T16:25:00+00:00",
+              "message": "Event Type: Software Upgrade\r\nStart Time: 2026-10-19 16:15:00 UTC\r\nEnd Time: 2026-10-19 20:15:00 UTC\r\n\r\nWe will be performing high priority software upgrades in this location as part of an ongoing effort to maintain an ideal hosting environment."
+            }
+          ]
+        }
+      ]
     },
     "mad": {
       "location": "Madrid",
       "country": "ES",
       "country_name": "Spain",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "21748b69-a8db-4afd-936f-7b43550190dd",
+          "subject": "Scheduled Maintenance - 2026-10-19",
+          "status": "ongoing",
+          "start_date": "2026-09-28T16:25:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-09-28T16:25:00+00:00",
+              "message": "Event Type: Software Upgrade\r\nStart Time: 2026-10-19 16:15:00 UTC\r\nEnd Time: 2026-10-19 20:15:00 UTC\r\n\r\nWe will be performing high priority software upgrades in this location as part of an ongoing effort to maintain an ideal hosting environment."
+            }
+          ]
+        }
+      ]
     },
     "man": {
       "location": "Manchester",
       "country": "GB",
       "country_name": "United Kingdom",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "21748b69-a8db-4afd-936f-7b43550190dd",
+          "subject": "Scheduled Maintenance - 2026-10-19",
+          "status": "ongoing",
+          "start_date": "2026-09-28T16:25:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-09-28T16:25:00+00:00",
+              "message": "Event Type: Software Upgrade\r\nStart Time: 2026-10-19 16:15:00 UTC\r\nEnd Time: 2026-10-19 20:15:00 UTC\r\n\r\nWe will be performing high priority software upgrades in this location as part of an ongoing effort to maintain an ideal hosting environment."
+            }
+          ]
+        }
+      ]
     },
     "mel": {
       "location": "Melbourne",
       "country": "AU",
       "country_name": "Australia",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "21748b69-a8db-4afd-936f-7b43550190dd",
+          "subject": "Scheduled Maintenance - 2026-10-19",
+          "status": "ongoing",
+          "start_date": "2026-09-28T16:25:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-09-28T16:25:00+00:00",
+              "message": "Event Type: Software Upgrade\r\nStart Time: 2026-10-19 16:15:00 UTC\r\nEnd Time: 2026-10-19 20:15:00 UTC\r\n\r\nWe will be performing high priority software upgrades in this location as part of an ongoing effort to maintain an ideal hosting environment."
+            }
+          ]
+        }
+      ]
     },
     "mex": {
       "location": "Mexico City",
       "country": "MX",
       "country_name": "Mexico",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "21748b69-a8db-4afd-936f-7b43550190dd",
+          "subject": "Scheduled Maintenance - 2026-10-19",
+          "status": "ongoing",
+          "start_date": "2026-09-28T16:25:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-09-28T16:25:00+00:00",
+              "message": "Event Type: Software Upgrade\r\nStart Time: 2026-10-19 16:15:00 UTC\r\nEnd Time: 2026-10-19 20:15:00 UTC\r\n\r\nWe will be performing high priority software upgrades in this location as part of an ongoing effort to maintain an ideal hosting environment."
+            }
+          ]
+        }
+      ]
     },
     "mia": {
       "location": "Miami",
       "country": "US",
       "country_name": "United States",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "21748b69-a8db-4afd-936f-7b43550190dd",
+          "subject": "Scheduled Maintenance - 2026-10-19",
+          "status": "ongoing",
+          "start_date": "2026-09-28T16:25:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-09-28T16:25:00+00:00",
+              "message": "Event Type: Software Upgrade\r\nStart Time: 2026-10-19 16:15:00 UTC\r\nEnd Time: 2026-10-19 20:15:00 UTC\r\n\r\nWe will be performing high priority software upgrades in this location as part of an ongoing effort to maintain an ideal hosting environment."
+            }
+          ]
+        }
+      ]
     },
     "mxp": {
       "location": "Milan",
       "country": "IT",
       "country_name": "Italy",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "21748b69-a8db-4afd-936f-7b43550190dd",
+          "subject": "Scheduled Maintenance - 2026-10-19",
+          "status": "ongoing",
+          "start_date": "2026-09-28T16:25:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-09-28T16:25:00+00:00",
+              "message": "Event Type: Software Upgrade\r\nStart Time: 2026-10-19 16:15:00 UTC\r\nEnd Time: 2026-10-19 20:15:00 UTC\r\n\r\nWe will be performing high priority software upgrades in this location as part of an ongoing effort to maintain an ideal hosting environment."
+            }
+          ]
+        }
+      ]
     },
     "bom": {
       "location": "Mumbai",
       "country": "IN",
       "country_name": "India",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "21748b69-a8db-4afd-936f-7b43550190dd",
+          "subject": "Scheduled Maintenance - 2026-10-19",
+          "status": "ongoing",
+          "start_date": "2026-09-28T16:25:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-09-28T16:25:00+00:00",
+              "message": "Event Type: Software Upgrade\r\nStart Time: 2026-10-19 16:15:00 UTC\r\nEnd Time: 2026-10-19 20:15:00 UTC\r\n\r\nWe will be performing high priority software upgrades in this location as part of an ongoing effort to maintain an ideal hosting environment."
+            }
+          ]
+        }
+      ]
     },
     "ewr": {
       "location": "New Jersey",
       "country": "US",
       "country_name": "United States",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "21748b69-a8db-4afd-936f-7b43550190dd",
+          "subject": "Scheduled Maintenance - 2026-10-19",
+          "status": "ongoing",
+          "start_date": "2026-09-28T16:25:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-09-28T16:25:00+00:00",
+              "message": "Event Type: Software Upgrade\r\nStart Time: 2026-10-19 16:15:00 UTC\r\nEnd Time: 2026-10-19 20:15:00 UTC\r\n\r\nWe will be performing high priority software upgrades in this location as part of an ongoing effort to maintain an ideal hosting environment."
+            }
+          ]
+        }
+      ]
     },
     "itm": {
       "location": "Osaka",
       "country": "JP",
       "country_name": "Japan",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "21748b69-a8db-4afd-936f-7b43550190dd",
+          "subject": "Scheduled Maintenance - 2026-10-19",
+          "status": "ongoing",
+          "start_date": "2026-09-28T16:25:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-09-28T16:25:00+00:00",
+              "message": "Event Type: Software Upgrade\r\nStart Time: 2026-10-19 16:15:00 UTC\r\nEnd Time: 2026-10-19 20:15:00 UTC\r\n\r\nWe will be performing high priority software upgrades in this location as part of an ongoing effort to maintain an ideal hosting environment."
+            }
+          ]
+        }
+      ]
     },
     "cdg": {
       "location": "Paris",
       "country": "FR",
       "country_name": "France",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "21748b69-a8db-4afd-936f-7b43550190dd",
+          "subject": "Scheduled Maintenance - 2026-10-19",
+          "status": "ongoing",
+          "start_date": "2026-09-28T16:25:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-09-28T16:25:00+00:00",
+              "message": "Event Type: Software Upgrade\r\nStart Time: 2026-10-19 16:15:00 UTC\r\nEnd Time: 2026-10-19 20:15:00 UTC\r\n\r\nWe will be performing high priority software upgrades in this location as part of an ongoing effort to maintain an ideal hosting environment."
+            }
+          ]
+        }
+      ]
     },
     "scl": {
       "location": "Santiago",
       "country": "CL",
       "country_name": "Chile",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "21748b69-a8db-4afd-936f-7b43550190dd",
+          "subject": "Scheduled Maintenance - 2026-10-19",
+          "status": "ongoing",
+          "start_date": "2026-09-28T16:25:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-09-28T16:25:00+00:00",
+              "message": "Event Type: Software Upgrade\r\nStart Time: 2026-10-19 16:15:00 UTC\r\nEnd Time: 2026-10-19 20:15:00 UTC\r\n\r\nWe will be performing high priority software upgrades in this location as part of an ongoing effort to maintain an ideal hosting environment."
+            }
+          ]
+        }
+      ]
     },
     "sao": {
       "location": "São Paulo",
       "country": "BR",
       "country_name": "Brazil",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "21748b69-a8db-4afd-936f-7b43550190dd",
+          "subject": "Scheduled Maintenance - 2026-10-19",
+          "status": "ongoing",
+          "start_date": "2026-09-28T16:25:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-09-28T16:25:00+00:00",
+              "message": "Event Type: Software Upgrade\r\nStart Time: 2026-10-19 16:15:00 UTC\r\nEnd Time: 2026-10-19 20:15:00 UTC\r\n\r\nWe will be performing high priority software upgrades in this location as part of an ongoing effort to maintain an ideal hosting environment."
+            }
+          ]
+        }
+      ]
     },
     "sea": {
       "location": "Seattle",
       "country": "US",
       "country_name": "United States",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "21748b69-a8db-4afd-936f-7b43550190dd",
+          "subject": "Scheduled Maintenance - 2026-10-19",
+          "status": "ongoing",
+          "start_date": "2026-09-28T16:25:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-09-28T16:25:00+00:00",
+              "message": "Event Type: Software Upgrade\r\nStart Time: 2026-10-19 16:15:00 UTC\r\nEnd Time: 2026-10-19 20:15:00 UTC\r\n\r\nWe will be performing high priority software upgrades in this location as part of an ongoing effort to maintain an ideal hosting environment."
+            }
+          ]
+        }
+      ]
     },
     "icn": {
       "location": "Seoul",
       "country": "KR",
       "country_name": "Korea, Republic of",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "21748b69-a8db-4afd-936f-7b43550190dd",
+          "subject": "Scheduled Maintenance - 2026-10-19",
+          "status": "ongoing",
+          "start_date": "2026-09-28T16:25:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-09-28T16:25:00+00:00",
+              "message": "Event Type: Software Upgrade\r\nStart Time: 2026-10-19 16:15:00 UTC\r\nEnd Time: 2026-10-19 20:15:00 UTC\r\n\r\nWe will be performing high priority software upgrades in this location as part of an ongoing effort to maintain an ideal hosting environment."
+            }
+          ]
+        }
+      ]
     },
     "sjc": {
       "location": "Silicon Valley",
       "country": "US",
       "country_name": "United States",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "21748b69-a8db-4afd-936f-7b43550190dd",
+          "subject": "Scheduled Maintenance - 2026-10-19",
+          "status": "ongoing",
+          "start_date": "2026-09-28T16:25:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-09-28T16:25:00+00:00",
+              "message": "Event Type: Software Upgrade\r\nStart Time: 2026-10-19 16:15:00 UTC\r\nEnd Time: 2026-10-19 20:15:00 UTC\r\n\r\nWe will be performing high priority software upgrades in this location as part of an ongoing effort to maintain an ideal hosting environment."
+            }
+          ]
+        }
+      ]
     },
     "sgp": {
       "location": "Singapore",
       "country": "SG",
       "country_name": "Singapore",
       "alerts": [
+        {
+          "id": "21748b69-a8db-4afd-936f-7b43550190dd",
+          "subject": "Scheduled Maintenance - 2026-10-19",
+          "status": "ongoing",
+          "start_date": "2026-09-28T16:25:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-09-28T16:25:00+00:00",
+              "message": "Event Type: Software Upgrade\r\nStart Time: 2026-10-19 16:15:00 UTC\r\nEnd Time: 2026-10-19 20:15:00 UTC\r\n\r\nWe will be performing high priority software upgrades in this location as part of an ongoing effort to maintain an ideal hosting environment."
+            }
+          ]
+        },
         {
           "id": "b7008751-8ea6-4b2e-8b19-3018f439df90",
           "subject": "Singapore Network Outage",
@@ -195,37 +571,121 @@
       "location": "Stockholm",
       "country": "SE",
       "country_name": "Sweden",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "21748b69-a8db-4afd-936f-7b43550190dd",
+          "subject": "Scheduled Maintenance - 2026-10-19",
+          "status": "ongoing",
+          "start_date": "2026-09-28T16:25:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-09-28T16:25:00+00:00",
+              "message": "Event Type: Software Upgrade\r\nStart Time: 2026-10-19 16:15:00 UTC\r\nEnd Time: 2026-10-19 20:15:00 UTC\r\n\r\nWe will be performing high priority software upgrades in this location as part of an ongoing effort to maintain an ideal hosting environment."
+            }
+          ]
+        }
+      ]
     },
     "syd": {
       "location": "Sydney",
       "country": "AU",
       "country_name": "Australia",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "21748b69-a8db-4afd-936f-7b43550190dd",
+          "subject": "Scheduled Maintenance - 2026-10-19",
+          "status": "ongoing",
+          "start_date": "2026-09-28T16:25:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-09-28T16:25:00+00:00",
+              "message": "Event Type: Software Upgrade\r\nStart Time: 2026-10-19 16:15:00 UTC\r\nEnd Time: 2026-10-19 20:15:00 UTC\r\n\r\nWe will be performing high priority software upgrades in this location as part of an ongoing effort to maintain an ideal hosting environment."
+            }
+          ]
+        }
+      ]
     },
     "tlv": {
       "location": "Tel Aviv",
       "country": "IL",
       "country_name": "Israel",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "21748b69-a8db-4afd-936f-7b43550190dd",
+          "subject": "Scheduled Maintenance - 2026-10-19",
+          "status": "ongoing",
+          "start_date": "2026-09-28T16:25:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-09-28T16:25:00+00:00",
+              "message": "Event Type: Software Upgrade\r\nStart Time: 2026-10-19 16:15:00 UTC\r\nEnd Time: 2026-10-19 20:15:00 UTC\r\n\r\nWe will be performing high priority software upgrades in this location as part of an ongoing effort to maintain an ideal hosting environment."
+            }
+          ]
+        }
+      ]
     },
     "nrt": {
       "location": "Tokyo",
       "country": "JP",
       "country_name": "Japan",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "21748b69-a8db-4afd-936f-7b43550190dd",
+          "subject": "Scheduled Maintenance - 2026-10-19",
+          "status": "ongoing",
+          "start_date": "2026-09-28T16:25:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-09-28T16:25:00+00:00",
+              "message": "Event Type: Software Upgrade\r\nStart Time: 2026-10-19 16:15:00 UTC\r\nEnd Time: 2026-10-19 20:15:00 UTC\r\n\r\nWe will be performing high priority software upgrades in this location as part of an ongoing effort to maintain an ideal hosting environment."
+            }
+          ]
+        }
+      ]
     },
     "yto": {
       "location": "Toronto",
       "country": "CA",
       "country_name": "Canada",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "21748b69-a8db-4afd-936f-7b43550190dd",
+          "subject": "Scheduled Maintenance - 2026-10-19",
+          "status": "ongoing",
+          "start_date": "2026-09-28T16:25:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-09-28T16:25:00+00:00",
+              "message": "Event Type: Software Upgrade\r\nStart Time: 2026-10-19 16:15:00 UTC\r\nEnd Time: 2026-10-19 20:15:00 UTC\r\n\r\nWe will be performing high priority software upgrades in this location as part of an ongoing effort to maintain an ideal hosting environment."
+            }
+          ]
+        }
+      ]
     },
     "waw": {
       "location": "Warsaw",
       "country": "PL",
       "country_name": "Poland",
-      "alerts": []
+      "alerts": [
+        {
+          "id": "21748b69-a8db-4afd-936f-7b43550190dd",
+          "subject": "Scheduled Maintenance - 2026-10-19",
+          "status": "ongoing",
+          "start_date": "2026-09-28T16:25:00+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-09-28T16:25:00+00:00",
+              "message": "Event Type: Software Upgrade\r\nStart Time: 2026-10-19 16:15:00 UTC\r\nEnd Time: 2026-10-19 20:15:00 UTC\r\n\r\nWe will be performing high priority software upgrades in this location as part of an ongoing effort to maintain an ideal hosting environment."
+            }
+          ]
+        }
+      ]
     }
   }
 }
