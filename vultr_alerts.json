@@ -16,7 +16,7 @@
     },
     {
       "id": "21748b69-a8db-4afd-936f-7b43550190dd",
-      "region": "bom",
+      "region": "atl",
       "subject": "Scheduled Maintenance - 2026-10-19",
       "start_date": "2026-09-28T16:25:00+00:00",
       "updated_at": "",
@@ -226,6 +226,20 @@
     },
     {
       "id": "21748b69-a8db-4afd-936f-7b43550190dd",
+      "region": "bom",
+      "subject": "Scheduled Maintenance - 2026-10-19",
+      "start_date": "2026-09-28T16:25:00+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-09-28T16:25:00+00:00",
+          "message": "Event Type: Software Upgrade\r\nStart Time: 2026-10-19 16:15:00 UTC\r\nEnd Time: 2026-10-19 20:15:00 UTC\r\n\r\nWe will be performing high priority software upgrades in this location as part of an ongoing effort to maintain an ideal hosting environment."
+        }
+      ]
+    },
+    {
+      "id": "21748b69-a8db-4afd-936f-7b43550190dd",
       "region": "mxp",
       "subject": "Scheduled Maintenance - 2026-10-19",
       "start_date": "2026-09-28T16:25:00+00:00",
@@ -240,21 +254,7 @@
     },
     {
       "id": "21748b69-a8db-4afd-936f-7b43550190dd",
-      "region": "atl",
-      "subject": "Scheduled Maintenance - 2026-10-19",
-      "start_date": "2026-09-28T16:25:00+00:00",
-      "updated_at": "",
-      "status": "ongoing",
-      "entries": [
-        {
-          "updated_at": "2026-09-28T16:25:00+00:00",
-          "message": "Event Type: Software Upgrade\r\nStart Time: 2026-10-19 16:15:00 UTC\r\nEnd Time: 2026-10-19 20:15:00 UTC\r\n\r\nWe will be performing high priority software upgrades in this location as part of an ongoing effort to maintain an ideal hosting environment."
-        }
-      ]
-    },
-    {
-      "id": "21748b69-a8db-4afd-936f-7b43550190dd",
-      "region": "mia",
+      "region": "hnl",
       "subject": "Scheduled Maintenance - 2026-10-19",
       "start_date": "2026-09-28T16:25:00+00:00",
       "updated_at": "",
@@ -338,7 +338,7 @@
     },
     {
       "id": "21748b69-a8db-4afd-936f-7b43550190dd",
-      "region": "hnl",
+      "region": "jnb",
       "subject": "Scheduled Maintenance - 2026-10-19",
       "start_date": "2026-09-28T16:25:00+00:00",
       "updated_at": "",
@@ -352,7 +352,7 @@
     },
     {
       "id": "21748b69-a8db-4afd-936f-7b43550190dd",
-      "region": "jnb",
+      "region": "mia",
       "subject": "Scheduled Maintenance - 2026-10-19",
       "start_date": "2026-09-28T16:25:00+00:00",
       "updated_at": "",
@@ -473,20 +473,6 @@
         {
           "updated_at": "2026-09-24T14:31:00+00:00",
           "message": "We are aware of an issue affecting services in our Singapore location. The cause is due to inclement weather involving Typhoon Dujuan which resulted in a global sub-sea cable cut. \r\nOur engineers will continue to monitor the status of this outage until it is resolved."
-        }
-      ]
-    },
-    {
-      "id": "aacbf09c-1bb7-443e-bc33-c49dcbdea0d6",
-      "region": "atl",
-      "subject": "Partial Outage",
-      "start_date": "2026-09-18T18:07:00+00:00",
-      "updated_at": "",
-      "status": "ongoing",
-      "entries": [
-        {
-          "updated_at": "2026-09-18T18:07:00+00:00",
-          "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
         }
       ]
     }

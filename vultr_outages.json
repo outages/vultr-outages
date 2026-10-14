@@ -38,19 +38,6 @@
               "message": "Event Type: Software Upgrade\r\nStart Time: 2026-10-19 16:15:00 UTC\r\nEnd Time: 2026-10-19 20:15:00 UTC\r\n\r\nWe will be performing high priority software upgrades in this location as part of an ongoing effort to maintain an ideal hosting environment."
             }
           ]
-        },
-        {
-          "id": "aacbf09c-1bb7-443e-bc33-c49dcbdea0d6",
-          "subject": "Partial Outage",
-          "status": "ongoing",
-          "start_date": "2026-09-18T18:07:00+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2026-09-18T18:07:00+00:00",
-              "message": "An outage or maintenance window is affecting a subset of users in this region. Detailed outage information is available in the customer portal if this event is impacting your resources."
-            }
-          ]
         }
       ]
     },
