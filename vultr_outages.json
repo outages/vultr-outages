@@ -22,7 +22,7 @@
         {
           "id": "09dafba2-908b-4ea1-9174-18b965891793",
           "subject": "Scheduled Maintenance - Vultr Container Registry (VCR)",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2026-10-19T21:42:43+00:00",
           "updated_at": "",
           "entries": [
@@ -55,7 +55,7 @@
         {
           "id": "09dafba2-908b-4ea1-9174-18b965891793",
           "subject": "Scheduled Maintenance - Vultr Container Registry (VCR)",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2026-10-19T21:42:43+00:00",
           "updated_at": "",
           "entries": [
@@ -73,6 +73,19 @@
       "country_name": "India",
       "alerts": [
         {
+          "id": "cbf15957-6949-47c5-b67c-d39f123d37d8",
+          "subject": "BLR - Bangalore (BLR1), BLR - BLR - Bangalore (BLR1) (BLR1) Storage Infrastructure Upgrades - 2026-11-10",
+          "status": "ongoing",
+          "start_date": "2026-11-04T14:02:11+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-11-04T14:02:11+00:00",
+              "message": "Event Type: Storage Cluster Upgrade\r\nStart Time: 2026-11-10 14:00:00 UTC\r\nEnd Time: 2026-11-10 15:00:00 UTC\r\n\r\nOur Cloud Storage team will be upgrading our VFS Infrastructure. During the maintenance window a brief window of filesystem inaccessibility is expected to last under 60 seconds. The storage team will monitor cluster health, node status, and workload recovery throughout the maintenance window."
+            }
+          ]
+        },
+        {
           "id": "b22fbf02-19a6-4c85-988a-3a62aaea328b",
           "subject": "Scheduled Maintenance: VKE Control Plane Upgrades",
           "status": "ongoing",
@@ -88,7 +101,7 @@
         {
           "id": "09dafba2-908b-4ea1-9174-18b965891793",
           "subject": "Scheduled Maintenance - Vultr Container Registry (VCR)",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2026-10-19T21:42:43+00:00",
           "updated_at": "",
           "entries": [
@@ -134,7 +147,7 @@
         {
           "id": "09dafba2-908b-4ea1-9174-18b965891793",
           "subject": "Scheduled Maintenance - Vultr Container Registry (VCR)",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2026-10-19T21:42:43+00:00",
           "updated_at": "",
           "entries": [
@@ -187,7 +200,7 @@
         {
           "id": "09dafba2-908b-4ea1-9174-18b965891793",
           "subject": "Scheduled Maintenance - Vultr Container Registry (VCR)",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2026-10-19T21:42:43+00:00",
           "updated_at": "",
           "entries": [
@@ -220,7 +233,7 @@
         {
           "id": "09dafba2-908b-4ea1-9174-18b965891793",
           "subject": "Scheduled Maintenance - Vultr Container Registry (VCR)",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2026-10-19T21:42:43+00:00",
           "updated_at": "",
           "entries": [
@@ -293,7 +306,7 @@
         {
           "id": "09dafba2-908b-4ea1-9174-18b965891793",
           "subject": "Scheduled Maintenance - Vultr Container Registry (VCR)",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2026-10-19T21:42:43+00:00",
           "updated_at": "",
           "entries": [
@@ -313,7 +326,7 @@
         {
           "id": "09dafba2-908b-4ea1-9174-18b965891793",
           "subject": "Scheduled Maintenance - Vultr Container Registry (VCR)",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2026-10-19T21:42:43+00:00",
           "updated_at": "",
           "entries": [
@@ -417,6 +430,45 @@
       "country_name": "Italy",
       "alerts": [
         {
+          "id": "972b8c68-c74e-411c-82aa-f77b2bae25a3",
+          "subject": "Milan Storage Infrastructure Updates - 2026-11-09",
+          "status": "ongoing",
+          "start_date": "2026-11-03T13:58:26+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-11-03T13:58:26+00:00",
+              "message": "Event Type: Storage Cluster Upgrade\r\nStart Time: 2026-11-09 16:00:00 UTC\r\nEnd Time: 2026-11-09 19:00:00 UTC\r\n\r\nOur Cloud Storage team will be performing maintenance to storage located in Milan. During this maintenance window, creating, attaching, resizing, and deletion of storage and storage gateways may be unavailable. Vultr Filesystem and storage gateways subscriptions may notice brief service interruptions as they are shifted to new hosts.\r\n\r\nThe storage team will monitor cluster health, node status, and workload recovery throughout the maintenance window."
+            }
+          ]
+        },
+        {
+          "id": "972b8c68-c74e-411c-82aa-f77b2bae25a3",
+          "subject": "Milan Storage Infrastructure Updates - 2026-11-09",
+          "status": "ongoing",
+          "start_date": "2026-11-03T13:58:26+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-11-03T13:58:26+00:00",
+              "message": "Event Type: Storage Cluster Upgrade\r\nStart Time: 2026-11-09 16:00:00 UTC\r\nEnd Time: 2026-11-09 19:00:00 UTC\r\n\r\nOur Cloud Storage team will be performing maintenance to storage located in Milan. During this maintenance window, creating, attaching, resizing, and deletion of storage and storage gateways may be unavailable. Vultr Filesystem and storage gateways subscriptions may notice brief service interruptions as they are shifted to new hosts.\r\n\r\nThe storage team will monitor cluster health, node status, and workload recovery throughout the maintenance window."
+            }
+          ]
+        },
+        {
+          "id": "972b8c68-c74e-411c-82aa-f77b2bae25a3",
+          "subject": "Milan Storage Infrastructure Updates - 2026-11-09",
+          "status": "ongoing",
+          "start_date": "2026-11-03T13:58:26+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-11-03T13:58:26+00:00",
+              "message": "Event Type: Storage Cluster Upgrade\r\nStart Time: 2026-11-09 16:00:00 UTC\r\nEnd Time: 2026-11-09 19:00:00 UTC\r\n\r\nOur Cloud Storage team will be performing maintenance to storage located in Milan. During this maintenance window, creating, attaching, resizing, and deletion of storage and storage gateways may be unavailable. Vultr Filesystem and storage gateways subscriptions may notice brief service interruptions as they are shifted to new hosts.\r\n\r\nThe storage team will monitor cluster health, node status, and workload recovery throughout the maintenance window."
+            }
+          ]
+        },
+        {
           "id": "b22fbf02-19a6-4c85-988a-3a62aaea328b",
           "subject": "Scheduled Maintenance: VKE Control Plane Upgrades",
           "status": "ongoing",
@@ -472,7 +524,7 @@
         {
           "id": "09dafba2-908b-4ea1-9174-18b965891793",
           "subject": "Scheduled Maintenance - Vultr Container Registry (VCR)",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2026-10-19T21:42:43+00:00",
           "updated_at": "",
           "entries": [
@@ -585,7 +637,7 @@
         {
           "id": "09dafba2-908b-4ea1-9174-18b965891793",
           "subject": "Scheduled Maintenance - Vultr Container Registry (VCR)",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2026-10-19T21:42:43+00:00",
           "updated_at": "",
           "entries": [
@@ -618,7 +670,7 @@
         {
           "id": "09dafba2-908b-4ea1-9174-18b965891793",
           "subject": "Scheduled Maintenance - Vultr Container Registry (VCR)",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2026-10-19T21:42:43+00:00",
           "updated_at": "",
           "entries": [
@@ -651,7 +703,7 @@
         {
           "id": "09dafba2-908b-4ea1-9174-18b965891793",
           "subject": "Scheduled Maintenance - Vultr Container Registry (VCR)",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2026-10-19T21:42:43+00:00",
           "updated_at": "",
           "entries": [
@@ -684,7 +736,7 @@
         {
           "id": "09dafba2-908b-4ea1-9174-18b965891793",
           "subject": "Scheduled Maintenance - Vultr Container Registry (VCR)",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2026-10-19T21:42:43+00:00",
           "updated_at": "",
           "entries": [
@@ -750,7 +802,7 @@
         {
           "id": "09dafba2-908b-4ea1-9174-18b965891793",
           "subject": "Scheduled Maintenance - Vultr Container Registry (VCR)",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2026-10-19T21:42:43+00:00",
           "updated_at": "",
           "entries": [
@@ -803,7 +855,7 @@
         {
           "id": "09dafba2-908b-4ea1-9174-18b965891793",
           "subject": "Scheduled Maintenance - Vultr Container Registry (VCR)",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2026-10-19T21:42:43+00:00",
           "updated_at": "",
           "entries": [
