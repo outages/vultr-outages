@@ -1,6 +1,216 @@
 {
   "service_alerts": [
     {
+      "id": "43558a70-b233-4b42-a65e-4a2bd1f908f2",
+      "region": "ewr",
+      "subject": "New Jersey, EWR - Piscataway (PNJ1) VFS Storage Infrastructure Upgrades - 2026-11-11",
+      "start_date": "2026-11-05T18:57:26+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-11-05T18:57:26+00:00",
+          "message": "Event Type: Storage Cluster Upgrade\r\nStart Time: 2026-11-11 19:00:00 UTC\r\nEnd Time: 2026-11-11 23:00:00 UTC\r\n\r\nOur Cloud Storage team will be upgrading our VFS Infrastructure. During the maintenance window a brief window of filesystem inaccessibility is expected to last under 60 seconds. The storage team will monitor cluster health, node status, and workload recovery throughout the maintenance window."
+        }
+      ]
+    },
+    {
+      "id": "43558a70-b233-4b42-a65e-4a2bd1f908f2",
+      "region": "ewr",
+      "subject": "New Jersey, EWR - Piscataway (PNJ1) VFS Storage Infrastructure Upgrades - 2026-11-11",
+      "start_date": "2026-11-05T18:57:26+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-11-05T18:57:26+00:00",
+          "message": "Event Type: Storage Cluster Upgrade\r\nStart Time: 2026-11-11 19:00:00 UTC\r\nEnd Time: 2026-11-11 23:00:00 UTC\r\n\r\nOur Cloud Storage team will be upgrading our VFS Infrastructure. During the maintenance window a brief window of filesystem inaccessibility is expected to last under 60 seconds. The storage team will monitor cluster health, node status, and workload recovery throughout the maintenance window."
+        }
+      ]
+    },
+    {
+      "id": "0b36ea22-49c8-4c42-9ea1-e0748b1fa4d3",
+      "region": "lax",
+      "subject": "Los Angeles, LAX - Los Angeles (LAX3) VFS Storage Infrastructure Upgrades - 2026-11-11",
+      "start_date": "2026-11-05T18:48:14+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-11-05T18:48:14+00:00",
+          "message": "Event Type: Storage Cluster Upgrade\r\nStart Time: 2026-11-11 19:00:00 UTC\r\nEnd Time: 2026-11-11 23:00:00 UTC\r\n\r\nOur Cloud Storage team will be upgrading our VFS Infrastructure. During the maintenance window a brief window of filesystem inaccessibility is expected to last under 60 seconds. The storage team will monitor cluster health, node status, and workload recovery throughout the maintenance window."
+        }
+      ]
+    },
+    {
+      "id": "0b36ea22-49c8-4c42-9ea1-e0748b1fa4d3",
+      "region": "lax",
+      "subject": "Los Angeles, LAX - Los Angeles (LAX3) VFS Storage Infrastructure Upgrades - 2026-11-11",
+      "start_date": "2026-11-05T18:48:14+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-11-05T18:48:14+00:00",
+          "message": "Event Type: Storage Cluster Upgrade\r\nStart Time: 2026-11-11 19:00:00 UTC\r\nEnd Time: 2026-11-11 23:00:00 UTC\r\n\r\nOur Cloud Storage team will be upgrading our VFS Infrastructure. During the maintenance window a brief window of filesystem inaccessibility is expected to last under 60 seconds. The storage team will monitor cluster health, node status, and workload recovery throughout the maintenance window."
+        }
+      ]
+    },
+    {
+      "id": "5b650fb3-50de-4b30-be05-38baa476bf66",
+      "region": "lhr",
+      "subject": "London, LHR - London (LON3), LHR - London (LHR13) (LON5) VFS Storage Infrastructure Upgrades - 2026-11-11",
+      "start_date": "2026-11-05T18:39:28+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-11-05T18:39:28+00:00",
+          "message": "Event Type: Storage Cluster Upgrade\r\nStart Time: 2026-11-11 19:00:00 UTC\r\nEnd Time: 2026-11-11 23:00:00 UTC\r\n\r\nOur Cloud Storage team will be upgrading our VFS Infrastructure. During the maintenance window a brief window of filesystem inaccessibility is expected to last under 60 seconds. The storage team will monitor cluster health, node status, and workload recovery throughout the maintenance window."
+        }
+      ]
+    },
+    {
+      "id": "5b650fb3-50de-4b30-be05-38baa476bf66",
+      "region": "lhr",
+      "subject": "London, LHR - London (LON3), LHR - London (LHR13) (LON5) VFS Storage Infrastructure Upgrades - 2026-11-11",
+      "start_date": "2026-11-05T18:39:28+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-11-05T18:39:28+00:00",
+          "message": "Event Type: Storage Cluster Upgrade\r\nStart Time: 2026-11-11 19:00:00 UTC\r\nEnd Time: 2026-11-11 23:00:00 UTC\r\n\r\nOur Cloud Storage team will be upgrading our VFS Infrastructure. During the maintenance window a brief window of filesystem inaccessibility is expected to last under 60 seconds. The storage team will monitor cluster health, node status, and workload recovery throughout the maintenance window."
+        }
+      ]
+    },
+    {
+      "id": "05f6bfe2-c021-472e-8612-393bcb93b4f8",
+      "region": "nrt",
+      "subject": "Tokyo, NRT - Tokyo - TY6 / TY7 (TYO2) Storage Infrastructure Upgrades - 2026-11-11",
+      "start_date": "2026-11-05T18:23:43+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-11-05T18:23:43+00:00",
+          "message": "Event Type: Storage Cluster Upgrade\r\nStart Time: 2026-11-11 19:15:00 UTC\r\nEnd Time: 2026-11-11 23:15:00 UTC\r\n\r\nOur Cloud Storage team will be upgrading our VFS Infrastructure. During the maintenance window a brief window of filesystem inaccessibility is expected to last under 60 seconds. The storage team will monitor cluster health, node status, and workload recovery throughout the maintenance window."
+        }
+      ]
+    },
+    {
+      "id": "05f6bfe2-c021-472e-8612-393bcb93b4f8",
+      "region": "nrt",
+      "subject": "Tokyo, NRT - Tokyo - TY6 / TY7 (TYO2) Storage Infrastructure Upgrades - 2026-11-11",
+      "start_date": "2026-11-05T18:23:43+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-11-05T18:23:43+00:00",
+          "message": "Event Type: Storage Cluster Upgrade\r\nStart Time: 2026-11-11 19:15:00 UTC\r\nEnd Time: 2026-11-11 23:15:00 UTC\r\n\r\nOur Cloud Storage team will be upgrading our VFS Infrastructure. During the maintenance window a brief window of filesystem inaccessibility is expected to last under 60 seconds. The storage team will monitor cluster health, node status, and workload recovery throughout the maintenance window."
+        }
+      ]
+    },
+    {
+      "id": "95298cbc-6940-40ed-9c09-b0041dcf22a5",
+      "region": "syd",
+      "subject": "Sydney, SYD - Australia - SY5 (AUS2) VFS Storage Infrastructure Upgrades - 2026-11-11",
+      "start_date": "2026-11-05T18:16:52+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-11-05T18:16:52+00:00",
+          "message": "Event Type: Storage Cluster Upgrade\r\nStart Time: 2026-11-11 19:00:00 UTC\r\nEnd Time: 2026-11-11 20:00:00 UTC\r\n\r\nOur Cloud Storage team will be upgrading our VFS Infrastructure. During the maintenance window a brief window of filesystem inaccessibility is expected to last under 60 seconds. The storage team will monitor cluster health, node status, and workload recovery throughout the maintenance window."
+        }
+      ]
+    },
+    {
+      "id": "95298cbc-6940-40ed-9c09-b0041dcf22a5",
+      "region": "syd",
+      "subject": "Sydney, SYD - Australia - SY5 (AUS2) VFS Storage Infrastructure Upgrades - 2026-11-11",
+      "start_date": "2026-11-05T18:16:52+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-11-05T18:16:52+00:00",
+          "message": "Event Type: Storage Cluster Upgrade\r\nStart Time: 2026-11-11 19:00:00 UTC\r\nEnd Time: 2026-11-11 20:00:00 UTC\r\n\r\nOur Cloud Storage team will be upgrading our VFS Infrastructure. During the maintenance window a brief window of filesystem inaccessibility is expected to last under 60 seconds. The storage team will monitor cluster health, node status, and workload recovery throughout the maintenance window."
+        }
+      ]
+    },
+    {
+      "id": "b8897f76-fe8a-4435-8b4d-e6a236dc5437",
+      "region": "ams",
+      "subject": "Amsterdam, AMS - Amsterdam (AMS1) VFS Storage Infrastructure Upgrades - 2026-11-11",
+      "start_date": "2026-11-05T18:00:49+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-11-05T18:00:49+00:00",
+          "message": "Event Type: Storage Cluster Upgrade\r\nStart Time: 2026-11-11 18:00:00 UTC\r\nEnd Time: 2026-11-11 19:00:00 UTC\r\n\r\nOur Cloud Storage team will be upgrading our VFS Infrastructure. During the maintenance window a brief window of filesystem inaccessibility is expected to last under 60 seconds. The storage team will monitor cluster health, node status, and workload recovery throughout the maintenance window."
+        }
+      ]
+    },
+    {
+      "id": "b8897f76-fe8a-4435-8b4d-e6a236dc5437",
+      "region": "ams",
+      "subject": "Amsterdam, AMS - Amsterdam (AMS1) VFS Storage Infrastructure Upgrades - 2026-11-11",
+      "start_date": "2026-11-05T18:00:49+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-11-05T18:00:49+00:00",
+          "message": "Event Type: Storage Cluster Upgrade\r\nStart Time: 2026-11-11 18:00:00 UTC\r\nEnd Time: 2026-11-11 19:00:00 UTC\r\n\r\nOur Cloud Storage team will be upgrading our VFS Infrastructure. During the maintenance window a brief window of filesystem inaccessibility is expected to last under 60 seconds. The storage team will monitor cluster health, node status, and workload recovery throughout the maintenance window."
+        }
+      ]
+    },
+    {
+      "id": "4043fa5e-f852-4378-97cb-b566c4488023",
+      "region": "blr",
+      "subject": "SGP - Singapore (SGP1) VFS Storage Infrastructure Upgrades - 2026-11-11",
+      "start_date": "2026-11-05T17:49:50+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-11-05T17:49:50+00:00",
+          "message": "Event Type: Storage Cluster Upgrade\r\nStart Time: 2026-11-11 18:00:00 UTC\r\nEnd Time: 2026-11-11 19:00:00 UTC\r\n\r\nOur Cloud Storage team will be upgrading our VFS Infrastructure. During the maintenance window a brief window of filesystem inaccessibility is expected to last under 60 seconds. The storage team will monitor cluster health, node status, and workload recovery throughout the maintenance window."
+        }
+      ]
+    },
+    {
+      "id": "85d61492-72df-4704-8f00-a34ba0eab183",
+      "region": "atl",
+      "subject": "Atlanta Scheduled Maintenance (Critical) - 2026-11-12",
+      "start_date": "2026-11-05T17:13:45+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-11-05T17:13:45+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Atlanta location during the following scheduled maintenance window. \r\n\r\nStart Time: 2026-11-12 05:00:00 UTC\r\nEnd Time: 2026-11-12 09:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Atlanta instances may be unreachable from the internet for some of the scheduled maintenance window as we perform a critical network topology change. While the work is scheduled to last several hours, we are diligently preparing the procedure so that we can reasonably expect any downtime incurred to be measured in seconds."
+        }
+      ]
+    },
+    {
+      "id": "9aaa8310-d575-4a67-a3c6-a6a04b0ba5cb",
+      "region": "sgp",
+      "subject": "Singapore Scheduled Maintenance - 2026-11-11",
+      "start_date": "2026-11-05T00:33:37+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-11-05T00:33:37+00:00",
+          "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Singapore location during the following scheduled maintenance window. \r\n\r\nStart Time: 2026-11-11 16:00:00 UTC\r\nEnd Time: 2026-11-11 18:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Singapore instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+        }
+      ]
+    },
+    {
       "id": "cbf15957-6949-47c5-b67c-d39f123d37d8",
       "region": "blr",
       "subject": "BLR - Bangalore (BLR1), BLR - BLR - Bangalore (BLR1) (BLR1) Storage Infrastructure Upgrades - 2026-11-10",
@@ -58,7 +268,7 @@
     },
     {
       "id": "b22fbf02-19a6-4c85-988a-3a62aaea328b",
-      "region": "nrt",
+      "region": "jnb",
       "subject": "Scheduled Maintenance: VKE Control Plane Upgrades",
       "start_date": "2026-10-20T14:56:11+00:00",
       "updated_at": "",
@@ -72,77 +282,7 @@
     },
     {
       "id": "b22fbf02-19a6-4c85-988a-3a62aaea328b",
-      "region": "scl",
-      "subject": "Scheduled Maintenance: VKE Control Plane Upgrades",
-      "start_date": "2026-10-20T14:56:11+00:00",
-      "updated_at": "",
-      "status": "ongoing",
-      "entries": [
-        {
-          "updated_at": "2026-10-20T14:56:11+00:00",
-          "message": "We will be performing software updates on Vultr Kubernetes Engine (VKE) control planes as part of our ongoing effort to maintain a reliable and secure hosting environment.\r\n\r\nStart: 2026-11-16 16:00:00 UTC\r\nEnd:   2026-11-16 19:00:00 UTC\r\n\r\nWhat to expect:\r\n- Your cluster's control plane will be upgraded at some point during this window. The exact time for each cluster is not scheduled in advance and cannot be provided.\r\n- Each control plane will be unavailable for less than five minutes. During that brief period, the Kubernetes API and cluster management operations, including deployments and scaling, will be temporarily unavailable.\r\n- Existing workloads will continue to run. Worker nodes are not rebooted and no pods are restarted. Load balancers, block storage, and other attached resources are unaffected.\r\n- CI/CD and GitOps tools may report transient errors during the window and will retry automatically.\r\n\r\n\r\nWhat you need to do: \r\nNo action is required. If you have time-sensitive deployments planned, we recommend avoiding this window.\r\n\r\nWe will publish updates at https://status.vultr.com/ when the maintenance begins and when it completes. If you experience any issues after the window closes, please contact Support."
-        }
-      ]
-    },
-    {
-      "id": "b22fbf02-19a6-4c85-988a-3a62aaea328b",
-      "region": "yto",
-      "subject": "Scheduled Maintenance: VKE Control Plane Upgrades",
-      "start_date": "2026-10-20T14:56:11+00:00",
-      "updated_at": "",
-      "status": "ongoing",
-      "entries": [
-        {
-          "updated_at": "2026-10-20T14:56:11+00:00",
-          "message": "We will be performing software updates on Vultr Kubernetes Engine (VKE) control planes as part of our ongoing effort to maintain a reliable and secure hosting environment.\r\n\r\nStart: 2026-11-16 16:00:00 UTC\r\nEnd:   2026-11-16 19:00:00 UTC\r\n\r\nWhat to expect:\r\n- Your cluster's control plane will be upgraded at some point during this window. The exact time for each cluster is not scheduled in advance and cannot be provided.\r\n- Each control plane will be unavailable for less than five minutes. During that brief period, the Kubernetes API and cluster management operations, including deployments and scaling, will be temporarily unavailable.\r\n- Existing workloads will continue to run. Worker nodes are not rebooted and no pods are restarted. Load balancers, block storage, and other attached resources are unaffected.\r\n- CI/CD and GitOps tools may report transient errors during the window and will retry automatically.\r\n\r\n\r\nWhat you need to do: \r\nNo action is required. If you have time-sensitive deployments planned, we recommend avoiding this window.\r\n\r\nWe will publish updates at https://status.vultr.com/ when the maintenance begins and when it completes. If you experience any issues after the window closes, please contact Support."
-        }
-      ]
-    },
-    {
-      "id": "b22fbf02-19a6-4c85-988a-3a62aaea328b",
-      "region": "mxp",
-      "subject": "Scheduled Maintenance: VKE Control Plane Upgrades",
-      "start_date": "2026-10-20T14:56:11+00:00",
-      "updated_at": "",
-      "status": "ongoing",
-      "entries": [
-        {
-          "updated_at": "2026-10-20T14:56:11+00:00",
-          "message": "We will be performing software updates on Vultr Kubernetes Engine (VKE) control planes as part of our ongoing effort to maintain a reliable and secure hosting environment.\r\n\r\nStart: 2026-11-16 16:00:00 UTC\r\nEnd:   2026-11-16 19:00:00 UTC\r\n\r\nWhat to expect:\r\n- Your cluster's control plane will be upgraded at some point during this window. The exact time for each cluster is not scheduled in advance and cannot be provided.\r\n- Each control plane will be unavailable for less than five minutes. During that brief period, the Kubernetes API and cluster management operations, including deployments and scaling, will be temporarily unavailable.\r\n- Existing workloads will continue to run. Worker nodes are not rebooted and no pods are restarted. Load balancers, block storage, and other attached resources are unaffected.\r\n- CI/CD and GitOps tools may report transient errors during the window and will retry automatically.\r\n\r\n\r\nWhat you need to do: \r\nNo action is required. If you have time-sensitive deployments planned, we recommend avoiding this window.\r\n\r\nWe will publish updates at https://status.vultr.com/ when the maintenance begins and when it completes. If you experience any issues after the window closes, please contact Support."
-        }
-      ]
-    },
-    {
-      "id": "b22fbf02-19a6-4c85-988a-3a62aaea328b",
-      "region": "bom",
-      "subject": "Scheduled Maintenance: VKE Control Plane Upgrades",
-      "start_date": "2026-10-20T14:56:11+00:00",
-      "updated_at": "",
-      "status": "ongoing",
-      "entries": [
-        {
-          "updated_at": "2026-10-20T14:56:11+00:00",
-          "message": "We will be performing software updates on Vultr Kubernetes Engine (VKE) control planes as part of our ongoing effort to maintain a reliable and secure hosting environment.\r\n\r\nStart: 2026-11-16 16:00:00 UTC\r\nEnd:   2026-11-16 19:00:00 UTC\r\n\r\nWhat to expect:\r\n- Your cluster's control plane will be upgraded at some point during this window. The exact time for each cluster is not scheduled in advance and cannot be provided.\r\n- Each control plane will be unavailable for less than five minutes. During that brief period, the Kubernetes API and cluster management operations, including deployments and scaling, will be temporarily unavailable.\r\n- Existing workloads will continue to run. Worker nodes are not rebooted and no pods are restarted. Load balancers, block storage, and other attached resources are unaffected.\r\n- CI/CD and GitOps tools may report transient errors during the window and will retry automatically.\r\n\r\n\r\nWhat you need to do: \r\nNo action is required. If you have time-sensitive deployments planned, we recommend avoiding this window.\r\n\r\nWe will publish updates at https://status.vultr.com/ when the maintenance begins and when it completes. If you experience any issues after the window closes, please contact Support."
-        }
-      ]
-    },
-    {
-      "id": "b22fbf02-19a6-4c85-988a-3a62aaea328b",
-      "region": "ewr",
-      "subject": "Scheduled Maintenance: VKE Control Plane Upgrades",
-      "start_date": "2026-10-20T14:56:11+00:00",
-      "updated_at": "",
-      "status": "ongoing",
-      "entries": [
-        {
-          "updated_at": "2026-10-20T14:56:11+00:00",
-          "message": "We will be performing software updates on Vultr Kubernetes Engine (VKE) control planes as part of our ongoing effort to maintain a reliable and secure hosting environment.\r\n\r\nStart: 2026-11-16 16:00:00 UTC\r\nEnd:   2026-11-16 19:00:00 UTC\r\n\r\nWhat to expect:\r\n- Your cluster's control plane will be upgraded at some point during this window. The exact time for each cluster is not scheduled in advance and cannot be provided.\r\n- Each control plane will be unavailable for less than five minutes. During that brief period, the Kubernetes API and cluster management operations, including deployments and scaling, will be temporarily unavailable.\r\n- Existing workloads will continue to run. Worker nodes are not rebooted and no pods are restarted. Load balancers, block storage, and other attached resources are unaffected.\r\n- CI/CD and GitOps tools may report transient errors during the window and will retry automatically.\r\n\r\n\r\nWhat you need to do: \r\nNo action is required. If you have time-sensitive deployments planned, we recommend avoiding this window.\r\n\r\nWe will publish updates at https://status.vultr.com/ when the maintenance begins and when it completes. If you experience any issues after the window closes, please contact Support."
-        }
-      ]
-    },
-    {
-      "id": "b22fbf02-19a6-4c85-988a-3a62aaea328b",
-      "region": "itm",
+      "region": "blr",
       "subject": "Scheduled Maintenance: VKE Control Plane Upgrades",
       "start_date": "2026-10-20T14:56:11+00:00",
       "updated_at": "",
@@ -170,7 +310,7 @@
     },
     {
       "id": "b22fbf02-19a6-4c85-988a-3a62aaea328b",
-      "region": "sao",
+      "region": "hnl",
       "subject": "Scheduled Maintenance: VKE Control Plane Upgrades",
       "start_date": "2026-10-20T14:56:11+00:00",
       "updated_at": "",
@@ -184,7 +324,7 @@
     },
     {
       "id": "b22fbf02-19a6-4c85-988a-3a62aaea328b",
-      "region": "tlv",
+      "region": "sao",
       "subject": "Scheduled Maintenance: VKE Control Plane Upgrades",
       "start_date": "2026-10-20T14:56:11+00:00",
       "updated_at": "",
@@ -212,7 +352,7 @@
     },
     {
       "id": "b22fbf02-19a6-4c85-988a-3a62aaea328b",
-      "region": "mia",
+      "region": "icn",
       "subject": "Scheduled Maintenance: VKE Control Plane Upgrades",
       "start_date": "2026-10-20T14:56:11+00:00",
       "updated_at": "",
@@ -254,77 +394,21 @@
     },
     {
       "id": "b22fbf02-19a6-4c85-988a-3a62aaea328b",
+      "region": "ewr",
+      "subject": "Scheduled Maintenance: VKE Control Plane Upgrades",
+      "start_date": "2026-10-20T14:56:11+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-10-20T14:56:11+00:00",
+          "message": "We will be performing software updates on Vultr Kubernetes Engine (VKE) control planes as part of our ongoing effort to maintain a reliable and secure hosting environment.\r\n\r\nStart: 2026-11-16 16:00:00 UTC\r\nEnd:   2026-11-16 19:00:00 UTC\r\n\r\nWhat to expect:\r\n- Your cluster's control plane will be upgraded at some point during this window. The exact time for each cluster is not scheduled in advance and cannot be provided.\r\n- Each control plane will be unavailable for less than five minutes. During that brief period, the Kubernetes API and cluster management operations, including deployments and scaling, will be temporarily unavailable.\r\n- Existing workloads will continue to run. Worker nodes are not rebooted and no pods are restarted. Load balancers, block storage, and other attached resources are unaffected.\r\n- CI/CD and GitOps tools may report transient errors during the window and will retry automatically.\r\n\r\n\r\nWhat you need to do: \r\nNo action is required. If you have time-sensitive deployments planned, we recommend avoiding this window.\r\n\r\nWe will publish updates at https://status.vultr.com/ when the maintenance begins and when it completes. If you experience any issues after the window closes, please contact Support."
+        }
+      ]
+    },
+    {
+      "id": "b22fbf02-19a6-4c85-988a-3a62aaea328b",
       "region": "sto",
-      "subject": "Scheduled Maintenance: VKE Control Plane Upgrades",
-      "start_date": "2026-10-20T14:56:11+00:00",
-      "updated_at": "",
-      "status": "ongoing",
-      "entries": [
-        {
-          "updated_at": "2026-10-20T14:56:11+00:00",
-          "message": "We will be performing software updates on Vultr Kubernetes Engine (VKE) control planes as part of our ongoing effort to maintain a reliable and secure hosting environment.\r\n\r\nStart: 2026-11-16 16:00:00 UTC\r\nEnd:   2026-11-16 19:00:00 UTC\r\n\r\nWhat to expect:\r\n- Your cluster's control plane will be upgraded at some point during this window. The exact time for each cluster is not scheduled in advance and cannot be provided.\r\n- Each control plane will be unavailable for less than five minutes. During that brief period, the Kubernetes API and cluster management operations, including deployments and scaling, will be temporarily unavailable.\r\n- Existing workloads will continue to run. Worker nodes are not rebooted and no pods are restarted. Load balancers, block storage, and other attached resources are unaffected.\r\n- CI/CD and GitOps tools may report transient errors during the window and will retry automatically.\r\n\r\n\r\nWhat you need to do: \r\nNo action is required. If you have time-sensitive deployments planned, we recommend avoiding this window.\r\n\r\nWe will publish updates at https://status.vultr.com/ when the maintenance begins and when it completes. If you experience any issues after the window closes, please contact Support."
-        }
-      ]
-    },
-    {
-      "id": "b22fbf02-19a6-4c85-988a-3a62aaea328b",
-      "region": "syd",
-      "subject": "Scheduled Maintenance: VKE Control Plane Upgrades",
-      "start_date": "2026-10-20T14:56:11+00:00",
-      "updated_at": "",
-      "status": "ongoing",
-      "entries": [
-        {
-          "updated_at": "2026-10-20T14:56:11+00:00",
-          "message": "We will be performing software updates on Vultr Kubernetes Engine (VKE) control planes as part of our ongoing effort to maintain a reliable and secure hosting environment.\r\n\r\nStart: 2026-11-16 16:00:00 UTC\r\nEnd:   2026-11-16 19:00:00 UTC\r\n\r\nWhat to expect:\r\n- Your cluster's control plane will be upgraded at some point during this window. The exact time for each cluster is not scheduled in advance and cannot be provided.\r\n- Each control plane will be unavailable for less than five minutes. During that brief period, the Kubernetes API and cluster management operations, including deployments and scaling, will be temporarily unavailable.\r\n- Existing workloads will continue to run. Worker nodes are not rebooted and no pods are restarted. Load balancers, block storage, and other attached resources are unaffected.\r\n- CI/CD and GitOps tools may report transient errors during the window and will retry automatically.\r\n\r\n\r\nWhat you need to do: \r\nNo action is required. If you have time-sensitive deployments planned, we recommend avoiding this window.\r\n\r\nWe will publish updates at https://status.vultr.com/ when the maintenance begins and when it completes. If you experience any issues after the window closes, please contact Support."
-        }
-      ]
-    },
-    {
-      "id": "b22fbf02-19a6-4c85-988a-3a62aaea328b",
-      "region": "icn",
-      "subject": "Scheduled Maintenance: VKE Control Plane Upgrades",
-      "start_date": "2026-10-20T14:56:11+00:00",
-      "updated_at": "",
-      "status": "ongoing",
-      "entries": [
-        {
-          "updated_at": "2026-10-20T14:56:11+00:00",
-          "message": "We will be performing software updates on Vultr Kubernetes Engine (VKE) control planes as part of our ongoing effort to maintain a reliable and secure hosting environment.\r\n\r\nStart: 2026-11-16 16:00:00 UTC\r\nEnd:   2026-11-16 19:00:00 UTC\r\n\r\nWhat to expect:\r\n- Your cluster's control plane will be upgraded at some point during this window. The exact time for each cluster is not scheduled in advance and cannot be provided.\r\n- Each control plane will be unavailable for less than five minutes. During that brief period, the Kubernetes API and cluster management operations, including deployments and scaling, will be temporarily unavailable.\r\n- Existing workloads will continue to run. Worker nodes are not rebooted and no pods are restarted. Load balancers, block storage, and other attached resources are unaffected.\r\n- CI/CD and GitOps tools may report transient errors during the window and will retry automatically.\r\n\r\n\r\nWhat you need to do: \r\nNo action is required. If you have time-sensitive deployments planned, we recommend avoiding this window.\r\n\r\nWe will publish updates at https://status.vultr.com/ when the maintenance begins and when it completes. If you experience any issues after the window closes, please contact Support."
-        }
-      ]
-    },
-    {
-      "id": "b22fbf02-19a6-4c85-988a-3a62aaea328b",
-      "region": "ams",
-      "subject": "Scheduled Maintenance: VKE Control Plane Upgrades",
-      "start_date": "2026-10-20T14:56:11+00:00",
-      "updated_at": "",
-      "status": "ongoing",
-      "entries": [
-        {
-          "updated_at": "2026-10-20T14:56:11+00:00",
-          "message": "We will be performing software updates on Vultr Kubernetes Engine (VKE) control planes as part of our ongoing effort to maintain a reliable and secure hosting environment.\r\n\r\nStart: 2026-11-16 16:00:00 UTC\r\nEnd:   2026-11-16 19:00:00 UTC\r\n\r\nWhat to expect:\r\n- Your cluster's control plane will be upgraded at some point during this window. The exact time for each cluster is not scheduled in advance and cannot be provided.\r\n- Each control plane will be unavailable for less than five minutes. During that brief period, the Kubernetes API and cluster management operations, including deployments and scaling, will be temporarily unavailable.\r\n- Existing workloads will continue to run. Worker nodes are not rebooted and no pods are restarted. Load balancers, block storage, and other attached resources are unaffected.\r\n- CI/CD and GitOps tools may report transient errors during the window and will retry automatically.\r\n\r\n\r\nWhat you need to do: \r\nNo action is required. If you have time-sensitive deployments planned, we recommend avoiding this window.\r\n\r\nWe will publish updates at https://status.vultr.com/ when the maintenance begins and when it completes. If you experience any issues after the window closes, please contact Support."
-        }
-      ]
-    },
-    {
-      "id": "b22fbf02-19a6-4c85-988a-3a62aaea328b",
-      "region": "mex",
-      "subject": "Scheduled Maintenance: VKE Control Plane Upgrades",
-      "start_date": "2026-10-20T14:56:11+00:00",
-      "updated_at": "",
-      "status": "ongoing",
-      "entries": [
-        {
-          "updated_at": "2026-10-20T14:56:11+00:00",
-          "message": "We will be performing software updates on Vultr Kubernetes Engine (VKE) control planes as part of our ongoing effort to maintain a reliable and secure hosting environment.\r\n\r\nStart: 2026-11-16 16:00:00 UTC\r\nEnd:   2026-11-16 19:00:00 UTC\r\n\r\nWhat to expect:\r\n- Your cluster's control plane will be upgraded at some point during this window. The exact time for each cluster is not scheduled in advance and cannot be provided.\r\n- Each control plane will be unavailable for less than five minutes. During that brief period, the Kubernetes API and cluster management operations, including deployments and scaling, will be temporarily unavailable.\r\n- Existing workloads will continue to run. Worker nodes are not rebooted and no pods are restarted. Load balancers, block storage, and other attached resources are unaffected.\r\n- CI/CD and GitOps tools may report transient errors during the window and will retry automatically.\r\n\r\n\r\nWhat you need to do: \r\nNo action is required. If you have time-sensitive deployments planned, we recommend avoiding this window.\r\n\r\nWe will publish updates at https://status.vultr.com/ when the maintenance begins and when it completes. If you experience any issues after the window closes, please contact Support."
-        }
-      ]
-    },
-    {
-      "id": "b22fbf02-19a6-4c85-988a-3a62aaea328b",
-      "region": "hnl",
       "subject": "Scheduled Maintenance: VKE Control Plane Upgrades",
       "start_date": "2026-10-20T14:56:11+00:00",
       "updated_at": "",
@@ -352,7 +436,7 @@
     },
     {
       "id": "b22fbf02-19a6-4c85-988a-3a62aaea328b",
-      "region": "blr",
+      "region": "syd",
       "subject": "Scheduled Maintenance: VKE Control Plane Upgrades",
       "start_date": "2026-10-20T14:56:11+00:00",
       "updated_at": "",
@@ -366,7 +450,7 @@
     },
     {
       "id": "b22fbf02-19a6-4c85-988a-3a62aaea328b",
-      "region": "ord",
+      "region": "tlv",
       "subject": "Scheduled Maintenance: VKE Control Plane Upgrades",
       "start_date": "2026-10-20T14:56:11+00:00",
       "updated_at": "",
@@ -380,7 +464,7 @@
     },
     {
       "id": "b22fbf02-19a6-4c85-988a-3a62aaea328b",
-      "region": "dfw",
+      "region": "ams",
       "subject": "Scheduled Maintenance: VKE Control Plane Upgrades",
       "start_date": "2026-10-20T14:56:11+00:00",
       "updated_at": "",
@@ -394,7 +478,7 @@
     },
     {
       "id": "b22fbf02-19a6-4c85-988a-3a62aaea328b",
-      "region": "mel",
+      "region": "nrt",
       "subject": "Scheduled Maintenance: VKE Control Plane Upgrades",
       "start_date": "2026-10-20T14:56:11+00:00",
       "updated_at": "",
@@ -408,7 +492,49 @@
     },
     {
       "id": "b22fbf02-19a6-4c85-988a-3a62aaea328b",
-      "region": "fra",
+      "region": "yto",
+      "subject": "Scheduled Maintenance: VKE Control Plane Upgrades",
+      "start_date": "2026-10-20T14:56:11+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-10-20T14:56:11+00:00",
+          "message": "We will be performing software updates on Vultr Kubernetes Engine (VKE) control planes as part of our ongoing effort to maintain a reliable and secure hosting environment.\r\n\r\nStart: 2026-11-16 16:00:00 UTC\r\nEnd:   2026-11-16 19:00:00 UTC\r\n\r\nWhat to expect:\r\n- Your cluster's control plane will be upgraded at some point during this window. The exact time for each cluster is not scheduled in advance and cannot be provided.\r\n- Each control plane will be unavailable for less than five minutes. During that brief period, the Kubernetes API and cluster management operations, including deployments and scaling, will be temporarily unavailable.\r\n- Existing workloads will continue to run. Worker nodes are not rebooted and no pods are restarted. Load balancers, block storage, and other attached resources are unaffected.\r\n- CI/CD and GitOps tools may report transient errors during the window and will retry automatically.\r\n\r\n\r\nWhat you need to do: \r\nNo action is required. If you have time-sensitive deployments planned, we recommend avoiding this window.\r\n\r\nWe will publish updates at https://status.vultr.com/ when the maintenance begins and when it completes. If you experience any issues after the window closes, please contact Support."
+        }
+      ]
+    },
+    {
+      "id": "b22fbf02-19a6-4c85-988a-3a62aaea328b",
+      "region": "itm",
+      "subject": "Scheduled Maintenance: VKE Control Plane Upgrades",
+      "start_date": "2026-10-20T14:56:11+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-10-20T14:56:11+00:00",
+          "message": "We will be performing software updates on Vultr Kubernetes Engine (VKE) control planes as part of our ongoing effort to maintain a reliable and secure hosting environment.\r\n\r\nStart: 2026-11-16 16:00:00 UTC\r\nEnd:   2026-11-16 19:00:00 UTC\r\n\r\nWhat to expect:\r\n- Your cluster's control plane will be upgraded at some point during this window. The exact time for each cluster is not scheduled in advance and cannot be provided.\r\n- Each control plane will be unavailable for less than five minutes. During that brief period, the Kubernetes API and cluster management operations, including deployments and scaling, will be temporarily unavailable.\r\n- Existing workloads will continue to run. Worker nodes are not rebooted and no pods are restarted. Load balancers, block storage, and other attached resources are unaffected.\r\n- CI/CD and GitOps tools may report transient errors during the window and will retry automatically.\r\n\r\n\r\nWhat you need to do: \r\nNo action is required. If you have time-sensitive deployments planned, we recommend avoiding this window.\r\n\r\nWe will publish updates at https://status.vultr.com/ when the maintenance begins and when it completes. If you experience any issues after the window closes, please contact Support."
+        }
+      ]
+    },
+    {
+      "id": "b22fbf02-19a6-4c85-988a-3a62aaea328b",
+      "region": "scl",
+      "subject": "Scheduled Maintenance: VKE Control Plane Upgrades",
+      "start_date": "2026-10-20T14:56:11+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-10-20T14:56:11+00:00",
+          "message": "We will be performing software updates on Vultr Kubernetes Engine (VKE) control planes as part of our ongoing effort to maintain a reliable and secure hosting environment.\r\n\r\nStart: 2026-11-16 16:00:00 UTC\r\nEnd:   2026-11-16 19:00:00 UTC\r\n\r\nWhat to expect:\r\n- Your cluster's control plane will be upgraded at some point during this window. The exact time for each cluster is not scheduled in advance and cannot be provided.\r\n- Each control plane will be unavailable for less than five minutes. During that brief period, the Kubernetes API and cluster management operations, including deployments and scaling, will be temporarily unavailable.\r\n- Existing workloads will continue to run. Worker nodes are not rebooted and no pods are restarted. Load balancers, block storage, and other attached resources are unaffected.\r\n- CI/CD and GitOps tools may report transient errors during the window and will retry automatically.\r\n\r\n\r\nWhat you need to do: \r\nNo action is required. If you have time-sensitive deployments planned, we recommend avoiding this window.\r\n\r\nWe will publish updates at https://status.vultr.com/ when the maintenance begins and when it completes. If you experience any issues after the window closes, please contact Support."
+        }
+      ]
+    },
+    {
+      "id": "b22fbf02-19a6-4c85-988a-3a62aaea328b",
+      "region": "waw",
       "subject": "Scheduled Maintenance: VKE Control Plane Upgrades",
       "start_date": "2026-10-20T14:56:11+00:00",
       "updated_at": "",
@@ -423,34 +549,6 @@
     {
       "id": "b22fbf02-19a6-4c85-988a-3a62aaea328b",
       "region": "del",
-      "subject": "Scheduled Maintenance: VKE Control Plane Upgrades",
-      "start_date": "2026-10-20T14:56:11+00:00",
-      "updated_at": "",
-      "status": "ongoing",
-      "entries": [
-        {
-          "updated_at": "2026-10-20T14:56:11+00:00",
-          "message": "We will be performing software updates on Vultr Kubernetes Engine (VKE) control planes as part of our ongoing effort to maintain a reliable and secure hosting environment.\r\n\r\nStart: 2026-11-16 16:00:00 UTC\r\nEnd:   2026-11-16 19:00:00 UTC\r\n\r\nWhat to expect:\r\n- Your cluster's control plane will be upgraded at some point during this window. The exact time for each cluster is not scheduled in advance and cannot be provided.\r\n- Each control plane will be unavailable for less than five minutes. During that brief period, the Kubernetes API and cluster management operations, including deployments and scaling, will be temporarily unavailable.\r\n- Existing workloads will continue to run. Worker nodes are not rebooted and no pods are restarted. Load balancers, block storage, and other attached resources are unaffected.\r\n- CI/CD and GitOps tools may report transient errors during the window and will retry automatically.\r\n\r\n\r\nWhat you need to do: \r\nNo action is required. If you have time-sensitive deployments planned, we recommend avoiding this window.\r\n\r\nWe will publish updates at https://status.vultr.com/ when the maintenance begins and when it completes. If you experience any issues after the window closes, please contact Support."
-        }
-      ]
-    },
-    {
-      "id": "b22fbf02-19a6-4c85-988a-3a62aaea328b",
-      "region": "jnb",
-      "subject": "Scheduled Maintenance: VKE Control Plane Upgrades",
-      "start_date": "2026-10-20T14:56:11+00:00",
-      "updated_at": "",
-      "status": "ongoing",
-      "entries": [
-        {
-          "updated_at": "2026-10-20T14:56:11+00:00",
-          "message": "We will be performing software updates on Vultr Kubernetes Engine (VKE) control planes as part of our ongoing effort to maintain a reliable and secure hosting environment.\r\n\r\nStart: 2026-11-16 16:00:00 UTC\r\nEnd:   2026-11-16 19:00:00 UTC\r\n\r\nWhat to expect:\r\n- Your cluster's control plane will be upgraded at some point during this window. The exact time for each cluster is not scheduled in advance and cannot be provided.\r\n- Each control plane will be unavailable for less than five minutes. During that brief period, the Kubernetes API and cluster management operations, including deployments and scaling, will be temporarily unavailable.\r\n- Existing workloads will continue to run. Worker nodes are not rebooted and no pods are restarted. Load balancers, block storage, and other attached resources are unaffected.\r\n- CI/CD and GitOps tools may report transient errors during the window and will retry automatically.\r\n\r\n\r\nWhat you need to do: \r\nNo action is required. If you have time-sensitive deployments planned, we recommend avoiding this window.\r\n\r\nWe will publish updates at https://status.vultr.com/ when the maintenance begins and when it completes. If you experience any issues after the window closes, please contact Support."
-        }
-      ]
-    },
-    {
-      "id": "b22fbf02-19a6-4c85-988a-3a62aaea328b",
-      "region": "lhr",
       "subject": "Scheduled Maintenance: VKE Control Plane Upgrades",
       "start_date": "2026-10-20T14:56:11+00:00",
       "updated_at": "",
@@ -478,7 +576,119 @@
     },
     {
       "id": "b22fbf02-19a6-4c85-988a-3a62aaea328b",
-      "region": "waw",
+      "region": "fra",
+      "subject": "Scheduled Maintenance: VKE Control Plane Upgrades",
+      "start_date": "2026-10-20T14:56:11+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-10-20T14:56:11+00:00",
+          "message": "We will be performing software updates on Vultr Kubernetes Engine (VKE) control planes as part of our ongoing effort to maintain a reliable and secure hosting environment.\r\n\r\nStart: 2026-11-16 16:00:00 UTC\r\nEnd:   2026-11-16 19:00:00 UTC\r\n\r\nWhat to expect:\r\n- Your cluster's control plane will be upgraded at some point during this window. The exact time for each cluster is not scheduled in advance and cannot be provided.\r\n- Each control plane will be unavailable for less than five minutes. During that brief period, the Kubernetes API and cluster management operations, including deployments and scaling, will be temporarily unavailable.\r\n- Existing workloads will continue to run. Worker nodes are not rebooted and no pods are restarted. Load balancers, block storage, and other attached resources are unaffected.\r\n- CI/CD and GitOps tools may report transient errors during the window and will retry automatically.\r\n\r\n\r\nWhat you need to do: \r\nNo action is required. If you have time-sensitive deployments planned, we recommend avoiding this window.\r\n\r\nWe will publish updates at https://status.vultr.com/ when the maintenance begins and when it completes. If you experience any issues after the window closes, please contact Support."
+        }
+      ]
+    },
+    {
+      "id": "b22fbf02-19a6-4c85-988a-3a62aaea328b",
+      "region": "mel",
+      "subject": "Scheduled Maintenance: VKE Control Plane Upgrades",
+      "start_date": "2026-10-20T14:56:11+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-10-20T14:56:11+00:00",
+          "message": "We will be performing software updates on Vultr Kubernetes Engine (VKE) control planes as part of our ongoing effort to maintain a reliable and secure hosting environment.\r\n\r\nStart: 2026-11-16 16:00:00 UTC\r\nEnd:   2026-11-16 19:00:00 UTC\r\n\r\nWhat to expect:\r\n- Your cluster's control plane will be upgraded at some point during this window. The exact time for each cluster is not scheduled in advance and cannot be provided.\r\n- Each control plane will be unavailable for less than five minutes. During that brief period, the Kubernetes API and cluster management operations, including deployments and scaling, will be temporarily unavailable.\r\n- Existing workloads will continue to run. Worker nodes are not rebooted and no pods are restarted. Load balancers, block storage, and other attached resources are unaffected.\r\n- CI/CD and GitOps tools may report transient errors during the window and will retry automatically.\r\n\r\n\r\nWhat you need to do: \r\nNo action is required. If you have time-sensitive deployments planned, we recommend avoiding this window.\r\n\r\nWe will publish updates at https://status.vultr.com/ when the maintenance begins and when it completes. If you experience any issues after the window closes, please contact Support."
+        }
+      ]
+    },
+    {
+      "id": "b22fbf02-19a6-4c85-988a-3a62aaea328b",
+      "region": "mex",
+      "subject": "Scheduled Maintenance: VKE Control Plane Upgrades",
+      "start_date": "2026-10-20T14:56:11+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-10-20T14:56:11+00:00",
+          "message": "We will be performing software updates on Vultr Kubernetes Engine (VKE) control planes as part of our ongoing effort to maintain a reliable and secure hosting environment.\r\n\r\nStart: 2026-11-16 16:00:00 UTC\r\nEnd:   2026-11-16 19:00:00 UTC\r\n\r\nWhat to expect:\r\n- Your cluster's control plane will be upgraded at some point during this window. The exact time for each cluster is not scheduled in advance and cannot be provided.\r\n- Each control plane will be unavailable for less than five minutes. During that brief period, the Kubernetes API and cluster management operations, including deployments and scaling, will be temporarily unavailable.\r\n- Existing workloads will continue to run. Worker nodes are not rebooted and no pods are restarted. Load balancers, block storage, and other attached resources are unaffected.\r\n- CI/CD and GitOps tools may report transient errors during the window and will retry automatically.\r\n\r\n\r\nWhat you need to do: \r\nNo action is required. If you have time-sensitive deployments planned, we recommend avoiding this window.\r\n\r\nWe will publish updates at https://status.vultr.com/ when the maintenance begins and when it completes. If you experience any issues after the window closes, please contact Support."
+        }
+      ]
+    },
+    {
+      "id": "b22fbf02-19a6-4c85-988a-3a62aaea328b",
+      "region": "mia",
+      "subject": "Scheduled Maintenance: VKE Control Plane Upgrades",
+      "start_date": "2026-10-20T14:56:11+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-10-20T14:56:11+00:00",
+          "message": "We will be performing software updates on Vultr Kubernetes Engine (VKE) control planes as part of our ongoing effort to maintain a reliable and secure hosting environment.\r\n\r\nStart: 2026-11-16 16:00:00 UTC\r\nEnd:   2026-11-16 19:00:00 UTC\r\n\r\nWhat to expect:\r\n- Your cluster's control plane will be upgraded at some point during this window. The exact time for each cluster is not scheduled in advance and cannot be provided.\r\n- Each control plane will be unavailable for less than five minutes. During that brief period, the Kubernetes API and cluster management operations, including deployments and scaling, will be temporarily unavailable.\r\n- Existing workloads will continue to run. Worker nodes are not rebooted and no pods are restarted. Load balancers, block storage, and other attached resources are unaffected.\r\n- CI/CD and GitOps tools may report transient errors during the window and will retry automatically.\r\n\r\n\r\nWhat you need to do: \r\nNo action is required. If you have time-sensitive deployments planned, we recommend avoiding this window.\r\n\r\nWe will publish updates at https://status.vultr.com/ when the maintenance begins and when it completes. If you experience any issues after the window closes, please contact Support."
+        }
+      ]
+    },
+    {
+      "id": "b22fbf02-19a6-4c85-988a-3a62aaea328b",
+      "region": "lhr",
+      "subject": "Scheduled Maintenance: VKE Control Plane Upgrades",
+      "start_date": "2026-10-20T14:56:11+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-10-20T14:56:11+00:00",
+          "message": "We will be performing software updates on Vultr Kubernetes Engine (VKE) control planes as part of our ongoing effort to maintain a reliable and secure hosting environment.\r\n\r\nStart: 2026-11-16 16:00:00 UTC\r\nEnd:   2026-11-16 19:00:00 UTC\r\n\r\nWhat to expect:\r\n- Your cluster's control plane will be upgraded at some point during this window. The exact time for each cluster is not scheduled in advance and cannot be provided.\r\n- Each control plane will be unavailable for less than five minutes. During that brief period, the Kubernetes API and cluster management operations, including deployments and scaling, will be temporarily unavailable.\r\n- Existing workloads will continue to run. Worker nodes are not rebooted and no pods are restarted. Load balancers, block storage, and other attached resources are unaffected.\r\n- CI/CD and GitOps tools may report transient errors during the window and will retry automatically.\r\n\r\n\r\nWhat you need to do: \r\nNo action is required. If you have time-sensitive deployments planned, we recommend avoiding this window.\r\n\r\nWe will publish updates at https://status.vultr.com/ when the maintenance begins and when it completes. If you experience any issues after the window closes, please contact Support."
+        }
+      ]
+    },
+    {
+      "id": "b22fbf02-19a6-4c85-988a-3a62aaea328b",
+      "region": "dfw",
+      "subject": "Scheduled Maintenance: VKE Control Plane Upgrades",
+      "start_date": "2026-10-20T14:56:11+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-10-20T14:56:11+00:00",
+          "message": "We will be performing software updates on Vultr Kubernetes Engine (VKE) control planes as part of our ongoing effort to maintain a reliable and secure hosting environment.\r\n\r\nStart: 2026-11-16 16:00:00 UTC\r\nEnd:   2026-11-16 19:00:00 UTC\r\n\r\nWhat to expect:\r\n- Your cluster's control plane will be upgraded at some point during this window. The exact time for each cluster is not scheduled in advance and cannot be provided.\r\n- Each control plane will be unavailable for less than five minutes. During that brief period, the Kubernetes API and cluster management operations, including deployments and scaling, will be temporarily unavailable.\r\n- Existing workloads will continue to run. Worker nodes are not rebooted and no pods are restarted. Load balancers, block storage, and other attached resources are unaffected.\r\n- CI/CD and GitOps tools may report transient errors during the window and will retry automatically.\r\n\r\n\r\nWhat you need to do: \r\nNo action is required. If you have time-sensitive deployments planned, we recommend avoiding this window.\r\n\r\nWe will publish updates at https://status.vultr.com/ when the maintenance begins and when it completes. If you experience any issues after the window closes, please contact Support."
+        }
+      ]
+    },
+    {
+      "id": "b22fbf02-19a6-4c85-988a-3a62aaea328b",
+      "region": "mxp",
+      "subject": "Scheduled Maintenance: VKE Control Plane Upgrades",
+      "start_date": "2026-10-20T14:56:11+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-10-20T14:56:11+00:00",
+          "message": "We will be performing software updates on Vultr Kubernetes Engine (VKE) control planes as part of our ongoing effort to maintain a reliable and secure hosting environment.\r\n\r\nStart: 2026-11-16 16:00:00 UTC\r\nEnd:   2026-11-16 19:00:00 UTC\r\n\r\nWhat to expect:\r\n- Your cluster's control plane will be upgraded at some point during this window. The exact time for each cluster is not scheduled in advance and cannot be provided.\r\n- Each control plane will be unavailable for less than five minutes. During that brief period, the Kubernetes API and cluster management operations, including deployments and scaling, will be temporarily unavailable.\r\n- Existing workloads will continue to run. Worker nodes are not rebooted and no pods are restarted. Load balancers, block storage, and other attached resources are unaffected.\r\n- CI/CD and GitOps tools may report transient errors during the window and will retry automatically.\r\n\r\n\r\nWhat you need to do: \r\nNo action is required. If you have time-sensitive deployments planned, we recommend avoiding this window.\r\n\r\nWe will publish updates at https://status.vultr.com/ when the maintenance begins and when it completes. If you experience any issues after the window closes, please contact Support."
+        }
+      ]
+    },
+    {
+      "id": "b22fbf02-19a6-4c85-988a-3a62aaea328b",
+      "region": "bom",
+      "subject": "Scheduled Maintenance: VKE Control Plane Upgrades",
+      "start_date": "2026-10-20T14:56:11+00:00",
+      "updated_at": "",
+      "status": "ongoing",
+      "entries": [
+        {
+          "updated_at": "2026-10-20T14:56:11+00:00",
+          "message": "We will be performing software updates on Vultr Kubernetes Engine (VKE) control planes as part of our ongoing effort to maintain a reliable and secure hosting environment.\r\n\r\nStart: 2026-11-16 16:00:00 UTC\r\nEnd:   2026-11-16 19:00:00 UTC\r\n\r\nWhat to expect:\r\n- Your cluster's control plane will be upgraded at some point during this window. The exact time for each cluster is not scheduled in advance and cannot be provided.\r\n- Each control plane will be unavailable for less than five minutes. During that brief period, the Kubernetes API and cluster management operations, including deployments and scaling, will be temporarily unavailable.\r\n- Existing workloads will continue to run. Worker nodes are not rebooted and no pods are restarted. Load balancers, block storage, and other attached resources are unaffected.\r\n- CI/CD and GitOps tools may report transient errors during the window and will retry automatically.\r\n\r\n\r\nWhat you need to do: \r\nNo action is required. If you have time-sensitive deployments planned, we recommend avoiding this window.\r\n\r\nWe will publish updates at https://status.vultr.com/ when the maintenance begins and when it completes. If you experience any issues after the window closes, please contact Support."
+        }
+      ]
+    },
+    {
+      "id": "b22fbf02-19a6-4c85-988a-3a62aaea328b",
+      "region": "ord",
       "subject": "Scheduled Maintenance: VKE Control Plane Upgrades",
       "start_date": "2026-10-20T14:56:11+00:00",
       "updated_at": "",
@@ -492,7 +702,7 @@
     },
     {
       "id": "09dafba2-908b-4ea1-9174-18b965891793",
-      "region": "sea",
+      "region": "nrt",
       "subject": "Scheduled Maintenance - Vultr Container Registry (VCR)",
       "start_date": "2026-10-19T21:42:43+00:00",
       "updated_at": "",
@@ -520,49 +730,7 @@
     },
     {
       "id": "09dafba2-908b-4ea1-9174-18b965891793",
-      "region": "icn",
-      "subject": "Scheduled Maintenance - Vultr Container Registry (VCR)",
-      "start_date": "2026-10-19T21:42:43+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2026-10-19T21:42:43+00:00",
-          "message": "Scheduled maintenance is planned for the Vultr Container Registry (VCR). During the maintenance window, container image push and pull operations, and registry API requests, may be briefly interrupted. Stored container images are not affected and no data will be lost.\r\n\r\n\r\nStart: 2026-11-02 18:20:00 UTC\r\nEnd:   2026-11-03 00:20:00 UTC"
-        }
-      ]
-    },
-    {
-      "id": "09dafba2-908b-4ea1-9174-18b965891793",
       "region": "lhr",
-      "subject": "Scheduled Maintenance - Vultr Container Registry (VCR)",
-      "start_date": "2026-10-19T21:42:43+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2026-10-19T21:42:43+00:00",
-          "message": "Scheduled maintenance is planned for the Vultr Container Registry (VCR). During the maintenance window, container image push and pull operations, and registry API requests, may be briefly interrupted. Stored container images are not affected and no data will be lost.\r\n\r\n\r\nStart: 2026-11-02 18:20:00 UTC\r\nEnd:   2026-11-03 00:20:00 UTC"
-        }
-      ]
-    },
-    {
-      "id": "09dafba2-908b-4ea1-9174-18b965891793",
-      "region": "sjc",
-      "subject": "Scheduled Maintenance - Vultr Container Registry (VCR)",
-      "start_date": "2026-10-19T21:42:43+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2026-10-19T21:42:43+00:00",
-          "message": "Scheduled maintenance is planned for the Vultr Container Registry (VCR). During the maintenance window, container image push and pull operations, and registry API requests, may be briefly interrupted. Stored container images are not affected and no data will be lost.\r\n\r\n\r\nStart: 2026-11-02 18:20:00 UTC\r\nEnd:   2026-11-03 00:20:00 UTC"
-        }
-      ]
-    },
-    {
-      "id": "09dafba2-908b-4ea1-9174-18b965891793",
-      "region": "ord",
       "subject": "Scheduled Maintenance - Vultr Container Registry (VCR)",
       "start_date": "2026-10-19T21:42:43+00:00",
       "updated_at": "",
@@ -590,21 +758,7 @@
     },
     {
       "id": "09dafba2-908b-4ea1-9174-18b965891793",
-      "region": "lax",
-      "subject": "Scheduled Maintenance - Vultr Container Registry (VCR)",
-      "start_date": "2026-10-19T21:42:43+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2026-10-19T21:42:43+00:00",
-          "message": "Scheduled maintenance is planned for the Vultr Container Registry (VCR). During the maintenance window, container image push and pull operations, and registry API requests, may be briefly interrupted. Stored container images are not affected and no data will be lost.\r\n\r\n\r\nStart: 2026-11-02 18:20:00 UTC\r\nEnd:   2026-11-03 00:20:00 UTC"
-        }
-      ]
-    },
-    {
-      "id": "09dafba2-908b-4ea1-9174-18b965891793",
-      "region": "blr",
+      "region": "ams",
       "subject": "Scheduled Maintenance - Vultr Container Registry (VCR)",
       "start_date": "2026-10-19T21:42:43+00:00",
       "updated_at": "",
@@ -632,7 +786,21 @@
     },
     {
       "id": "09dafba2-908b-4ea1-9174-18b965891793",
-      "region": "ams",
+      "region": "blr",
+      "subject": "Scheduled Maintenance - Vultr Container Registry (VCR)",
+      "start_date": "2026-10-19T21:42:43+00:00",
+      "updated_at": "",
+      "status": "resolved",
+      "entries": [
+        {
+          "updated_at": "2026-10-19T21:42:43+00:00",
+          "message": "Scheduled maintenance is planned for the Vultr Container Registry (VCR). During the maintenance window, container image push and pull operations, and registry API requests, may be briefly interrupted. Stored container images are not affected and no data will be lost.\r\n\r\n\r\nStart: 2026-11-02 18:20:00 UTC\r\nEnd:   2026-11-03 00:20:00 UTC"
+        }
+      ]
+    },
+    {
+      "id": "09dafba2-908b-4ea1-9174-18b965891793",
+      "region": "lax",
       "subject": "Scheduled Maintenance - Vultr Container Registry (VCR)",
       "start_date": "2026-10-19T21:42:43+00:00",
       "updated_at": "",
@@ -660,7 +828,7 @@
     },
     {
       "id": "09dafba2-908b-4ea1-9174-18b965891793",
-      "region": "nrt",
+      "region": "ewr",
       "subject": "Scheduled Maintenance - Vultr Container Registry (VCR)",
       "start_date": "2026-10-19T21:42:43+00:00",
       "updated_at": "",
@@ -674,7 +842,49 @@
     },
     {
       "id": "09dafba2-908b-4ea1-9174-18b965891793",
-      "region": "ewr",
+      "region": "sjc",
+      "subject": "Scheduled Maintenance - Vultr Container Registry (VCR)",
+      "start_date": "2026-10-19T21:42:43+00:00",
+      "updated_at": "",
+      "status": "resolved",
+      "entries": [
+        {
+          "updated_at": "2026-10-19T21:42:43+00:00",
+          "message": "Scheduled maintenance is planned for the Vultr Container Registry (VCR). During the maintenance window, container image push and pull operations, and registry API requests, may be briefly interrupted. Stored container images are not affected and no data will be lost.\r\n\r\n\r\nStart: 2026-11-02 18:20:00 UTC\r\nEnd:   2026-11-03 00:20:00 UTC"
+        }
+      ]
+    },
+    {
+      "id": "09dafba2-908b-4ea1-9174-18b965891793",
+      "region": "icn",
+      "subject": "Scheduled Maintenance - Vultr Container Registry (VCR)",
+      "start_date": "2026-10-19T21:42:43+00:00",
+      "updated_at": "",
+      "status": "resolved",
+      "entries": [
+        {
+          "updated_at": "2026-10-19T21:42:43+00:00",
+          "message": "Scheduled maintenance is planned for the Vultr Container Registry (VCR). During the maintenance window, container image push and pull operations, and registry API requests, may be briefly interrupted. Stored container images are not affected and no data will be lost.\r\n\r\n\r\nStart: 2026-11-02 18:20:00 UTC\r\nEnd:   2026-11-03 00:20:00 UTC"
+        }
+      ]
+    },
+    {
+      "id": "09dafba2-908b-4ea1-9174-18b965891793",
+      "region": "sea",
+      "subject": "Scheduled Maintenance - Vultr Container Registry (VCR)",
+      "start_date": "2026-10-19T21:42:43+00:00",
+      "updated_at": "",
+      "status": "resolved",
+      "entries": [
+        {
+          "updated_at": "2026-10-19T21:42:43+00:00",
+          "message": "Scheduled maintenance is planned for the Vultr Container Registry (VCR). During the maintenance window, container image push and pull operations, and registry API requests, may be briefly interrupted. Stored container images are not affected and no data will be lost.\r\n\r\n\r\nStart: 2026-11-02 18:20:00 UTC\r\nEnd:   2026-11-03 00:20:00 UTC"
+        }
+      ]
+    },
+    {
+      "id": "09dafba2-908b-4ea1-9174-18b965891793",
+      "region": "ord",
       "subject": "Scheduled Maintenance - Vultr Container Registry (VCR)",
       "start_date": "2026-10-19T21:42:43+00:00",
       "updated_at": "",

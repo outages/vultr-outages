@@ -7,6 +7,32 @@
       "country_name": "Netherlands",
       "alerts": [
         {
+          "id": "b8897f76-fe8a-4435-8b4d-e6a236dc5437",
+          "subject": "Amsterdam, AMS - Amsterdam (AMS1) VFS Storage Infrastructure Upgrades - 2026-11-11",
+          "status": "ongoing",
+          "start_date": "2026-11-05T18:00:49+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-11-05T18:00:49+00:00",
+              "message": "Event Type: Storage Cluster Upgrade\r\nStart Time: 2026-11-11 18:00:00 UTC\r\nEnd Time: 2026-11-11 19:00:00 UTC\r\n\r\nOur Cloud Storage team will be upgrading our VFS Infrastructure. During the maintenance window a brief window of filesystem inaccessibility is expected to last under 60 seconds. The storage team will monitor cluster health, node status, and workload recovery throughout the maintenance window."
+            }
+          ]
+        },
+        {
+          "id": "b8897f76-fe8a-4435-8b4d-e6a236dc5437",
+          "subject": "Amsterdam, AMS - Amsterdam (AMS1) VFS Storage Infrastructure Upgrades - 2026-11-11",
+          "status": "ongoing",
+          "start_date": "2026-11-05T18:00:49+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-11-05T18:00:49+00:00",
+              "message": "Event Type: Storage Cluster Upgrade\r\nStart Time: 2026-11-11 18:00:00 UTC\r\nEnd Time: 2026-11-11 19:00:00 UTC\r\n\r\nOur Cloud Storage team will be upgrading our VFS Infrastructure. During the maintenance window a brief window of filesystem inaccessibility is expected to last under 60 seconds. The storage team will monitor cluster health, node status, and workload recovery throughout the maintenance window."
+            }
+          ]
+        },
+        {
           "id": "b22fbf02-19a6-4c85-988a-3a62aaea328b",
           "subject": "Scheduled Maintenance: VKE Control Plane Upgrades",
           "status": "ongoing",
@@ -40,6 +66,19 @@
       "country_name": "United States",
       "alerts": [
         {
+          "id": "85d61492-72df-4704-8f00-a34ba0eab183",
+          "subject": "Atlanta Scheduled Maintenance (Critical) - 2026-11-12",
+          "status": "ongoing",
+          "start_date": "2026-11-05T17:13:45+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-11-05T17:13:45+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Atlanta location during the following scheduled maintenance window. \r\n\r\nStart Time: 2026-11-12 05:00:00 UTC\r\nEnd Time: 2026-11-12 09:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Atlanta instances may be unreachable from the internet for some of the scheduled maintenance window as we perform a critical network topology change. While the work is scheduled to last several hours, we are diligently preparing the procedure so that we can reasonably expect any downtime incurred to be measured in seconds."
+            }
+          ]
+        },
+        {
           "id": "b22fbf02-19a6-4c85-988a-3a62aaea328b",
           "subject": "Scheduled Maintenance: VKE Control Plane Upgrades",
           "status": "ongoing",
@@ -72,6 +111,19 @@
       "country": "IN",
       "country_name": "India",
       "alerts": [
+        {
+          "id": "4043fa5e-f852-4378-97cb-b566c4488023",
+          "subject": "SGP - Singapore (SGP1) VFS Storage Infrastructure Upgrades - 2026-11-11",
+          "status": "ongoing",
+          "start_date": "2026-11-05T17:49:50+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-11-05T17:49:50+00:00",
+              "message": "Event Type: Storage Cluster Upgrade\r\nStart Time: 2026-11-11 18:00:00 UTC\r\nEnd Time: 2026-11-11 19:00:00 UTC\r\n\r\nOur Cloud Storage team will be upgrading our VFS Infrastructure. During the maintenance window a brief window of filesystem inaccessibility is expected to last under 60 seconds. The storage team will monitor cluster health, node status, and workload recovery throughout the maintenance window."
+            }
+          ]
+        },
         {
           "id": "cbf15957-6949-47c5-b67c-d39f123d37d8",
           "subject": "BLR - Bangalore (BLR1), BLR - BLR - Bangalore (BLR1) (BLR1) Storage Infrastructure Upgrades - 2026-11-10",
@@ -278,6 +330,32 @@
       "country_name": "United Kingdom",
       "alerts": [
         {
+          "id": "5b650fb3-50de-4b30-be05-38baa476bf66",
+          "subject": "London, LHR - London (LON3), LHR - London (LHR13) (LON5) VFS Storage Infrastructure Upgrades - 2026-11-11",
+          "status": "ongoing",
+          "start_date": "2026-11-05T18:39:28+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-11-05T18:39:28+00:00",
+              "message": "Event Type: Storage Cluster Upgrade\r\nStart Time: 2026-11-11 19:00:00 UTC\r\nEnd Time: 2026-11-11 23:00:00 UTC\r\n\r\nOur Cloud Storage team will be upgrading our VFS Infrastructure. During the maintenance window a brief window of filesystem inaccessibility is expected to last under 60 seconds. The storage team will monitor cluster health, node status, and workload recovery throughout the maintenance window."
+            }
+          ]
+        },
+        {
+          "id": "5b650fb3-50de-4b30-be05-38baa476bf66",
+          "subject": "London, LHR - London (LON3), LHR - London (LHR13) (LON5) VFS Storage Infrastructure Upgrades - 2026-11-11",
+          "status": "ongoing",
+          "start_date": "2026-11-05T18:39:28+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-11-05T18:39:28+00:00",
+              "message": "Event Type: Storage Cluster Upgrade\r\nStart Time: 2026-11-11 19:00:00 UTC\r\nEnd Time: 2026-11-11 23:00:00 UTC\r\n\r\nOur Cloud Storage team will be upgrading our VFS Infrastructure. During the maintenance window a brief window of filesystem inaccessibility is expected to last under 60 seconds. The storage team will monitor cluster health, node status, and workload recovery throughout the maintenance window."
+            }
+          ]
+        },
+        {
           "id": "b22fbf02-19a6-4c85-988a-3a62aaea328b",
           "subject": "Scheduled Maintenance: VKE Control Plane Upgrades",
           "status": "ongoing",
@@ -310,6 +388,32 @@
       "country": "US",
       "country_name": "United States",
       "alerts": [
+        {
+          "id": "0b36ea22-49c8-4c42-9ea1-e0748b1fa4d3",
+          "subject": "Los Angeles, LAX - Los Angeles (LAX3) VFS Storage Infrastructure Upgrades - 2026-11-11",
+          "status": "ongoing",
+          "start_date": "2026-11-05T18:48:14+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-11-05T18:48:14+00:00",
+              "message": "Event Type: Storage Cluster Upgrade\r\nStart Time: 2026-11-11 19:00:00 UTC\r\nEnd Time: 2026-11-11 23:00:00 UTC\r\n\r\nOur Cloud Storage team will be upgrading our VFS Infrastructure. During the maintenance window a brief window of filesystem inaccessibility is expected to last under 60 seconds. The storage team will monitor cluster health, node status, and workload recovery throughout the maintenance window."
+            }
+          ]
+        },
+        {
+          "id": "0b36ea22-49c8-4c42-9ea1-e0748b1fa4d3",
+          "subject": "Los Angeles, LAX - Los Angeles (LAX3) VFS Storage Infrastructure Upgrades - 2026-11-11",
+          "status": "ongoing",
+          "start_date": "2026-11-05T18:48:14+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-11-05T18:48:14+00:00",
+              "message": "Event Type: Storage Cluster Upgrade\r\nStart Time: 2026-11-11 19:00:00 UTC\r\nEnd Time: 2026-11-11 23:00:00 UTC\r\n\r\nOur Cloud Storage team will be upgrading our VFS Infrastructure. During the maintenance window a brief window of filesystem inaccessibility is expected to last under 60 seconds. The storage team will monitor cluster health, node status, and workload recovery throughout the maintenance window."
+            }
+          ]
+        },
         {
           "id": "09dafba2-908b-4ea1-9174-18b965891793",
           "subject": "Scheduled Maintenance - Vultr Container Registry (VCR)",
@@ -495,6 +599,32 @@
       "country": "US",
       "country_name": "United States",
       "alerts": [
+        {
+          "id": "43558a70-b233-4b42-a65e-4a2bd1f908f2",
+          "subject": "New Jersey, EWR - Piscataway (PNJ1) VFS Storage Infrastructure Upgrades - 2026-11-11",
+          "status": "ongoing",
+          "start_date": "2026-11-05T18:57:26+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-11-05T18:57:26+00:00",
+              "message": "Event Type: Storage Cluster Upgrade\r\nStart Time: 2026-11-11 19:00:00 UTC\r\nEnd Time: 2026-11-11 23:00:00 UTC\r\n\r\nOur Cloud Storage team will be upgrading our VFS Infrastructure. During the maintenance window a brief window of filesystem inaccessibility is expected to last under 60 seconds. The storage team will monitor cluster health, node status, and workload recovery throughout the maintenance window."
+            }
+          ]
+        },
+        {
+          "id": "43558a70-b233-4b42-a65e-4a2bd1f908f2",
+          "subject": "New Jersey, EWR - Piscataway (PNJ1) VFS Storage Infrastructure Upgrades - 2026-11-11",
+          "status": "ongoing",
+          "start_date": "2026-11-05T18:57:26+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-11-05T18:57:26+00:00",
+              "message": "Event Type: Storage Cluster Upgrade\r\nStart Time: 2026-11-11 19:00:00 UTC\r\nEnd Time: 2026-11-11 23:00:00 UTC\r\n\r\nOur Cloud Storage team will be upgrading our VFS Infrastructure. During the maintenance window a brief window of filesystem inaccessibility is expected to last under 60 seconds. The storage team will monitor cluster health, node status, and workload recovery throughout the maintenance window."
+            }
+          ]
+        },
         {
           "id": "b22fbf02-19a6-4c85-988a-3a62aaea328b",
           "subject": "Scheduled Maintenance: VKE Control Plane Upgrades",
@@ -708,6 +838,19 @@
       "country_name": "Singapore",
       "alerts": [
         {
+          "id": "9aaa8310-d575-4a67-a3c6-a6a04b0ba5cb",
+          "subject": "Singapore Scheduled Maintenance - 2026-11-11",
+          "status": "ongoing",
+          "start_date": "2026-11-05T00:33:37+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-11-05T00:33:37+00:00",
+              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Singapore location during the following scheduled maintenance window. \r\n\r\nStart Time: 2026-11-11 16:00:00 UTC\r\nEnd Time: 2026-11-11 18:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Singapore instances may be unreachable for some, or all, of the scheduled maintenance window as we perform network, firmware, or host upgrades."
+            }
+          ]
+        },
+        {
           "id": "b22fbf02-19a6-4c85-988a-3a62aaea328b",
           "subject": "Scheduled Maintenance: VKE Control Plane Upgrades",
           "status": "ongoing",
@@ -774,6 +917,32 @@
       "country_name": "Australia",
       "alerts": [
         {
+          "id": "95298cbc-6940-40ed-9c09-b0041dcf22a5",
+          "subject": "Sydney, SYD - Australia - SY5 (AUS2) VFS Storage Infrastructure Upgrades - 2026-11-11",
+          "status": "ongoing",
+          "start_date": "2026-11-05T18:16:52+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-11-05T18:16:52+00:00",
+              "message": "Event Type: Storage Cluster Upgrade\r\nStart Time: 2026-11-11 19:00:00 UTC\r\nEnd Time: 2026-11-11 20:00:00 UTC\r\n\r\nOur Cloud Storage team will be upgrading our VFS Infrastructure. During the maintenance window a brief window of filesystem inaccessibility is expected to last under 60 seconds. The storage team will monitor cluster health, node status, and workload recovery throughout the maintenance window."
+            }
+          ]
+        },
+        {
+          "id": "95298cbc-6940-40ed-9c09-b0041dcf22a5",
+          "subject": "Sydney, SYD - Australia - SY5 (AUS2) VFS Storage Infrastructure Upgrades - 2026-11-11",
+          "status": "ongoing",
+          "start_date": "2026-11-05T18:16:52+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-11-05T18:16:52+00:00",
+              "message": "Event Type: Storage Cluster Upgrade\r\nStart Time: 2026-11-11 19:00:00 UTC\r\nEnd Time: 2026-11-11 20:00:00 UTC\r\n\r\nOur Cloud Storage team will be upgrading our VFS Infrastructure. During the maintenance window a brief window of filesystem inaccessibility is expected to last under 60 seconds. The storage team will monitor cluster health, node status, and workload recovery throughout the maintenance window."
+            }
+          ]
+        },
+        {
           "id": "b22fbf02-19a6-4c85-988a-3a62aaea328b",
           "subject": "Scheduled Maintenance: VKE Control Plane Upgrades",
           "status": "ongoing",
@@ -826,6 +995,32 @@
       "country": "JP",
       "country_name": "Japan",
       "alerts": [
+        {
+          "id": "05f6bfe2-c021-472e-8612-393bcb93b4f8",
+          "subject": "Tokyo, NRT - Tokyo - TY6 / TY7 (TYO2) Storage Infrastructure Upgrades - 2026-11-11",
+          "status": "ongoing",
+          "start_date": "2026-11-05T18:23:43+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-11-05T18:23:43+00:00",
+              "message": "Event Type: Storage Cluster Upgrade\r\nStart Time: 2026-11-11 19:15:00 UTC\r\nEnd Time: 2026-11-11 23:15:00 UTC\r\n\r\nOur Cloud Storage team will be upgrading our VFS Infrastructure. During the maintenance window a brief window of filesystem inaccessibility is expected to last under 60 seconds. The storage team will monitor cluster health, node status, and workload recovery throughout the maintenance window."
+            }
+          ]
+        },
+        {
+          "id": "05f6bfe2-c021-472e-8612-393bcb93b4f8",
+          "subject": "Tokyo, NRT - Tokyo - TY6 / TY7 (TYO2) Storage Infrastructure Upgrades - 2026-11-11",
+          "status": "ongoing",
+          "start_date": "2026-11-05T18:23:43+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-11-05T18:23:43+00:00",
+              "message": "Event Type: Storage Cluster Upgrade\r\nStart Time: 2026-11-11 19:15:00 UTC\r\nEnd Time: 2026-11-11 23:15:00 UTC\r\n\r\nOur Cloud Storage team will be upgrading our VFS Infrastructure. During the maintenance window a brief window of filesystem inaccessibility is expected to last under 60 seconds. The storage team will monitor cluster health, node status, and workload recovery throughout the maintenance window."
+            }
+          ]
+        },
         {
           "id": "b22fbf02-19a6-4c85-988a-3a62aaea328b",
           "subject": "Scheduled Maintenance: VKE Control Plane Upgrades",
