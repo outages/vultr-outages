@@ -57,20 +57,6 @@
       ]
     },
     {
-      "id": "9b2ad38e-a9dd-4079-9264-2ce5f6e9f353",
-      "region": "ord",
-      "subject": "Chicago, ORD - Chicago (Cermak) (CHI4) Emergency Maintenance - 2026-11-03",
-      "start_date": "2026-11-02T19:48:33+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2026-11-02T19:48:33+00:00",
-          "message": "Event Type: Network Emergency\r\n\r\nWe are performing system changes in the Chicago, ORD - Chicago (Cermak) (CHI4) locations during the following emergency maintenance window. \r\n\r\nStart Time: 2026-11-03 06:00:00 UTC\r\nEnd Time: 2026-11-03 10:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Chicago, ORD - Chicago (Cermak) (CHI4) instances may be unreachable for some, or all, of the emergency maintenance window as we perform network, firmware, or host upgrades."
-        }
-      ]
-    },
-    {
       "id": "b22fbf02-19a6-4c85-988a-3a62aaea328b",
       "region": "nrt",
       "subject": "Scheduled Maintenance: VKE Control Plane Upgrades",
