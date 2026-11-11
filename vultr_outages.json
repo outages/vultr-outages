@@ -682,19 +682,6 @@
       "country_name": "Singapore",
       "alerts": [
         {
-          "id": "b1e6b6fa-49cd-41b8-83ba-8a632de00dc2",
-          "subject": "Singapore Outage",
-          "status": "resolved",
-          "start_date": "2026-11-07T17:42:15+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2026-11-07T17:42:15+00:00",
-              "message": "We are currently addressing an issue affecting services in our Singapore location. Our System Administrators are working with onsite technicians to identify the cause and restore affected services as quickly as possible."
-            }
-          ]
-        },
-        {
           "id": "9aaa8310-d575-4a67-a3c6-a6a04b0ba5cb",
           "subject": "Singapore Scheduled Maintenance - 2026-11-11",
           "status": "ongoing",
