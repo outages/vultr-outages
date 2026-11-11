@@ -9,7 +9,7 @@
         {
           "id": "b8897f76-fe8a-4435-8b4d-e6a236dc5437",
           "subject": "Amsterdam, AMS - Amsterdam (AMS1) VFS Storage Infrastructure Upgrades - 2026-11-11",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2026-11-05T18:00:49+00:00",
           "updated_at": "",
           "entries": [
@@ -22,7 +22,7 @@
         {
           "id": "b8897f76-fe8a-4435-8b4d-e6a236dc5437",
           "subject": "Amsterdam, AMS - Amsterdam (AMS1) VFS Storage Infrastructure Upgrades - 2026-11-11",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2026-11-05T18:00:49+00:00",
           "updated_at": "",
           "entries": [
@@ -88,7 +88,7 @@
         {
           "id": "4043fa5e-f852-4378-97cb-b566c4488023",
           "subject": "SGP - Singapore (SGP1) VFS Storage Infrastructure Upgrades - 2026-11-11",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2026-11-05T17:49:50+00:00",
           "updated_at": "",
           "entries": [
@@ -254,7 +254,7 @@
         {
           "id": "5b650fb3-50de-4b30-be05-38baa476bf66",
           "subject": "London, LHR - London (LON3), LHR - London (LHR13) (LON5) VFS Storage Infrastructure Upgrades - 2026-11-11",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2026-11-05T18:39:28+00:00",
           "updated_at": "",
           "entries": [
@@ -267,7 +267,7 @@
         {
           "id": "5b650fb3-50de-4b30-be05-38baa476bf66",
           "subject": "London, LHR - London (LON3), LHR - London (LHR13) (LON5) VFS Storage Infrastructure Upgrades - 2026-11-11",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2026-11-05T18:39:28+00:00",
           "updated_at": "",
           "entries": [
@@ -300,7 +300,7 @@
         {
           "id": "0b36ea22-49c8-4c42-9ea1-e0748b1fa4d3",
           "subject": "Los Angeles, LAX - Los Angeles (LAX3) VFS Storage Infrastructure Upgrades - 2026-11-11",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2026-11-05T18:48:14+00:00",
           "updated_at": "",
           "entries": [
@@ -313,7 +313,7 @@
         {
           "id": "0b36ea22-49c8-4c42-9ea1-e0748b1fa4d3",
           "subject": "Los Angeles, LAX - Los Angeles (LAX3) VFS Storage Infrastructure Upgrades - 2026-11-11",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2026-11-05T18:48:14+00:00",
           "updated_at": "",
           "entries": [
@@ -417,45 +417,6 @@
       "country_name": "Italy",
       "alerts": [
         {
-          "id": "972b8c68-c74e-411c-82aa-f77b2bae25a3",
-          "subject": "Milan Storage Infrastructure Updates - 2026-11-09",
-          "status": "resolved",
-          "start_date": "2026-11-03T13:58:26+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2026-11-03T13:58:26+00:00",
-              "message": "Event Type: Storage Cluster Upgrade\r\nStart Time: 2026-11-09 16:00:00 UTC\r\nEnd Time: 2026-11-09 19:00:00 UTC\r\n\r\nOur Cloud Storage team will be performing maintenance to storage located in Milan. During this maintenance window, creating, attaching, resizing, and deletion of storage and storage gateways may be unavailable. Vultr Filesystem and storage gateways subscriptions may notice brief service interruptions as they are shifted to new hosts.\r\n\r\nThe storage team will monitor cluster health, node status, and workload recovery throughout the maintenance window."
-            }
-          ]
-        },
-        {
-          "id": "972b8c68-c74e-411c-82aa-f77b2bae25a3",
-          "subject": "Milan Storage Infrastructure Updates - 2026-11-09",
-          "status": "resolved",
-          "start_date": "2026-11-03T13:58:26+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2026-11-03T13:58:26+00:00",
-              "message": "Event Type: Storage Cluster Upgrade\r\nStart Time: 2026-11-09 16:00:00 UTC\r\nEnd Time: 2026-11-09 19:00:00 UTC\r\n\r\nOur Cloud Storage team will be performing maintenance to storage located in Milan. During this maintenance window, creating, attaching, resizing, and deletion of storage and storage gateways may be unavailable. Vultr Filesystem and storage gateways subscriptions may notice brief service interruptions as they are shifted to new hosts.\r\n\r\nThe storage team will monitor cluster health, node status, and workload recovery throughout the maintenance window."
-            }
-          ]
-        },
-        {
-          "id": "972b8c68-c74e-411c-82aa-f77b2bae25a3",
-          "subject": "Milan Storage Infrastructure Updates - 2026-11-09",
-          "status": "resolved",
-          "start_date": "2026-11-03T13:58:26+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2026-11-03T13:58:26+00:00",
-              "message": "Event Type: Storage Cluster Upgrade\r\nStart Time: 2026-11-09 16:00:00 UTC\r\nEnd Time: 2026-11-09 19:00:00 UTC\r\n\r\nOur Cloud Storage team will be performing maintenance to storage located in Milan. During this maintenance window, creating, attaching, resizing, and deletion of storage and storage gateways may be unavailable. Vultr Filesystem and storage gateways subscriptions may notice brief service interruptions as they are shifted to new hosts.\r\n\r\nThe storage team will monitor cluster health, node status, and workload recovery throughout the maintenance window."
-            }
-          ]
-        },
-        {
           "id": "b22fbf02-19a6-4c85-988a-3a62aaea328b",
           "subject": "Scheduled Maintenance: VKE Control Plane Upgrades",
           "status": "ongoing",
@@ -498,7 +459,7 @@
         {
           "id": "43558a70-b233-4b42-a65e-4a2bd1f908f2",
           "subject": "New Jersey, EWR - Piscataway (PNJ1) VFS Storage Infrastructure Upgrades - 2026-11-11",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2026-11-05T18:57:26+00:00",
           "updated_at": "",
           "entries": [
@@ -511,7 +472,7 @@
         {
           "id": "43558a70-b233-4b42-a65e-4a2bd1f908f2",
           "subject": "New Jersey, EWR - Piscataway (PNJ1) VFS Storage Infrastructure Upgrades - 2026-11-11",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2026-11-05T18:57:26+00:00",
           "updated_at": "",
           "entries": [
@@ -684,7 +645,7 @@
         {
           "id": "9aaa8310-d575-4a67-a3c6-a6a04b0ba5cb",
           "subject": "Singapore Scheduled Maintenance - 2026-11-11",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2026-11-05T00:33:37+00:00",
           "updated_at": "",
           "entries": [
@@ -750,7 +711,7 @@
         {
           "id": "95298cbc-6940-40ed-9c09-b0041dcf22a5",
           "subject": "Sydney, SYD - Australia - SY5 (AUS2) VFS Storage Infrastructure Upgrades - 2026-11-11",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2026-11-05T18:16:52+00:00",
           "updated_at": "",
           "entries": [
@@ -763,7 +724,7 @@
         {
           "id": "95298cbc-6940-40ed-9c09-b0041dcf22a5",
           "subject": "Sydney, SYD - Australia - SY5 (AUS2) VFS Storage Infrastructure Upgrades - 2026-11-11",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2026-11-05T18:16:52+00:00",
           "updated_at": "",
           "entries": [
@@ -816,7 +777,7 @@
         {
           "id": "05f6bfe2-c021-472e-8612-393bcb93b4f8",
           "subject": "Tokyo, NRT - Tokyo - TY6 / TY7 (TYO2) Storage Infrastructure Upgrades - 2026-11-11",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2026-11-05T18:23:43+00:00",
           "updated_at": "",
           "entries": [
@@ -829,7 +790,7 @@
         {
           "id": "05f6bfe2-c021-472e-8612-393bcb93b4f8",
           "subject": "Tokyo, NRT - Tokyo - TY6 / TY7 (TYO2) Storage Infrastructure Upgrades - 2026-11-11",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2026-11-05T18:23:43+00:00",
           "updated_at": "",
           "entries": [
