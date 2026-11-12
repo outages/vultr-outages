@@ -55,7 +55,7 @@
         {
           "id": "85d61492-72df-4704-8f00-a34ba0eab183",
           "subject": "Atlanta Scheduled Maintenance (Critical) - 2026-11-12",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2026-11-05T17:13:45+00:00",
           "updated_at": "",
           "entries": [
