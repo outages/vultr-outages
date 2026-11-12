@@ -99,19 +99,6 @@
           ]
         },
         {
-          "id": "cbf15957-6949-47c5-b67c-d39f123d37d8",
-          "subject": "BLR - Bangalore (BLR1), BLR - BLR - Bangalore (BLR1) (BLR1) Storage Infrastructure Upgrades - 2026-11-10",
-          "status": "resolved",
-          "start_date": "2026-11-04T14:02:11+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2026-11-04T14:02:11+00:00",
-              "message": "Event Type: Storage Cluster Upgrade\r\nStart Time: 2026-11-10 14:00:00 UTC\r\nEnd Time: 2026-11-10 15:00:00 UTC\r\n\r\nOur Cloud Storage team will be upgrading our VFS Infrastructure. During the maintenance window a brief window of filesystem inaccessibility is expected to last under 60 seconds. The storage team will monitor cluster health, node status, and workload recovery throughout the maintenance window."
-            }
-          ]
-        },
-        {
           "id": "b22fbf02-19a6-4c85-988a-3a62aaea328b",
           "subject": "Scheduled Maintenance: VKE Control Plane Upgrades",
           "status": "ongoing",
