@@ -27,19 +27,6 @@
       "country_name": "United States",
       "alerts": [
         {
-          "id": "85d61492-72df-4704-8f00-a34ba0eab183",
-          "subject": "Atlanta Scheduled Maintenance (Critical) - 2026-11-12",
-          "status": "resolved",
-          "start_date": "2026-11-05T17:13:45+00:00",
-          "updated_at": "",
-          "entries": [
-            {
-              "updated_at": "2026-11-05T17:13:45+00:00",
-              "message": "Event Type: Network Upgrade\r\n\r\nWe are performing system changes in the Atlanta location during the following scheduled maintenance window. \r\n\r\nStart Time: 2026-11-12 05:00:00 UTC\r\nEnd Time: 2026-11-12 09:00:00 UTC\r\n\r\nWe schedule higher impact maintenance events during off-peak times to maintain our ideal hosting environment. Our engineers make every effort to minimize system impact; however, Atlanta instances may be unreachable from the internet for some of the scheduled maintenance window as we perform a critical network topology change. While the work is scheduled to last several hours, we are diligently preparing the procedure so that we can reasonably expect any downtime incurred to be measured in seconds."
-            }
-          ]
-        },
-        {
           "id": "b22fbf02-19a6-4c85-988a-3a62aaea328b",
           "subject": "Scheduled Maintenance: VKE Control Plane Upgrades",
           "status": "ongoing",
