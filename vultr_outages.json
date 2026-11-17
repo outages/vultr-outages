@@ -187,6 +187,45 @@
       "country_name": "United Kingdom",
       "alerts": [
         {
+          "id": "3a3f7e44-1495-456d-908d-ae3d511bb3df",
+          "subject": "London Storage Outage - 2026-11-17",
+          "status": "ongoing",
+          "start_date": "2026-11-17T14:05:32+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-11-17T14:05:32+00:00",
+              "message": "Event Type: Service Degraded Performance and Availability\r\n\r\nOur Cloud Storage team is investigating a partial outage scenario with our Storage infrastructure. The following services may be impacted by this event:\r\n\r\n- Volume creation\r\n- Volume resizing\r\n- Volume deletion\r\n- Volume availability\r\n- Attach / Detach to VPS instance\r\n- Object Storage Subscription management\r\n- Adding or removing buckets\r\n- S3 client issues\r\n- Storage Gateways\r\n\r\nWe are working quickly to restore service to its optimal state."
+            }
+          ]
+        },
+        {
+          "id": "3a3f7e44-1495-456d-908d-ae3d511bb3df",
+          "subject": "London Storage Outage - 2026-11-17",
+          "status": "ongoing",
+          "start_date": "2026-11-17T14:05:32+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-11-17T14:05:32+00:00",
+              "message": "Event Type: Service Degraded Performance and Availability\r\n\r\nOur Cloud Storage team is investigating a partial outage scenario with our Storage infrastructure. The following services may be impacted by this event:\r\n\r\n- Volume creation\r\n- Volume resizing\r\n- Volume deletion\r\n- Volume availability\r\n- Attach / Detach to VPS instance\r\n- Object Storage Subscription management\r\n- Adding or removing buckets\r\n- S3 client issues\r\n- Storage Gateways\r\n\r\nWe are working quickly to restore service to its optimal state."
+            }
+          ]
+        },
+        {
+          "id": "3a3f7e44-1495-456d-908d-ae3d511bb3df",
+          "subject": "London Storage Outage - 2026-11-17",
+          "status": "ongoing",
+          "start_date": "2026-11-17T14:05:32+00:00",
+          "updated_at": "",
+          "entries": [
+            {
+              "updated_at": "2026-11-17T14:05:32+00:00",
+              "message": "Event Type: Service Degraded Performance and Availability\r\n\r\nOur Cloud Storage team is investigating a partial outage scenario with our Storage infrastructure. The following services may be impacted by this event:\r\n\r\n- Volume creation\r\n- Volume resizing\r\n- Volume deletion\r\n- Volume availability\r\n- Attach / Detach to VPS instance\r\n- Object Storage Subscription management\r\n- Adding or removing buckets\r\n- S3 client issues\r\n- Storage Gateways\r\n\r\nWe are working quickly to restore service to its optimal state."
+            }
+          ]
+        },
+        {
           "id": "b22fbf02-19a6-4c85-988a-3a62aaea328b",
           "subject": "Scheduled Maintenance: VKE Control Plane Upgrades",
           "status": "ongoing",
