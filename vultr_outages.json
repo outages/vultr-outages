@@ -189,7 +189,7 @@
         {
           "id": "3a3f7e44-1495-456d-908d-ae3d511bb3df",
           "subject": "London Storage Outage - 2026-11-17",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2026-11-17T14:05:32+00:00",
           "updated_at": "",
           "entries": [
@@ -202,7 +202,7 @@
         {
           "id": "3a3f7e44-1495-456d-908d-ae3d511bb3df",
           "subject": "London Storage Outage - 2026-11-17",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2026-11-17T14:05:32+00:00",
           "updated_at": "",
           "entries": [
@@ -215,7 +215,7 @@
         {
           "id": "3a3f7e44-1495-456d-908d-ae3d511bb3df",
           "subject": "London Storage Outage - 2026-11-17",
-          "status": "ongoing",
+          "status": "resolved",
           "start_date": "2026-11-17T14:05:32+00:00",
           "updated_at": "",
           "entries": [
