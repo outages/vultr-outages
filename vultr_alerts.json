@@ -251,20 +251,6 @@
           "message": "Event Type: NVMe Storage Infrastructure Maintenance\r\nStart Time: 2026-11-23 19:00:00 UTC\r\nEnd Time: 2026-11-24 03:00:00 UTC\r\n\r\nOur Cloud Storage team will be performing upgrades to our Seattle NVMe Storage infrastructure starting at 2026-11-23 19:00:00 UTC.\r\n\r\nThis work is expected to have low impact.\r\n\r\nDuring this maintenance window, the following Storage products may temporarily have lower performance:\r\n\r\n- NVMe Vultr Block Storage\r\n- NVMe Vultr Object Storage\r\n- Vultr Filesystem\r\n- Vultr Storage Gateway\r\n\r\nDuring this maintenance window, access to instances of the following Storage products may become unavailable for a short period of time:\r\n\r\n- Vultr Storage Gateway"
         }
       ]
-    },
-    {
-      "id": "b7008751-8ea6-4b2e-8b19-3018f439df90",
-      "region": "sgp",
-      "subject": "Singapore Network Outage",
-      "start_date": "2026-09-24T14:31:17+00:00",
-      "updated_at": "",
-      "status": "resolved",
-      "entries": [
-        {
-          "updated_at": "2026-09-24T14:31:17+00:00",
-          "message": "We are aware of an issue affecting services in our Singapore location. The cause is due to inclement weather involving Typhoon Dujuan which resulted in a global sub-sea cable cut. \r\nOur engineers will continue to monitor the status of this outage until it is resolved."
-        }
-      ]
     }
   ]
 }
